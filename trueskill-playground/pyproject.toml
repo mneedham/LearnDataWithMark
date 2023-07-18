@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "trueskill-playground"
+version = "0.1.0"
+description = ""
+authors = ["Mark Needham <m.h.needham@gmail.com>"]
+readme = "README.md"
+packages = [{include = "trueskill_playground"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+trueskill = "^0.4.5"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
+streamlit = "^1.24.1"
+watchdog = "^3.0.0"
+scipy = "^1.11.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
