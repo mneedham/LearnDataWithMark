@@ -17,6 +17,6 @@ if not "players" in st.session_state:
     st.session_state["players"] = players
 
 
-st.write("# Favourite tennis players to watch 👋")
+st.write("# Favourite tennis players to watch 🎾")
 
 st.write("Select your favourite matches to watch and then learn who your favourite players are.")

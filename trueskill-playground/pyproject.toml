@@ -14,6 +14,10 @@ requests = "^2.31.0"
 streamlit = "^1.24.1"
 watchdog = "^3.0.0"
 scipy = "^1.11.1"
+jupyter = "^1.0.0"
+matplotlib = "^3.7.2"
+plotly = "^5.15.0"
+jupyterlab = "^4.0.3"
 
 
 [build-system]
