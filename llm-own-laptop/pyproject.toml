@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "llm-own-laptop"
+version = "0.1.0"
+description = ""
+authors = ["Mark Needham <m.h.needham@gmail.com>"]
+readme = "README.md"
+packages = [{include = "llm_own_laptop"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+huggingface-hub = "^0.16.4"
+transformers = {extras = ["torch"], version = "^4.31.0"}
+jupyter = "^1.0.0"
+langchain = {extras = ["llms"], version = "^0.0.245"}
+bitsandbytes = "^0.41.0"
+accelerate = "^0.21.0"
+sentence-transformers = "^2.2.2"
+jupyterlab-execute-time = "^3.0.0"
+emoji = "^2.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
