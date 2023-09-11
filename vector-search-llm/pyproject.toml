@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "vector-search-llm"
+version = "0.1.0"
+description = ""
+authors = ["Mark Needham <m.h.needham@gmail.com>"]
+readme = "README.md"
+packages = [{include = "vector_search_llm"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = {extras = ["llm"], version = "^0.0.266"}
+wikipedia = "^1.4.0"
+chromadb = "^0.4.6"
+openai = "^0.27.8"
+tiktoken = "^0.4.0"
+jupyterlab = "^4.0.5"
+sentence-transformers = "^2.2.2"
+ipywidgets = "^8.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
