@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "vector-database"
+version = "0.1.0"
+description = ""
+authors = ["Mark Needham <m.h.needham@gmail.com>"]
+readme = "README.md"
+packages = [{include = "vector_database"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "^4.0.5"
+jupyter = "^1.0.0"
+chromadb = "^0.4.6"
+jupyterlab-execute-time = "^3.0.1"
+sentence-transformers = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
