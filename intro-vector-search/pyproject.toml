@@ -13,6 +13,7 @@ jupyterlab-execute-time = "^3.0.1"
 pandas = "^2.1.0"
 plotly = "^5.16.1"
 scikit-learn = "^1.3.0"
+jupytext = "^1.15.1"
 
 
 [build-system]
