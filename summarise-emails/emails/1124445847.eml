@@ -1,0 +1,1220 @@
+Return-Path: <1axbreig0pqwn83ccsz206u3lftbhqhgulqrql-mark+2Eneedham=hey.com@bf07x.hubspotemail.net>
+Received: from bid46q2.bf07x.hubspotemail.net (bid46q2.bf07x.hubspotemail.net [158.247.18.220])
+	by home-mx.app.hey.com (Postfix) with ESMTP id 8AEC282DE3
+	for <mark.needham@hey.com>; Mon, 21 Aug 2023 14:01:30 +0000 (UTC)
+Received: by 172.16.213.73 with SMTP id awbdv2y9hi9uh5hc5w3z5a1vxrln4abqoeuu6;
+        Mon, 21 Aug 2023 14:01:30 GMT
+Date: Mon, 21 Aug 2023 07:01:30 -0700
+From: Marcos and MotherDuck Team <duckdbnews@motherduck.com>
+Reply-To: duckdbnews@motherduck.com
+To: mark.needham@hey.com
+Message-ID: <1692626416239.54d130dc-9676-40bc-9516-0252197daa31@bf07x.hubspotemail.net>
+Subject: DuckDB Monthly August: Featuring Archie Sarre Wood, top content,
+ and upcoming events!
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3767719_573081442.1692626490202"
+Content-Transfer-Encoding: 7bit
+X-Original-To: mark.needham@hey.com
+Delivered-To: mark.needham@hey.com
+Authentication-Results: home-mx.app.hey.com;
+	dkim=pass header.d=bf07x.hubspotemail.net header.s=hs1 header.b=cu43Xun0;
+	dkim=pass header.d=motherduck.com header.s=hs1-22616816 header.b=MGRTfA1t;
+	dmarc=pass (policy=none) header.from=motherduck.com;
+	spf=pass (home-mx.app.hey.com: domain of "1axbreig0pqwn83ccsz206u3lftbhqhgulqrql-mark+2Eneedham=hey.com@bf07x.hubspotemail.net" designates 158.247.18.220 as permitted sender) smtp.mailfrom="1axbreig0pqwn83ccsz206u3lftbhqhgulqrql-mark+2Eneedham=hey.com@bf07x.hubspotemail.net"
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=hey.com;
+	s=heymail; t=1692626490;
+	h=from:from:reply-to:reply-to:subject:subject:date:date:
+	 message-id:message-id:to:to:cc:mime-version:mime-version:
+	 content-type:content-type:list-unsubscribe;
+	bh=x930x7M9AP3oThZib4TVY3MGSRdX46L2F1nLpeu0l+Y=;
+	b=I2OhOE5runouy9/zJ9AeoUIUeaESEirvjnqTFipWtUQQN3UqovbH6BfbHWQ8FYhEjAkrw4
+	7IWMf8SAum7M/UPkP3LLMYneONqH2nhm7Hq0WBEVXSxzf81L6wbkUrPw+5CuueRCQobFnI
+	UHQ8ouGbioV4jAO3oAkThpPFIGc4M/jF2q7tzKNs7aXy9pRJVPAiy8cHCu4jkTROFQJRTE
+	95o3cG5pKo9YIHXhpqdnSJPeotva+BZv4L/cRccAQuPU/otOssCYRYo5P3t/bAZAh01rdm
+	4FB32+IZUUi2JJhC0UFI+xUeK61K3eEyKAGGXI0UsRA2dueQ/kiw51YrTCQrRw==
+ARC-Authentication-Results: i=1;
+	home-mx.app.hey.com;
+	dkim=pass header.d=bf07x.hubspotemail.net header.s=hs1 header.b=cu43Xun0;
+	dkim=pass header.d=motherduck.com header.s=hs1-22616816 header.b=MGRTfA1t;
+	dmarc=pass (policy=none) header.from=motherduck.com;
+	spf=pass (home-mx.app.hey.com: domain of "1axbreig0pqwn83ccsz206u3lftbhqhgulqrql-mark+2Eneedham=hey.com@bf07x.hubspotemail.net" designates 158.247.18.220 as permitted sender) smtp.mailfrom="1axbreig0pqwn83ccsz206u3lftbhqhgulqrql-mark+2Eneedham=hey.com@bf07x.hubspotemail.net"
+ARC-Seal: i=1; s=heymail; d=hey.com; t=1692626490; a=rsa-sha256; cv=none;
+	b=f/4Ixk+aZ414oBwLGrYhNjYkjbdMxDxq96odM3ENnAFlnTORLoW0r8m6wssAJxBm5b4i0J
+	hEX/H3lwT1JagGpbvfNM6omYKGzleg49v3uf5IvS/s9966HhSCEq/t4qrnudqe7Ta9VPiv
+	Y//imQL269ZfCXDThh+QZqiSH1MEWjgPdjXWTNxmcxSOUM1JEyDt4vJ/tsiODSJ1xFCuzS
+	GVsJU2XvQhfAvLci4aM1Y7wgyvgfGau0bCNHrWaZcfFZPnengWxtlGa7UFkSfm55G3ekTh
+	ZPlFH9tnh2zAWeyJ8B0PONee9Zg17DikNmuonFM7jGNdnSFJ1ABFShkYVzWXyw==
+DKIM-Signature: v=1; s=hs1; d=bf07x.hubspotemail.net; 
+        i=@bf07x.hubspotemail.net; 
+        h=sender:from:from:reply-to:to:to:cc:cc:subject:subject:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=x930x7M9AP3oThZib4TVY3MGSRdX46L2F1nLpeu0l+Y=; 
+        b=cu43Xun0QrbJ8WorYpyquqqYahpwt6FSB6S7L9oVwwL9SLXOAJ81sDGwwEpQcO
+         TUTB5wfKo7T1iipUtRCT6Dq3ONu49kLZbfDGchTfGiFvr+C+bRNna93FSecMvez
+         lmLhAPbPKhtmGd4rjn3Zxw6Rqt5RBEZD5gji0UBbh1Ceg9P7xwyqNGfREcCSuUm
+         FOI/i+eAo+XHeyTuSKA8vc3f/Xvd1HWBCFPHG42vY/Ojn5gFcGlhqw8YvgZw6rK
+         TBOsSKoJi/Lw+WnkOTNwb/S8YHlhFKtMiyHwAj5AEUTjlATr4TwcOJvWUTqoALN
+         hTKqqm/aXmuJfnVd8tn70qBWkmSg==; q=dns/txt; t=1692626490; 
+        x=1692799290;
+DKIM-Signature: v=1; s=hs1-22616816; d=motherduck.com; 
+        i=@motherduck.com; 
+        h=sender:from:from:reply-to:to:to:cc:cc:subject:subject:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=x930x7M9AP3oThZib4TVY3MGSRdX46L2F1nLpeu0l+Y=; 
+        b=MGRTfA1tMnO89ImExs9xSv4rPjmq3whWw/yAw8C00NXFzftvRyevBD1hRyULhO
+         z6lMABuf6g0E0wZQbln1Dzh7YxYYANcXzsrpQswd1WQEh73dnRkZudsOp3UmqZ5
+         pBJGHt68rw/dAcKlxjHvoOfs3CNco+YpnWrS7AhwgASYuh/uKqdrOM8NZc+TbAx
+         sVax6taJiBnA7uQifouCGPINI8KRDU8LOi9NTCwm0aZUQowunvnSSfTtECiunVt
+         d6/HxA4PWzApC8Y2L/OXvv6inEjFxr7zM9fKPRkIZ8qhM1/VdwlWb3ANKDKAZed
+         YBYewEsqSYCFAIs4uJinH3IZePYQ==; q=dns/txt; t=1692626490; 
+        x=1692799290;
+X-HS-Cid: 1axezf1rr4mtcqm7iusa5cwnce9cjwj4fq6vhp
+List-Unsubscribe: <mailto:1axc67qaty678n4thx67f7h0bv78la5qt742h5-mark+2Eneedham=hey.com@bf07x.hubspotemail.net?subject=unsubscribe>
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://policy.hubspot.com/abuse-complaints)
+
+------=_Part_3767719_573081442.1692626490202
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Featured Community Member Archie Sarre Wood. fast DuckDB-powered dashboards=
+, DuckDB & Golang, and more.
+
+ecosystem-monthly-header-2 (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+11=
+3/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3pyd0W7lCdLW6lZ3n4W=
+79vVJv7hG2RWN7gj07Sbxz_FW4qn6Nk8hSK3qW730HJc6BCpLBW39RKBF8lGkmjW5Tpq3t8-ny3=
+_W524k4839mmK-W75fSs08fSzXyW28ycs-60dkMzW8bGWtj2QSNmKW8K_G_G1MR9_pW3XRFvl1R=
+xNSYW1PJC0c3HFG_3W10QfYr3BTBWdW61XQYL5gxqZCW5pSC2H6QLC2SW2RK3vF6bqgkmW2gv_C=
+P3NFv21W2skRDB13Qgg8W68KS913JwytVW5fG-MR8tfJZPW6Lb57f3KccCMW8yZNy786MS3QW2d=
+G3117wfjBsf7mZPrK04 )
+
+Hey, friend =F0=9F=91=8B
+
+It=E2=80=99s Marcos (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5=
+Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y8-PT6lZ3kRW8bHpZp5=
+QXv_kVQRVLV8rbtC5W5qtCGh8VffpZW37f4fQ6gph9TW3bCm2v6mMj5HW4M25R_3w9hg-W521r3=
+n8j8F8DW4HztRD5JlmsWW5DGkzD3By1GLW4tL3Lj5JgnMcW61JK5M6stPqYW7TJgcs1JrYwWW6G=
+7dPz1qPmg0W7KqLXH24l8tZV1ncsc1XrZp7VByWZm87xh-zW34Bjls5h5VGTW5c8pbD6KvwtGW8=
+YGkgH97mQ61W3D8TGc3qSmXjW7wv95f6vQSsjW6brVLd161cTfW6qJ1p64NzpMVW1RylT05nrX5=
+LW1rpjXN8NbhnmW1lwdGv89-1cvf6cgg6404 )  again, aka =E2=80=9CDuckDB News Rep=
+orter=E2=80=9D with another issue of =E2=80=9CThis Month in the DuckDB Ecos=
+ystem for August 2023.
+
+This month proves what we are already seeing in our internal channels: the =
+DuckDB ecosystem is growing stronger with time: more companies like Rill Da=
+ta (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW=
+6W4Nh-2__q9HW1PHNH552tyNCN4313JR3pyd0W8wLKSR6lZ3mHW9b6GKc5Xb3gCW2jB_yy44sVF=
+rW12SY-k2bQfjqW4jXdb77CcH6RW6gfRGB7F-9lQW2tH4nv7ky9nMW4ZqXQZ2cWfjGW5R7x3l88=
+t0VTW6VjmGK758pxFW6_4n3t14qWj-VGVnPR72g7MKW3LqRmS2dWR7TW53s8ss64cpX4W2-byWW=
+1wHYRjW1KBNHz7hdVr2W4H17wK6n5LmHW3JwtJz7BPlWgW2W2rfR6GGwPKW5r2Lgs1sWW9rW2b-=
+dp415RqryW8bGS6f8mptM1N6BYrzt24jstN22pGt8QV5wCW33r0XB5ly8RrW7-shq81Mc0PNVd3=
+BSK3TnSBxW8Ltvqx6mBncHW3M9NhN70m9M_f6NPlWs04 )  are considering using DuckD=
+B for production environments, more people are considering DuckDB for fast =
+data analysis development (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113=
+/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313K63pyd0W95jsWP6lZ3kZW1=
+TMJKq8jtrh_W4xp4rF4K6H8gW6hgmvl3xyn4fVKdsRt5WVjmdN3g0CNttq7xVW2gSzVG1_Pj4zW=
+5ZbYj_7kXqcyW43cbhk3prs2mW7GH5WT2z28txW48Ddxn5krKgFW6j0Y6v8_gSFJW7vy7HZ7T_m=
+4WW4MY5N92dTBVlW1WmNz4958t-DW88nsr_1jh0vLW24DkX67myDHtW2kSyfk6ZkCHMW8fTZ6x7=
+wHGQMW4sdpwr1H9K2gW3qzwLF24LSjtW92Kttp3KyMMnW3H9-W22bqSFwW4TT0Lf1HHySQW71_z=
+QJ2z-r_3W8GLDxt5NfLndW3yRsF41jX3HQW6gz3bm1Dr7DqW4bhfWz2xRn9RW1ZcLy_22JDhpW1=
+jPylk4rCBlkf5y4tsx04 ) , and so on.
+
+As always we share here, this is a two-way conversation: if you have any fe=
+edback on this newsletter, feel free to send us an email to duckdbnews@moth=
+erduck.com (mailto:duckdbnews@motherduck.com)
+
+-Marcos
+
+Featured Community Member
+
+Archie Sarre Wood
+
+Archie Sarre Wood is Head of community at Evidence (https://d2GF5Y04.na1.hu=
+bspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4=
+313Jd3pyd0W7lCdLW6lZ3nqW1nsGf14LD_4yW7cN3-V87dDZZW3FfZ_y8sMbTlW8Nw67y12KyDs=
+W6djLFw3CbDFGW9lGc7p5dFGjZW6Mtp2C6XWD3KW5sjdHd6Ks0k_W2Tr8Zg7vYKw6N6q1nSG8v6=
+g-W4ZlFQ737HDWzW5PBMZs95X4VYW2ZyP8877gzFpVML1-z4qmMqLW7_R_Zw18SQnrN22sq94Cs=
+yYnN7YfmDhh0VJYW2zkmQf528qgfW6DR4K75pbb0yW40sjWy87vcmWVBzmQb3dRLKNW7jcHVZ5x=
+hBCFW2Lch8k1FRjY7VSDs004wwKKddy-z2R04 )  an open source, code-based alterna=
+tive to drag-and-drop BI tools. He has recently built a great VS Code exten=
+sion for DuckDB. (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04=
+/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313H25n4LbW50kH_H6lZ3lyW1Gc5Tk2xRS=
+4RW2_y-vr3qSXd0W6jBZWl26T1p7W7-x8XF6Z12f_N2Q8F_Bfk15BW3_-dyD1QlMGdW3kbLHm5y=
+-G2FW2NZQMT2w_4bpW7YyHdJ36xvQvW3d8B-G4K3Cy7W7tgyHx7-fG4WMhFnf7NYRnGW6WpCcG3=
+QRp2RW7sH7Fq5_kpD6W7S9WtZ6PPMjzW581y_R82pFsbW9b5Tr71mD0mnW5ptW3w7nx4lLW1rhF=
+wg97RbK7W6w887n7pK9h6VfHSk-532TQ6W7mDqM55vVlK_W6D4Qq-7yG517N6Wy_22fB7LkW5j5=
+k8v6gNY7yW5Gvfh86d9kS_W3Yb4tL6M5N9YW6c32bk79T-gmN5sVfDngsh8qW182QRr4xFjTPW6=
+dxvlJ7QTY91W8BZcpH14BtlJf3XTmxR04 ) . It allows you to connect to a local, =
+in-memory or MotherDuck (via service token) DuckDB instance and run queries=
+. It also supports exploring db, tables and columns in the explorer view am=
+ong other features!
+
+Learn more about Archie here (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+=
+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3pyd0W7lCdLW6lZ3m=
+4W6yxDng3clrlJW6_w6lT3pcl3NW3Q6nN77jkn4zW2hrVZ12bG4ZpW5_xdVz3_-32bN9kMW2-PW=
+GysW2YXt4-162nhXV83TtQ4TwnJ_W9dT0tv1Q-FDNW2pGRz063yVRqW71NP7h6JDKPXW3jXVBJ5=
+8N91ZV5hXWQ6c4zJLVWGGg71Bq7L_N6By-lgkXh5sW92QJYc6DlWbGW3BcvQ27NTbPyW7lFKFN3=
+KBLZgW4JprcV8k2q_VW13Jr2f4wyGrrW83r14r301tSJW50dkB54Tpl14W8ll7QH24NhGlW58g3=
+9l2KNqXcf670f_g04 ) .
+
+Top Links this Month
+
+1. dlt-dbt-DuckDB-MotherDuck: My super simple and highly customizable appro=
+ach to the Modern Data Stack in a box (https://d2GF5Y04.na1.hubspotlinks.co=
+m/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y=
+8-PT6lZ3q1W5-4n525G3n1gW46rcQz3qrbbzW12VnVM8xsFxhW7gSDff29xL1RW1rPWwk22W8Fr=
+W43Zx4R3BHW5MW4Yd2JC825nH0W2GsBQm3CCKTJW8D_Wzt8GXMfBN6pbGspgHMwXW8k8BYT1thK=
+P5VsMMDB6V_Th2W80VHKj6C8TRGW2lrpsp1KWvvhVgz-Gb7K7DvWW4kt29q1WbdDkVf0mfZ2L2P=
+v6W200Xp87C-dbkVqcDsZ1ynggRW7xsJvR2Hm437W9l5Qv94Rx8BhW3G2gsN3jpqGPW3nzy5v6h=
+r2n-V9X5cn33Dz7RN7pmv7DxyhHGW80wMSn6QMDNNf6wDHCM04 )
+
+Rahul Joshi (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0q=
+k283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3pyd0W7lCdLW6lZ3kLW8LTcP18Z85JCW2J=
+Nzmp1NLrvcW1bLTks4m_jJyW6yGMXl1JH4nrVFpJm74PfDFLW2RsPtq12rF61W21kRrH5ls64yW=
+7YNZGj4t_wQVW1_56QN8pHgkpW1PWbKp19TjzfW17ccsj8DW_b9W461Ydl7SKDvqMjkhGGZwDTT=
+W7ncNvY8H1HnCW83Rpj74nqwT3W4llJ0y2y0R3FW3gPycC1QbLd0W40BFqn2R7X_yW73bHtH3-C=
+5KYW10qY2z3Yj5X7W7v2qMD36j90dVwjxKZ8wP8J3N8-blMHbCXVgVjjHwB93Q3drf5qYzz404 =
+)  talks about Modern Data Stack in a box with dtl, DuckDB, Motherduck and =
+Metabase.
+
+2. Exploring StackOverflow with DuckDB on Motherduck (https://d2GF5Y04.na1.=
+hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNC=
+N4313K63pyd0W95jsWP6lZ3kZW1TMJKq8jtrh_W4xp4rF4K6H8gW6hgmvl3xyn4fVKdsRt5WVjm=
+dN3g0CNttq7xVW2gSzVG1_Pj4zW5ZbYj_7kXqcyW43cbhk3prs2mW7GH5WT2z28txW48Ddxn5kr=
+KgFW6j0Y6v8_gSFJW7vy7HZ7T_m4WW4MY5N92dTBVlW1WmNz4958t-DW88nsr_1jh0vLW24DkX6=
+7myDHtW2kSyfk6ZkCHMW8fTZ6x7wHGQMW4sdpwr1H9K2gW3qzwLF24LSjtW92Kttp3KyMMnW3H9=
+-W22bqSFwW4TT0Lf1HHySQW71_zQJ2z-r_3W8GLDxt5NfLndW3yRsF41jX3HQW6gz3bm1Dr7DqW=
+4bhfWz2xRn9RW1ZcLy_22JDhpW1jPylk4rCBlkf5y4tsx04 )
+
+Michael Hunger (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/V=
+W0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y8-PT6lZ3kMW5dSTHX3S4x54=
+W7yzc9d4jdwznW5mrCxg4vk40nN6GVzj0vNKDqW4ycc1V5WMtQTW2hNbtl8mQZ8vW2Jts3w9hFd=
+CsW1NLgYV88dMQvW4s89325J4RksVGk1L_95MP3tW8jS5JL6rzb_GW2vfCQJ3mmjWmW2lXDyX5d=
+k6_mW2Hd2GG29wQ35W8325Mp7hrFRzW54rFwZ3tPNyTN5TXGkS3PpGGW7vnS9_3qklLyW3rkkvw=
+78nHZdW98KJnl2PLVsmW6QbLCY4lLYR8W5LN9tg47FT27W6TM1qh7YQfZVW6Ht3RD73NKRZW1Yw=
+YsR6WLX61W6mT41L5jZYwWf4ngx4M04 )  proved in this post that DuckDB is power=
+ful enough to analyze a rich dataset like StackOverflow data. And yes: he u=
+sed Motherduck for it.
+
+3. Fast DuckDB-Powered Dashboards with Rill and MotherDuck (https://d2GF5Y0=
+4.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH5=
+52tyNCN4313JR3pyd0W8wLKSR6lZ3mHW9b6GKc5Xb3gCW2jB_yy44sVFrW12SY-k2bQfjqW4jXd=
+b77CcH6RW6gfRGB7F-9lQW2tH4nv7ky9nMW4ZqXQZ2cWfjGW5R7x3l88t0VTW6VjmGK758pxFW6=
+_4n3t14qWj-VGVnPR72g7MKW3LqRmS2dWR7TW53s8ss64cpX4W2-byWW1wHYRjW1KBNHz7hdVr2=
+W4H17wK6n5LmHW3JwtJz7BPlWgW2W2rfR6GGwPKW5r2Lgs1sWW9rW2b-dp415RqryW8bGS6f8mp=
+tM1N6BYrzt24jstN22pGt8QV5wCW33r0XB5ly8RrW7-shq81Mc0PNVd3BSK3TnSBxW8Ltvqx6mB=
+ncHW3M9NhN70m9M_f6NPlWs04 )
+
+Katie Staveley (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/V=
+W0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y8-PT6lZ3lVW6mqTfJ1L-WvR=
+W73Mq2J5BPNTqW82KMQ56X2P7GW3c7XTc2krDNLW1T_CGy2Hn-72W7CNP1P8dK8fMW64ZXD78hW=
+D-RW2n1FsC5Z0Z69W1MqMbT8qkywxW741Cm26TyhFqVkH8sw1mryrNW27QP9H7p0QN4W1cXY5X8=
+0lF0wW3t34tW65rgchW8j-spR5WxmDCN8H0FhGQf6C2W8zpG6q4nGv4gW99Skd06CzyblW6TPty=
+r1tjGM8W4zpd_86gnmb7W6QLWL72CjdXFW3NhWsH8TL2mGM7NLV_jMzCWW7b2K-X9ltNDMW95jD=
+Rr6lBdyFW7Bn5Nq1S9Y0Ff2r51C-04 )  shows in this post how the integration be=
+tween Motherduck and Rill Data works smoothly.
+
+4. DuckDB vs. The Titans: Spark, Elasticsearch, MongoDB =E2=80=94 A Compara=
+tive Study in Performance and Cost (https://d2GF5Y04.na1.hubspotlinks.com/C=
+tc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313HY5n4LbW6N1X8=
+z6lZ3lzW61GBCD426tSbW4R-d9T90c7WfW36GKBR8xJcWWW5fwXmJ5Jw4LbW4vsTJp5h0BdHW3x=
+NGFY8MgLCmN2SP7ZvxRyDLW6mVMjV47F5YwN4DKxFktXqgbW8Gxwkv4rCS63W89t59f2lkVn7W1=
+4vQ7s20SsJ4W43MXCR7dT8nYW6-d8J44NKL2lVnrlmX78SFszW8dh4px87QnnbW4dFFRs1Gt_7q=
+W1GFYYF5sPWY1W1rBw_92dMykDW4FcpV-3kWsPqW6skkyF2s3-jNN7pD7VtL1ctqW2CLzgd404G=
+J9W3bfvmp4GjRRrW37Bc7c4GLD9CVs4KXY7YQxZmW9cL-Bv6BNfbqW2XyV-q67PyF9W14Sffj8Y=
+ySB1VlQ-7536XbPfVrkN2R671ggBW5bmfCc5qMDd2VJ4_N848yC2QW4tnTKy8z0X_LW7_f7Nr3Q=
+LQ8kW690SCS8g78dMW5z5g0q3Y_L1LW5B8zz_6FXbPxf3YdKHW04 )
+
+Jianzhen Shu (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0=
+qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y8-PT6lZ3ngW97_fHw2PTKkRW3=
+Ry0D46qh-TJW72ncXP2RBfhgW32j6zs8L6jc1VH08q32Rg11jW65P_XW2sTlppVH9jFM1l99YHW=
+6CJSXd3SGCwlW42X9r97vMld9W9lZths1LjnbWW7w-SJl2w0C4LW5dVBRr4ZZszlW5NHJ768SdY=
+ppW3ZNQdN4g-j2FW47Mx842hppcXW5vqLmV77njM4W1Ww_Cr8--NK7W2sfmqw1C0cmLW1tJdCD1=
+27DymN2152-q300BJW8k1JBL3WFtp2W6wq2165BQzNnW58xL076lxqnFW5Xdm08880tS-W5dSfQ=
+J4Mj-zDW4xKrmt8vsLG0f9hPfvW04 )  did a very interesting comparison between =
+these Titans.
+
+5. A Comprehensive Guide for Using DuckDB With Go (https://d2GF5Y04.na1.hub=
+spotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN43=
+13K63pyd0W95jsWP6lZ3kHN3Rycg0wGC1YW8Z4_Dz4y2K6QW3_cQN27YdRFPW5KBp995wQP3VN3=
+LgT8scYVpVW8s1HNc6-Y_KxW9csSBg1LDL05W13n0F-9lc8v2VjNgtr7Mw9VsW2Cjc24446zhpM=
+zCzGHLp0B2N2ws37qg9J0jN6byhRJdyp6_W6bN1KC6MkcxMN5YfZMmQSr6kW61rXJv7Y_Dz2Vr-=
+PWj7WWTwMV-Y9N26C411vW50vx911MZfLLV4SlLT2xSmv3N5Zq3zLmd6-gW2CcPwk6c673dW4-_=
+4n65_jzgzW8WDLkw2hwfWlW5f_dWr76tGJJW6yqL2T4z_btTW6WNL821fr3fpW3QJpHg52pFv7W=
+7_Jbqc73PzSnW4HthV28gKc9Wf4Pnkcb04 )
+
+Sergey Olontsev (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y8-PT6lZ3pgW49s5kV4rTkj=
+GVHrQnp4V2QysW5dm-xJ35G-rPW450K6J8l1xmBW3V6Z0D707FD_W44MNKB1SKly8W44vgQX6rS=
+TQLW4th56y8rjMjYW6NRrYv1S943JW2BqtBB20zg2NW5fN8tY6FQ5p4W8739BY2qbK-tW1mQJl2=
+8NryvcW9jRVBp7Q6nR9W4g_vrY4mx7PDW6-R_bS4l01BBW4qv0Gl5K31BGW8ntBtj7zx6_vW6cL=
+5Y_1xzRS1W7Z9bQX8BPrkZW5pdp0r28d59ZW5hZhFm77b1yvW7BQFf-89n8bMW44McSV81QyMPW=
+1rqCVT6sDHQbVsM7g471zzlYf2cL6pF04 ) provides an interactive way to combine =
+the power of Golang and DuckDB.
+
+6. Process Hundreds of GBs of Data with Coiled Functions and DuckDB (https:=
+//d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q=
+9HW1PHNH552tyNCN4313Hl5n4LbW5BWr2F6lZ3ntW5c731-7PMrF6W4cy_yV377lTfW1XcBcL96=
+8gPMW2vvMMd1Tb-TrW2LcVlR2Fh8SvW8SvK9J4LMdwNW6tRZzc64HlTDW1ZCMmL9h5-KLW8H14P=
+-4d_60BW6J_sj94DtLL7W8W-cRS7QQdgZW6kSSvY3ln0MvN7zmSvQ2D493W5cvTsd9hRFT6W8LG=
+HcF7tyZwnW1vsnWX36-mY6W4HpDct6GP-MHW40t7vv8sdkdPW6hzgrR6gp91kW6RjtbZ8QLG_1V=
+tCY0F8nG3GfW1_PTwD1D3sVTW51bfGW6Z4-SHW1y_sCf8YyHJ2W9k0w083TwqQcW6BdcV78K7f_=
+2W9c54GN2D7rkNW4pv73m2N5FlbW7B0sMn3sd7hNW21Fn0K5PzcjVN36bp0_vSCx1W8RHVRz2C6=
+28QW3bNx8S5tGBMsW33BbGV4YsGsQf5tbSxH04 )
+
+Patrick H=C3=B6fler (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5=
+Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y8-PT6lZ3kzW4T4W2p1=
+kCsPYN2RW60h_gWqrVGNlSM3h2XLTW3-D9Sc32-jDbW318Mmc85jn8bW57Yw-Q2LtXlzW8H5frq=
+8w9_dYW6Xd1xc2RMfH6W6Pp10F42FjtVW8jlWJJ24f6WZW18BTHr8W2jjfW5fKRKz5GZLMyW8vm=
+vrK69HhX1W72_N187qmynYW8MhP331fV9NBW4q6hlM36_W8fW9bm6r993D9S8W4BNHWS4r6VsCW=
+1-q0CW8m7N69W6hXbwx78K3bcW3P3rLX5mT02bW93PYTd2sJ-bMW2b_56g3NHZG8W3r45-_4-6R=
+8dW6fPNqm4nqYtCW7PpQp_7nzf37f1kC0vn04 ) shares a very interesting use case =
+for DuckDB: combining it with Coiled Functions.
+
+7. DuckDB vs. MotherDuck=E2=80=8A=E2=80=94=E2=80=8Ashould you switch to the=
+ cloud version? (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313JR3pyd0W8wLKSR6lZ3lCW3bV0XJ5mdn4=
+2W8RX6rw4mDD3jW2Hb9TJ86K-PDVky5qD4l3pkzW7Bjl-J7wvvs1W5PzPzc2RZ5NcW8BL_hk31r=
+15yVwtk--65-0HtW2bGQlZ7sr5kLN7cVSbqpVsqgW71rsKR6-kX6ZW4mdVd58VbrGzW5r870C6n=
+3F_BN7NtF7R3Q4TnW223Vq84XHkWXN8VpvthmqGkyW48wb3K5mX6NWW8RdXPg3K3BMkW4SHqh54=
+ZYFY8W31Z1Y_77N3w8W216nNx23tqCKW38ntTw92vtDtW5s93pf1kPX4yVGpfNT1HM96jW6RM0T=
+c1tXnsWW876M7d6RmGq-W74yf3V9jcM9GW86KZv9189h38djz5sR04 )
+
+Anna Geller (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0q=
+k283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313JR3pyd0W8wLKSR6lZ3nRW6yPCW011rkHqVhH=
+2hp63sYFgW7-MfDP8zSC70N3SYhGw1NSWxW3XPTSc7XhbFCW2W1gqL99nFlsMy3ryFLDdBLVnTm=
+-v1tr9knW8lmC0z5c10mKW5t2pwL8Z8SjYW9c4LXc44VRMFW8GlTB63R8z-vW3Bm4Tw7vs8rTVW=
+3WPc65D5PfW1bShD816rQ1MW2qt1bX6Y4MTxVxTqXj44JkLPW8QfZ58165ghYW2G9z521wp94vW=
+1hjL0Z4vjPgWW49hCS148rvD4W7lM55L25v-GpN62DhMzF8y6jW3Y8Sr-2FKfJyW3GV0fG60_Kf=
+5W6wnSqs5HX-fFW2dy2s78mTdHqW1vRsm9440pbDf44dwj-04 )  provides an interestin=
+g perspective on which version of DuckDB to use: your local DuckDB instance=
+ or the managed DuckDB from Motherduck.
+
+8. Exploring the Overture Maps places data using DuckDB, sqlite-utils and D=
+atasette (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk28=
+3dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313JR3pyd0W8wLKSR6lZ3kQW3tmKJg6ZdSSdN4C_vx=
+2dKh90W5QcLgP6F7tWDW6MjGhD6H8MljW6rs4NM6QCJRJW8VhQlP4wkrJMW6LGySD8N8cnrW2l-=
+pkV5Y7Cb6W8WX8Vp6qJYnDVNl6bC3RJN9RW3zpzQy3zDLPpN9lMMJrBx6ryW1kyc2895cGSSVDw=
+dN89lspSJW71Jhj614sMhQW1Xx86j6RJ8K5W73BR9x6YvksqW7FYlKm7-lTWXN7yQgVVY78bkW7=
+fKSTJ2TH-H_W8lMrpV4yMkh5N2Kxf30zty3bW7tntXl8Bc-0JVXl_8J94MDJrW16p7Hc2xp8DSW=
+32G-hz6nr3GvVdC4rV7wyWQ6N8wV2MbQhCLtf5-1xTH04 )
+
+Simon Willison (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/V=
+W0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3pyd0W7lCdLW6lZ3q3W5M2PJT4ZBsSp=
+N8t0XXv-bxD1W89KSbH1dVkLtMjVdyMTzQF_W5t8fHX25_pXGW2Z3R6W6GGrHYW7sfgH973-jVb=
+W5-l7Vg67PgwXMPxYHdRJDS6W54KYF87jp2CyW7brGPt2SxNBwN5MTLRmkZ2rWW6qJ6SD5yX2fK=
+W1wBKPD1XGV6gW3f6slg63qrCQV_P75w8TtkrRN7d9ZBY5GSHzW53YcBB3CbdyHN2dzpgVWCyfM=
+W7MvCx03KyDLWW29t53L8wsk09W5w7-rF6Q13B1W1DpvgX6gtmsfW6KpB-5595L25f20PCCj04 =
+)  shares his interesting perspective about working with maps and DuckDB, s=
+qlite-utils, and Datasette.
+
+9. Observability and Log Analytics with DuckDB (https://d2GF5Y04.na1.hubspo=
+tlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313H=
+25n4LbW50kH_H6lZ3lNW3bC4Mq2Z6_h9Vlx9wn5yGKKRW5PRsF836nWzbW3D57-d9fpRm5N1Vj1=
+y7pkP6KW4ZXvTV6P8L4kW6S-_xR3G7fNxW4lVcYT3QR9QmW6b022J5x27rXW78lt-R4-9-YTVyb=
+r7p2QBCbvMhb6tM8krlPVwdbV28qDcB8W1M7yq63qYQ29W5x9Z_66f2qjjN389CG8NWnqPW902Q=
+KJ6NbCyLW3w_z0k8HvkhpW3CJCbP91QxxQW6t4-q-2RH3Z_W3RJjHJ505mn1W6gGXjQ5D2xbGW1=
+pdQBQ8DvmqPW8ZHN475RSx5gW4gWR-y2NZPnkW9hfSPr62vdZdW5rNpwZ8Hl500W86_Jt41DDfF=
+sW9bJq4j3pGG1XN5wt3MKCRWMbW5MFFHF39l219N1XPnr0Z7JYbf6vfty604 )
+
+Juan Carlos M=C3=A9ndez plays with the idea of using DuckDB for observabili=
+ty and log analytics.
+
+10. DuckDB Wasm Kit
+
+Hooks and utilities to make it easier to use duckdb-wasm in React apps. Cre=
+ated by Matt Holden. (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF=
+5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3pyd0W7lCdLW6lZ3kPW84GQwG=
+828CwrW1Qwp225cCkxPW1DkslX5mCT6pW2Tx8Jl1wBqmGVs9MVw2ygL7XW8ccq7b15P3CRW1_-3=
+2Y8_jL9CVmlLpf2tk4sCVxCKpF17JbjTW3tqJYs1LBr0XW8GDKtL3FBWG4N77gNcKwY-fCW3cL6=
+hL6P7lGxW7HC3hN1YnRtcW8ty8052gpv-JVWnQKb3pC_xBW3zxty43MnthCW6QLCr724VYFgW6W=
+JyqD7n35SwW19Qm0L7pTGxhN97cc81B9yXhV2m57K2lSP0rW2X2wLn49hbt9W3gRG-H5vqQxLf8=
+ZkRPR04 )
+
+Upcoming Events
+
+1. DataEngBytes 2023 (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF=
+5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3pyd0W7lCdLW6lZ3mkW5NFtbT=
+5W_26PN5WlB3ZXxnS8W8-Bvs74bCrL1W8jzxqv7mFtXYW1KZb587_JPLvW2gVgh28q_DTzN8tk4=
+pRW2d6BV1SYjZ4pbn3lW2XphwK5kFT-lW1F-jDD5Rt0PRW8yDF9L2dQr3xVwwLk65-HQHfW2vK0=
+yX7rLVkZW7X2jwd17lZ97N88Jn3HtlSPRW7q-n8922C7VyN3tkyvPQyhKyW5CnZ9R8yYpY0W6mL=
+60k7R1d_ZVLtMwD1trmMDW7kzKDz8jKkZWVXqDNc8sN8HHW34zDth2-LY3yW8F2BdJ3TM4Xbf4K=
+QM6-04 )
+
+August 2023
+
+DataEngBytes (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0=
+qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3pyd0W7lCdLW6lZ3mkW5NFtbT5W_26PN5=
+WlB3ZXxnS8W8-Bvs74bCrL1W8jzxqv7mFtXYW1KZb587_JPLvW2gVgh28q_DTzN8tk4pRW2d6BV=
+1SYjZ4pbn3lW2XphwK5kFT-lW1F-jDD5Rt0PRW8yDF9L2dQr3xVwwLk65-HQHfW2vK0yX7rLVkZ=
+W7X2jwd17lZ97N88Jn3HtlSPRW7q-n8922C7VyN3tkyvPQyhKyW5CnZ9R8yYpY0W6mL60k7R1d_=
+ZVLtMwD1trmMDW7kzKDz8jKkZWVXqDNc8sN8HHW34zDth2-LY3yW8F2BdJ3TM4Xbf4KQM6-04 )=
+ is a unique annual conference happening across four cities in Australia.
+
+Ryan Boyd (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk2=
+83dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y8-PT6lZ3p7N5qS0S45Dk97N1ftxG=
+WdLXHpW2NYx5S13R8F9W77l2CP5fN6zzW8qvPKG7TybVBW1ly4Kw58mBbLW6nlDfY4B5Rn9W4jN=
+VQy1tt6LtM9HRpPL862QW18fNb972y2DWW77lZjs6V6kZcW2lWFPX4n3vF-W1gwBS-216mlQV1W=
+5Yt2phPRDW8ZC8Pv7d5dnlN8jFxbpMzPK9W19ytD355ZW4DW1S0Nfd4Rhh6LW8X_wW18q3Bs6W6=
+d4JSW1s6jMwW2jF9Hf8StBN2W5tSZTW8k9PZGW3rml0Q4wpbsfW6pzgL78CWbFDN1kDt9YnFFHG=
+W6RZV2d8Gch9Gf4xLBPC04 ) from MotherDuck and many others data leaders will =
+present awesome talks!
+
+2. LONDON LOW KEY DATA MEETUP MOTHERDUCK & LEIT DATA - 19TH SEPTEMBER 2023 =
+(https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4=
+Nh-2__q9HW1PHNH552tyNCN4313JR3pyd0W8wLKSR6lZ3kBW1QLtyQ6M-9tDW3Kxq-Q2RG7ZSW1=
+3lK0b14Qr_zW6CrxpV95dY20W57KxgW4qSNr6W2xDFy34GgwMbW4Qmj8X5pXqcrW2gtCL27CwPq=
+QN1SP7wq-JMb0W99Mhr27DZ9fYVXXLYR8S7V1rW3YYcL01_pT2RW5HBWng6Z6xXkW5-KKct21v2=
+hBW6L9XLC1wvgskW40XLxY6KY83sN5NzqDpj1l1RW2WQB-r78LcWwW93QfXQ2qN--pN56967wRl=
+1wvW46WcPf5pK-jNW2s3YD47Hz5RXW4w3vH45v-X5fW4SN20G5gF641W4VHf6c1xztsYW31YNDF=
+5bTVFFVy2YsC8WFQc_W2TK9Lq4BWzqHf73tt-x04 )
+
+Join MotherDuck and LEIT Data for a low-key data meetup right before Big Da=
+ta London conference! More info about the event here (https://d2GF5Y04.na1.=
+hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNC=
+N4313JR3pyd0W8wLKSR6lZ3kBW1QLtyQ6M-9tDW3Kxq-Q2RG7ZSW13lK0b14Qr_zW6CrxpV95dY=
+20W57KxgW4qSNr6W2xDFy34GgwMbW4Qmj8X5pXqcrW2gtCL27CwPqQN1SP7wq-JMb0W99Mhr27D=
+Z9fYVXXLYR8S7V1rW3YYcL01_pT2RW5HBWng6Z6xXkW5-KKct21v2hBW6L9XLC1wvgskW40XLxY=
+6KY83sN5NzqDpj1l1RW2WQB-r78LcWwW93QfXQ2qN--pN56967wRl1wvW46WcPf5pK-jNW2s3YD=
+47Hz5RXW4w3vH45v-X5fW4SN20G5gF641W4VHf6c1xztsYW31YNDF5bTVFFVy2YsC8WFQc_W2TK=
+9Lq4BWzqHf73tt-x04 ) . Don't forget to register (https://d2GF5Y04.na1.hubsp=
+otlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313=
+HF5n4LbW69t95C6lZ3nJW17ZTK25ylVTTW1xBpSN2Lc7JMW3CD-QC524wDtW8VkQS259MJhkVm-=
+ZF-60RnSKVG-6sV24hTDyW3w9V5v4WcNRXW23GZv111rvXKW7-VXN12nBbmbW5k1-kR8_gxHKW1=
+f9t_Z5ncq5FV2zFvm5ph0czW1VHmw31G1MGLW271G7f83YfKKW9f90sH6ldHqTW3hxKqk43yN2Z=
+W6m7LX17l00pcW7xKgV486TNDGW43rCqQ7WlnZLVBxSft1lLZVPW3_sLC48c2PKcW6T76vY1rY8=
+VYW6J5h_58jrnJQN7lqsXJWsW5kW8JKxnd6xSr4fW5s4lDG1Qw4HPW7SbGBZ3Y5v6tVrRSMM5F3=
+17FW3Nysh15Jv-w7W4_vW_H1GX6g8W3_83dY4KjHkwMs77ZrJz9L6W1v0SpZ6H5FlNW6KdX2h7s=
+wg01W36Rb2W2WwgV9Mqwkxt4XVbkf1GPNMd04 )  to get a free drink!
+
+3. MotherDuck Meetup User group - September 2023 (https://d2GF5Y04.na1.hubs=
+potlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN431=
+3HF5n4LbW69t95C6lZ3pSN8zrbyVKH4-JW2PJvCZ4C1jybW6TfN-l4rgLYpN6yMFrLp-HRWW8sv=
+yN13tRz2gW1M0gGP8pMCHPW7fNMkp69yFsjW86bNW05Nx3JbW4Bwmg-1hygPmW2mK7zb8K7h3pW=
+4Z6JYG83TL6cW8WWNKf6YFhS9N6FQVSXLFT0vW38kj_s9jm0_QW3rj-Qb5Mn6mXW1927-14Rbm5=
+JW3lX2PJ5VgQtYN1SBq-hmmrmhW7jYtGn8MQdjFW6Z03bt6FgcvpW4vr_9V3VDQZ7W28X8QJ1xR=
+l2NW45Pr062NjV_mW6w9lSD5KXYrNW2BGmbp1QZXG2W45RdH618PFZpW2H-BYV5hGTS-W6j7CsW=
+1SDkQSW81_7x23_k61lW2sLg1D6PTvClW53qd1C8fhkyDW7H2z-r5jTMXlW2KZz_43PbZmZW1_9=
+nsD5dgjYxW5dr9WC51CndtW7Djf4g66nd2Rf739WMM04 )
+
+MotherDuck, in collaboration with Dataroots (https://d2GF5Y04.na1.hubspotli=
+nks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3p=
+yd0W7lCdLW6lZ3pCV6xt9K15hvKHN25nKJNT2nWWVhyywZ8m_PKFN5tTy6wMkF6hW75pPgG1Jjs=
+fQW5W68Nx6-8ypyW7Yl3q_5xHvgnN2GfKtvTdR8RW5PGm3R8dhD_BW74f7xd4XWNqjN8_fwPdcM=
+nQTVTM-tZ7gm0kGW64MQ_698LwgjW7HBmFt73Yy1fV-1DsC9cNzMrW6hkKm311gZXsW5Xb8Yh4J=
+7rMZW4swym21SLc-1W1LWq4T7sdzdVW7GG8nv84R5NRN80-LvMS_FZlD7cqX9L9TwW1dxN8j1Ch=
+HYjW8s7cd_8443zNf8m_j2R04 ) , is pleased to announce our very first in-pers=
+on user meetup group in Belgium on 25th September to talk about MotherDuck,=
+ DuckDB and all the things data.
+
+Full agenda and registration here (https://d2GF5Y04.na1.hubspotlinks.com/Ct=
+c/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313HF5n4LbW69t95C=
+6lZ3pSN8zrbyVKH4-JW2PJvCZ4C1jybW6TfN-l4rgLYpN6yMFrLp-HRWW8svyN13tRz2gW1M0gG=
+P8pMCHPW7fNMkp69yFsjW86bNW05Nx3JbW4Bwmg-1hygPmW2mK7zb8K7h3pW4Z6JYG83TL6cW8W=
+WNKf6YFhS9N6FQVSXLFT0vW38kj_s9jm0_QW3rj-Qb5Mn6mXW1927-14Rbm5JW3lX2PJ5VgQtYN=
+1SBq-hmmrmhW7jYtGn8MQdjFW6Z03bt6FgcvpW4vr_9V3VDQZ7W28X8QJ1xRl2NW45Pr062NjV_=
+mW6w9lSD5KXYrNW2BGmbp1QZXG2W45RdH618PFZpW2H-BYV5hGTS-W6j7CsW1SDkQSW81_7x23_=
+k61lW2sLg1D6PTvClW53qd1C8fhkyDW7H2z-r5jTMXlW2KZz_43PbZmZW1_9nsD5dgjYxW5dr9W=
+C51CndtW7Djf4g66nd2Rf739WMM04 ) .
+
+MotherDuck
+113 Cherry St PMB 77153
+
+Seattle
+WA
+98104
+United States
+
+Update your email preferences (https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4=
++113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3pyd0W7Y8-PT6lZ3=
+n6W11Tkyr4tlwR2W1gBJSm2r-cv8W2DLRZP23jnhgVJjRv141K-wXW5RkL8C2WtFMSW8xSzp-4D=
+bgT0W6D9ZtG5_8MNrVD-yYz4XYxJSW8xgkMN2H-GMDW56m8kF56D7QDW1L3gS45vXDHSN751btg=
+jSHk8W3RCCSJ65X4HyN77g9ZjD77ZFW5sXXbm4HX1RtVs9T5J2kx42jW70NLRx4ZQm-pW5KsjFz=
+2YwCKrW1ClJ0x8l-nnGW7RVxB_3PLdVCW4866Wy3dwrCkW40Plhs6p0dRFW5GjxNr3JyFXMVSJs=
+lf2lFyx8N4fLvyCksrRDN25PtwcFzKtNf8LX4Xl04 ) to choose the types of emails y=
+ou receive.
+
+Unsubscribe from all future emails (https://hs-22616816.s.hubspotemail.net/=
+hs/manage-preferences/unsubscribe-all?languagePreference=3Den&d=3DVnd6bx6FV=
+QcRVMjsmj3XtPp7W3K2-tw3_zmqpW4r5qtN3_fWp7N4-y9QjmWcNhW7Pbymw7pyTJLV25wFX7Zy=
+nWGW7vj8bx8NkKHQN5W2nWt1yf0NW31w5Vr4R-5kgW4qJ-yg3cXJ68n6H4t6x3t3&v=3D3&_hse=
+nc=3Dp2ANqtz--zAM3kcpUNEjHkQhs7t3_DxkMkyKgTAwB81JkKnfh5P8ypHxt-r9BF6BZvb0Li=
+B1paC8nOJfagLZjncTmpuLiCjlh5Pg&_hsmi=3D271059794 )
+------=_Part_3767719_573081442.1692626490202
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>
+    <title>DuckDB Monthly August: Featuring Archie Sarre Wood, top content,=
+ and upcoming events!</title>
+   =20
+    <style type=3D"text/css" id=3D"hs-inline-css">
+      /*<![CDATA[*/
+      /* everything in this style tag will be inlined onto matching element=
+s */
+      #footer {
+        min-width: 280px;
+        max-width: 600px;
+        margin-right: auto;
+        margin-left: auto;
+        font-family: Inter;
+        color: #444;
+      }
+      .mainlayout {
+        border-radius: 15px;
+        min-width: 280px;
+        max-width: 600px;
+        margin-right: auto;
+        margin-left: auto;
+        border-collapse: collapse;
+        border-spacing: 0;
+        padding-top: 10px;
+        background-color: #FAFAFA;
+        padding: 10px;
+        font-family: Inter;
+        font-size: 14px;
+      }
+      .emailheader {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .logo-company-name {
+        text-align: center;
+      }
+      /*]]>*/
+    </style>
+<style type=3D"text/css">
+  @media screen and (min-width:500px) {
+    .tblwrap img {
+      width: 150px;
+    }
+    .tblwrap td {
+      padding-left: 15px;
+    }
+  }
+  @media screen and (max-width:499px) {
+    /* Force table to not be like tables anymore */
+    .tblwrap table, thead, tbody, th, td, tr {=20
+      display: block;=20
+    clear: both;
+  }
+ =20
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .tblwrap thead tr {=20
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+ =20
+  .tblwrap tr td { border: 0px}
+ =20
+  .tblwrap td {=20
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee;=20
+    position: relative;
+    padding-left: 0px;
+    margin-left: 0px;
+    width: 100%;
+  }
+ =20
+  .tblwrap tr td:before {=20
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 100%;=20
+    padding-right: 10px;=20
+    white-space: nowrap;
+  }
+  .tblwrap img {
+    width: 100%;
+  }
+  p {
+  }
+}  =20
+</style>
+  <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" co=
+ntent=3D"http://22616816.hs-sites.com/-temporary-slug-acdacad6-e1fd-42e7-b0=
+ec-d419cef2aeba"><meta name=3D"x-apple-disable-message-reformatting"><meta =
+name=3D"robots" content=3D"noindex,follow"></head>
+  <body bgcolor=3D"#CCCCCC" style=3D"background-color: #CCCCCC">
+    <!-- Preview text (text which appears right after subject in certain em=
+ail clients) -->
+    <div id=3D"preview_text" style=3D"display:none!important">Featured Comm=
+unity Member Archie Sarre Wood. fast DuckDB-powered dashboards, DuckDB &amp=
+; Golang, and more.</div>
+    <!-- View as webpage link -->
+   =20
+    <div style=3D"width: 100%; min-height: 20px;"></div>
+    <div class=3D"mainlayout" bgcolor=3D"#fafafa" style=3D"border-radius:15=
+px; min-width:280px; max-width:600px; margin-right:auto; margin-left:auto; =
+border-collapse:collapse; border-spacing:0; padding-top:10px; background-co=
+lor:#fafafa; padding:10px; font-family:Inter; font-size:14px">
+    <!-- Insert body here -->
+    <div class=3D"emailheader" style=3D"width:100%; margin-left:auto; margi=
+n-right:auto"><div id=3D"hs_cos_wrapper_email_template_logo" class=3D"hs_co=
+s_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-logo=
+" style=3D"color: inherit; font-size: inherit; line-height: inherit;" data-=
+hs-cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+ =20
+  <div id=3D"hs_cos_wrapper_email_template_logo_hs_logo_widget" class=3D"hs=
+_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style=3D"color=
+: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-t=
+ype=3D"widget" data-hs-cos-type=3D"logo"><a href=3D"https://d2GF5Y04.na1.hu=
+bspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4=
+313Jd3qn9gW7lCdLW6lZ3kzW1zjbRY49h3rtW7TSGDR9fHrDqW74bKNn36KKy2W2cRCP14XcHqK=
+W2KTfql2tk_BmW17mr0G1zfhXjW1_1kzM8SzskYMPrlZhD9wrsW6xfD2D43vfLFW4zhW182HH3L=
+WW7S2S5x4GhN1gW2cxghm3bCPL-W9jYx5q6svCB-W1LTsyt5kpXZgW3Qyz7z1VS8f7W98wjJ-1F=
+7SNXN8Q49DnZWC6PN79j4gk_ZWd5VQ_g_g5BcGwQW2VQ24D9ftCJQW5g_X0N1PjqcxW741yn67b=
+K32tV2CyDG5yn600W2Sm0LS52zysFf2k4MsC04" id=3D"hs-link-email_template_logo_h=
+s_logo_widget" style=3D"border-width:0px;border:0px;" data-hs-link-id=3D"0"=
+ target=3D"_blank"><img src=3D"https://hs-22616816.f.hubspotemail.net/hub/2=
+2616816/hubfs/ecosystem-monthly-header-2.png?width=3D1200&amp;height=3D250&=
+amp;upscale=3Dtrue&amp;name=3Decosystem-monthly-header-2.png" class=3D"hs-i=
+mage-widget " height=3D"125" style=3D"height: auto;max-height:125px; max-wi=
+dth:600px; border-width:0px;border:0px;" width=3D"600" alt=3D"ecosystem-mon=
+thly-header-2" title=3D"ecosystem-monthly-header-2" srcset=3D"https://hs-22=
+616816.f.hubspotemail.net/hub/22616816/hubfs/ecosystem-monthly-header-2.png=
+?upscale=3Dtrue&amp;width=3D1200&amp;height=3D250&amp;upscale=3Dtrue&amp;na=
+me=3Decosystem-monthly-header-2.png 600w, https://hs-22616816.f.hubspotemai=
+l.net/hub/22616816/hubfs/ecosystem-monthly-header-2.png?upscale=3Dtrue&amp;=
+width=3D2400&amp;height=3D500&amp;upscale=3Dtrue&amp;name=3Decosystem-month=
+ly-header-2.png 1200w" sizes=3D"(max-width: 600px) 100vw, 600px"></a></div>
+</div></div>
+    <div id=3D"hs_cos_wrapper_module_168150679399521" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"module"><h1>Hey, friend =F0=9F=91=8B</h1>
+<p data-line=3D"2" style=3D"margin-bottom: 1em; ">It=E2=80=99s<span>&nbsp;<=
+/span><a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3qn9gW7Y8-PT6lZ3l4VqnN8c86p9w-=
+W1sR5Mj3wgtM-W2FykNX5RhR8VW2Bht912BD1MrW731TTj3qjZJfW23zqMk4B9Ln8W2dgp_c3GD=
+VFfW1HtX8B4yBXT4W4BMR6B7fQ4SZW3x4JF66HtBLGW7hht5x7Kmh94W8DRk724ZfNH-N3_gZM9=
+BgK9NW6HLVdg7ZbM87W2PZZ286n5l72W7Vm3XW6ypTJ_W5Tcww63YKPQbW3K8lsW7MMGfqW2XgD=
+QD90DPDMVLmlcB6dPrsDW3f531532Ln1FW6jDB6q3qrmwXW5XDyLk2T57j7VKQxKP61rf6vVs7t=
+fx53h9x_V9TjF-3FkV-Bf4XyLR-04" data-href=3D"https://www.linkedin.com/in/mlo=
+rtiz" title=3D"https://www.linkedin.com/in/mlortiz" data-hs-link-id=3D"0" t=
+arget=3D"_blank">Marcos</a><span>&nbsp;</span>again, aka =E2=80=9C<em>DuckD=
+B News Reporter</em>=E2=80=9D with another issue of =E2=80=9CThis Month in =
+the DuckDB Ecosystem for August 2023.</p>
+<p data-line=3D"4" dir=3D"auto" style=3D"margin-bottom: 1em; ">This month p=
+roves what we are already seeing in our internal channels: the DuckDB ecosy=
+stem is growing stronger with time: more companies like<span>&nbsp;</span><=
+a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk28=
+3dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313JR3qn9gW8wLKSR6lZ3ktW418M3t4L49l9VTWBy_=
+4dG2BtVXxsRx7nqyCMW23W28M4Mz56qW520QWj5FGbXmW2rJFHv6lt68nW7CpQJy4JsKSvN67Vf=
+pPyVr7_W2Q8zzN7Z27PMW16S_Ft84YWVMW808hdF6FDMK3W6VW0g-5wT2yMW1p5_7j5qTf1-W61=
+Hgd54sZlhtW1W-lF-85ff9rW87xxP167FvnKN2RX8-M3mTZwW5d29bm14CyTHW2DSycn2LBMrBW=
+6d3cPN5GJRgwN6Cs_8K5lP_lW5wkz2x2-qGKbN5PR51P1tdBmW64pD7y1jB_43W7wshWB8qb7zL=
+W2xbdwq1hSL4FW3VFZs241K6W9N5v4H5QND-9-f97MSCx04" data-href=3D"https://www.r=
+illdata.com/blog/fast-duckdb-powered-dashboards" title=3D"https://www.rilld=
+ata.com/blog/fast-duckdb-powered-dashboards" data-hs-link-id=3D"0" target=
+=3D"_blank">Rill Data</a><span>&nbsp;</span>are considering using DuckDB fo=
+r production environments, more people<span>&nbsp;</span><a href=3D"https:/=
+/d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9=
+HW1PHNH552tyNCN4313K63qn9gW95jsWP6lZ3lxW1dvQYP2BHm2cW83DHyv6dq59TMdJvgQ6mDc=
+hW3t_3zf8Rkd4lW5D1VMV69Ckg6W9kXTRR2sG6DQW9jz5P39cv7PdW9hngbj84D6D3W4NMJ821_=
+rqmtW8-vyDc1r-XHBW444NlQ3N8VQ9V_hS3k3bBrZDW30XHkf5pVKHJN6KL2KsLn79RW3c-Vhf1=
+q-SHMW1btvjy7bXxRHW5XBMnL81P8YLVDHrt31VHHq9W3T-mPR2j-W7-W9d_2Nm3XNc66W1GDGh=
+l3V7H_yW5x46js9gkxVGW3g0wlW1FVhPnW56CLqY94mZSkN34-BLBLzz2pW3HjsCp2y4WkgW3yG=
+Mhm5pFCxFW7JQ0Y977Gpc9W5xgsfK2hqwRqVJ5WNv2zHW4Bf2X15DT04" data-href=3D"http=
+s://motherduck.com/blog/exploring-stackoverflow-with-duckdb-on-motherduck-1=
+/" title=3D"https://motherduck.com/blog/exploring-stackoverflow-with-duckdb=
+-on-motherduck-1/" data-hs-link-id=3D"0" target=3D"_blank">are considering =
+DuckDB for fast data analysis development</a>, and so on.</p>
+<p data-line=3D"6" style=3D"margin-bottom: 1em; ">As always we share here, =
+this is a two-way conversation: if you have any feedback on this newsletter=
+, feel free to send us an email to<span>&nbsp;</span><em><a href=3D"mailto:=
+duckdbnews@motherduck.com" data-href=3D"mailto:duckdbnews@motherduck.com" t=
+itle=3D"mailto:duckdbnews@motherduck.com" data-hs-link-id=3D"0" target=3D"_=
+blank">duckdbnews@motherduck.com</a></em></p>
+<p style=3D"margin-bottom: 1em; ">-Marcos</p></div>
+    <div id=3D"hs_cos_wrapper_module_168150709961327" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"module"><h2>
+  Featured Community Member
+</h2>
+<table class=3D"tblwrap" style=3D"border: 0px; width: 100%;">
+  <tbody><tr>
+    <td style=3D"vertical-align: top;">=20
+     =20
+        =20
+        <img src=3D"https://hs-22616816.f.hubspotemail.net/hub/22616816/hub=
+fs/Gcv8NIaA_400x400.jpg?upscale=3Dtrue&amp;name=3DGcv8NIaA_400x400.jpg" alt=
+=3D"Gcv8NIaA_400x400" loading=3D"lazy" width=3D"100%">
+     =20
+    </td>
+    <td style=3D"padding-top: 0px; margin-top: 0px;">
+      <h2 style=3D"margin-top: 0px;">Archie Sarre Wood</h2>
+      <p style=3D"margin-bottom: 1em; ">
+        </p><p style=3D"margin-bottom: 1em; "><span>Archie Sarre Wood is He=
+ad of community at&nbsp;</span><a  href=3D"https://d2GF5Y04.na1.hubspotlink=
+s.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3qn9=
+gW7lCdLW6lZ3q2W37RdxP8fCHpTW6D_zF82zdzBCW8hrN652nK64HW3CgY0S5scSWlN689mlxj7=
+SW-VC32MX6bW2R7VQBCYB2kfZmfW1dXKQX8vt-16W1wLnVv41sfzBW3JQzwN6CvxwwMX8YDxYQN=
+vTW6HYf7M8YjTXSW4XlGM75MgZVxW92XJqG60x6v9W28k9M83Wwf8NV3TcxG5QwM8JW4XKh4J2n=
+lq7sW5frgp617jsS-W2j32dm6nF8jVW7qrztP2ytQnjW5RJp1y2CGVW0W7yQ9lN3pwkXwW3zzBm=
+K8Bs6rJW57gfPQ55y9Y8f8gtZTM04" data-href=3D"https://evidence.dev/" title=3D=
+"https://evidence.dev/" data-hs-link-id=3D"0" target=3D"_blank">Evidence</a=
+><span>&nbsp;an open source, code-based alternative to drag-and-drop BI too=
+ls. He has recently built a great&nbsp;</span><a href=3D"https://d2GF5Y04.n=
+a1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552t=
+yNCN4313H25nXHsW50kH_H6lZ3ldW41XZQQ5ywTjCW6q-thV6TYyvjW8dnl2n4-gvMmN4-tjtdt=
+ZXDwVQ6fKs9jSdQKW3lHZr9941gzdW8Gc75T50ZZfJW6fh0N479Z-tMW8zDnYG6VkHFTW3PJ4P-=
+2LhWDMW18kdJ26w-ZN0W3jv5_66jsHmkVMR7yn39FJMSN2kZXjSrcxqSW7nXqCV2ql51gW44T9D=
+s73lxBDN5MygR_YGXZWW3VBvCK4MT1Y2W1KS0yn2Mp9hPW16MvsQ7Z8xcNW3qvKS68g-DvzW6qf=
+6bx28wbvLW1GYyGT5gZ3wpN14tk4P5GCMCW5cXhyv2k6R_NN5rb7w2QlQNrW8HtCpr7K5QXlW8p=
+-BjF1NDLdpW5FJLr01fLnKZW6lsmR82Mt52JW27bbVm8sYXvjW52rMqn35dCTyf3CTK8804" da=
+ta-href=3D"https://marketplace.visualstudio.com/items?itemName=3DEvidence.s=
+qltools-duckdb-driver" title=3D"https://marketplace.visualstudio.com/items?=
+itemName=3DEvidence.sqltools-duckdb-driver" data-hs-link-id=3D"0" target=3D=
+"_blank">VS Code extension for DuckDB.</a><span>. It allows you to connect =
+to a local, in-memory or MotherDuck (via service token) DuckDB instance and=
+ run queries. It also supports exploring db, tables and columns in the expl=
+orer view among other features!</span></p>
+<p style=3D"margin-bottom: 1em; "><span>Learn more about Archie&nbsp;<a hre=
+f=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkP=
+W6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3qn9gW7lCdLW6lZ3kHW2sTwgh2Clw4fW8-x46G3YxB=
+N0W3QdWQV1-BF5lW5yzyZz6PXg20N5XyNM8v5kKSW1ltZGw8Xx-kwW11flwy8TbBbJW3Ml1ks2j=
+d6ZRW5KyLQL2LKJTqW8M9Xnr1RMdrXW70flK04KYRF_VYNJQV7-RsxxVXG-h496lFqqW8rfLFS5=
+wQztjW1d1vbQ2K-QBwN6Xq5NmFHSPVW377mqg8zrcJSN4bjbVff86-ZVfKTCl5YNWgZW5dhMVW7=
+B96wtW7yKXny7qhcltW3fQ7T611gM1hW5_xxcy76dnTjW6QDHXV6LYpV9dQq2XF04" data-hre=
+f=3D"https://twitter.com/archieemwood" title=3D"https://twitter.com/archiee=
+mwood" data-hs-link-id=3D"0" target=3D"_blank">here</a>.</span></p>
+      <p style=3D"margin-bottom: 1em; "></p>
+    </td>
+  </tr>
+</tbody></table></div>
+    <div id=3D"hs_cos_wrapper_module_168151043978034" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"module"><h2>
+  Top Links this Month
+</h2>
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3qn9gW7Y8-PT6lZ3mCW1zz10M8rPsm=
+sW3Bj-St72_zBFTGJWw5CxD2-W78LV618d8ZrKW4jrCD_249FQLW6k1bZr8M5vX8W5mMP5Q4q79=
+nDV2xyRn5YdBDWW2rGQy54z71SmW5Wdfw939x9flW87FB0j2WpdlmW5p6b4-4LPS7PN2b6Lqhjg=
+r8KW60dl4M8PVxcxW1SSPrm4qtw4BW7K9Mx-4dzLCcN3cJx6jdxy-fW5ZTxx346kgVzW1ZFDZq9=
+hL43cN5KsCbpcfT_GW7ztD-_8PjFrPW4sL2H849fv2MW31TfpM72JfJYW7rVz1T8C34JVN3-TnJ=
+jVrp6hW1scSqF7sdqTCf5c7lkP04" data-hs-link-id=3D"0" target=3D"_blank">1. dl=
+t-dbt-DuckDB-MotherDuck: My super simple and highly customizable approach t=
+o the Modern Data Stack in a box</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p style=3D"margin-bottom: 1em; "><a href=3D"https://d2G=
+F5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1P=
+HNH552tyNCN4313Jd3qn9gW7lCdLW6lZ3ktV995sd6KF32bW1g_2k98WZB58W32G2BQ4bhjPlW3=
+mlScZ14VYlCW1j_pqD2Mj7h8W6gJPHq2Ms9MWN2hwt-ZtS2k7W61PJyC8HpcMHN5xw3nQDsWVBV=
+s2xh93Z44XfN7kG8-_b0nyBV8v4G94qtJNDVG4JyS6mQj3fW7Mx4_Y4h4VnMW3B_njL55sYsxW1=
+djv7P4srBLrW5qhHqD6nlz0qW3n_kmc1b__RxW3fbcf16sxv44W380Kpv1PXfSPW3X-1fy8H0T2=
+WVwpCx-6S-vXDW24rj-K25HVbXW31NskB7M7DrGf5fq9T804" data-href=3D"https://gith=
+ub.com/rahuljo" data-hs-link-id=3D"0" target=3D"_blank">Rahul Joshi</a><spa=
+n>&nbsp;talks about Modern Data Stack in a box with dtl, DuckDB, Motherduck=
+ and Metabase.</span></p></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313K63qn9gW95jsWP6lZ3kNW10tJxS6tGkq=
+9W57pxBM4Rw9XzW6Z68xp3F-PC-W7c1DXq4cyq-_W2FWXMY86TCP6W54NGm-4cmRDwW7WMr7r3s=
+f_GtW1_p-vy2NBDDMW5drtqV1hD74YF8wfYztlWv3N3Pdm7bq0tbQN5MnD7C3h9CNW7mKcCg7Ch=
+1XWW6RyXwV8hR6ffN4YZGVPjt8BmW6-M7D33rYKMhW6-_S2q7HZmNHN93vPsM2_5bYW4q7t_C2c=
+hBmwW5-WzT23mKC27W2v5d7F23Tqh2W21rFvD2YVLT6W73Ttfw16KX2ZW5dYRLR5DfQ1mW4YcSS=
+x6P8_6nW9jGKsR626BGmN7NMkCZkjljTW6ZSPMy1G4f03VH2TNc6ptXvVW60vk3R8gPWwdf4zjw=
+Bb04" data-hs-link-id=3D"1" target=3D"_blank">2. Exploring StackOverflow wi=
+th DuckDB on Motherduck</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p style=3D"margin-bottom: 1em; "><a href=3D"https://d2G=
+F5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1P=
+HNH552tyNCN4313Jx3qn9gW7Y8-PT6lZ3l_W4Px8wK7yH9DjN3bWLdMZnmLGN90SCYy532mGW3c=
+hcHC5BMTCZW5_Sms13hx9g2W6qnKRP94zwXMW14TV611NDgplW4RLZBQ3Lzj4XN6dcrWC5PTl3N=
+8c5vQP-4DQDN5cc-7vKnQWlW24C7bG2tQx94W68tRlk3kQx2dW4C85Fl4blykWW50FGv_3L46GC=
+W9bYqwH4kw_YTW3D4bc35P2D4xW4byz4p6fzkyYW6_xJc61jQKXdW5qQD8D1TFJr3W66mYtn8Cz=
+m_0V3vNZY50L5g7MZBp7RV5l5sN83G6XX-YK5wN1BMCzFB1GQqV3Z67M8xRY68f4PgK3q04" da=
+ta-href=3D"https://www.linkedin.com/in/jexpde/" data-hs-link-id=3D"0" targe=
+t=3D"_blank">Michael Hunger</a><span>&nbsp;proved in this post that DuckDB =
+is powerful enough to analyze a rich dataset like StackOverflow data. And y=
+es: he used Motherduck for it.</span></p></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+    <img src=3D"https://hs-22616816.f.hubspotemail.net/hub/22616816/hubfs/i=
+mage2.png?upscale=3Dtrue&amp;name=3Dimage2.png" alt=3D"image2" width=3D"100=
+%">
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313JR3qn9gW8wLKSR6lZ3p4W2_rWFC4zYx6=
+dW24BvFY7tMdPxW3W9rVB8DB5tPN2qxtYb7vNPSW2P9kFm6zWw4zW7SbD1D4jcBh1W9gNfPT6ft=
+gNDW6SYFvL3KKDk3W3nfvHJ4xnCWKW87QCRp8r9cHYW9dqWrk56NT61W6SgCc_8z4jRBN6vDPz_=
+Cspx4W1bScCS8n2SJtW3l0kjv6Zx7gxW3lXdQm7355lTN2j00M9rG8y9W7Vjk2V337SHbW8YtgF=
+-80Mg3cW2J68jL7fpwCzW2_f-Jk1PGxFMW1K24Bz6VkTVVW4JDQJB8ZqphPW2vbSkk8MWpJ0W3_=
+p3cq1YDSB7W4SDvSb140jQLW8czGC695_pdmW1XDYfD3p5qbxf2ZyfyK04" data-hs-link-id=
+=3D"1" target=3D"_blank">3. Fast DuckDB-Powered Dashboards with Rill and Mo=
+therDuck</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p style=3D"margin-bottom: 1em; "><a href=3D"https://d2G=
+F5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1P=
+HNH552tyNCN4313Jx3qn9gW7Y8-PT6lZ3pCW84nbqq8l8MpZW47xfpg8h8YSwW3XJVJN2PLFhxW=
+33qs5J4VG4lhN1rbHLw5qNP9N4fK8TlwtWvTW3pPkXD5RxY_nW97G6rJ8JG5J_W2SQtRg6k8M8F=
+W5s5qdV38bRClW1xWsDk3GbfhdVKQnkx513dXlW32N2V31T9YzkW1VNv-F87q77FW3FKqSy4Q2v=
+ydW4jxL5f4cFLSBW5bf5Cz7Jy_X3W494QKz1s2YQ0W1PnDWQ3XNHXwW5lDHFb3jj67pW1xg20H6=
+9yZtdW4ypJMf70LZRPW2-Ks9B7335BTW1m00py4FXbk1N4cNrLh72vgpW3WqxDk8HkyQ2f5fCN_=
+z04" data-href=3D"https://www.linkedin.com/in/katherinestaveley/" data-hs-l=
+ink-id=3D"0" target=3D"_blank">Katie Staveley</a><span>&nbsp;shows in this =
+post how the integration between Motherduck and Rill Data works smoothly.</=
+span></p></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+    <img src=3D"https://hs-22616816.f.hubspotemail.net/hub/22616816/hubfs/i=
+mage3.png?upscale=3Dtrue&amp;name=3Dimage3.png" alt=3D"image3" width=3D"100=
+%">
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313HY5nXHsW6N1X8z6lZ3nWW6PMHmW4WsTj=
+rW611tf58MsrVzW8QDNxj1JxBnhVm194K8SFlb-W4tfTdr5hcksTN7JTHyPC7VrrW321WLH59lC=
+QGW3MzfJt1QDdrhW66M_rv4y2D9bVG3wGP6YdhGgW4tMJsV6ZzmCWW8xfPQK37jycMW4pWkQ36F=
+SDy5W4_kDfz5hKMzRW3DTPhk61jF3gV1Fv2c8N9GlXW1c29gR7h5rnwW8d6B2w8wMblzW30b3kN=
+8GTwG5W4y5Tlh5qMYFpW2nY2M57l0ns7W4blyS48p7slHW5zrMWF3KWTddW7MMT_f2ZwNsBW4l3=
+rwp7RM_YNW3bgSGN35R66jW32Syvz4F4DLmVdXJ224Y0M0MW1zL9y465W3q9W2zgRtB19z_rJVJ=
+G4HL59jy25W2kSXcW6T5NT2N4XlHt4q4_KlW3lPbF34MJ_w0N8GBchw7K3D0N1t0khrmLmhpVw0=
+mkb2fStYBW2wfNjf5JrJM3f5R0ZRR04" data-hs-link-id=3D"0" target=3D"_blank">4.=
+ DuckDB vs. The Titans: Spark, Elasticsearch, MongoDB =E2=80=94 A Comparati=
+ve Study in Performance and Cost</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p style=3D"margin-bottom: 1em; "><a href=3D"https://d2G=
+F5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1P=
+HNH552tyNCN4313Jx3qn9gW7Y8-PT6lZ3mYW484fMM1xXvzMW8QGGnB4kyhKKW8kjcdr3r2DWCW=
+2PY4ps7qXSM9W47q1fK2cS4_jN90D0DLLssChW8JP93M1xmbfcW1cjSwB3-TyZFW8c1M493FGcP=
+DW2hgLF28fhG7PW1ZDwXF4-VJCsW1w1h0h6MmRLwW6gjrwH8v4y47W4BpFBM3r360qW8NRj5b8Q=
+T6Q5W7d_lhj8p244_V1MRt75NwCRDN3MWW3dKVnWNW4_5wfr4sq2XDVWsT895yFDHMW1k4S7S3q=
+Hx-lW946z2-4lwtyJN10fzb0XKPqpW6zrj_W3svNsQW3Ls9pw25YbSBW5tKhk_28CJ7Gf6KpD2s=
+04" data-href=3D"https://www.linkedin.com/in/jiazhen-zhu/" data-hs-link-id=
+=3D"0" target=3D"_blank">Jianzhen Shu</a><span>&nbsp;did a very interesting=
+ comparison between these Titans.</span></p></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313K63qn9gW95jsWP6lZ3m3W3yFn3L2w_LD=
+BW6xRjF-8zqX5rVtlJ7395gsd1W5-FSSZ3m7GLVW61-ZtC7K_xBTW6_yVsf295zZ9W4Tjlt72_d=
+s6DW5qLQS5353DK1W3Vt17h7fXN1kW76Tsbt2DX68-V4Dg663TylKwW5MDC1N4FhsFkW7m6yBJ4=
+jJ6PDN15xlySjjpXZVQk_0F1v4tGvW3LR0Zw3SFK6WW60NJ2r3v-mg0W7Zk4-N6s_BRdN3Z4g21=
+wgZCFN6_SdZXwWV2yN2SyVnYNLTrCVLm9qb27NS1xW62tsF91hWGFzV2Rw4z8Z0rdZW1SPhTM19=
+d19MW8HK0kL2Z2KtMW6sqwyN2f24tJW7RMj2B3Qg6-4W5-154P3Wc3txW6xsnfd7l1RhZf7Dszt=
+l04" data-hs-link-id=3D"0" target=3D"_blank">5. A Comprehensive Guide for U=
+sing DuckDB With Go</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+=
+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3qn9gW7Y8-PT6lZ3q=
+3Vk1NGs6GN7C0W1cB4FK2gyrjJW55B8_31ML-glW3HHr_h4HbvTCW5Q3r8x52_sQGW534HTg3NM=
+6VMW5kvVxr8DHm3RW6XSKl18nlZ12W7TQsmT7z8KCvW6jM6df1Ft-SDW86ddtJ5qq8hjW4Ft3Rb=
+7_BdrbW4msjVp1GP4f3W4Ml4P07w9jy6W5Rgb3S1ZTRCHW1M4kPr78tM9JVWGJ6R11R2LRVk8mJ=
+g2yd0GKW3j32SK2sgCcvW2nW4sd17lKTXW936v0Q4ptFWGW81NTvn5n1LMSN2Zt-rCDKRv6W4ZK=
+1K27mYjDJW8L4S-G6VrfHXW8QbMt78wbBzzd_dK3q04" data-href=3D"https://www.linke=
+din.com/in/sergeyolontsev/" data-hs-link-id=3D"0" target=3D"_blank">Sergey =
+Olontsev</a><span> provides an interactive way to combine the power of Gola=
+ng and DuckDB.</span></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+    <img src=3D"https://hs-22616816.f.hubspotemail.net/hub/22616816/hubfs/i=
+mage1-1.jpg?upscale=3Dtrue&amp;name=3Dimage1-1.jpg" alt=3D"image1-1" width=
+=3D"100%">
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Hl5nXHsW5BWr2F6lZ3mLW4nQtFS3rkFb=
+qW4fM8lv6gR7WvW7mzT-x1TgxW0W7NxrFR20XxdSW7KsG2-42wj1ZW2YX91L5HlW6RW6ZCl4456=
+bGWgW7z12hQ36P2JLW6R7LFs2_cP_nW2GgKmL5KtbxLN47j9cwZrGvSW3cHbHn5S1Y9_W3hFF9w=
+4z4yRXW4P2NLQ35Dd-bVHxJjy3j9t-MW52N_f41p396GW1Cmk9R7ypDTsW2n2RSc1_RcW0W5wqT=
+Mr1Mc6q8W5Tdyhn26zL7vW925Yqr3KH2x2W3WWrNp5pFm_7VslNql8Ym5J4W6zbSMk5dwWLZW84=
+CZ_K2gkQg4W3ybd0l2v43LkW1p88ls63ms8tW6W-Rc134KQSjW5CTDV423tQQ1W8v5L6h6rpP3v=
+W6jPgzV7c-5_pW954QRz8RRH9RW49X4j_3R_8JrW5_jXjq4v9Lhqf6yDngn04" data-hs-link=
+-id=3D"0" target=3D"_blank">6. Process Hundreds of GBs of Data with Coiled =
+Functions and DuckDB</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+=
+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3qn9gW7Y8-PT6lZ3k=
+DW15P0Wr9083zsW38mn9t1by40hW4bTVww7C6TlNVCkkwj8qwTVLW5Hb8f61TZxr0W33hhy07Qn=
+xLRW5-6NMj416RJXW6h7j1_5CL83vW39QGyJ7hpwXzW3kFWtZ1ZBBfxW8g1CQq78-vp_W2C8f0j=
+2FMCc6W94t3MP8YQR4wW6nV9yj74LYtBMWWQwrk-1pwW3tSF902n-ZFQV5dr2w4-XLGyW4DFWZg=
+6fTj3yN1nzPm4mZw8cW4GmY3y7l-Ll0Mv4qfffytbXW7w2Z8M1C65b9W6F9-506Fw1kyW2rVd-N=
+45CR60W4j94HG1WzKXpN4z2MpJ6D7Csf2rftZl04" data- href=3D"https://www.linkedi=
+n.com/in/patrick-hoefler/" data-hs-link-id=3D"0" target=3D"_blank">Patrick =
+H=C3=B6fler</a><span> shares a very interesting use case for DuckDB: combin=
+ing it with Coiled Functions.</span></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+    <img src=3D"https://hs-22616816.f.hubspotemail.net/hub/22616816/hubfs/i=
+mage7-1.jpg?upscale=3Dtrue&amp;name=3Dimage7-1.jpg" alt=3D"image7-1" width=
+=3D"100%">
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313JR3qn9gW8wLKSR6lZ3nTW3gy8zS2Rcqr=
+_W40Q-RC6gjH58N68W3tLrKkWbW6kHv3g5tgsLNW7Y9cmy6yWgksW4MkWn726261_W98Rh2K46s=
+xzGW6hsqrx7hPgHvW8D2SK74zRq-QW540SVH80cgmyN2x4qppQqqzVVcNLZY1BsdVRW9jBKwn6T=
+494GW6QHDvb5zM1lCW3dGZ4W78mDM4W8vSqln6RC6PjW3JCmP72_D73HW2TdsSZ5d2JmpW5zWKT=
+r2H9DQnVRWRV74q5sFjN33dsMqlQbzcW99Q7J07dyzF4W5gF_WD8mlsTcVdrmWZ18NwdnW6bVzp=
+r5nfdRxN1ScPWQgwNcGW8QhTqk8tvVjkV5Y-4L92m_hPf6V3kCH04" data-hs-link-id=3D"0=
+" target=3D"_blank">7. DuckDB vs. MotherDuck=E2=80=8A=E2=80=94=E2=80=8Ashou=
+ld you switch to the cloud version?</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p style=3D"margin-bottom: 1em; "><a href=3D"https://d2G=
+F5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1P=
+HNH552tyNCN4313JR3qn9gW8wLKSR6lZ3plVZ4Qyk468tbmVpFsxQ4h99CbW20RvpH2GrxK_W56=
+RFWV5KwJCrW32lWCv5WH0YQW4DWzVK6WXZNtW4rtWhN99ptv0W8m3v7394gs27W54p3Vb1dsFZ1=
+W5jx1Vp16Jq5bW7Rlfj89jz5kkW4gR9j435PwwnW8pVt2H2XP8QJW2hmgk46YFJs0VhK1yj1xwz=
+mjW6Y_YZS4zgYJyW4fQfr97zsFwrW3wmzGS8KrM11W10Zgrw2Fqjc4W2kyHNW6G8_zgVn0vrb5b=
+cLlKW79t408835_CGW8HBjrf110kphW356BpL33bsGMW7QhxxQ3zzZ6nW2qJxtS6W51NxW6d50J=
+l1KMhFFW1rYSMB8CkMN2f6vJLXq04" data-href=3D"https://www.linkedin.com/in/ann=
+a-geller-12a86811a/" data-hs-link-id=3D"0" target=3D"_blank">Anna Geller</a=
+><span>&nbsp;provides an interesting perspective on which version of DuckDB=
+ to use: your local DuckDB instance or the managed DuckDB from Motherduck.<=
+/span></p></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313K63qn9gW95jsWP6lZ3ncW71lnpP3n1Nz=
+cW39gCpl41zy87W42wt2G2fp7jPW169VZr5gpjp3W1Q9C1w18rPD0W1vLNM07ZXkdDW475qH-47=
+-B7GW7GD5PR2v5b_gW2mfNb63qzpLJN6JV6LCYyLHJW7m1dsH2X8c9tW3w1_fs5KDtDPW80-Sd5=
+1L7RgGW6fHZf14Z7FJSW5JrBXf8-dRWpW43XJ0p4hSWzYW2SR41X3nHMTMVN9Q0P72m9ClW65R7=
+BZ4YzPtxW1rWPKh2CY7B1W82RRMw7KgPmLW6F1mFl3-3yyXMjPKHtCPmgqW3xmc9R7cgFFRW4qS=
+F8858-rW-W1zQGrm2JSRThW3W-KkM7wggfbW67T1dL2DQ_ljW470RPx7pvRq4W30wkjT8QTTG0f=
+4NvD2W04" data-hs-link-id=3D"0" target=3D"_blank">8. Exploring the Overture=
+ Maps places data using DuckDB, sqlite-utils and Datasette</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p style=3D"margin-bottom: 1em; "><a href=3D"https://d2G=
+F5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1P=
+HNH552tyNCN4313Jd3qn9gW7lCdLW6lZ3l4W5fdfSv4VFFyqW7CMljG2QmWTGW5430MV3wkBZqW=
+26tCmG81Q5HwW1YJR5Y5SRRZNW6Px8K396kh27VV9BXQ3ZrDCTN249lLH4PrB3W4W0cDy4_9nls=
+W6KGZ7S33j6wMW62MX1M4D1Q56VVsgPr5fnFJ7N1z0q8J2W4dnW2pl19t87CH6wVT-YFK6Np05m=
+W6PK9FX1YknwcW5LrH2j4827d-W33lylP56HKNyW7KwZNq1j7jJ0MBX0KVTzhLwVRlF674frQ0V=
+W2_MvKM81btjpW67-BdC8H9DgxW1zYYpY8sDNmXf7KtPsW04" data-href=3D"https://twit=
+ter.com/simonw" data-hs-link-id=3D"0" target=3D"_blank">Simon Willison</a><=
+span>&nbsp;shares his interesting perspective about working with maps and D=
+uckDB, sqlite-utils, and Datasette.</span></p></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313H25nXHsW50kH_H6lZ3lBW7pt-xB2bJ0W=
+pW2pFdFF1CK5lCW91MD4h2qqDkcVDPh3z55hqZRW3DFhgH6x6Dg6W7Th2SK7hCsl-W40dPr96v_=
+-GFW6gzshh1-BmxMW28x8Yb2vVw6WW4v0Z9C7qZBbMW8vcdx61p4trWW7pbcwF62xx3PN7jhlVK=
+llrgCW1lg0g27mm4zLVT2fzk5X1ZZdN72VZ8xBJ6XYW3PKnHT5HbHHmN5_3hxfjtnqGW1BGNvR2=
+FTMrSW6WkZYs28h2hMW5svkgr7JNCwwW87K1Dj1Nhy0HW9d7TrS6H-lqZMP_PKMXdpy6M9qmGsk=
+pJ-6W5KSptt6L9g-BN1FRfpbjPqCGW4cL6lv29GT2GW90Y32b7Sl8rxW1vysr52l5Hx0W2R9N8P=
+6Vt23cW4xfdTY5KLXXFf4ZqFPx04" data-hs-link-id=3D"0" target=3D"_blank">9. Ob=
+servability and Log Analytics with DuckDB</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p style=3D"margin-bottom: 1em; "><span>Juan Carlos M=C3=
+=A9ndez plays with the idea of using DuckDB for observability and log analy=
+tics.</span></p></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+    <img src=3D"https://hs-22616816.f.hubspotemail.net/hub/22616816/hubfs/i=
+mage5-1.jpg?upscale=3Dtrue&amp;name=3Dimage5-1.jpg" alt=3D"image5-1" width=
+=3D"100%">
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"" data-hs-link-id=3D"0" target=3D"_blank">10. DuckDB Wasm =
+Kit</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151043978034_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><span>Hooks and utilities to make it easier to use duckd=
+b-wasm in React apps. Created by&nbsp;</span><a href=3D"https://d2GF5Y04.na=
+1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552ty=
+NCN4313Jd3qn9gW7lCdLW6lZ3nRN8QXpL27D3xyW32pLD15m0frGW7K3rrZ4vssZxW7mQFYg4_H=
+hcYN804n99CsWfxN7g3MvlrMgZMW5JKKgP47DSpVW7bhTVL3XD876W4XK48t5V0ysNW9cx-1M7w=
+n69sW8yPhVC2Dtld0W49TDL3923vPsW8bgyqq8qpCpVW54XPrz1WHKr4W1Hj9w073Hrm5W1KVyq=
+s5LGpGWN4Wt1yhgWW-RW8k4NGP2hnGrHW3V6hh371BZWFN4CyYhJ1JKdtW7f2jb-2pL-wwW3RNP=
+Th6G6zvNW51RYT155GVncW1m2jbx2rM0Ljf8cvf3P04" data-href=3D"https://twitter.c=
+om/holdenmatt" data-hs-link-id=3D"0" target=3D"_blank">Matt Holden.</a></di=
+v>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+ =20
+</div>
+    <div id=3D"hs_cos_wrapper_module_168151544472938" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inheri=
+t; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"w=
+idget" data-hs-cos-type=3D"module"><h2>
+Upcoming Events
+</h2>
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jd3qn9gW7lCdLW6lZ3lwVfsb-Q7M9bgj=
+W7FC8F07R9_yjW3WmpcY8kPD0dW2tSg6h3zpFCdW4CGP6k6dHSmmW2KBw7R5wstxWW7HS1h01HF=
+B91W4Hf0z48h1h7lW3Dp2zn72cxb4W61N-rk16YznnW7TDZH23jFqf5W1f0ksQ6Yl8M7W8jnNjN=
+3ZQjxvW3j-y1F7MvK1KW8BX8p32yhFQcW7HSm9Q4KS9g8VKD3GR6pw0mXW7sCdNm1X6-SfW3vhl=
+B81GmZZ1W5xBmd63wqjb5VkmcJD3b6RWdW517Wg65gCxNXN7gBZ3ZdF6JKN2HFhk4f0cH6f3Phk=
+hb04" data-hs-link-id=3D"0" target=3D"_blank">1. DataEngBytes 2023</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     <b>August 2023</b>
+  </p>
+  <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151544472938_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p style=3D"margin-bottom: 1em; "><a href=3D"https://d2G=
+F5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1P=
+HNH552tyNCN4313Jd3qn9gW7lCdLW6lZ3m4W6YP9xw92kfcnW8fV-Yq1PJhnfW70GGTq3B0_HxW=
+5nWMQk8FWTxWW5F0t572F4W8mW5RTx__2MLXXLN6GMRj8KVZRwW4YXpt18-GDhTW6Mff1K9819N=
+tMNtbZ9cx_jLW2S5mVW6XvZtLW5Qg7fw3SqX3RW3_ZTjN3VWZw5W8ry_Jm1HG-NFW1CmLY15DCD=
+9MW7LMV2X66VB5DW1-dnng91MGYLN5tG1HVbGsYfW4MRKsM2pFqlQW8ZjGLQ8Pkkg-W2RTj6_27=
+z9XCW2QblsL5kVRlsW3LZspK52hywJW2bb3v41_yrHDf6B-spF04" rel=3D"noopener" data=
+-hs-link-id=3D"1" target=3D"_blank">DataEngBytes</a> is a unique annual con=
+ference happening across four cities in&nbsp;<span aria-level=3D"1" role=3D=
+"heading">Australia.</span></p>
+<p style=3D"margin-bottom: 1em; "><a href=3D"https://d2GF5Y04.na1.hubspotli=
+nks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3q=
+n9gW7Y8-PT6lZ3mwW74r7m_7GzM8zW3ZgxhQ22NgmnW4tbl9y2SKQzqW4BR9hV631F6KN5qB3z-=
+rpXn1W7SZGPl3xWnq5W48vJxj76gJnWVq1C9S7MgnRWW6tqBwg8MygxKVjvmZy9kjKT3W3Lb4l6=
+8Pzh30W42nPTx5V4BgbW3Fw2p42YD12CW7kJpZW51wW2GW7zlKjh86RhdMW7z3BlM3yMTvjW779=
+Gkc4fkbJHW679Pc55nSCRbTtr7m4NBBtzN9lJXdbr5k5xW5-FJJt5Fx6RJW2pVhy42KtLtWW3SB=
+YSL788YKpN2w7SlSJ7M4nVhTr6Y5Q9B80W4wQDDM1sh3bJf3pb4xM04" rel=3D"noopener" d=
+ata-hs-link-id=3D"0" target=3D"_blank">Ryan Boyd</a><span aria-level=3D"1" =
+role=3D"heading"> </span><a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/C=
+tc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3qn9gW7Y8-P=
+T6lZ3pKW7Z6XZK90jjtMVL_G804Q0Y0hW3_mnvw9gLj5BW4lvRzk7Kln4YW6TKB5m915D7FW7gG=
+qwg7kTJRDW26wnyc2FcWyYW4jdV6X20lbQzW6LHxHW8C1z6PMkPR39GKtq5W2QZW-K1XPK68N8t=
+K166NW3R1W4KZ44g3vFTjHW7Bl3vn8sVhFhW224Lc-3-80qmW9hb-bD2V1dkVVZRxqx7v0scpW6=
+JN7vR8WHcnjVhq1Kk4kVtzsMT8lYbQWvVBTtBh94RTBqNW4lqWCY5DgG3SW1j2mfN6zsWrDW7qQ=
+0rP86gqh3W2h5jKK6wQvtHW64qTJm7yH7G6f8LLZxn04" rel=3D"noopener" data-hs-link=
+-id=3D"1" target=3D"_blank"><span aria-level=3D"1" role=3D"heading"></span>=
+</a>from MotherDuck and many others data leaders will present awesome talks=
+!</p></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313JR3qn9gW8wLKSR6lZ3kHN5wpN_nYqzlx=
+VvPJS293lYd4W2rF4pj6gJ29CW5HXx-t3qx_-SW8lGwT6543zRHW5FF-Nd58s8-wW3tHNLT3pyz=
+v_W7Pmzpk6__YG0N8CNTx6CNd2YW84VvWZ4yjQKNW6CwRjR6X_p75W500fK27fy-KBW17dF3l6c=
+By9qN2qf7fxSk-8nW6Tz88z5HDsFHW1Cw0588xLkRYVWvhFv3S4PWVN9fCXk_8cHHZW5Tg1wV6Y=
+BtbXW299Tyc2fSLcfV1mq-Q8QH8HnW5N4Dr06Fbw3sN3jdJjGlLgbvW6Z1dl617nrm4W2Q1mFz5=
+G-cnyW1bt1B07z0vgrW7W2WDc1q14YbW33yGDL4QvqJHf83P9X604" data-hs-link-id=3D"0=
+" target=3D"_blank">2. LONDON LOW KEY DATA MEETUP MOTHERDUCK &amp; LEIT DAT=
+A - 19TH SEPTEMBER 2023</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     <b></b>
+  </p>
+  <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151544472938_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><section>
+<p style=3D"margin-bottom: 1em; ">Join MotherDuck and LEIT Data for a low-k=
+ey data meetup right before Big Data London conference! More info about the=
+ event<span>&nbsp;</span><a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/C=
+tc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313JR3qn9gW8wLKS=
+R6lZ3m0W93JCZz1-sQPQW8XYRkL2Gxks8W99CG_b6ZQkRvW1BDCyg2G6-qpW4fmQRJ6G9DsKW7X=
+7j-l6-D_gLW3sjnhT3KhHl_W1gqdpR2LK6ZZW3Ncp8D4WjS0WVdnX4t85CGf2W8jf8S-8lzvX5W=
+92K1-F7Dd5l0W1CN7V377_9l4W4CgSG45487xSW6BF73T6fhScVW8SZTKt9jr65HN8-0mJDsV8p=
+fW3LpCps8XXcSLW8zWk_D1hNyqpW2fVt_0457DDbW6dDtwH43GnlxW2l7HLy4KfSJ-M-r5BgrbP=
+9mW1HG3nv4yP2zSVw_7cw8JLNH0W2r9Kt14QqKRBW6fPTjS20gJYbW4Xl-lV1qxYpHf3yNH-W04=
+" data-hs-link-id=3D"1" target=3D"_blank">here</a>. Don't forget<span>&nbsp=
+;</span><a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y0=
+4/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313HF5nXHsW69t95C6lZ3mpW5S50XH8JW=
+6_vW4c31Tt2PkFptVsxLN92VNjSDW5QwlqZ14b-b8W655jsB5jqB9tW7DtXty6D-vThW1yzWST2=
+LRlntW8FQCdt7yWfpNW8Z13vr6ytZ-mW2jk7FJ1WdVSTW5Y6P1j5VmKJ3W8l5SHK7CzrhMW5wbv=
+F25SyhrbW1PJLW-3y8Sr_W15t2Wj132jJnN6HXpvBsvMf9W4vlMGH51PwS5W8DhqS76cTCLwW1k=
+QMz62wzSCzW8L2NQz2pXpK4W4jrPYq4JVsZxW29t46r7g166cW6f07zY5N23ztN60QZd88_9frW=
+7-x-Xt3rybDqW4yVZdD71YLJ8W2Nxg5H7vGV7ZW9hKqPv1BNF5XW1VH-1D9d9WjJW7RC2369bhm=
+_bW7QJ4vk8VgW5FW1fY6Cd6PYQlXW4YgXWZ53KVGJN5plbVJDnL6NW3bXRHH7-Cbn0W7qCLpl7m=
+GmFPdmjkdH04" data-hs-link-id=3D"0" target=3D"_blank">to register</a><span>=
+&nbsp;</span>to get a free drink!</p>
+</section>
+<section></section></div>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+ =20
+ =20
+    <h3>
+      <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/=
+VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313HF5nXHsW69t95C6lZ3lZW1LcZLc7TBHY=
+1W3hYRLd5Z0MSFW3pnL1W46Y0dhVMq4gP3nRBy3W5MtssW6f1jRwW2V6_hr2BSfFyW8Ym6N97Fn=
+LbzN69pYqjnby_4N5tlN9L7JZDKW7LNCVZ32KSmLW2dkSWS44fHZ7W8GdPkL15FDjKW2f9Rn73Y=
+VSW8W6gcwSR4-xN_9W3vPhqD7Kcpg9W8mzXgc8HRPH8W2fDy2N5ZngW3W28ZrB596HXZTN50_-S=
+37zfGQN3DQ6nWLdlJJW6w6KJn8bvMl6W2zWq9m17Ms9GW7WZ4Hc1LBQcBW2WyqDT7CfMq7W50nK=
+dC4LJqS1W45XNy714K0NHW6j3Zgx8js3TDW2hJF7D1SX2p5W6Mp63668_jpfW50f4cJ9cfcHnW6=
+qXhJb84lkYsW54N-PL6v4yT7W79WMDs61wdklW7G-SVb4SMDMjVz1Mg16Sb2scW4gzfPK5D_ktY=
+f8L1g4M04" data-hs-link-id=3D"0" target=3D"_blank">3. MotherDuck Meetup Use=
+r group - September 2023</a>
+   </h3>
+   <p style=3D"margin-bottom: 1em; ">
+     <b></b>
+  </p>
+  <p style=3D"margin-bottom: 1em; ">
+     </p><div id=3D"hs_cos_wrapper_module_168151544472938_" class=3D"hs_cos=
+_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-f=
+ield=3D"link_body"><p data-line=3D"138" dir=3D"auto" style=3D"margin-bottom=
+: 1em; ">MotherDuck, in collaboration with<span>&nbsp;</span><a href=3D"htt=
+ps://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2=
+__q9HW1PHNH552tyNCN4313Jd3qn9gW7lCdLW6lZ3mGVs0wl67xq6HSW7PFWYW5_vZnrW7GXhTh=
+3mV8YkW1688nX2fbW5PW4s-Jtm8Sp4NTW2ymqyN7sF7msV4CkC84ZWmk7W9crPTW19b0PYW9lvH=
+rx27xwc4VTh2q56C4cQqW38d4Cr1XZdj6W6Sw8ns3GQKqFW7ymwc01FDfMfV3PVJ_86mzgtW3_V=
+gWQ802k-hW8j4QN77cQ0rDV4YxT65Z-jYYW8-ff1M607XLbW1Y6VSJ2hV9tBW54F7w67ZqtmvW4=
+fzbqz5gN8_hW1wnllG1Dxv9DW3Z2gLg5NKnNlW3sHzRx2jBvpPf1NL--C04" data-href=3D"h=
+ttps://dataroots.io/" data-hs-link-id=3D"0" target=3D"_blank">Dataroots</a>=
+, is pleased to announce our very first in-person user meetup group in Belg=
+ium on 25th September to talk about MotherDuck, DuckDB and all the things d=
+ata.</p>
+<p data-line=3D"140" style=3D"margin-bottom: 1em; ">Full agenda and registr=
+ation<span>&nbsp;</span><a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ct=
+c/W4+113/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313HF5nXHsW69t95C=
+6lZ3plF72D2_CJP--W6sjvxr4ZmFDlW6G-J2v93XZMFMMHHR1pfTsFW2Y24Kg6qr4XPW3hY3WP8=
+sxQ0xW2zT9sl8DfNX8W7p2p837xlwBJV69Lt726XWpfW7svxQV5Y8t-MW61G8d16tPBRFW85gHV=
+q2K5tBXW5CwM348Qh7PqN4nBwLxGHwsBW5nw-wm4BRqcwW4FWnxk82fcZgW7bSMFF4jXmHWW8Z3=
+rDZ819YGXW6Pzt9D8r3llcVSb8YX79TgXDW6k1vDj6z0R7qW3JZZ748CNlP7N21Nndk-lyr4W1G=
+Sth816dD3FW2KJBvm87QTMdW5nyMcc8M3PvbW1q8P-22TRxcNV3JKF43NvFXsW5-8knv8dM4vxW=
+4ccPC-4QpCJCW1LtCHC8lK7-WW8sM1y02vSMH9W7qh-2-8nb0czW2CwjPm6WNVLtN9j2Xpgs7D3=
+dW8rMVV01RKmt7f8pL8x004" data-href=3D"https://www.eventbrite.com/e/motherdu=
+ck-duckdb-user-meetup-be-september-2023-edition-1-tickets-685756505167?aff=
+=3Doddtdtcreator" data-hs-link-id=3D"1" target=3D"_blank">here</a>.</p></di=
+v>
+  <p style=3D"margin-bottom: 1em; "></p>
+ =20
+ =20
+ =20
+</div>
+    </div>
+    <!-- Office location information and unsubscribe links -->
+    <p id=3D"footer" style=3D"margin-bottom: 1em; min-width:280px; max-widt=
+h:600px; margin-right:auto; margin-left:auto; font-family:Inter; color:#444=
+444">
+      MotherDuck&nbsp;
+      113 Cherry St PMB 77153&nbsp;
+      &nbsp;
+      Seattle&nbsp;
+      WA&nbsp;
+      98104&nbsp;
+      United States&nbsp;
+      <br>
+      <br>
+      Update your <a href=3D"https://d2GF5Y04.na1.hubspotlinks.com/Ctc/W4+1=
+13/d2GF5Y04/VW0qk283dRkPW6W4Nh-2__q9HW1PHNH552tyNCN4313Jx3qn9gW7Y8-PT6lZ3mX=
+W4Xw5XM6S6MtbN5fN7q5yJ4-cW5fMQg51GR8L8W6mPcZF1d2CWzW698K566GrMdMW2zwpQs1Vxm=
+7-W1l7T-d3bY-VLW8F70vC6pS5NZV8GFCy3G-yRwW6LS65s2-bVb9W6DsLBv6sBd92W2RHj-w6V=
+c05VVklr8796vLztW4sSb0L8GCLtLW4tPfDQ52BG7LW6mN8cG6WXCkZW2dX36k72SVXjW1mYL63=
+2vh3PhVz0TSP6jcZp8N9fFNLLQdsX5VfqJVw4xXgCwW8jQSdr9dXRxhN29W1HWMGFYGW1kNNPS2=
+W6b7dW7RNMXS5dlrMzW1ShLmd5TtLsjf8_RJsd04" data-hs-link-id=3D"0" target=3D"_=
+blank">email preferences</a> to choose the types of emails you receive.
+      <br>
+      <a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"https=
+://hs-22616816.s.hubspotemail.net/hs/manage-preferences/unsubscribe-all?lan=
+guagePreference=3Den&amp;d=3DVnd6bx6FVQcRVMjsmj3XtPp7W3K2-tw3_zmqpW4r5qtN3_=
+fWp7N4-y9QjmWcNhW7Pbymw7pyTJLV25wFX7ZynWGW7vj8bx8NkKHQN5W2nWt1yf0NW31w5Vr4R=
+-5kgW4qJ-yg3cXJ68n6H4t6x3t3&amp;v=3D3&amp;utm_campaign=3DDuckDB%20Ecosystem=
+%20Newsletter&amp;utm_source=3Dhs_email&amp;utm_medium=3Demail&amp;utm_cont=
+ent=3D271059179&amp;_hsenc=3Dp2ANqtz--Li_cGYh1QzqGD7eoMyCeUIohI7dwjD1ESGdVR=
+-ZFYQsG-xQAYuEiatZTnTJM_F9vADxWcWPEiYbfbipxsd6B1z4A7Yw&amp;_hsmi=3D27105979=
+4" data-hs-link-id=3D"0" target=3D"_blank">Unsubscribe from all future emai=
+ls</a>
+    </p>
+ =20
+<img src=3D"https://d2GF5Y04.na1.hubspotlinks.com/Cto/W4+113/d2GF5Y04/VW0qk=
+283dRkPW6W4Nh-2__q9HW1PHNH552tyNCW4313s28fYJTf2ZF1" alt=3D"" width=3D"1" he=
+ight=3D"1" border=3D"0" style=3D"display:none!important;min-height:1px!impo=
+rtant;width:1px!important;border-width:0!important;margin-top:0!important;m=
+argin-bottom:0!important;margin-right:0!important;margin-left:0!important;p=
+adding-top:0!important;padding-bottom:0!important;padding-right:0!important=
+;padding-left:0!important"></body></html>
+------=_Part_3767719_573081442.1692626490202--
+
