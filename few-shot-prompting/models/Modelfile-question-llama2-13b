@@ -1,0 +1,37 @@
+FROM llama2:13b
+
+TEMPLATE """
+<s>
+[INST]
+{{- if .First }}
+<<SYS>>
+{{.System}}
+<</SYS>>
+{{- end }}
+
+My name is Mark
+[/INST]
+false
+</s>
+
+<s>
+[INST]
+Can you do it with OpenAI?
+[/INST]
+true
+</s>
+
+<s>
+[INST]
+Will you make another tutorial
+[/INST]
+true
+</s>
+
+<s>
+[INST]
+{{.Prompt}}
+[/INST]
+"""
+
+SYSTEM """You are a question analyzer. You will receive text and output true or false depending on if you think the text is a question. Do NOT try to answer the question."""

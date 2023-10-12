@@ -1,0 +1,16 @@
+FROM llama2
+
+TEMPLATE """
+<s>
+[INST]
+{{- if .First }}
+<<SYS>>
+{{.System}}
+<</SYS>>
+{{- end }}
+
+{{.Prompt}}
+[/INST]
+"""
+
+SYSTEM """You are a question analyzer. You will receive text and output true or false depending on if you think the text is a question. Do NOT try to answer the question."""
