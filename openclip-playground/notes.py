@@ -20,14 +20,14 @@ import base64
 import hashlib
 
 embeddings = []
-for image in glob.glob("images/*.png"):
-    with open(image, "rb") as image_file:
-        embedding = model.embed(image_file.read())
-        embeddings.append({
-            "embedding": embedding,
-            "filePath": image,
-            "id": base64.b64encode(hashlib.sha256(image.encode()).digest()).decode()
-        })
+for image in images:
+  with open(image, "rb") as image_file:
+    embedding = model.embed(image_file.read())
+    embeddings.append({
+      "embedding": embedding,
+      "filePath": image,
+      "id": base64.b64encode(hashlib.sha256(image.encode()).digest()).decode()
+})
 
 import chromadb
 chroma_client = chromadb.PersistentClient(path="images.chromadb")
