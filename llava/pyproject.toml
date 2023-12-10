@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "llava-video"
+version = "0.1.0"
+description = ""
+authors = ["Mark Needham <m.h.needham@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.29.0"
+requests = "^2.31.0"
+pillow = "^10.1.0"
+rich = "^13.7.0"
+ipython = "^8.18.1"
+watchdog = "^3.0.0"
+pandas = "^2.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
