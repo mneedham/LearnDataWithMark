@@ -53,3 +53,13 @@ collection.query(
     n_results=3
 )
 ```
+
+In this video, we'll learn how to build an image search engine with Streamlit and the CLIP embedding library, guided by insights from Simon Willison's blog. We demonstrate embedding text and images using CLIP, showing how to process and embed multiple images for a database. We then explore adding these images with metadata into ChromaDB and query the database with examples like a "cute dog" and a "green jumper".
+
+We then build a UI using Streamlit app, with features for inputting search terms or uploading images, and displaying results. Practical tests show the effectiveness and limitations of the search engine, highlighting areas for potential improvement with future embedding algorithms.
+
+#Streamlit #ImageSearch #MachineLearning #CLIP #Python #DataScience #AI
+
+Code used on the terminal - https://github.com/mneedham/LearnDataWithMark/blob/main/openclip-playground/console.py
+Streamlit app - https://github.com/mneedham/LearnDataWithMark/blob/main/openclip-playground/app.py
+Simon Willison's blog - https://simonwillison.net/2023/Sep/12/llm-clip-and-chat/
