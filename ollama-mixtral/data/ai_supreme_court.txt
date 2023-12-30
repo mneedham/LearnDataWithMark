@@ -1,0 +1,21 @@
+The UK Supreme Court has upheld earlier decisions in rejecting a bid to allow an artificial intelligence to be named as an inventor in a patent application.
+
+Technologist Dr Stephen Thaler had sought to have his AI, called Dabus, recognised as the inventor of a food container and a flashing light beacon.
+
+But in 2019, the intellectual property office (IPO) rejected this, saying only a person could be named as an inventor.
+
+The decision was then backed by both the High Court and Court of Appeal.
+
+The IPO has argued, and courts have supported the view, that only "persons" can have patent rights, not AIs.
+
+Now five Supreme Court judges have dismissed a bid to reverse those decisions, concluding that "an inventor must be a person", and that an AI cannot be named as an inventor to secure patent rights.
+
+The judgement does not deal with the issue of whether Dabus did in fact invent the food container and light.
+
+Dr Thaler, who believes that Dabus is a "conscious and sentient form of machine intelligence", told the BBC "Naturally, I feel disappointed by this decision, highlighting the ongoing clash between human and machine intelligence."
+
+The IPO told the BBC it welcomed the judgement and the clarification it provided.
+
+But it added that "the government will nevertheless keep this area of law under review to ensure that the UK patent system supports AI innovation and the use of AI in the UK".
+
+Rajvinder Jagdev, of specialist intellectual property litigation firm Powell Gilbert, said: "The judgement does not preclude a person using an AI to devise an invention - in such a scenario, it would be possible to apply for a patent, provided that person is identified as the inventor. The judgement alludes that had this been the scenario it had been asked to consider, the outcome may have been different."
