@@ -6,6 +6,7 @@ Explore the code and scripts behind the [Learn Data With Mark](https://www.youtu
 
 | **Topic**                         | **Resources**                                                                                                     |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Retrieval Augmented Generation | [Video](https://www.youtube.com/watch?v=Cim1lNXvCzY&t=63s) \| [Code](https://github.com/mneedham/LearnDataWithMark/tree/main/retrieval-augmented-generation) |
 | Consistent JSON with OpenAI/GPT   | [Video](https://www.youtube.com/watch?v=lJJkBaO15Po&t=3s) \| [Code](https://github.com/mneedham/LearnDataWithMark/tree/main/json-gpt) |
 | Running Mixtral with Ollama       | [Video](https://www.youtube.com/watch?v=rfr4p0srlqs) \| [Code](https://github.com/mneedham/LearnDataWithMark/tree/main/ollama-mixtral) |
 | Constraining LLMs with Guidance AI| [Video](https://www.youtube.com/watch?v=4Wz61w5zbCk) \| [Code](https://github.com/mneedham/LearnDataWithMark/tree/main/guidance-playground) |
