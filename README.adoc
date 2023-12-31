@@ -19,6 +19,9 @@ link:https://github.com/mneedham/LearnDataWithMark/tree/main/ollama-mixtral[Code
 | __**Constraining LLMs with Guidance AI**__ + 
 In this video, we'll learn how to use the Guidance library to control and constrain text generation by large language models, specifically integrating it with the llama CPP library and the Mistral 7B model. We'll build an emotion detector with help from functions like select which restricts generation to an array of values and gen, which can be controlled by regular expressions. We'll also learn how to create reusable components and output results in JSON format. | link:https://www.youtube.com/watch?v=4Wz61w5zbCk[Video] +
 link:https://github.com/mneedham/LearnDataWithMark/tree/main/guidance-playground[Code]
+| __**LLaVA: A large multi-modal language model**__ +
+In this video, we'll learn about LAVA (Large Language And Vision Assistant), a multimodal model that integrates a CLIP vision encoder and the VICUNA LLM. We'll see how well it gets on describing a cartoon cat, a photo of me with AI generated parrots, and a bunch of images created by the Mid Journey Generative AI tool. And most importantly, we'll find out whether it knows who Cristiano Ronaldo is! | link:https://www.youtube.com/watch?v=q59QMugQyaQ[Video] +
+link:https://github.com/mneedham/LearnDataWithMark/tree/main/llava[Code]
 |====================================
 
 == Vector Search
