@@ -1,0 +1,46 @@
+= Learn Data With Mark
+
+Explore the code and scripts behind the https://www.youtube.com/@learndatawithmark/videos[Learn Data With Mark] YouTube channel.
+
+== Large Language Models
+
+[options="header",cols="6,1"]
+|====================================
+| Topic | Resources
+| __**Retrieval Augmented Generation**__  +
+In this video, we'll learn how to use Retrieval Augmented Generation with Chroma and LangChain to provide an OpenAI/GPT LLM prompt with more data to effectively answer our questions about the Wimbledon 2023 tennis tournament. | link:https://www.youtube.com/watch?v=Cim1lNXvCzY&t=63s[Video] + 
+link:https://github.com/mneedham/LearnDataWithMark/tree/main/retrieval-augmented-generation[Code]
+| __**Consistent JSON with OpenAI/GPT**__ +
+In this video, we'll learn how to return a consistent/predictable/valid JSON response to a sentiment analysis prompt using OpenAI. | link:https://www.youtube.com/watch?v=lJJkBaO15Po&t=3s[Video] +
+link:https://github.com/mneedham/LearnDataWithMark/tree/main/json-gpt[Code]
+| __**Running Mixtral with Ollama**__ + 
+In this video, we'll learn about Mixtral, the latest large language model from Mistral AI. Mixtral employs a mixture of experts approach, with eight models and a router to manage queries, enhancing the AI's response quality. We're going to run Mixtral on our own machine using the awesome Ollama tool. We'll then compare Mixtral with the original Mixtral model on a variety of tasks including sentiment analysis, summarisation, suggesting prompts to review books, and updating Python code. | link:https://www.youtube.com/watch?v=rfr4p0srlqs[Video] +
+link:https://github.com/mneedham/LearnDataWithMark/tree/main/ollama-mixtral[Code]
+| __**Constraining LLMs with Guidance AI**__ + 
+In this video, we'll learn how to use the Guidance library to control and constrain text generation by large language models, specifically integrating it with the llama CPP library and the Mistral 7B model. We'll build an emotion detector with help from functions like select which restricts generation to an array of values and gen, which can be controlled by regular expressions. We'll also learn how to create reusable components and output results in JSON format. | link:https://www.youtube.com/watch?v=4Wz61w5zbCk[Video] +
+link:https://github.com/mneedham/LearnDataWithMark/tree/main/guidance-playground[Code]
+|====================================
+
+== Vector Search
+
+[options="header"]
+|====================================
+| Topic | Resources
+| __**Introduction to Vector Search**__ +
+In this video, we're going to learn about vector search using scikit-learn.| link:https://www.youtube.com/watch?v=RWRiTmRsyrY&t=76s[Video] +
+link:https://github.com/mneedham/LearnDataWithMark/tree/main/intro-vector-search[Code]
+| __**FAISS Approx Nearest Neighbours**__ +
+In this video, we will learn about the capabilities of Facebook's FAISS library in the context of vector search. We will discuss the technical framework of Approximate Nearest Neighbours and its implementation using Cell Probe methods. We will illustrate this with a visualization of 10,000 2D arrays and detail how the vector space is partitioned. Additionally, we'll explain the role of the K-means algorithm in FAISS's partitioning process, the steps to train your index, and methods to identify centroids that denote the cells. | link:https://www.youtube.com/watch?v=iY7HuG1r5YM[Video] +
+link:https://github.com/mneedham/LearnDataWithMark/tree/main/faiss-ann[Code]
+|====================================
+
+== Other Topics
+
+[options="header"]
+|====================================
+| Topic | Resources
+| __**TrueSkill Rating Algorithm**__ +
+In this video, we'll learn about TrueSkill - the algorithm used to rate players on Xbox Live. We'll cover how it works, its API, and then how to use it to find my favourite tennis players.
+| link:https://www.youtube.com/watch?v=zintSf6A78g[Video] + 
+link:https://github.com/mneedham/LearnDataWithMark/tree/main/trueskill-playground[Code]
+|====================================
