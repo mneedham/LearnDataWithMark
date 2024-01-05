@@ -4,7 +4,10 @@ In this video, we'll learn how to build a mini ChatGPT that runs on our machine 
 
 You can see the code of the steps up to the final solution:
 
-* [chat_echo.py](chat_echo-py) - Echos any messages you send.
+* [chat_echo.py](chat_echo.py) - Echos any messages you send
+* [chat_single.py](chat_single.py) - Answers questions but doesn't remember history
+* [chat_history.py](chat_history.py) - Answers questions and remembers history
+* [chat.py](chat.py) - Answers questions, remembers questions, and supports uploaded text files
 
 Set up a Python virtual environment
 
