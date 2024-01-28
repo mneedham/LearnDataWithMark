@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "ollama-library"
+version = "0.1.0"
+description = ""
+authors = ["Mark Needham <m.h.needham@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipython = "^8.20.0"
+rich = "^13.7.0"
+ollama = "^0.1.4"
