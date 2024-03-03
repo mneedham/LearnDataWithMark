@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "youtube-comments"
+version = "0.1.0"
+description = ""
+authors = ["Mark Needham <m.h.needham@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+scikit-learn = "^1.4.1.post1"
+numpy = "^1.26.4"
+plotly = "^5.19.0"
+ollama = "^0.1.6"
+pandas = "^2.2.1"
+python-youtube = "^0.9.4"
+streamlit = "^1.31.1"
+watchdog = "^4.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
