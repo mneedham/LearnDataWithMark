@@ -15,6 +15,18 @@ pandas = "^2.2.1"
 python-youtube = "^0.9.4"
 streamlit = "^1.31.1"
 watchdog = "^4.0.0"
+openai = "^1.13.3"
+ipython = "^8.22.1"
+rich = "^13.7.1"
+llama-cpp-python = "^0.2.55"
+umap-learn = "^0.5.5"
+matplotlib = "^3.8.3"
+datashader = "^0.16.0"
+bokeh = "^3.3.4"
+holoviews = "^1.18.3"
+scikit-image = "^0.22.0"
+colorcet = "^3.1.0"
+dask-expr = "^1.0.1"
 
 
 [build-system]
