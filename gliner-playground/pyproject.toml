@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "gliner-playground"
+version = "0.1.0"
+description = ""
+authors = ["Mark Needham <m.h.needham@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+gliner = "^0.1.3"
+ipython = "^8.22.2"
+rich = "^13.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
