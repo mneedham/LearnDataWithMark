@@ -1,57 +1,77 @@
+import ollama
 import streamlit as st
-from openai import OpenAI
+import asyncio
+import time
+from openai import AsyncOpenAI
+from token_count import TokenCount
 
-st.set_page_config(layout="wide")
-st.title("ChatGPT-like clone")
+title = "Running LLMs in parallel with Ollama"
+st.set_page_config(page_title=title, layout="wide")
+st.title(title)
 
-client = OpenAI(
-  base_url="http://localhost:11434/v1",
-  api_key="needed-but-ignored"
-)
+client = AsyncOpenAI(base_url="http://localhost:11434/v1", api_key="ignore-me")
 
-if "openai_model" not in st.session_state:
-    st.session_state["openai_model"] = "llama3"
+models = [
+    m['name'] 
+    for m in ollama.list()["models"]  
+    if m["details"]["family"] in ["llama", "gemma"]
+]
 
-if "right_messages" not in st.session_state:
-    st.session_state.right_messages = []
+with st.sidebar:
+    prompt = st.text_area("Prompt")
+    model_1_index = models.index("phi3:latest")
+    model_1 = st.selectbox("Model 1", options=models, index=model_1_index)
+    model_2_index = models.index("llama3:latest")
+    model_2 = st.selectbox("Model 2", options=models, index=model_2_index)
+    generate = st.button("Generate", type="primary")
 
-if "left_messages" not in st.session_state:
-    st.session_state.left_messages = []
+colours = {}
+colours[model_1] = "blue"
+colours[model_2] = "red"
+
+col1, col2 = st.columns(2)
+col1.write(f"# :{colours[model_1]}[{model_1}]")
+col2.write(f"# :{colours[model_2]}[{model_2}]")
+
+meta_1 = col1.empty()
+meta_2 = col2.empty()
+
+body_1 = col1.empty()
+body_2 = col2.empty()
 
 
-left, right = st.columns(2)
+async def run_prompt(placeholder, meta, prompt, model):
+    tc = TokenCount(model_name="gpt-3.5-turbo")
+    start = time.time()
+    stream = await client.chat.completions.create(
+        model=model,
+        messages=[{"role": "system", "content": "You are a helpful assistant."},
+                  {"role": "user", "content": prompt},],
+        stream=True
+    )
+    streamed_text = ""
+    async for chunk in stream:
+        chunk_content = chunk.choices[0].delta.content
+        if chunk_content is not None:
+            streamed_text = streamed_text + chunk_content
+            placeholder.write(streamed_text)
+            end = time.time()
+            time_taken = end-start
+            tokens = tc.num_tokens_from_string(streamed_text)
+            meta.info(f"""**Duration: :green[{time_taken:.2f} secs]**
+            **Eval count: :green[{tokens} tokens]**
+            **Eval rate: :green[{tokens / time_taken:.2f} tokens/s]**
+            """)
 
-with left:
-  left_messages = st.container(height=300)
-  for message in st.session_state.left_messages:
-      with st.chat_message(message["role"]):
-          st.markdown(message["content"])
 
-with right:
-  right_messages = st.container(height=300)
-  for message in st.session_state.right_messages:
-      with st.chat_message(message["role"]):
-          st.markdown(message["content"])
+async def main():
+    await asyncio.gather(
+        run_prompt(body_1, meta_1, prompt=prompt, model=model_1),
+        run_prompt(body_2, meta_2, prompt=prompt, model=model_2)
+    )
 
-# Accept user input
-if prompt := st.chat_input("Message ChatGPT-clone"):
-    # Add user message to chat history    
-    st.session_state.left_messages.append({"role": "user", "content": prompt})
-    st.session_state.right_messages.append({"role": "user", "content": prompt})
-    # Display user message in chat message container
-    with st.chat_message("user"):
-        st.markdown(prompt)
-
-  # Display assistant response in chat message container
-    with st.chat_message("assistant"):
-        stream = client.chat.completions.create(
-            model=st.session_state["openai_model"],
-            messages=[
-                {"role": m["role"], "content": m["content"]}
-                for m in st.session_state.left_messages
-            ],
-            stream=True,
-        )
-        response = st.write_stream(stream)
-    st.session_state.right_messages.append({"role": "assistant", "content": response})
-    st.session_state.left_messages.append({"role": "assistant", "content": response})
+if generate:
+    if prompt == "":
+        st.warning("Please enter a prompt")
+    else:
+        asyncio.run(main())
