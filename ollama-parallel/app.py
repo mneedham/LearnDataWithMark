@@ -9,6 +9,15 @@ title = "Running LLMs in parallel with Ollama"
 st.set_page_config(page_title=title, layout="wide")
 st.title(title)
 
+if not "messages1" in st.session_state:
+    st.session_state.messages1 = []
+
+if not "messages2" in st.session_state:
+    st.session_state.messages2 = []
+
+st.write(st.session_state.messages1)
+st.write(st.session_state.messages2)
+
 client = AsyncOpenAI(base_url="http://localhost:11434/v1", api_key="ignore-me")
 
 models = [
@@ -33,15 +42,20 @@ body_1 = col1.empty()
 body_2 = col2.empty()
 
 
-async def run_prompt(placeholder, prompt, model):
+async def run_prompt(placeholder, prompt, model, message_history):
     with placeholder.container():
         user = st.chat_message(name="user")
-        user.write(prompt)
+        user.write(prompt)    
 
+
+    messages = [
+        {"role": "system", "content": "You are a helpful assistant."},
+        *message_history,
+        {"role": "user", "content": prompt},
+    ]
     stream = await client.chat.completions.create(
         model=model,
-        messages=[{"role": "system", "content": "You are a helpful assistant."},
-                  {"role": "user", "content": prompt},],
+        messages=messages,
         stream=True
     )
     streamed_text = ""
@@ -52,19 +66,22 @@ async def run_prompt(placeholder, prompt, model):
             with placeholder.container():
                 user = st.chat_message(name="user")
                 user.write(prompt)
-                blah = st.chat_message(name="assistant")
-                blah.write(streamed_text)
+                assistant = st.chat_message(name="assistant")
+                assistant.write(streamed_text)
+    message_history.append({"role": "assistant", "content": streamed_text})
                 
 
 
 async def main():
     await asyncio.gather(
-        run_prompt(body_1, prompt=prompt, model=model_1),
-        run_prompt(body_2, prompt=prompt, model=model_2)
+        run_prompt(body_1, prompt=prompt, model=model_1, message_history=st.session_state.messages1),
+        run_prompt(body_2, prompt=prompt, model=model_2, message_history=st.session_state.messages2)
     )
 
 if generate:
     if prompt == "":
         st.warning("Please enter a prompt")
     else:
+        st.session_state.messages1.append({"role": "user", "content": prompt})
+        st.session_state.messages2.append({"role": "user", "content": prompt})
         asyncio.run(main())
