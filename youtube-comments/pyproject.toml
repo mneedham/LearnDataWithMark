@@ -27,6 +27,7 @@ holoviews = "^1.18.3"
 scikit-image = "^0.22.0"
 colorcet = "^3.1.0"
 dask-expr = "^1.0.1"
+duckdb = "^0.10.3"
 
 
 [build-system]

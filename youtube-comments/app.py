@@ -1,4 +1,5 @@
 import os
+import duckdb
 import streamlit as st
 from pyyoutube import Api
 from comments_util import get_all_comment_threads, cosine_similarity
@@ -20,13 +21,22 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+con = duckdb.connect("comments.duckdb")
+
 video_id = st.text_input('Video ID', 'RXDWkiuXtG0')
 st.components.v1.iframe(f"https://www.youtube.com/embed/{video_id}", height=350)
 
 API_KEY = os.environ.get("YOUTUBE_API_KEY")
 api = Api(api_key=API_KEY)
 
+video_details = api.get_video_by_id(video_id=video_id)
+
 threads = get_all_comment_threads(api, video_id, per_page=100)
+
+comment_metadata = [
+    (item.snippet.topLevelComment.id, item.snippet.topLevelComment.snippet.authorDisplayName)
+    for t in threads for item in t.items
+]
 
 all_comments = [
     item.snippet.topLevelComment.snippet.textDisplay 
@@ -40,6 +50,33 @@ def create_embeddings(all_comments):
         for comment in all_comments
     ]
 embeddings = create_embeddings(all_comments)
+
+with st.status("Saving video.....", expanded=True):
+    st.write("Saving video metadata")
+    con.execute("""
+    INSERT INTO videos
+    VALUES ($video_id, $title   ) 
+    ON CONFLICT DO NOTHING;
+    """, {
+        "video_id": video_id,
+        "title": video_details.items[0].snippet.title
+    })
+
+    st.write("Saving embeddings")
+    for text, embedding, metadata in zip(all_comments, embeddings, comment_metadata):
+        con.execute("""
+        INSERT INTO comments
+        VALUES ($comment_id, $video_id, $author, $text, $vec)
+        ON CONFLICT DO NOTHING;
+        """, {
+            "video_id": video_id,
+            "comment_id": metadata[0],
+            "author": metadata[1],
+            "text": text,
+            "vec": embedding
+        })
+
+
 st.header("Searching Comments")
 search_term = st.text_input('Search Term', 'I love this video!')
 if search_term:
@@ -48,6 +85,7 @@ if search_term:
             model='nomic-embed-text',
             prompt=search_term
         )['embedding']
+        st.write(len(search_embedding))
 
         results = [
             (comment, cosine_similarity(embedding, search_embedding))
@@ -75,6 +113,7 @@ def compute_clusters(n_clusters=3):
     for id, label in zip(all_comments, cluster_labels):
         groups[label].append(id)
     return groups, cluster_labels
+
 
 with st.status("Computing clusters.....", expanded=True):
     clusters = compute_clusters(n_clusters=number_of_clusters)[0].items()
