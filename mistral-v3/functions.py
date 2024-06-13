@@ -33,11 +33,11 @@ definitions = [{
           "type": "object",
           "properties": {
             "latitude": {
-              "type": "string",
+              "type": "number",
               "description": "The latitude of a place",
             },
             "longitude": {
-              "type": "string",
+              "type": "number",
               "description": "The longitude of a place",
             },
           },
