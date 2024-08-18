@@ -1,0 +1,100 @@
+Content,Video title
+Ay5K4tog5NQ,Running a Hugging Face LLM on your laptop
+7BH4C6-HP14,Hugging Face GGUF Models locally with Ollama
+KLFadWdomyI,An introduction to Apache Parquet
+JwYwPiOh72w,Ollama has a Python library!
+jXUv8mlQHq0,LLaVA 1.6 is here...but is it any good? (via Ollama)
+Cim1lNXvCzY,Retrieval Augmented Generation with OpenAI/GPT and Chroma
+lJJkBaO15Po,Returning consistent/valid JSON with OpenAI/GPT
+Qor2VZoBib0,How does OpenAI Function Calling work?
+NFgEgqua-fg,Running Mistral AI on your machine with Ollama
+J7qnq-WHEgI,Converting a Jupyter Notebook to Streamlit
+XFTFEKYLxyU,Langroid: Chat to a CSV file using Mixtral (via Ollama)
+MiJQ_zlnBeo,"Building a local ChatGPT with Chainlit, Mixtral, and Ollama"
+YDj_ScvBpKU,Running LLMs on a Mac with llama.cpp
+rfr4p0srlqs,Running Mixtral on your machine with Ollama
+Zgb2TjZ5zTk,Ollama adds OpenAI API support
+fZj6kTwXN1U,Querying Parquet files on S3 with DuckDB
+Fg8n-O0dhrI,5 ways that DuckDB makes SQL better
+Cd6f86zsAyg,Ollama can run LLMs in parallel!
+C-JV0VEzn-0,GPT 3.5 Chat vs Instruct
+wSi0fxkH6e0,LangChain Parent-Child Retriever for better RAG
+aexszHMKdy8,"Exporting CSV files to Parquet with Pandas, Polars, and DuckDB"
+ocfzGBnhhDE,Few Shot Prompting with Llama2 and Ollama
+q59QMugQyaQ,LLaVA: A large multi-modal language model
+4Wz61w5zbCk,Constraining LLMs with Guidance AI
+tvs350imHLY,Hugging Face's Text Embeddings Inference Library
+iY7HuG1r5YM,Approximate Nearest Neighbours in FAISS: Cell Probe 101
+kmpzp627UmE,Mistral 7B Function Calling with Ollama
+qcn7YAJfCeE,User-Selected metadata in RAG Applications with Qdrant
+Of8YDxYvWXY,Google Gemma 2B vs 7B with Ollama
+49p4HyNFniE,Ingesting #csv files from #github into #duckdb
+rzIP5Ud8FGw,Using DuckDB to analyze the data quality of Apache Parquet files
+DSLwboFJJK4,Hugging Face SafeTensors LLMs in Ollama
+I7Ff5Yu2fts,Querying JSON Documents with DuckDB
+IO2Ef-YcB3s,Voice to Text on a Mac with insanely-fast-whisper
+g6I81S_6B5g,GLiNER: Easiest way to do Entity Extraction in 2024?
+yFNrYppnZ4w,You can now PIVOT in #duckdb!?
+Lb4_z-UI80A,SLIM: Small models for specific tasks by LLMWare
+m1FEHPz90oI,Formatting numbers in Pandas DataFrames
+4U1gp0MbgWE,Importing log entries into Apache Kafka | Building a Real-Time Analytics Application
+BjssGRlSnfA,Row Groups in Apache Parquet
+MgayYUdI4is,Visualising embeddings with t-SNE
+gigip1Pxf88,Local RAG with llama.cpp
+WpuuvdgJxhs,Are LLaVA variants better than original?
+vVoVdMcsl94,Image search with OpenAI CLIP and Streamlit
+S2thmwdrYrI,LLMs on your own machine using CTransformers
+cp7qRN9jd8I,Composable Queries with DuckDB
+Rdohw424DA4,Querying DuckDB with PRQL
+4vM-LR9Z-Fc,Joining CSV files on the fly with DuckDB
+Tg0BaKpaoTg,Summarizing Emails with OpenAI
+KQFqS-jQ3lw,An Ollama Chatbot Arena (with Streamlit)
+zintSf6A78g,TrueSkill - Xbox Live's Rating Algorithm
+U6k7HnQiWzc,Full-Text Search vs Vector Search (RAG with DuckDB)
+5ZQ8hKfzM1U,Semantic Router: No more rogue LLM chatbots?
+J5N7MB0_19g,Mistral 7B Function Calling with llama.cpp
+AEKE0vk2794,Perplexity AI: An Online LLM
+kR207329Oq4,DuckDB made JSON processing even easier
+ogge3kmm_2g,Querying SQLite databases with DuckDB
+hffLfipa5fw,Projection and Predicate pushdown in Apache Parquet
+8VGHegdQzck,Parsing access log entries in Python | Building a Real-Time Analytics Application
+oVxYaIB-5Rc,Let's talk about PIVOT in DuckDB
+JOE3DIkWyEk,Massaging events in Kafka with Faust stream processor | Building a Real-Time Analytics Application
+1mMLVQE11Io,Content Discovery with Embeddings (ft. Qdrant/FastEmbed)
+65MoH1rlK7E,DuckDB and Streamlit: Building a Tennis Head2Head App
+YuN1cINS0ak,Does Mistral 7B function calling ACTUALLY work?
+lT6JwbeuzCA,Command Line Data Visualization with DuckDB and YouPlot
+gmnBQFrZTmY,Exploring the comments of AI YouTube channels
+po7L7sWKxkA,Creating headline numbers with Streamlit Metrics
+mLYHsrSxgpU,Search-Based RAG with DuckDB and GLiNER
+u9AtW5P0m5c,SQL Window Functions for Beginners
+WY6loJ6DYBA,Serverless GenAI with Beam (GPU as a service)
+eEfD16HqPwE,FastEmbed: Text Embeddings on the CPU
+pHeVP92O9zc,How does DuckDB deal with dirty data in CSV files?
+CsWEUYLaYU0,I installed JupySQL to see if it really improves Jupyter Notebooks
+EVLDg-RNjoc,Creating dummy data with DuckDB's user defined functions (UDFs)
+NSq97hgVN0o,A UI to quantize Hugging Face LLMs
+H6tWONXQi5w,Parsing ISO8601 DateTime Strings in Python 3.11
+RWRiTmRsyrY,An introduction to vector search
+s4ScoPj2oas,How are strings encoded in Apache Parquet?
+wRIvjnFs9MQ,Swap nulls for 0s with PIVOT #duckdb
+KTIBhsIoCvk,SQL Aggregate vs Aggregate Window Functions
+vfIzz2-ZFB0,Using DuckDB to diff Apache Parquet schemas
+mdY-I5YWgik,Upserts in Apache Pinot
+izSk4vjmf_E,Streaming data into Apache Kafka with kcat and jq
+RDzHivfVFe4,"Row Group Size in Parquet: Not too big, not too small"
+tGnU9tqJ5DQ,Querying Apache Pinot from Python
+rjToF6ubGUU,Python's match/case statement will simplify your code
+zhVSXLzy8EY,Transposing columns to rows with UNPIVOT in DuckDB
+G-X0BBimXpE,Enums in DuckDB
+2GKTLW_vwu8,Importing the enriched stream into Apache Pinot | Building a Real-Time Analytics Application
+g9oxXTGzdZ0,How are integers encoded in Apache Parquet?
+rmEowxPI4L4,Null arrays with the jq JSON processor
+xPBboEv89DA,JSONPath Aggregation Functions
+RmNNlC7zhZw,Sorting lists of dictionaries in Python
+b1bALw_1J9o,tea.xyz - A multi language package manager to tame the language zoo
+FzB4UfFaGy0,Controlling the segment size with desired segment size in Apache Pinot
+HLbjEQSu82Y,What is the segment threshold in Apache Pinot?
+7950UzRDZBE,Controlling the segment size with row threshold in Apache Pinot
+kRwQA8q0p_A,Error rendering in Python 3.10 and 3.11 with tea.xyz
+w3fv5z79DME,The Unix Fold Command: Limiting the column width of text
