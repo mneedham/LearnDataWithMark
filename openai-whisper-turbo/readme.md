@@ -4,6 +4,7 @@
 
 * insanely-fast-whisper - https://pypi.org/project/insanely-fast-whisper/
 * Ollama - https://ollama.com/
+* jq - https://jqlang.github.io/jq/
 
 ## Instructions
 
