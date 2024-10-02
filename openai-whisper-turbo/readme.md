@@ -1,6 +1,6 @@
 # Trying out OpenAI Whisper Turbo
 
-## Pre-Requisites
+## Pre-Requisites
 
 insanely-fast-whisper - https://pypi.org/project/insanely-fast-whisper/
 Ollama - https://ollama.com/
