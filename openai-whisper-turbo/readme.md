@@ -2,8 +2,8 @@
 
 ## Pre-Requisites
 
-insanely-fast-whisper - https://pypi.org/project/insanely-fast-whisper/
-Ollama - https://ollama.com/
+* insanely-fast-whisper - https://pypi.org/project/insanely-fast-whisper/
+* Ollama - https://ollama.com/
 
 ## Instructions
 
