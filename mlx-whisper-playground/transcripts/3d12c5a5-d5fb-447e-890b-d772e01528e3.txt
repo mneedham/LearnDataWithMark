@@ -1,0 +1,211 @@
+Welcome to the Tech Meme Right Home for Thursday, October 10th, 2024. I'm Brian McCullough. Today,
+Apple TV Plus finally comes to prime video channels. OpenAI says they've been disrupting
+AI election influence campaigns, but they won't be profitable until when? How Google plans to
+beat the regulation rap and a review of basically the highest-end smartwatch you can buy. Here's
+what you missed today in the world of tech.
+Amazon has announced that Apple TV Plus will soon be available as a $9.99 per month subscription
+add-on in Prime video channels. That's coming later this month in the U.S., joining more than
+100 streaming services already there, quoting Bloomberg. What we offer channel partners is
+hundreds of millions of subscribers around the world. Amazon said having this engagement around
+the world with Prime members, accessing Prime video is a real great platform for other partners to be
+able to reach them, end quote. Amazon markets more than 100 streaming services via its channel's store,
+enabling customers to watch shows from Max, Paramount Plus, and Hallmark within Prime video.
+Those services rely on Amazon to expand their audience. Apple TV Plus was one of the only major
+streaming services not available in the store, along with Netflix and Walt Disney's main properties.
+Those two are among the few with streaming services that have more viewers than Prime video.
+The agreement expands an existing relationship between the companies. In 2017, Amazon started
+offering a Prime video app on the Apple TV set-top box, while Prime video is integrated into the Apple
+TV app across the iPhone maker's device lineup. The two companies are also retail partners with Apple
+offering an official store via Amazon.com, end quote.
+OpenAI says it has disrupted more than 20 operations and deceptive networks so far this year that tried
+to use its models for disinformation purposes, including four that had election-related content,
+quoting CNBC. In a 54-page report published Wednesday, the chat GPT creator said that it's
+disrupted, quote, more than 20 operations and deceptive networks from around the world
+that attempted to use our models. The threats ranged from AI-generated website articles to social media
+posts by fake accounts. The company said its update on influence and cyber operations was intended to
+provide a snapshot of what it's seeing and to identify, quote, an initial set of trends that we believe
+can inform debate on how AI fits into the broader threat landscape, end quote.
+OpenAI's report lands less than a month before the U.S. presidential election, but beyond the U.S.,
+it's a significant year for elections worldwide, with contests taking place that affect upward of 4
+billion people in more than 40 countries. The rise of AI-generated content has led to serious
+election-related misinformation concerns, with the number of deepfakes that have been created
+increasing 900% year over year, according to data from Clarity, a machine learning firm.
+OpenAI wrote in its report that election-related uses of AI, quote,
+ranged in complexity from simple requests for content generation to complex multi-stage efforts
+to analyze and reply to social media posts. The social media content related mostly to elections
+in the U.S. and Rwanda, and to a lesser extent, elections in India and the EU, OpenAI said.
+In late August, an Iranian operation used OpenAI's products to generate, quote,
+long-form articles and social media comments about the U.S. election, as well as other topics,
+but the company said the majority of identified posts received few or no likes, shares, or comments.
+In July, the company banned ChatGPT accounts in Rwanda that were posting election-related comments
+on X, and in May, an Israeli company used ChatGPT to generate social media comments about elections
+in India. OpenAI wrote that it was able to address the case within less than 24 hours.
+In June, OpenAI addressed a covert operation that used its products to generate comments about the
+European Parliament elections in France and politics in the U.S., Germany, Italy, and Poland.
+The company said that while most social media posts it identified received few likes or shares,
+some real people did reply to the AI-generated posts. None of the election-related operations
+were able to attract viral engagement or build sustained audiences via the use of ChatGPT
+and OpenAI's other tools the company wrote, end quote.
+Sticking with OpenAI for one more second, the information has seen internal documents from
+OpenAI with projections suggesting that the company won't turn a profit until 2029 when its revenue
+would hit $100 billion. Losses could hit $14 billion in 2026, up nearly 3x on this year.
+So if true, number one, they need to hit $100 billion in revenue just to turn a profit. That
+does suggest that margins aren't great. But number two, that level of cash burn suggests they have
+a hell of a needle to thread. Quote,
+This estimate doesn't include stock compensation, which is one of OpenAI's biggest expenses,
+although not one it pays in cash. OpenAI is emphasizing to investors a metric of profitability
+that excludes some major expenses, such as the billions it is spending annually on training its
+large language models. The documents show, by that metric, OpenAI projects it will turn
+profitable in 2026. The company last week completed a $6.6 billion funding round, valuing it at $157
+billion. The documents, which include financial statements and forecasts, contain a number of
+revelations about OpenAI that may change perceptions of the company's financial prospects.
+OpenAI appears to be burning far less cash than previously thought. The company burned through
+about $340 million in the first half of this year, leaving it with $1 billion in cash on the
+balance sheet before the fundraising effort. But the cash burn could accelerate sharply in the next
+couple of years, the documents suggest. There's a big gap between OpenAI's cash flow and its bottom
+line, reflecting standard accounting differences in how it treats its major expenses, such as stock
+compensation and compute credits in different financial statements. OpenAI calculated its net loss to be
+$3 billion for the first half of the year. OpenAI expects to spend more than $200 billion through
+the end of the decade, excluding stock compensation costs. Between 60 to 80% of its spending each year
+would go toward either training or running the models. An analysis of the documents suggests that
+OpenAI projects its total losses between 2023 and 2028, excluding stock compensation, will be $44 billion.
+The same analysis suggests the company anticipates it will make $14 billion in profit on that basis in
+2029. In the first half of this year, the company reported stock compensation of $1.5 billion, likely
+equivalent to its revenue in the period. The documents imply that Microsoft gets a cut of 20% of OpenAI's
+revenues, which is higher than previously thought. OpenAI is projecting that computing costs for model
+training could rise sharply in the next couple of years to as high as $9.5 billion a year
+in 2026. That's in addition to the amortized upfront costs of training for large language model research,
+which its financial documents report as research compute costs spread out over a number of years.
+That figure is also rising sharply to more than $5 billion in 2026 from a projected $1 billion this year.
+Some of OpenAI's computing costs aren't paid in cash. Microsoft advanced OpenAI computing credits as part
+of its $10 billion investment last year. And in the first half of this year, OpenAI recorded about
+$500 million of data center lease expenses covered by Microsoft, according to the documents and a
+person familiar with the matter. It's unclear how many computing credits OpenAI has left. It's likely,
+however, that OpenAI will have to spend more of its own cash if it increases compute spending as much
+as projected in the documents. OpenAI also has been discussing borrowing money to try to set up data
+centers more quickly than Microsoft can, the information reported this week. Still, OpenAI could scale back
+the compute spending, for instance, if upcoming models have more staying power than prior ones because
+rivals aren't able to catch up quickly, or if the models are less costly to train because of future
+breakthroughs. That would reduce the demands on its cash resources."
+This makes me a tiny bit concerned about the Vision Pro. Sources say Dan Riccio, Apple's Vision Pro
+chief and former senior vice president of hardware engineering is leaving Apple in October. The
+Vision Pro team will now report to John Ternus, quoting Bloomberg.
+Mike Rockwell, Riccio's current lieutenant, will continue to lead the Vision products group on a
+day-to-day basis, said the people who asked not to be identified because the changes aren't public.
+A spokesperson for the Cupertino, California-based company declined to comment.
+Riccio's exit marks one of the most significant departures from Apple's management team,
+though it's been in the making for some time. Three years ago, he switched from being a senior
+vice president to a vice president and left the 12-person executive team a step toward his
+eventual retirement. Riccio spoke at an event at the Massachusetts Institute of Technology on Wednesday,
+telling students he is winding down his career at Apple. He said he wants to get more involved at
+the engineering program named for him at the university, including by potentially teaching or
+developing curriculum material. He also spoke about the birth of the original iMac and said the
+iPhone X was the product he was most proud to create. The executive spent 26 years at the
+company and was known at times for an abrasive style and controversial moves, but he also made
+key hires and encouraged acquisitions that resulted in major new products. His tenure included overseeing
+some of Apple's biggest bets, including development of the Vision Pro headset and the failed bid to make
+a car." There's no shortage of helpful AI tools out there, but using them means switching back and
+forth between yet another digital tool. So instead of simplifying your workflow, it just becomes more
+complicated. Unless, of course, you're in Notion. The new Notion AI is a single AI tool that does it all.
+You can search across Notion and other apps, generate docs in your own style, analyze PDFs and images,
+and it will chat with you about anything. Notion AI is connected to multiple knowledge sources. It uses
+AI knowledge from GPT-4 and Claude to chat with you about any topic. It can search across thousands of
+Notion docs in seconds to quickly answer any question. And with AI connectors now in beta,
+Notion AI can search across Slack, discussions, Google Docs, sheets, and slides,
+and more tools like GitHub and Jira are coming soon. Unlike other specialized tools or legacy
+suites that have you bouncing between six different apps, Notion is seamlessly integrated,
+infinitely flexible, and beautifully easy to use. Try Notion for free when you go to
+notion.com slash ride. That's all lowercase letters, notion.com slash ride to try the powerful,
+easy-to-use Notion AI today. And when you use our link, you're supporting our show, notion.com slash ride.
+How do you make a password that's strong enough no one will be able to guess it, but also impossible
+to forget? And how can you do that for a hundred different websites? And how can you make it so
+everyone in your company can do the same without ever having the need to reset them? Sounds like
+an impossible task unless you have 1Password. As I've said, I've been using 1Password for about 15 years.
+I have it on every computer and phone I've had over that time. I used 1Password today. I used it like
+three minutes ago. Companies lose hours every day just from employees forgetting and resetting passwords.
+A single data breach costs millions of dollars, but 1Password secures every sign-in to save you time and money.
+Any device, any time. 1Password lets you securely switch between iPhone, Android, Mac, and PC with
+convenient features like Autofill for quick sign-ins. All you have to do is remember the one strong
+account password that protects everything else. Your logins, your credit cards, secure notes,
+or the office Wi-Fi password. Protect your global workforce with simple security, easy secret
+sharing, and actionable insight reports. Right now, my listeners get a free two-week trial at
+1password.com slash ride for your growing business. That's two free weeks at 1password.com slash ride.
+Don't let security slow your business down. Go to 1password.com slash ride.
+The Financial Times takes a look at how Google plans to deflect and delay that U.S. breakup threat
+that we spoke about yesterday. A Remedies ruling is likely in mid-2025, but legal timelines may let it
+put off any impact of that ruling for years. Quote, Google's initial response to the DOJ's proposals
+that competition is thriving in search ads and fierce in artificial intelligence would have been less
+convincing even two years ago before OpenAI's launch of the breakthrough chat GPT chatbot. Spinning out
+its arguments through the appeals courts will be crucial to Google's strategy as it looks to deflect
+or delay the effects of August's landmark ruling by a federal judge that it maintained an illegal
+monopoly by paying billions of dollars to device makers, mobile carriers, and browser developers.
+The legal timelines involved in such a complex and high-stakes case are likely to allow Google to put
+off any impact on its business for years. It plans to appeal the liability decision when the judge rules
+on remedies, which is likely to be in mid-2025, and may then also contest the remedies themselves.
+Broadly, Google's argument focuses on what it describes as regulatory overreach following a case
+about the impact of its distribution agreements. Forcing it to divest assets or share data with
+competitors would, quote, go far beyond the specific legal issues in this case, it said in a blog post on
+Tuesday. Requiring Google to split off its Chrome browser or Android operating system or other
+structural remedies would, quote, tilt the field at the precise moment that competition is thriving,
+the company said. With new search advertising competitors such as Amazon and TikTok emerging
+and widespread disruption to its core business from AI startups, including OpenAI and perplexity,
+Google can argue that it is facing the stiffest competition since Microsoft's Bing launched 15 years ago.
+On Tuesday, for example, Google pointed to an e-marketer forecast that its share of U.S. search
+advertising spending would fall below 50% next year for the first time since the research group started
+tracking the market in 2008, primarily due to rapid growth in Amazon's marketing business.
+The company is likely to appeal its antitrust cases all the way up to the U.S. Supreme Court.
+This is the start of a long process, it said in Tuesday's blog post.
+Yet Jason Kent, a big tech critic who leads the digital content Next trade group of online publishers,
+said it was not a given that the Supreme Court would take up the case. He estimated that it could
+take two or three years for any remedies to be enforced if the case proceeds through the courts,
+adding, quote, the reality is Google is racking up legal losses, they have a difficult set of facts
+along with spoliation from purging evidence, and they may try to settle or proactively make moves
+to control the outcome, end quote. Finally today, a review. The Verge says that the Garmin
+Phoenix 8, the $1,000 smartwatch, has excellent battery life and fitness tracking and an OLED display,
+but it costs $350 more than the Phoenix 7 and lacks LTE, which apparently is key, quote.
+The big additions to the Phoenix 8 are a speaker and microphone. They mean you can now interact
+with the watch in more ways than fitness tracking and training. You can take calls from the wrist,
+use an on-device voice assistant for setting timers and starting activities,
+and connect to your phone's built-in assistant for more complex queries. If you can convince your
+loved ones to download the new Garmin Messenger app, replying to messages on the wrist also has gotten
+easier. Theoretically, these are all good updates. In practice, it means the Phoenix 8 doesn't play to
+Garmin's strengths. The bulk of the smart updates zero in on the addition of the microphone and speaker,
+namely voice assistants and calling from the wrist. But there's a big factor holding back the Phoenix
+8's smart features, the lack of LTE. Yes, you can make and receive calls with the Phoenix 8 so long as
+your phone is within Bluetooth range. Yes, you can talk to a voice assistant, but it's limited unless
+your phone is nearby. Yes, you can reply to text, but you get my drift. If you get a cellular Apple Watch,
+Galaxy Watch, or Pixel Watch, you can leave your phone at home. That's not really an option with
+the Phoenix 8. The friction is particularly noticeable with the on-device voice assistant.
+The assistant works pretty well, but it's mostly limited to commands that don't require an internet
+connection. You can start activities, set timers, and tweak settings. It can tell you the weather,
+provided it's loaded the day's weather from Wi-Fi or your phone via Bluetooth. But say you want to send
+a text message. This nameless assistant can't do that. Instead, you'll have to scroll to a different menu
+and launch your phone's assistant. It's good to have that option, but at that point, you're probably
+just going to whip out your phone anyway. Part of the problem is that Garmin has always been staunchly
+platform agnostic. I happen to think that's a good thing, but the price you pay is never having your
+watch work quite as seamlessly with your phone. For example, it's great that you can dictate voice
+memos now, but their usefulness is limited because there's no easy way to get them off your wrist and
+onto another device. That's unlike the Pixel Watch 3 where I can just record something and boom,
+it's magically on my Pixel 8 Pro. Everyone I've ever met with a Phoenix watch has been a triathlete,
+ultramarathoner, or someone who casually qualifies for the Boston Marathon with a sub-three-hour
+marathon time. These folks pick something like the Phoenix because they need a tracker with Mondo
+battery life, stellar GPS accuracy, in-depth training programs, and maps for traversing trails.
+Those are the features that people would leave Apple or Samsung for, and they don't get a major
+upgrade with the Phoenix 8. To make matters worse, I almost choked when I saw the Phoenix 8's starting
+price was a whole $350 more than the Phoenix 7. That's not a $50 to $100 hike where you grumble
+and then begrudgingly admit that inflation is a bitch. For $999, you could buy a laptop. Hell,
+the Apple Watch Ultra 2 is $800 while the Galaxy Watch Ultra is $650. Those do come with LTE,
+and if you're determined to get a Garmin, there are literally dozens of cheaper options. Might I
+suggest the $450 Forerunner, 265, or a discounted Phoenix 7 Pro or Epix Pro? It's frustrating because
+Garmin is right to shore up its smart features. There's not much to improve on the fitness front,
+so making its watches more useful outside of training makes a lot of sense. It's also crystal
+clear that Garmin has some catching up to do, and progress isn't going to happen overnight.
+The Phoenix 8 might be on the right track, but it doesn't quite nail the price or execution.
+End quote.
+Okay, everybody. Rad 80s, 90s history is currently number 34 on the history chart. Please, if you
+haven't done so, subscribe to the show. Especially if you use Apple Podcasts, please follow the show
+on Apple Podcasts. And also, write a review. Give it five stars and write a quick sentence or two
+review. Even if you've already subscribed, go back and do that. It'll really help. We can do this,
+people. We can get to number one. The history category is not as competitive as some others,
+so we can make my dream come true of having a number one podcast. Link in the show notes to the
+Apple Podcasts link itself. Again, please follow, rate, and review. Thanks in advance.

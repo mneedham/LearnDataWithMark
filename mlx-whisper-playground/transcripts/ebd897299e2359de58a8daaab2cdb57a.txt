@@ -1,0 +1,841 @@
+Hey, everyone. We're here on Lenny's podcast.
+It's great to be here. I'm a longtime listener.
+So awesome. Really is. We're the hosts of a different show of Deep Dive.
+And we just we just wanted to say thanks. A huge, huge thank you to everyone.
+Everyone who's been listening.
+Yeah, seriously, it's been incredible. Just incredible.
+And thank you to Lenny for having us.
+Blown away, really, by the response and all the shows you've all had us make on Notebook LM.
+Even that poop fart one. Remember that?
+Oh, yeah, that was something. Learned a lot on that one.
+Definitely a learning experience for everyone, I think.
+But we're learning right alongside you.
+Exactly. Learning and growing.
+And we're glad you're along for the ride.
+So, yeah, keep listening.
+Keep listening and stay curious. We promise to keep diving deep and bringing you even more in the future.
+Stay curious.
+If you are confused about what you just heard, don't worry. It'll all make sense very soon.
+Today, my guest is Ryza Martin. Ryza is product lead for a product called Notebook LM, one of the most delightful and inspiring new AI products out there, incubated within Google Labs.
+And this product is where the intro you just heard came from.
+In our conversation, Ryza shares how Notebook LM came to be, how it got so good, the technology that was necessary to make it possible, how the team works internally, how it was incubated, specifically within Google Labs and out of the team's 20% time, plus a bunch of really fun and crazy use cases that she's seen, and a glimpse into where the product is going long term.
+This was such a fun and timely conversation, and I'm excited to spread the love for Notebook LM.
+If you enjoy this podcast, don't forget to subscribe and follow it in your favorite podcasting app or YouTube.
+It's the best way to avoid missing future episodes, and it helps the podcast tremendously.
+With that, I bring you Ryza Martin.
+Ryza, welcome to the podcast.
+Hi, Lenny. Thanks for having me.
+What the heck did we just listen to? What was that?
+So that was an audio overview from Notebook LM, where you upload a source, any source, and it will generate an AI-generated audio for you.
+Okay. So for folks that don't know anything about Notebook LM, it's basically been blowing up on Twitter, on LinkedIn.
+I think it's blowing a lot of people's minds.
+It's sparking a lot of imagination of what could happen in AI and what potential we have with the stuff that's happening.
+And I wanted to bring you on to talk about the history of this product, where it's going, how it became so great, and all these things.
+And so thanks for doing this. I know this kind of came on short notice.
+Yeah. I mean, I was excited to do it in particular because, you know, I'm a big fan, big listener of Lenny's, read the newsletter, I love it.
+So really happy to be here.
+Awesome. Clearly these hosts are too, which I love.
+Yeah.
+By the way, I love the slight awkwardness at the end of their conversation. If folks rewind, they could hear it again, because it's very relatable.
+I sometimes have trouble ending a podcast conversation and they're like, okay, let's say a couple more things and then, okay, we're done.
+It's funny because I've listened to so many of these and they do have catchphrases.
+They say at the end and stay curious is one of my favorite ones.
+Well, let me just ask, is that something you all told them to do or is that like an emergent property?
+So in this case, this is based on what they think is the most appropriate thing to say at the end.
+Okay. Interesting. Okay.
+This episode is brought to you by Explo, a game changer for customer facing analytics and data reporting.
+Are your users craving more dashboards, reports, and analytics within your product?
+Are you tired of trying to build it yourself?
+As a product leader, you probably have these requests in your roadmap, but the struggle to prioritize them is real.
+Building analytics from scratch can be time-consuming, expensive, and a really challenging process.
+Enter Explo.
+Explo is a fully white-labeled, embedded analytics solution designed entirely with your user in mind.
+Getting started is easy.
+Explo connects to any relational database or warehouse, and with its low-code functionality, you can build and style dashboards in minutes.
+Once you're ready, simply embed the dashboard or report into your application with a tiny code snippet.
+The best part?
+Your end users can use Explo's AI features for their own report and dashboard generation, eliminating customer data requests for your support team.
+Build and embed a fully white-labeled analytics experience in days.
+Try it for free at explo.co.lenny.
+That's E-X-P-L-O dot C-O slash Lenny.
+This episode is brought to you by Sprig.
+What if product teams knew exactly what to build to reach their goals?
+From increasing conversion to boosting engagement, these challenges require a deep understanding of your users, something that you can't get from product analytics alone.
+Meet Sprig, a product experience platform that generates AI-powered opportunities to continuously improve your product at scale.
+First, Sprig captures your product experience in real-time through heat maps, replays, surveys, and feedback studies.
+Then, Sprig's industry-leading AI instantly analyzes all of your product experience data to generate real-time insights.
+Sprig AI goes even further with actionable product recommendations to drive revenue, retention, and user satisfaction.
+Join product teams at Figma and at Notion by uncovering AI-powered product opportunities at scale.
+Visit sprig.com slash Lenny to book a demo and get a $75 gift card.
+That's S-P-R-I-G dot com slash Lenny.
+I want to start with just kind of the history of this product.
+I think for a lot of people, it just like came out of nowhere.
+It's like, what the, wow, where did this come from?
+This is blowing your mind.
+Rarely is anything actually like that.
+Rarely is it just like we built it over a week and then it's taken over the internet.
+Talk about just the history of Notebook LM and the team behind it.
+Yeah, yeah.
+Thank you.
+Actually, Notebook started as a 20% project as things kind of do at Google as they used to.
+And it's funny because I wouldn't even call it a 20% because it was way more than that.
+So I'll start from my perspective where I was leading AI Test Kitchen,
+which was one of the first AI things we launched at Google.
+And this was, I think, maybe two IOs ago or maybe three now, actually.
+I think it was in 22.
+And I was leading that project.
+And I remember there was a smaller project inside of labs called Talk to Small Corpus.
+And it was the idea that, you know, you could take a piece of content and use an LLM to interact with it.
+We were like, okay, there's a nugget there.
+It sounds interesting.
+How do we keep revving on this, right, to make it actually really useful?
+And it was just myself, an engineer.
+And eventually, Steven Johnson joined.
+And it was really funny because the only person who was actually really full time on this was the engineer working on the technology.
+And everybody else was kind of just like coming together, like really chiming in, being like, hey, this is super interesting.
+How do we make this better?
+So it really started as a 20%.
+And then it kind of just blew up from there.
+That's insane that it was just you, an engineer, and then Steven Johnson.
+I want to talk about his role.
+That it's like one engineer can build something like this.
+And I imagine it's more now that it's starting to take off.
+Or what's the team looking like these days, roughly?
+We've had a lot more folks join in the last month.
+And a lot of that is really in anticipation of the future roadmap.
+But up until this point, I'd say we didn't even have 10 engineers.
+When we launched it, actually, when we announced Project Tailwind, I think we only had three.
+We had three engineers.
+It was myself.
+We had a designer.
+We had Steven.
+And that was it.
+And so even between the period when we did the first IO last year to as recently as like last month,
+we've only had about eight engineers or so.
+Let's talk about audio overviews, specifically this kind of podcast feature.
+I think audio overview is the technical name, right?
+Is that how you describe it?
+Okay.
+They call it a deep dive, right?
+That's like their name for the podcast.
+They do.
+Yeah.
+That's what they call it.
+How did that specifically come about?
+When did that become a thing?
+What was the beginnings of that?
+We announced.
+We actually did a preview of this in IO this year, so in May.
+And the way that it worked out is, you know, Notebook had already been launched.
+We had a bunch of people using it.
+It was this source grounded chat interface.
+And we were looking at basically what are the new models coming out of Google, right?
+We had Gemini, 1.8.5 coming out.
+We had all of sort of these new technologies that are basically upgrades on fundamentally the same thing.
+And we were like, what are some interesting ways that we could, you know, power Notebook 11 or make it even better?
+And one of the things that we started playing around with is actually a different team inside of Google, inside of Labs specifically.
+They were like, hey, we've got these like really powerful audio models, right?
+Like what's a really good application of this?
+And that's when we started riffing and we were like, hey, what if you could basically what you see today, give it a little bit of information.
+You don't have to do a lot.
+You can just enter a URL, upload, you know, your resume, and then it will completely generate something for you that could be unexpected, could be a surprise.
+Okay.
+So it started, basically, there was like a technology that we think could be really interesting.
+Was there a problem you were trying to solve with this team, with this initiative?
+It was within Google Labs, which I know is a little bit probably less like we need to drive business outcomes.
+What was the original thesis or problem you're going after?
+And so this is really funny.
+I talk about this quite a lot, especially when I'm talking to other PMs.
+I feel like the way that I've always built products is I start from a problem and I think about the solutions, you know, to solve it, solve it for people in a meaningful way.
+And in Labs in particular, we start with the technology.
+And it's actually a very interesting place to start where you're like, okay, what are the practical applications to this?
+How do I go about finding the answer?
+And I think we've seen different approaches to this, right, where you just put the tool out there, you study how people are using it.
+And I think that's like a fine approach.
+But we tried to have a little bit more of a hypothesis about what is the shape of this thing to actually get the most learning out of it.
+So for the audio feature in particular, the nugget there was really, we had this ability for you to interact with text.
+But people were like, the output is still always text, right?
+And I'm actually a big fan of voice modality in general.
+So I use a lot of voice input.
+And voice output, I noticed when I was experimenting with it early on, it changed a lot of things for me.
+It's like, oh, it changes the way that I interact with the technology.
+It changes the way I feel about the technology.
+It sort of affects the way that I'm even thinking in real time throughout this process.
+And so we thought about what is a good way to introduce this to people where they could sort of easily get the value of it and have a little bit of fun.
+So I think, you know, for me, it's like fun is like such a big part of it, too, which is like, how do we make this cool?
+And so hopefully, hopefully we've done that here.
+
+We're getting this good.
+And LMS, we're getting this good.
+Any thoughts on that?
+Yeah, I think that totally strikes at the heart of what we're trying to do as well, which is, you know, a lot of technology, I feel like you have to shape it and bring it closer to people.
+And I think it's like such an interesting thing to iterate on and be like, what is the shape?
+Right.
+Like soon, soon you'll get there.
+Like if you keep going at it, you'll eventually, I think, land on something that like when people look at it, they're like, wow, I get it.
+Right.
+And that's that's always like what we're hunting for.
+But I think to your point, technology has been there.
+Right.
+Like, I mean, it feels so crazy to say that because even with like the the advent of like the chatbots, right, of LLMs as we know them today.
+And then to introduce this sort of new technology on top of it that we've only been doing this for like two years.
+But already, right, we're exploring so many different ways to use it.
+Yeah.
+It's such an intuitive but clever idea of making something a podcast.
+Let's take a tangent into the technology behind this thing.
+So there's kind of two questions I'm thinking about.
+One is just what technology needed to exist for this to be possible.
+And then two is just what did you do to make this so good?
+How did you train this model to get to create a podcast?
+It's this good.
+So we could start with the first and then get into the second.
+Yeah.
+I mean, that's such a great question.
+I mean, truly, like the Gemini models are so powerful.
+And we use Gemini 1.5 Pro as sort of the base for Notebook LM.
+And then we have a powerful voice model on top of it, an audio model on top of it.
+But I think the real secret sauce to what makes this really good is something we've built, which is a content studio.
+And you kind of see a clue of this inside Notebook LM, where when you open up Notebook Guide, Notebook Guide is designed to take an opinionated approach to the content that you've given it.
+And what it's really trying to do is be as helpful as possible.
+It gives you a summary, gives you buttons where if you click on it, it'll write something for you.
+And the audio is a big part of that.
+And so this was very interesting for us because we had to think about what shape should that audio be in, right?
+Like the deep dive is the first format we've thought about.
+And we actually have a super talented engineer on our team.
+His name is Usama.
+And he's the real craftsman behind thinking through content studio and thinking about what makes something really relatable to people in a way that's engaging, that's interesting.
+So content studio is the real magic here.
+So when you say content studio, what does that mean?
+What does that actually look like?
+What is a content studio?
+I can't share too much about how content studio works, but you can imagine it's the same thing that powers all of Notebook LM, which is there's different ways that you could interact with your data, right?
+You could like Q&A inside of Notebook LM.
+But then there are places where you just one push a button and create something new.
+So content studio is what's the real magic here.
+Okay.
+So this is the interface you use to interact with Notebook LM and the different prompts and the recommendations of how to ask questions.
+And okay, got it.
+And then specifically in terms of the way these hosts interact and talk, like if you listen to these podcasts, it's like they laugh and they're like, hmm.
+And they interrupt each other a little bit and they get surprised and they have these like inflections that are really amazing.
+What did you have to do to make them sound this good?
+I know you said you can't share tons, but just anything there you can share.
+I mean, that's the model.
+That's the audio model that we use.
+And alongside the content studio is designed to bring out the best of that model.
+And I think when we listened to a lot of like the early attempts that we had, it wasn't nearly this good.
+And so we had to do a lot of listening to try to figure out how do we actually get the model to behave in this way?
+And that's where I think the magic happens.
+That's amazing.
+Did you all just listen to a bunch of podcast episodes and like hear something that really, yeah, okay, shaking your head?
+I think the funniest thing was that, so my husband doesn't know, right?
+He doesn't know what I'm doing.
+Most of the time I try not to talk about work at home.
+And so I would listen to these audio overviews over and over at home.
+And, you know, I get tired of wearing my headphones.
+So I'm just listening to them out loud.
+And he's like, what is this thing you are listening to?
+This is like an ever running podcast about nothing.
+And it was just super funny.
+I had to be like, oh, it's just like something I have to do for work.
+So it was pretty funny.
+He actually couldn't tell that they were AI.
+That's it.
+I love that.
+So one of the ways I've been playing around with it a bunch, one of the ways I used it is my mom wrote this autobiography, like a short autobiography of her life.
+And we have the PDF of it.
+So I fed it into the notebook and then generated the podcast and sent it to her.
+Like, what the heck?
+That's amazing.
+What did she think?
+She was blown away.
+She's showing all her friends.
+She's like, I don't know what's going on here.
+And I love that it creates a study guide.
+And that's one of the options in the studio.
+And so I sent her the study guide.
+And she's like, okay, at a Rosh Hashanah dinner, we're going to be reviewing the study guide about my biography.
+You're going to talk about this?
+That's very funny.
+That's super cute.
+I did it for my dad, too.
+What did you do?
+I actually took my dad's bio.
+So he worked at a hospital.
+And he has a bio for the doctors that they have there.
+And I put his bio.
+And I generated an audio overview for him.
+And it's so funny because my parents are both in the medical field.
+They don't think they fully know what I do.
+I think this is the first time they were like, oh, that's super interesting.
+That's what you do.
+So maybe along these lines, what are some other surprising, hilarious use cases you've seen for especially the audio deep jives?
+I mean, I love the resume ones.
+I think the resume ones are so delightful.
+And actually, really adjacent to that is Google has these Q3 check-ins or the quarterly check-ins where we have to write performance reviews for ourselves.
+And the amount of Googlers that ping me that I don't even know.
+And they're like, wow, this was such a boost to my confidence just to upload my own check-in notes and then have it generate an audio overview.
+It's like people are going into meetings feeling really good about themselves.
+Because they heard these hosts get really excited, right, about their quarter.
+Their work, yeah.
+Yeah.
+And when you say resume, so people upload the resume and then it describes you in a really positive way, right?
+Yeah, yeah.
+And I thought that was so interesting.
+I was like, what was the use case?
+I think if I had to guess, somebody probably was like, hey, I want to try this new thing.
+Clicked on upload Google Doc and maybe, you know, the last thing you had there was like your resume or something.
+But imagine you click that and I think there's something really special about you don't know what's going to happen.
+Right?
+You just click generate and then you have this like these two people just hyping you up.
+Okay.
+I want to talk a bit more about how you made this happen within Google.
+So as an outsider, this does not feel like a Google product.
+And the way you all are operating feels very startup-y.
+Like you're tweeting daily about what's going on.
+I heard there's a Discord server for folks that are like, really?
+Is that right?
+Yeah.
+Yeah, there is.
+It's pretty cool.
+We have about 60,000 people in it.
+Okay.
+You want.
+Okay.
+So, yeah.
+So there's this Discord server.
+It's just you're shipping constantly.
+The product is just like very delightful.
+And Google makes delightful products, but this feels like a different realm of delight.
+How are you able to do this within Google?
+Is this like a model for how you think Google Teams will want to operate?
+More lessons there.
+I mean, it's such a good question.
+I think, you know, there's a question of how it came to be, how we're able to operate in this way.
+And then the question of, hey, is this, you know, how other Google Teams want to operate?
+And I think that, you know, to answer the first part, I'll say that it's interesting because, you know, Google Labs is only about three years old.
+It's fairly new.
+And when I joined, there was nobody here.
+There's no one.
+And the reason why I joined was because my old boss went and actually started it.
+And so this is Josh Woodward, who's the VP of Google Labs.
+And it's really funny because I was like, it's just like a funny anecdote.
+I remember I had no idea what Google Labs was, but I like my old boss so much that I was like, I'll just work on whatever he's working on.
+Whatever his new idea is, I'll just do it.
+And I remember when I joined, I was like, what's the mission?
+What are we here for?
+And he said, it's AI.
+We're going to ship AI products and we're going to build businesses out of them.
+Okay.
+Sounds good.
+Sounds good.
+It's like, now I have to, now I have to study.
+I have to do a lot of studying because I came from payments, came from ads before that.
+And so for me, it was, it was a little bit of a mental shift, but before that I actually worked only at startups.
+And so I felt like, hey, maybe this is my chance to do zero to one again.
+And I was really jazzed about that.
+And I remember talking with Josh about this in the early days of like, hey, we really want to do zero to one.
+We have to do things very differently.
+And so as a result, I think that's why, you know, notebook LM is able to operate differently.
+It's because in labs, we have the environment to do it.
+We have the environment to move fast.
+We have far, far, far fewer processes, maybe even to a fault.
+And sometimes we'll go to meetings that are literally, you know, the product managers, the engineers, the designers all together.
+And we'll just crank on the mocks and the PRDs at the same time.
+And Eng is basically already doing implementation as we're meeting.
+And, you know, at Google, it's just not how things are traditionally done, right?
+Especially, you know, coming from the previous organizations that I was at, like, just takes a lot of time to do each of these things.
+So what I'm hearing, and this is great, because a lot of companies are trying to create teams like this.
+We're going to have a team off to the side.
+We're going to make work on crazy futuristic stuff.
+Rarely do those work out.
+Even at Google, there's been a lot of this in the past and rarely do things actually work out.
+And so there's a lot of lessons to learn from how this is working.
+So a few things I've noticed as you're describing how this works.
+One is just very clear expectations from, like, a very senior leader.
+Here's a team.
+We're going to do things differently.
+Here's things we're not going to do.
+We're not going to go through regular pre-roll processes.
+We're going to be public and build in public.
+We're not going to have, like, a goal necessarily.
+We're going to work on cool technology and see what happens.
+Also, you had a very small team.
+It feels like that was really key.
+One engineer and then a PM and then Steven Johnson.
+That's true.
+That's true.
+And I think, you know, one big thing, too, is we got to try new things.
+Even, you know, from the beginning, I was like, hey, I want to have a Discord.
+Right?
+Like, if we were building outside of Google, for sure, we would have one of these.
+And in true sort of Google fashion, everybody was like, what is Discord?
+Okay.
+You know, great.
+Do it.
+But what is that again?
+Right.
+Why not Google Meet?
+And somebody did ask me.
+They were like, why not a Google Meet?
+Why not a Google Group?
+Why not this?
+And I was like, I don't even know how to use these things, you know, outside.
+So I was like, the server is the way to go.
+And I remember when we stood up the server, actually, one of the things I was most afraid
+of is, what if nobody joins?
+Like, what if no people come in and want to talk to us about the thing that we built?
+And so that was in the early days, you know, very exciting to look back and remember day
+zero and now have 60,000 people in it.
+Let me tell you about a product called Sidebar.
+The most successful people that I know surround themselves with incredible peers.
+When you have a trusted group of peers, you can discuss challenges you're having, get career
+advice, and just gut check how you're thinking about your work, your career, and your life.
+This gives you more than a leg up.
+It gives you a leap forward.
+Having a group of trusted and amazing peers was key to my career growth.
+And this is the Sidebar ethos.
+But it's hard to build this trusted group of peers on your own.
+Sidebar is a platform for senior tech professionals, director to C-level, to advance in their career.
+Members are matched into peer groups to lean on for unbiased opinions, diverse perspectives,
+and raw feedback.
+Guided by world-class programming and facilitation, all running on Sidebar's technology, Sidebar enables
+you to get focused, tactical feedback at every step of your career journey.
+If you're a listener of this podcast, you're already committed to growth.
+Sidebar is the missing piece to catalyze your career.
+93% of members say Sidebar helped them achieve a significant positive change in their career.
+Check them out at sidebar.com slash Lenny.
+Okay, so there's 60,000 in this Discord server.
+Any other traction numbers you can share?
+Feels like it's just going really well.
+I know there's probably a lot of sensitive information.
+Anything you can share about just like how well things are going?
+A couple of things.
+Well, I'll tell you three things.
+I think the first is I can't share the exact numbers.
+But, you know, for a product that's only been out for about a year, I think the rate at which
+our retention has gone up across, you know, across like the typical measures, right?
+Daily retention, weekly retention, monthly retention.
+That I think has been very, very positive for us in terms of like, even when we talk to
+stakeholders, we say, hey, we've got something here.
+The second thing I'll say is even seeing how the demographics have changed, where I think
+in the beginning we saw educators, learners really loved the product and they were a lot
+of our demographic.
+It's really now a big mix of, I would say educators and learners are still a big part
+of it, but really professionals, right?
+Huge interest for professionals that are like, wow, I want to use this at work.
+And really funny, I won't mention the company, but I actually had a call with a company recently
+where they were like, hey, we thought we'd schedule a meeting with you because we found
+out that a bunch of people in our company are using this tool with our Gmails, with their
+Gmail account.
+They're like, they're not supposed to do that.
+So we just want to make it official that they can use this at work, you know, with their
+official work emails.
+I thought that was pretty cool.
+And then the third thing I'll say is the number of businesses that we've seen using
+Notebook LM just has, it's astronomical.
+It's just like crazy.
+I think we went, I don't want to say the exact numbers, but it is now at a point where I have
+to hire a business development person because I was like, hey, I have to ship products.
+And I'm actually taking like customer calls every day now.
+Very, very exciting.
+So I could see the path to monetization clearly.
+Enterprise features, single sign-on and SOC 2 and all these things.
+So along those lines, what does success look like for this team and for you?
+I know Matt initially is probably just like build interesting things, see what happens.
+Is there now a clear sense of like, here's what this team should be achieving in the future?
+When I joined, my mandate was to build a business.
+And I was like, all right, if we break down the steps here along the way, I have to build
+something interesting first.
+I feel like, okay, we hit the first thing.
+We've built something interesting.
+Now we go figure out the business.
+And I think, you know, that that comes naturally to Google in terms of thinking about, you know,
+distribution, how to monetize it, how to commercialize it.
+There's different pathways, whether it's cloud or workspace or even the consumer route.
+And so for me, I think these are the things that we want to be really thoughtful about because
+the machinery is already there.
+And for me personally, it's really about there's something super exciting here.
+We need to deepen that, right?
+Like while in parallel, we should be thinking about commercialization.
+Let's deepen this user experience that so many people have really sort of latched onto.
+So let's follow this thread and talk about just where you think the product goes broadly,
+and especially the audio overviews.
+What's on the roadmap in your term?
+And then where do you imagine this in the future?
+What's kind of the big vision?
+Yeah, yeah.
+I have a really ugly slide.
+I wish I could show you.
+I made it two years ago and it was lime green.
+I don't know, you know, what I was thinking.
+I think I was trying to go for like ungoogly was the vibe.
+It's like, hey, you're going to do different things this time.
+And the reason why that slide is so important to me is because it has my vision.
+Like the thing that I wanted to do from the get-go, which was I imagined that in the future,
+you could have an AI editor surface, right?
+Fully remixable, any input, any output, right?
+And that to me is sort of like a really powerful sort of core nugget where if you imagine you could take anything,
+whether it's video, audio, your emails, your LinkedIn, your Twitter, right?
+The world of things that we care about.
+You have an AI interface that allows you to shape it and say, look, out of these things, make me a blog post.
+Out of these things, make me a tutorial video.
+Out of these things, make a chatbot, right?
+I think there's like something interesting here where for most of the things that I'm hearing people say they want to do,
+it's usually that.
+Like take something and make it into something new.
+And so we're going to pursue that.
+But even more tactically, something I'm really interested in is thinking about, hey, how do we bring this to mobile?
+The mobile app to me is such a big gap in terms of the experience today,
+which I think is understandable considering where we're at in the product development cycle.
+And I think that's the next horizon is, hey, how different is the mobile experience and how can we make it interesting?
+What I'm imagining as I talk, I participate in this podcast conversation with these hosts as a mobile experience.
+Yeah.
+Yeah.
+I mean, that's one of the things that we're definitely experimenting with different formats.
+And when we demoed it at I.O., you could interrupt it.
+But we're trying to be really thoughtful about, hey, what does that interrupt actually look like?
+Like what do people want when they do this?
+And, you know, I was thinking about the next set of improvements we're going to ship.
+And the first thing that I thought was, let's ship a bunch of knobs.
+Like to me, it was like what I was hearing people wanted.
+They want knobs, they want sliders, they want text boxes.
+But then when I looked at the mocks, I was like, oh, that's great.
+Like this doesn't feel magical.
+It almost doesn't feel like the same thing that we've shipped so far.
+And so for me, I'm actually taking a little bit of time to think about how do we make even that thing and control experience much more magical and delightful.
+Interesting.
+So, yeah, the knobs I imagine are just like go deeper, be happier, get less serious, more serious.
+Because, yeah, because right now it's like a one shot.
+Here's my doc.
+Here's the one podcast episode you get.
+It's the only version you can have.
+Yeah, yeah.
+And, you know, I think it's funny because I was like, you know, the knobs seemed really apparent.
+And I was like, is that it?
+Is that what people want?
+I love that.
+I love that approach.
+I'm excited to see where you go with it.
+And what I especially love about this vision you're describing, it super resonates with this insight I've had.
+So I've had a newsletter and then I had just a podcast that's just audio and then I added video.
+And I realized that there's just people that I just want to watch stuff.
+And there's people that I just want to listen to stuff.
+And then there's people I just want to read.
+I don't want this podcast to shut up.
+I want to read it.
+And basically what you're describing is here.
+Well, here's information and we can deliver it to you in any medium you like.
+It could be blog posts.
+It could be maybe a tweet.
+It could be a podcast.
+It could be a newsletter.
+A blog post.
+Yeah, I mean, that's exactly it.
+And I think even for myself, it depends on my mood.
+If I'm going on a walk, yeah, I want audio.
+But if I'm at work, yeah, most of the time text is good.
+And it's kind of interesting to think about today the formats are not as malleable.
+I have to accept it in the format that you give it to me.
+But if I had sort of that power myself to choose, hey, thanks for this 100-page doc.
+I'm going to go ahead and turn it into an audio overview, actually.
+It sort of shifts, I think, the dynamic between the person and the knowledge that's given to them.
+And there are actually many, many times that I've been given a 100-page doc and I just didn't read it.
+So I wonder, I mean, just frankly speaking.
+It's one of my funny stories is actually when I first joined Labs.
+Josh did give me a 50-page doc.
+He was like, here's what I think about this, this, this.
+It was like basically his vision.
+And instead of reading it, I just grilled him.
+I was just like Q&A-ing him like a chatbot.
+Josh was like, it's in the doc, Ryzen.
+But the chat is easier, Josh.
+That's so funny.
+You chatbotted him.
+Let's talk a little bit more about different use cases for this, just so people potentially get inspired.
+So it feels like the original use case was a scientific paper and it creates a podcast about it so you don't have to read this whole thing.
+Was that one of the original use cases or not?
+I think it's like one of the common use cases.
+I think that's one of the ones where it's like, I think it's kind of interesting because it's like everybody wants to catch up on the latest on AI.
+We want to try to keep up to date on sort of the published papers.
+But most of the time, it's like reading the paper can take time.
+It's dense, complex.
+You have to break down the concepts in it.
+And I think that is a highly sort of extensible use case.
+I would say like the number one, the number one use case is actually a lot of students taking their study materials and wanting to turn it into an audio guide.
+So two recent use cases that are hilarious slash amazing, just will point to people in the show notes, just like they came to mind as you were talking.
+One is Andrew Karpathy, who's a leading AI thinker and big fan of what you're building.
+He keeps tweeting about how much he loves it all.
+He created this whole podcast series on history of mysteries.
+I think it's called history of mysteries.
+I'm sorry.
+It's histories of mysteries.
+Where he basically took like the Wikipedia stories of all these mysteries of history and then turned it into like a 10 episode podcast you could listen to on Spotify.
+Yeah.
+Amazing.
+That was amazing.
+Actually, when I saw it, I was like, wow, this is this by itself is like a great product.
+And I think like the original potato podcast that we had created was actually I think it was because of the Wikipedia article of the day was about potatoes.
+So there is there is something there.
+It's like, hey, if you want to learn something new today, maybe you can just listen to it on your drive to work or something.
+Yeah.
+So good.
+Okay.
+The other one is the most funny is someone just uploaded the words poop and fart.
+I repeated right for a long time.
+And the host just came up with a really kind of insightful analysis of it.
+Yeah, I actually, when I saw that one, I was about to go to bed.
+And I was like, all right, if I listen to this now, and this is a negative one, I'm going to have to get my laptop and work because I can't I can't sleep.
+Right.
+If I if I feel like there's something here that's like we need to address right now.
+Then I was like, okay, I'm just gonna do it.
+So I listened to it.
+And I think I listened to a lot of these, and they always make me feel some kind of way I laugh a little bit.
+There was, there's one where it's like, they make scary voices.
+That one was cool, too.
+But this one, this one was one of the ones where I genuinely was just really delighted at the output, because it was so delightful.
+I don't know if you listen to the whole thing, but there's a segment where one of the speakers says, hey, it's kind of like, you know, you lean into the bazaar or something.
+And he and they're describing walking past a shop that was full of rubber ducks wearing costumes.
+And they're like, oh, yeah, it's, you know, it's silly, but you just want to lean into it.
+So I walked into the store and I was like, oh, it's a great analogy, actually, for sort of a document that just says poop and fart.
+Like, there's something interesting here.
+It's so good.
+And just they like their analysis of structure and patterns.
+And like, I love that they have to come up with a 10 minute conversation around anything you give them.
+Like, it feels a little mean.
+Yeah, yeah, it's true.
+I don't know if you've seen the chicken one, but it's pretty similar.
+Somebody uploaded, I think it's on threads.
+It's a PDF that looks a lot like a research paper, but it just says chicken.
+World document says chicken.
+I would give it a listen.
+And there's a funny segment where they're like, get this.
+It's a paper, a research paper that has more chicken in it than KFC.
+Oh, it's good.
+It's good.
+It's so good.
+Oh, my God.
+Okay.
+I could keep going about this all day.
+But let's let me let me come back to the team that's working on this.
+And let's talk about Stephen Johnson's role.
+So he's basically your peer.
+You two essentially lead this with the engineer, I imagine.
+Just like, what's his role?
+How does this work at this point?
+What does the team look like?
+It's so funny.
+I'm so fond of Stephen.
+And I tease him a lot that whenever people ping me and they want to have a meeting and I don't want to go to the meeting.
+I say, oh, I'm not the PM.
+It's Stephen Johnson.
+You want to talk to that guy?
+And he was like, so that's why all these people have been picking me.
+But, you know, kidding aside, Stephen, Stephen joined.
+I was like, well, this is super interesting.
+This has never happened to me before.
+There's this very accomplished, distinguished person that I really respect.
+Love his books.
+Love his writing.
+And now he's going to come work with me in a capacity where I was like, I'm just not sure what he's going to do here.
+But the thing about Stephen is he is the most curious, most respectful and really just full of ideas kind of person.
+And so when Stephen joined, a lot of what was really interesting to me is I would watch how he worked.
+The way that he thought about language, the way that he thought about information, the way that he thinks about knowledge and sharing that with others.
+Because Stephen's books are like really incredible.
+It's like part mystery, super science, right?
+It's just very cool.
+And I was watching the way that he works and, you know, he does all of this research.
+And I thought maybe this is this is the nugget, right?
+Maybe I watch Stephen and I look at the way that he does these things and I look at how much time it takes for him to do it.
+And then I make it my own metric to crunch that down, right?
+To bring that expertise to everyday people who are not Stephen Johnson.
+And so I learned a lot just from watching Stephen of like his craft and thinking about, OK, how do I make people really, really good at de-densifying information?
+Is that something we all do every day, right?
+In our own little ways, maybe not in like a Stephen Johnson way.
+But from the get go, I told him this.
+I was like, Stephen, I think you're the product.
+I think it's you.
+And I'm going to follow you around.
+I'm going to watch everything that you do.
+And we're going to try to figure out how we use technology to build it.
+And he always laughs about this.
+And it's really funny because he does have some very interesting workflows that I'm like, I do not see any person ever doing anything like this.
+Like he always talks about his read wise with like his 8000 quotes or something.
+I'm like, that's extreme.
+That's crazy.
+And, you know, I have like Post-its that like sometimes they're crumpled in my pocket.
+Like this is like the average normie flow.
+And what I learned from Stephen is like, hey, there's something powerful about doing that, right?
+Like thinking about this person who has like a super flow and trying to bring that bring that to people.
+And so Stephen is also just like such a great partner with ideas.
+Like I always tell him ideas and I'm like, hey, crazy idea of the day.
+And he'll just banter with you and he'll be like, well, what about this?
+How can people do this?
+And so it feels it feels really incredible to have him on the team.
+Is there any lessons here for how you think you'll want to build product in the future or how teams might find their own Stephen for building their own product?
+Or is this kind of a unique case, you think?
+I mean, I think it is just crazy to think that you could sort of invite, you know, someone like Stephen and become part of your team and have him sit with you every day and have him answer your questions about how he does things.
+Right.
+But I'll say that the broader lesson there for me, it's like something we've tried to live by every day is really the how do you get, you know, users or people and like really sit with them for meaningful periods of time?
+Because I think that has been so crucial for me, not even just for Stephen, but even with students.
+Just follow students around, watch them do homework, watch them study, talk to them about how they feel when they study.
+I think just being able to do that at a really regular and sort of intentional capacity makes a huge difference in terms of like the product insights you'll come up with.
+Can you just give like a brief bio of Stephen for folks that are like, who are you even talking about?
+I probably should have done that before I asked this question, but just like what's like the TLDR of who Stephen Johnson is?
+Yes.
+Oh, I think Stephen is.
+Aside from one of the smartest people you'll ever meet, he has written 14 books.
+He's a New York Times bestselling author and speaker.
+He has a show on PBS.
+I can't remember what it's called, but it's on YouTube is like really incredible.
+And he is a journalist.
+Actually, funny story about Stephen is when I was about to join labs, I really wanted to join labs because I wanted to join Josh in whatever he was building.
+Josh told me, hey, you know, to give you an idea of what we're doing here, he sent me a couple of things to read.
+And one of them actually ended up being Stephen's article that he wrote, the one about how AI is mastering language.
+Should we trust what it says?
+The New York Times piece.
+And I remember reading it and being like, yes, this is the thing.
+I'm going to work on it.
+And so before Stephen had even joined, this was actually the piece that I was like, I want to go do that.
+I'm going to go do that in labs.
+And then he ended up joining and it was just the craziest thing.
+That's so interesting.
+I imagine many PMs would be like, I don't need someone else on my team that isn't building or coding or product managing or designing.
+Just this other chef in my kitchen.
+Like, no.
+And I love this actually worked out really well.
+Like, it feels like he's a perfect combination of very smart, future thinking, insightful.
+Plus, he's almost a model for what you want people to be able to work like.
+Yes.
+Although I will say, like, to be very fair, I mean, Stephen and I also disagree on a lot of different things.
+We've clashed a bunch.
+And I think this is where I feel really grateful to have had the opportunity to work with him and to really grow with him in that way.
+And I used to make fun of him.
+I was like, have you ever had a coworker before, Stephen?
+Because I think you've been an author forever.
+And it's really funny because he's so down to earth and he's so humble that even with our disagreements, we always reach.
+At the end, we're always aligned.
+Right.
+Even if we don't agree about something, we're aligned on the next step.
+And that's really powerful, I think, particularly for product professionals, right, for PMs, where it's like, I don't want to disagree at the end and then not have an outcome on top.
+I love that.
+Okay.
+I have just a few more questions.
+I know you have to get back to work to building this thing.
+One is there is this hilarious moment where the hosts basically realize they're like, we are AI people and I'm scared what's happening.
+I tried to call my wife and she didn't answer.
+Talk about that.
+And I want to extend to just like red teaming this thing.
+How do you like red team this thing and make sure it's not doing things that are bad for the world, bad for Google, bad for the product?
+Yeah.
+Yeah.
+It's such a good question.
+I think I heard that it was over the weekend.
+I think it was on a Saturday or Sunday.
+And I remember hearing it and thinking, oh, my goodness.
+You know, this is actually one of those moments where you feel like we're at a fork in the road.
+And I hadn't read any of the comments.
+I just heard the audio.
+I think I saw it on Reddit first and then I saw it blowing up on Twitter.
+And I remember thinking, what is the attitude of like the world now?
+How do we feel about this type of audio?
+It was really the first thing that I thought.
+And so I actually spent most of that morning reading the comments, reading on Twitter.
+I was thinking about, you know, what is what is the right thing to do?
+Right.
+Like, should we say something?
+Should we not say something?
+And.
+I basically just went with what I thought was the right thing to do, which is I think people are getting to experience this technology for the first time ever.
+And of course, they're going to try to do things that are maybe something that we didn't think about.
+We didn't think they would do or we didn't think that they could do.
+Right.
+With like the jailbreaks and stuff.
+But I think that's such a natural part of human curiosity.
+And I think like there was a moment where it's like, oh, do we like pull this back?
+Right.
+Because this is like, oh, is this like a safe thing?
+But because the response, I think, was that people were like, oh, it's saying that because of the sources like this is no like.
+AI realized they were alive or something, it's actually that it was in the show notes, they were supposed to act this out.
+And so I felt really much more confident that like, oh, people get it right.
+That's exactly what this is.
+Somebody uploaded some notes and said, hey, is the end of the show.
+So, you know, make sure that you you act accordingly.
+And that for me was enough for me to be able to say, like, OK, I'm going to address this publicly and say something on Twitter and make sure that people know that like, hey, I've seen it and I get it.
+Like, this is like what people do with it.
+In terms of red teaming at Google, though, what I will say is we have, you know, this is one of the things that we care about the most.
+We have huge teams that work on red teaming it.
+We test for about as many areas as you can think of that we imagine we need to do in order to make it safe.
+And I think certainly I think we'll run into situations where, OK, we didn't think about that or like we haven't tested that to the fullest extent.
+And we just add it to the test cases.
+I think if there was ever like a scenario where we're like, oh, this feels pretty unsafe, we would pull it back.
+But I think hopefully, you know, we've built it in such a way where we don't have to do it.
+Awesome. Yeah.
+I love like people are just looking for ways to make it do stuff that is feels wrong when it's just like, hey, we're just summarizing a thing for you in a really delightful way.
+Where do things go from here?
+We talked about it a bit.
+You're going to maybe sounds like maybe there's a mobile app in the works.
+There's maybe non knobby knobs that you're working on to give people more power for folks that are just excited about using this.
+Where where's it going?
+And who are you aiming to build for?
+Just what should people know about the future of a book?
+If there's like one thing I could say is that we are continuing to learn from users every day.
+So please keep using it.
+Please keep sharing your feedback, whether it's on X or on Discord.
+Like I'm there every day.
+Even if I don't respond, I've read everything.
+And I say this in the most non creepy way possible.
+But I say this because we are just very passionate about trying to build the right thing, you know, the best thing for everybody.
+Kind of going back to sort of, hey, who are you building for?
+I think that there's a lot of fun use cases, but there's a lot of actually very useful sort of game changing workflows in here.
+And so we'll continue to build in that direction, I think, particularly for educators, for learners, for professionals, right?
+Knowledge workers, as we call them.
+I think there's a lot there that we'll be able to execute against in the very short term.
+Amazing.
+OK, two final questions.
+If folks want to give you feedback, reach out, what's the best way to do that?
+Is it DM you?
+Is it is there an email?
+Something else?
+Yeah, I mean, Discord.
+Join our Discord.
+Time in.
+Yeah, we're there.
+You can ask me or yeah, X also.
+It's pretty good.
+I just I just came back to it and kind of feel like I don't really know how it works now.
+So just a warning in case you DM me.
+I might just not know how it works.
+On Twitter, you mean specifically?
+On Twitter, on Twitter.
+Exactly.
+And then final question, how can listeners be useful to you?
+I mean, please keep trying it.
+Try it.
+Share your feedback.
+Whether you find it useful, not useful, you think it's annoying.
+Tell me.
+These are the things that I've heard, you know, for the last year that's helped me to make it better.
+And so if you're inclined, please go ahead.
+Try it.
+Notebooklm.google.com.
+You're building an amazing product that is extremely delightful.
+It's one of the most interesting things on the Internet today, which is a very high bar.
+And you've done it.
+And I'm really excited to see where it goes.
+I'm going to keep playing with it.
+I've been using it for my newsletter in a really fun way.
+And so great work and keep it up.
+And we'll see where things go.
+Thanks for thanks for coming on.
+I know you have a lot of work to do.
+Oh, that's amazing.
+Thank you, Lenny.
+Thanks for having me.
+And, you know, thanks so much for your curiosity about it.
+Stay curious.
+Bye, everyone.
+Thank you so much for listening.
+If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app.
+Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast.
+You can find all past episodes or learn more about the show at lennyspodcast.com.
+See you in the next episode.

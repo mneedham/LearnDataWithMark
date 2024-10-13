@@ -1,0 +1,1252 @@
+1
+00:00:00,000 --> 00:00:15,640
+This episode is presented by BT. Now tech has done so much for business, not least for the bottom line, but it also increases the level of cyber threats because modern businesses have connected tech everywhere.
+
+2
+00:00:16,100 --> 00:00:23,580
+So there are more opportunities for hackers to exploit, more valuable data to target and a bigger prize at stake if they make it through.
+
+3
+00:00:23,580 --> 00:00:33,280
+So it's good to know BT's cybersecurity is one step ahead. They're able to better understand how ingenious hackers work and keep your business protected.
+
+4
+00:00:33,960 --> 00:00:41,740
+They know about the different gateways hackers can use to get into your systems, even a smart coffee machine or a connected lift.
+
+5
+00:00:42,080 --> 00:00:45,840
+They've got your back. Search BT's got your back to learn more.
+
+6
+00:00:45,840 --> 00:00:59,280
+This episode is brought to you by Vanta. Streamline your company's security with Vanta's automated compliance for SOC 2, ISO 27001 and more.
+
+7
+00:00:59,580 --> 00:01:06,880
+You can save time and money while boosting customer trust with a customer facing trust center and automated security reviews.
+
+8
+00:01:07,420 --> 00:01:12,660
+Vanta is trusted by over 7000 global companies like Atlassian and Quora.
+
+9
+00:01:12,660 --> 00:01:16,600
+Vanta helps you manage risk and prove security in real time.
+
+10
+00:01:17,060 --> 00:01:24,120
+It also helps take the manual work out of your security and compliance process, replacing it with continuous automation.
+
+11
+00:01:24,880 --> 00:01:30,320
+Get $1,000 off Vanta at banta.com slash restismoney.
+
+12
+00:01:31,220 --> 00:01:35,180
+Adobe Express makes it quick and easy to create everything I need for my business.
+
+13
+00:01:35,640 --> 00:01:39,480
+From social posts, TikToks and flyers, all in just a few clicks.
+
+14
+00:01:39,480 --> 00:01:43,820
+Get Adobe Express for free. Search for Adobe Express to find out more.
+
+15
+00:01:56,360 --> 00:01:59,660
+Hello and welcome to The Rest is Money with me, Steph McGovern.
+
+16
+00:01:59,800 --> 00:02:00,960
+And with me, Robert Peston.
+
+17
+00:02:00,960 --> 00:02:09,280
+Now, everybody at the moment is saying we're all too gloomy, especially the government, about the state of the economy, about the state of the country.
+
+18
+00:02:09,820 --> 00:02:18,100
+Today, therefore, we're going to be looking at a branch of economics called the economics of happiness, aren't we, Steph?
+
+19
+00:02:18,100 --> 00:02:28,680
+Yeah, because we have got Professor Happiness himself with us, Lord Richard Layard, who is, he's dedicated his life to research in the economics of well-being.
+
+20
+00:02:28,860 --> 00:02:34,600
+He's the founder of the Centre for Economic Performance, the co-director of LSE's Community Well-Being Programme.
+
+21
+00:02:34,900 --> 00:02:41,660
+And he's been really influential in public policy for decades now, particularly in the Brown Blair era.
+
+22
+00:02:41,660 --> 00:02:53,020
+Now, with a government that's so obsessed with generating growth, one of the things we're going to look at is actually whether faster-growing economies actually make people happier.
+
+23
+00:02:53,220 --> 00:02:58,960
+Or whether actually, in some cases, people are more miserable in fast-growing economies.
+
+24
+00:02:59,880 --> 00:03:07,620
+And actually, the other thing which I'm quite interested in is whether it's even coherent to measure happiness in a sort of scientific way.
+
+25
+00:03:07,620 --> 00:03:17,860
+And we'll also look at why young people in rich countries like the US and the UK seem now, this is what the surveys show, to be less happy than those over 60.
+
+26
+00:03:17,960 --> 00:03:22,780
+And that wasn't always the case and actually isn't true in other countries.
+
+27
+00:03:22,980 --> 00:03:24,760
+So, lots to dig into, isn't there?
+
+28
+00:03:24,880 --> 00:03:27,560
+Yeah. So, here's our interview with Lord Richard Layard.
+
+29
+00:03:29,220 --> 00:03:36,180
+I am so excited to talk to you because I love the idea of happiness being the goal we should all achieve in life.
+
+30
+00:03:36,180 --> 00:03:40,120
+Because that's what I always think about. I always think, what do I care most about? It's being happy and healthy.
+
+31
+00:03:40,920 --> 00:03:46,620
+So, can you just define, first of all, what you mean when you're talking about happiness and well-being?
+
+32
+00:03:46,780 --> 00:03:51,500
+Well, it's how people feel about their lives. Are they satisfied? Do they feel fulfilled?
+
+33
+00:03:52,180 --> 00:04:00,480
+And this is surely what we most want, a society where people have that experience of life, the quality of life, if you like.
+
+34
+00:04:00,480 --> 00:04:08,740
+And the great thing is, I mean, this is a great idea going back to the 18th century, that this is how we should define the good society.
+
+35
+00:04:09,200 --> 00:04:11,820
+But until recently, we couldn't measure it.
+
+36
+00:04:11,880 --> 00:04:16,700
+And therefore, it was more difficult to think about how to achieve that objective.
+
+37
+00:04:16,700 --> 00:04:27,300
+And the great thing that psychologists have done for us in the last 40 years is found that you can ask perfectly sensible questions like, overall, how satisfied are you with your life these days?
+
+38
+00:04:27,940 --> 00:04:30,220
+0 to 10, 0, not at all 10 very.
+
+39
+00:04:30,220 --> 00:05:00,220
+0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0 to 10, 0
+
+40
+00:05:00,220 --> 00:05:09,020
+Yes, it's not just morally right to try and promote a society where people are enjoying their lives, but that is actually the best way to get re-elected.
+
+41
+00:05:09,020 --> 00:05:29,660
+Now, you've been talking about this for years. You set up a department at the London School of Economics dedicated to research in this area. But my very clear impression is that sometimes you've been sort of banging your head against a brick wall when it comes to persuading politicians, political leaders to do more than pay lip service.
+
+42
+00:05:29,660 --> 00:05:40,120
+I mean, yes, Downing Street sort of started to supposedly to take this stuff seriously. But in practice, have you seen genuine policies flow from this?
+
+43
+00:05:40,120 --> 00:05:59,120
+Well, I think you could say that the increased interest in mental health is partly affected by this movement, that the people are saying what we want is a better experience of life. And one of the ways in which people are most not getting that experience is because of mental illness.
+
+44
+00:05:59,120 --> 00:06:10,200
+But we know that we have appalling mental health provision in this country. Again, the last government talked about putting more resource in, but even so, wholly inadequate provision of mental health resource.
+
+45
+00:06:10,200 --> 00:06:27,180
+It's still wholly inadequate, but it's incredibly much better than it was 20 years ago. So that's one thing I would say. But what we've got, going back to your question, is international organizations increasingly saying this is the objective and this is what we want member countries to be pursuing.
+
+46
+00:06:27,180 --> 00:06:42,460
+And the great thing is that Keir Starmer has said that when elected, Labour will require the Treasury to evaluate all spending proposals in terms of their impact on wellbeing and not just on GDP.
+
+47
+00:06:42,460 --> 00:06:52,420
+So I think we are now poised for a big advance in the systematic use of wellbeing as the measure of the success of our country.
+
+48
+00:06:52,420 --> 00:07:04,660
+Do you know what? I was really interested in something you said, which was to do with how closely connected to improved happiness is the increased influence of women in our society.
+
+49
+00:07:04,660 --> 00:07:14,660
+And you cite the former female leaders of Scotland, of Iceland, of Iceland, who all put happiness as a policy, didn't they?
+
+50
+00:07:14,760 --> 00:07:27,760
+They have done. And I think that's no accident because obviously the evidence is that women tend to be more concerned with feelings and how people are experiencing life.
+
+51
+00:07:27,760 --> 00:07:34,620
+Men tend to be more concerned with, quote, objective indicators. So I think that that's no accident.
+
+52
+00:07:34,840 --> 00:07:45,140
+And of course, it is the influence of women which has also brought about this much greater psychological awareness in the population, including the population of men.
+
+53
+00:07:45,660 --> 00:07:50,520
+And that is also what has been leading to more but not adequate attention to mental health.
+
+54
+00:07:50,800 --> 00:07:56,020
+So do you think now having a female chancellor, it will make the country happier?
+
+55
+00:07:56,020 --> 00:08:00,080
+Do you think because there will be, you know, extra feelings there?
+
+56
+00:08:00,360 --> 00:08:04,320
+Well, we've fortunately got a lot of good female ministers.
+
+57
+00:08:04,660 --> 00:08:05,060
+Yeah, we have.
+
+58
+00:08:05,300 --> 00:08:08,240
+So yes, I'm certainly hoping that's going to be the case.
+
+59
+00:08:08,360 --> 00:08:14,080
+We've had a couple of female prime ministers. The most famous was Margaret Thatcher.
+
+60
+00:08:14,380 --> 00:08:16,920
+Was the country happier under Margaret Thatcher?
+
+61
+00:08:17,140 --> 00:08:20,200
+No, some people wouldn't say she was very female.
+
+62
+00:08:20,200 --> 00:08:33,700
+Well, I think the really important moment that's coming up in Britain is the spending review because, you know, the government spends nearly half of the whole national income.
+
+63
+00:08:34,060 --> 00:08:35,500
+What should it be trying to do with that?
+
+64
+00:08:35,560 --> 00:08:38,720
+It should be trying to improve the well-being of the people.
+
+65
+00:08:38,860 --> 00:08:43,960
+That's actually Thomas Jefferson said that's the only legitimate objective of government.
+
+66
+00:08:43,960 --> 00:08:50,680
+And I completely agree with him. Why do we have government if it isn't to improve our well-being and to make sure it's better spread?
+
+67
+00:08:51,300 --> 00:09:04,440
+So in the spending review that's coming up, going to be announced in March next year, we are pushing for all policies to be, as Keir Starmer promised, evaluated in terms of their impact on well-being.
+
+68
+00:09:04,440 --> 00:09:14,220
+Just explain to listeners, how would they, in practice, evaluate those policies in respect of whether or not they make people happier?
+
+69
+00:09:14,500 --> 00:09:17,440
+Yes, this has to be done, of course, in a quantitative way.
+
+70
+00:09:17,780 --> 00:09:21,400
+If you're going to compare the strength of one policy with another.
+
+71
+00:09:21,780 --> 00:09:30,720
+How would you determine whether building a road makes people better off in the broadest sense of happiness compared to some other bit of investment?
+
+72
+00:09:30,720 --> 00:09:34,940
+Yeah, so you measure the benefits and you compare them with the costs.
+
+73
+00:09:35,160 --> 00:09:38,700
+Do you ask people locally and then, I mean, how do you do it?
+
+74
+00:09:38,840 --> 00:09:47,280
+No, you have evidence, say on a road program, of how much it's going to reduce the time and hassle of journeys.
+
+75
+00:09:47,640 --> 00:09:51,720
+And then you have measures of how that affects people's well-being.
+
+76
+00:09:52,400 --> 00:09:53,540
+Or their stress, for example.
+
+77
+00:09:53,940 --> 00:09:58,700
+Yes, and that can be then converted into the monetary equivalent.
+
+78
+00:09:58,700 --> 00:10:03,060
+And then you look at the ratio of the benefit to the cost.
+
+79
+00:10:03,780 --> 00:10:15,660
+So well-being does, in a way, always, if you're going to take it seriously in a quantitative way, you do convert the well-being into pound sterling, do you?
+
+80
+00:10:15,680 --> 00:10:16,600
+You monetize it.
+
+81
+00:10:16,680 --> 00:10:24,000
+That's the way the Treasury so-called Green Book, which is the manual that departments are meant to follow when they make their bids for money.
+
+82
+00:10:24,420 --> 00:10:25,400
+That's what it says.
+
+83
+00:10:25,400 --> 00:10:27,700
+Do you think that's the right approach, though?
+
+84
+00:10:27,800 --> 00:10:33,360
+Because when I've talked to you in the past, you've been rather critical of putting a monetary value on things like this.
+
+85
+00:10:33,540 --> 00:10:33,820
+No.
+
+86
+00:10:34,100 --> 00:10:46,960
+Provided you're measuring the well-being correctly, obviously you can then look at the benefits relative to the cost, either in units of well-being or just multiply them all by a number to turn them into money, which is how the Treasury wants it done.
+
+87
+00:10:46,960 --> 00:10:53,700
+And that's how we've done in this report we've recently published, which we hope will affect how the spending review is done.
+
+88
+00:10:53,700 --> 00:11:07,220
+So going back to your question, one can look at every policy, and we looked at about 20 policies in our report, to see what difference do they make to well-being and how does that compare with the cost?
+
+89
+00:11:07,320 --> 00:11:15,800
+Because the objective, obviously, if you want to get value for money, is to choose those policies that have the highest well-being per pound of cost.
+
+90
+00:11:15,800 --> 00:11:18,200
+It's not just the initial cost, of course.
+
+91
+00:11:18,280 --> 00:11:22,960
+It also has to be reduced for whatever cost savings it then produces.
+
+92
+00:11:23,380 --> 00:11:31,600
+So we come out with mental health as the best value for money of the things we looked at because it helps people back into work.
+
+93
+00:11:31,700 --> 00:11:33,320
+That helps to make their lives better.
+
+94
+00:11:33,760 --> 00:11:35,560
+That's the benefit side.
+
+95
+00:11:35,860 --> 00:11:41,340
+It also helps the exchequer because it means that they're paying taxes and coming off benefits.
+
+96
+00:11:41,860 --> 00:11:43,340
+So that should be the number one priority.
+
+97
+00:11:43,340 --> 00:11:46,240
+So I think this is the absolute no-brainer.
+
+98
+00:11:46,240 --> 00:11:58,440
+I've been involved with something called NHS Talking Therapies, which is now being used to treat 750,000 people a year, 50% of them recovery during the course of treatment.
+
+99
+00:11:59,060 --> 00:12:05,820
+We are also trying to get other categories of mental illness much better treated.
+
+100
+00:12:05,820 --> 00:12:17,200
+So, for example, nice recommend that everybody with an addiction to alcohol, drugs or gambling should be provided with the right psychological therapy.
+
+101
+00:12:17,700 --> 00:12:21,480
+About 5% get it, if that, at the moment.
+
+102
+00:12:21,480 --> 00:12:30,980
+So we're wanting to have a new parallel service for addictions set up within the NHS during the spending review.
+
+103
+00:12:31,060 --> 00:12:39,340
+Aren't there a lot of things like problems with addiction and things like that and other mental health problems a result of things that have happened much earlier in their lives?
+
+104
+00:12:39,340 --> 00:12:50,160
+And so isn't there a case for perhaps if we spend more money on early intervention in childhood, if we spend more money on education around, you know, helping people get into work and things like that?
+
+105
+00:12:50,240 --> 00:12:58,320
+Do you think then we wouldn't have as many mental health problems and maybe we need to go back right to the beginning rather than just pumping money into that?
+
+106
+00:12:58,320 --> 00:12:59,760
+So treat the cause rather than the symptoms?
+
+107
+00:13:00,020 --> 00:13:00,080
+Yeah.
+
+108
+00:13:00,340 --> 00:13:01,600
+Well, it shouldn't be rather than.
+
+109
+00:13:01,880 --> 00:13:03,120
+It should be both, shouldn't it?
+
+110
+00:13:03,120 --> 00:13:09,760
+I mean, if there are people out there suffering, my own view is that the moral imperative is to help the people who are suffering.
+
+111
+00:13:10,160 --> 00:13:14,240
+But obviously, we should also be trying to prevent the suffering in the first place.
+
+112
+00:13:14,240 --> 00:13:24,580
+So one of the policies which we evaluate is something which I feel very strongly about, which is the teaching of life skills in schools.
+
+113
+00:13:24,580 --> 00:13:47,580
+So we piloted a curriculum one hour a week from age 11 to age 15 of the basic skills, social and emotional learning, obviously the standard subjects there, but also coping with media, media awareness, understanding mental illness, practice of mindfulness, what it's going to be like to be a parent.
+
+114
+00:13:47,580 --> 00:13:52,700
+A whole range of things, very evidence-based, very manualized.
+
+115
+00:13:53,000 --> 00:14:02,100
+We then evaluate it and we find that it has a big increase in well-being for the children who experienced it compared with the control group.
+
+116
+00:14:02,320 --> 00:14:06,400
+This is an important point, that this has got to be done very professionally.
+
+117
+00:14:06,600 --> 00:14:08,060
+The teachers have got to be trained.
+
+118
+00:14:08,060 --> 00:14:14,800
+There were, from the previous Labour government, heroic efforts to improve well-being of children.
+
+119
+00:14:15,380 --> 00:14:18,600
+And they were shown in the experiment to have had no effect at all.
+
+120
+00:14:19,020 --> 00:14:20,600
+Good intentions are not enough.
+
+121
+00:14:21,100 --> 00:14:23,200
+This has got to be done very, very professionally.
+
+122
+00:14:23,720 --> 00:14:35,460
+Yeah, it's really interesting because we were talking to Youth Employment UK, the social enterprise, which looks at why young people are suffering perhaps more than other generations and what's going on in their world.
+
+123
+00:14:35,460 --> 00:14:45,860
+And one of the things that came out was this recurring theme of they feel like they're always in competition, whether it's getting services, whether it's getting a home, whether it's getting a job.
+
+124
+00:14:46,300 --> 00:14:49,680
+And that is the thing that is kind of, I guess, stifling their happiness.
+
+125
+00:14:50,160 --> 00:14:51,600
+I think there are two things going on.
+
+126
+00:14:51,680 --> 00:15:01,320
+I mean, one is the increase in competition, partly the very idea that your purpose in life is to be more successful than other people.
+
+127
+00:15:01,320 --> 00:15:06,200
+This has spread like a cancer from America spreading around the world.
+
+128
+00:15:06,620 --> 00:15:08,960
+This is doing a lot to reduce happiness.
+
+129
+00:15:09,620 --> 00:15:20,000
+I think the issues of measurement that people like me are responsible for, league tables, all of that sort of thing, has added to the tension that's generated.
+
+130
+00:15:20,640 --> 00:15:28,580
+Because rather than competition being something that just happens in the background, it now is happening all the time in the foreground.
+
+131
+00:15:28,580 --> 00:15:33,620
+But I think the other awful thing is the way social media operates.
+
+132
+00:15:34,240 --> 00:15:36,060
+I mean, we were brought up not to show off.
+
+133
+00:15:38,760 --> 00:15:45,680
+Social media are explicitly designed to enable people to show off the good features of their lives.
+
+134
+00:15:45,800 --> 00:15:48,440
+And that has the effect of making other people miserable.
+
+135
+00:15:48,620 --> 00:15:54,920
+Now, we know this from proper controlled experiments where people have stopped using Facebook and become happier.
+
+136
+00:15:54,920 --> 00:16:07,440
+So I think it is clear that our children have got to be educated in a way that makes them much more sensible in relation to social media,
+
+137
+00:16:07,600 --> 00:16:15,280
+either not using them or using them in a quite different spirit than to see who's got the best holiday or whatever it is.
+
+138
+00:16:15,280 --> 00:16:30,060
+And do you think social media, the pernicious impact of it, is the main reason why we've seen this shift such that older people in the UK and the US are now happier than younger people,
+
+139
+00:16:30,180 --> 00:16:33,740
+which was certainly not always the case and is not the case in many other countries?
+
+140
+00:16:33,860 --> 00:16:35,320
+I think it's a convincing case.
+
+141
+00:16:35,860 --> 00:16:37,800
+Jonathan Haidt has made this in his book.
+
+142
+00:16:37,800 --> 00:16:48,200
+The timing is so very precise that the measures of depression in childhood or I don't feel my life is worthwhile, I feel left out.
+
+143
+00:16:48,720 --> 00:16:57,280
+I mean, these start shooting up from 2010 onwards, which is exactly the time when the social media participation shot up.
+
+144
+00:16:57,600 --> 00:17:04,680
+So I think it is a pretty persuasive argument, though I think the controlled trials are, in a way, even more persuasive.
+
+145
+00:17:04,680 --> 00:17:12,540
+So I would agree with you that that is probably the biggest thing in the last 15 years or so.
+
+146
+00:17:12,720 --> 00:17:20,240
+But I think that what you mentioned earlier about competition is also a background factor that's at work.
+
+147
+00:17:20,240 --> 00:17:35,240
+Now, you'll have noticed that Meta, owner of Facebook and Instagram, has just announced that it is imposing much more restrictions on what young people can do on Instagram.
+
+148
+00:17:35,540 --> 00:17:46,240
+There's now going to be special young persons Instagram accounts, which will mean that, in theory at least, young people will have lesser access to some of the more pernicious stuff.
+
+149
+00:17:46,240 --> 00:18:05,680
+I suppose the question for me is, do you think that governments, though, need to take more of a role in, in a sense, compelling the big digital giants to reform such that some of the harm that's being done to young people is reduced?
+
+150
+00:18:05,960 --> 00:18:09,240
+Can we trust the giants to make these voluntary gestures?
+
+151
+00:18:09,240 --> 00:18:12,380
+Because this is something that Meta has just decided to do.
+
+152
+00:18:12,480 --> 00:18:13,920
+We don't know whether it's going to work yet.
+
+153
+00:18:14,440 --> 00:18:20,140
+It is striking to me that governments are slow to get involved and regulate.
+
+154
+00:18:20,740 --> 00:18:24,080
+Well, I think that's always happened with any innovation, hasn't it?
+
+155
+00:18:24,420 --> 00:18:29,720
+In 1930, the number of people killed on Britain's roads was 7,000.
+
+156
+00:18:29,940 --> 00:18:31,260
+There was hardly any regulation.
+
+157
+00:18:31,420 --> 00:18:35,040
+Since then, we've regulated the roads, the driver, the car, everything.
+
+158
+00:18:35,040 --> 00:18:37,960
+And the number of deaths is around 2,000.
+
+159
+00:18:38,360 --> 00:18:42,900
+This will happen, undoubtedly, in the same way with social media.
+
+160
+00:18:43,960 --> 00:18:45,420
+It takes too long.
+
+161
+00:18:45,520 --> 00:18:46,780
+Lives are ruined in the process.
+
+162
+00:18:46,940 --> 00:18:47,320
+It is.
+
+163
+00:18:47,680 --> 00:18:54,540
+I mean, the most obvious things are to raise the age when people can have a social media account and have proper age verification.
+
+164
+00:18:55,320 --> 00:18:56,760
+So Jonathan Hight says 16.
+
+165
+00:18:56,760 --> 00:19:01,820
+I think, again, it's much more difficult for one school to do it on its own.
+
+166
+00:19:01,980 --> 00:19:05,440
+I think the government should simply ban phones in schools.
+
+167
+00:19:05,760 --> 00:19:10,720
+I'm a parent of a soon-to-be five-year-old who's just gone in to start school this month.
+
+168
+00:19:11,220 --> 00:19:19,520
+And already all the parents are talking about devices and whether there's a way of us all making a decision to leave it as long as possible.
+
+169
+00:19:19,520 --> 00:19:22,100
+Obviously, if she's not getting one at five, she's not going to have a phone at five.
+
+170
+00:19:22,360 --> 00:19:27,040
+But at which point do you allow them to have a device so they're not being left out?
+
+171
+00:19:27,280 --> 00:19:32,800
+Because if a child feels like they're being left out, that can cause concerns for them.
+
+172
+00:19:32,880 --> 00:19:34,440
+That can affect their own mental health.
+
+173
+00:19:34,620 --> 00:19:36,880
+But equally, you don't want them to be part of it.
+
+174
+00:19:37,000 --> 00:19:40,460
+It's really difficult, isn't it, to try and stop having them?
+
+175
+00:19:40,460 --> 00:19:42,020
+You've just made the basic point.
+
+176
+00:19:42,020 --> 00:19:44,760
+This is a collective action problem.
+
+177
+00:19:44,940 --> 00:19:48,460
+If everybody is in the same position, nobody feels left out.
+
+178
+00:19:48,960 --> 00:19:52,940
+So that's why we need collective action by governments.
+
+179
+00:19:53,280 --> 00:19:53,320
+Yeah.
+
+180
+00:19:54,140 --> 00:19:56,540
+Lots still to talk to you about, but let's have a quick break.
+
+181
+00:19:58,620 --> 00:20:10,440
+I wanted to look at how much of what determines well-being and happiness are really quite long-standing cultural factors,
+
+182
+00:20:10,440 --> 00:20:12,560
+which are hard to shift.
+
+183
+00:20:12,560 --> 00:20:21,040
+So the countries that are happiest in the league tables that are produced hold those positions year after year after year,
+
+184
+00:20:21,220 --> 00:20:27,880
+which does slightly suggest to me that it's very hard for governments to make a difference.
+
+185
+00:20:27,960 --> 00:20:35,300
+So talk to us about which countries have historically been happier and what we can learn from them.
+
+186
+00:20:35,300 --> 00:20:41,520
+Well, we actually only have really reliable comparable measures from about 2005.
+
+187
+00:20:42,080 --> 00:20:42,880
+It's still 20 years.
+
+188
+00:20:42,940 --> 00:20:43,980
+That's a 20-year period.
+
+189
+00:20:44,240 --> 00:20:50,960
+And in that period, the Scandinavian countries are always up at the top, together with Netherlands, Switzerland.
+
+190
+00:20:50,960 --> 00:21:00,080
+So I think it's obvious that these are countries, especially Scandinavian countries, which are more egalitarian in their outlook,
+
+191
+00:21:00,480 --> 00:21:09,260
+where children are told that their job is to contribute to the social good and to feel that other children are equal with them.
+
+192
+00:21:09,260 --> 00:21:10,720
+That's a sense of community, is it?
+
+193
+00:21:10,740 --> 00:21:12,200
+It's the sense of community that matters.
+
+194
+00:21:12,200 --> 00:21:20,580
+Rather than the Anglo-Saxon model, where increasingly children are told your job is to be different and better than other children.
+
+195
+00:21:20,760 --> 00:21:24,260
+That's a terrible message to be sending to people.
+
+196
+00:21:24,800 --> 00:21:33,280
+So in spite of affluence, Britain and the United States are around 15 or lower in the order of countries.
+
+197
+00:21:33,700 --> 00:21:41,040
+Now then, other countries, if you go to the bottom end, are very much affected by things which do actually vary from year to year, like conflict.
+
+198
+00:21:41,040 --> 00:21:43,300
+So conflict is the worst thing.
+
+199
+00:21:43,440 --> 00:21:45,260
+I mean, I'll just give you some numbers, actually.
+
+200
+00:21:45,860 --> 00:21:51,640
+I mean, the Scandinavian countries are like 7.5 to 8 on the scale of 0 to 10.
+
+201
+00:21:52,260 --> 00:21:53,980
+Afghanistan is 2.9.
+
+202
+00:21:54,160 --> 00:21:59,140
+I mean, and the other countries with conflict are right down at the bottom there.
+
+203
+00:21:59,260 --> 00:22:01,420
+And of course, it does vary with the degree of conflict.
+
+204
+00:22:01,580 --> 00:22:03,040
+So it's not true that nothing changes.
+
+205
+00:22:03,040 --> 00:22:13,020
+But can I just look at countries which we think of as being more stable, more free from that kind of appalling, violent conflict?
+
+206
+00:22:13,020 --> 00:22:21,580
+So if you compare countries where if you just looked at GDP per head, the differences aren't that great, the average.
+
+207
+00:22:22,020 --> 00:22:26,840
+So US, one of the richest countries in the world on GDP per head.
+
+208
+00:22:26,940 --> 00:22:31,300
+We don't do too badly on GDP per head, not nearly as rich as America, but still pretty rich.
+
+209
+00:22:31,300 --> 00:22:53,500
+Is it, in your view, very easy to say and correct to say that it is the greater inequality in Britain and America than in a Scandinavian country, for example, that is directly related to why in Scandinavia they feel happier?
+
+210
+00:22:53,500 --> 00:23:01,000
+To what extent do white inequalities contribute to a lower sense of general well-being?
+
+211
+00:23:01,000 --> 00:23:11,820
+Well, I mean, the first point about income is, of course, the very old proposition that as you get richer, an extra pound makes less and less difference to your well-being.
+
+212
+00:23:12,240 --> 00:23:14,140
+I mean, that's what they believed in the 18th century.
+
+213
+00:23:14,260 --> 00:23:16,080
+And now, of course, we can show it empirically.
+
+214
+00:23:16,200 --> 00:23:23,080
+So that means that, you know, for a given average income, you'll have more happiness if it's more equally distributed.
+
+215
+00:23:23,480 --> 00:23:29,680
+So that's broadly just a simple point that poorer people become very, very much happier if you manage to lift them up.
+
+216
+00:23:29,680 --> 00:23:40,480
+Exactly. But on top of that, I think the ethos of equality is actually more important than the specific detail of the distribution of income.
+
+217
+00:23:40,480 --> 00:23:41,160
+What do you mean by that?
+
+218
+00:23:41,160 --> 00:23:50,320
+What I was saying before about the Scandinavian countries, what are the norms, what are the attitudes that you have with respect to your fellow citizens?
+
+219
+00:23:50,740 --> 00:24:00,120
+If you feel that you fundamentally want to concentrate on things you have in common, you will have a happier society than if people are trying to show up how different they are.
+
+220
+00:24:00,180 --> 00:24:01,060
+So it's less competitive.
+
+221
+00:24:01,060 --> 00:24:01,620
+Yes.
+
+222
+00:24:01,860 --> 00:24:11,600
+Yeah. Something you mentioned as well, which I found fascinating, and you said, I read it in one of your books, the least happy time for people at work is when they are with their boss.
+
+223
+00:24:11,760 --> 00:24:11,920
+Yeah.
+
+224
+00:24:11,920 --> 00:24:15,040
+So what's going on there? Is that to do a competition?
+
+225
+00:24:15,040 --> 00:24:22,520
+Well, that's terrible, obviously, isn't it? And I think this is partly connected with the philosophy of management, which is drive them as hard as you possibly can.
+
+226
+00:24:22,980 --> 00:24:32,440
+Get every inch out of your workers that you can, rather than think that your workers will perform best if they are getting some satisfaction out of what they're doing.
+
+227
+00:24:32,440 --> 00:24:44,260
+And that is actually a good lesson for productivity, but it's also obviously very important for people's well-being in their lives because work is such a big part of people's lives.
+
+228
+00:24:44,400 --> 00:24:56,680
+So I think that we need a massive movement in management schools and elsewhere to promote and understand what really makes people feel flourishing at work.
+
+229
+00:24:56,680 --> 00:25:07,400
+And we will find, actually, because this is what the evidence shows, that this will not only make people happier, which is the main thing, but also improve their productivity.
+
+230
+00:25:07,680 --> 00:25:09,880
+Yeah, which is what we have a huge problem with in this country.
+
+231
+00:25:09,880 --> 00:25:28,640
+Can I just ask on this, I think, absolutely fascinating issue about the difference between what you might call a collective competitive desire, you know, a whole community wanting to succeed as a community, perhaps a whole country wanting to succeed as a country,
+
+232
+00:25:28,640 --> 00:25:44,380
+versus that grass is always greener, you know, personal competition thing, which you believe to an extent undermines the well-being, the sense of well-being and happiness in a country like the UK or the US.
+
+233
+00:25:44,380 --> 00:26:00,000
+Is there evidence, because I feel that anecdotally there is, that there are generational differences now in attitudes of this sort between younger people in a country like the UK and older people.
+
+234
+00:26:00,080 --> 00:26:13,020
+So I think it is arguable that my generation has instinctively felt more comfortable with this kind of personal competition, but so-called Gen Z and Gen Alpha don't like it.
+
+235
+00:26:13,020 --> 00:26:16,520
+And they would much rather have a more collective approach.
+
+236
+00:26:16,860 --> 00:26:18,020
+Do you get a sense of that?
+
+237
+00:26:18,240 --> 00:26:19,740
+I haven't seen such evidence.
+
+238
+00:26:19,940 --> 00:26:30,160
+I mean, I've seen evidence from the States, which shows that a couple of questions asked of students, how important is it to you to feel you're contributing to the common good?
+
+239
+00:26:30,320 --> 00:26:32,300
+How important is it to you to be rich?
+
+240
+00:26:32,840 --> 00:26:35,100
+And the desire to contribute has fallen.
+
+241
+00:26:35,400 --> 00:26:37,020
+The desire to be rich has risen.
+
+242
+00:26:38,060 --> 00:26:38,480
+In America?
+
+243
+00:26:38,580 --> 00:26:39,680
+Pretty much steadily.
+
+244
+00:26:40,380 --> 00:26:42,200
+And do you think that would be true in this country too?
+
+245
+00:26:42,200 --> 00:26:43,620
+I haven't seen evidence.
+
+246
+00:26:43,760 --> 00:26:44,580
+I'm an economist.
+
+247
+00:26:45,280 --> 00:26:54,380
+I've been quite disappointed in the lack of time series produced by sociologists of what people are trying to do in their lives.
+
+248
+00:26:54,460 --> 00:26:56,160
+What are their fundamental norms?
+
+249
+00:26:56,300 --> 00:27:01,200
+I mean, this has seemed to me pretty much the most important question in sociology.
+
+250
+00:27:01,380 --> 00:27:05,020
+And I would love to see that evidence, but I've looked around and I haven't found it.
+
+251
+00:27:05,040 --> 00:27:08,520
+But maybe somebody who hears this podcast will send me some.
+
+252
+00:27:08,520 --> 00:27:12,200
+But I think that this is a very, very central question.
+
+253
+00:27:12,400 --> 00:27:31,680
+In this issue of changing attitudes so that you get more of a sense of collective mission, which maybe makes people feel a bit happier, where would you look to the kind of political leadership as opposed to somehow inherited cultural historical factors?
+
+254
+00:27:31,680 --> 00:27:35,800
+Where would you look to the kind of political leadership that's actually pulled that off?
+
+255
+00:27:35,800 --> 00:27:41,760
+Well, I think that the phraseology of politicians does affect the atmosphere in the country.
+
+256
+00:27:42,020 --> 00:27:43,420
+We talked about Margaret Thatcher.
+
+257
+00:27:43,560 --> 00:27:47,940
+I think she produced a much more acerbic atmosphere in the country.
+
+258
+00:27:48,580 --> 00:27:52,580
+I think Tony Blair produced a more congenial atmosphere in the country.
+
+259
+00:27:52,580 --> 00:27:57,300
+I think that George Osborne produced a more conflictual atmosphere in the country.
+
+260
+00:27:57,420 --> 00:28:07,460
+And I'm very much hoping that Keir Starmer, and you can only see from what he says, that this is actually what he most cares about, to change the fundamental atmosphere in the country.
+
+261
+00:28:07,920 --> 00:28:10,400
+So I'm really hoping that that will happen.
+
+262
+00:28:10,760 --> 00:28:13,820
+But I just wanted to make one other point about competition.
+
+263
+00:28:14,280 --> 00:28:17,960
+The competition has a very, very important role in society.
+
+264
+00:28:18,240 --> 00:28:20,200
+But it's competition between organizations.
+
+265
+00:28:20,200 --> 00:28:23,080
+We do want competition between organizations.
+
+266
+00:28:23,280 --> 00:28:27,700
+We don't want monopolies, where people just rest on their laurels.
+
+267
+00:28:27,800 --> 00:28:29,300
+We want them to be on their toes.
+
+268
+00:28:29,640 --> 00:28:36,120
+And we should always distinguish between organizations and competition between individuals within organizations.
+
+269
+00:28:36,520 --> 00:28:37,840
+That's the unhealthy thing.
+
+270
+00:28:38,020 --> 00:28:44,120
+But that was my point about how do you foster that collective effort, that sense of identity with an institution.
+
+271
+00:28:44,120 --> 00:28:50,220
+One of the things people most enjoy is team spirit, obviously in sports, but also at work.
+
+272
+00:28:50,660 --> 00:29:04,680
+And it's been shown that when people are rewarded, not on the basis of this horrible individual performance pay with forced rankings, but paid on the basis of the performance of the team, they are not only happier, but they are more productive.
+
+273
+00:29:04,680 --> 00:29:07,980
+There is, of course, rather a dangerous fine line.
+
+274
+00:29:08,400 --> 00:29:21,440
+Because particularly when a country is in trouble, you know, you get proto-fascism or real fascism, essentially manufacturing a toxic sense of collective national endeavor that is very dangerous.
+
+275
+00:29:21,520 --> 00:29:22,700
+No, of course, that's horrible.
+
+276
+00:29:23,180 --> 00:29:24,980
+I mean, nationalism is unpleasant.
+
+277
+00:29:25,620 --> 00:29:27,300
+Pride in your country is good.
+
+278
+00:29:27,300 --> 00:29:32,740
+But the feeling that your country has got to be on top of other countries is a terrible feeling.
+
+279
+00:29:33,300 --> 00:29:41,180
+And what we do know from well-being research is that unhappy people vote for populist candidates.
+
+280
+00:29:41,900 --> 00:29:47,660
+So one very important reason to have a happier population is to avoid that kind of populism.
+
+281
+00:29:47,920 --> 00:29:48,020
+Yeah.
+
+282
+00:29:48,160 --> 00:29:53,480
+And that's exactly why lots of people voted for Brexit in the North East, because they were really not happy with what was going on.
+
+283
+00:29:53,980 --> 00:29:54,980
+Are you happy?
+
+284
+00:29:54,980 --> 00:29:55,900
+Most of the time.
+
+285
+00:29:55,980 --> 00:29:58,100
+Of course, one goes up and down, all of us.
+
+286
+00:29:58,300 --> 00:29:58,480
+Yeah.
+
+287
+00:29:58,560 --> 00:30:01,660
+I think I'm blessed with a reasonably happy disposition.
+
+288
+00:30:01,940 --> 00:30:02,060
+Yeah.
+
+289
+00:30:02,060 --> 00:30:11,620
+And I think as well, you know, we don't normally talk about ages on the show, but given you're 90, I think you're a prime evidence of focusing on happiness.
+
+290
+00:30:11,620 --> 00:30:13,320
+Does make you live longer, do you think?
+
+291
+00:30:14,260 --> 00:30:15,120
+I don't know.
+
+292
+00:30:15,200 --> 00:30:18,680
+I think my wife makes me live longer and tennis makes me live longer.
+
+293
+00:30:18,680 --> 00:30:26,200
+I have learned a bit since I got into this field about 25 years ago.
+
+294
+00:30:26,540 --> 00:30:33,200
+I think there are some basic truths about managing your mental life and so on, which everybody needs to learn.
+
+295
+00:30:33,600 --> 00:30:41,340
+A few of which I've learned more recently through contacts with great people like the Dalai Lama, Thich Nhat Hanh and so on.
+
+296
+00:30:41,340 --> 00:30:43,120
+And I think they've got a great message for us.
+
+297
+00:30:43,200 --> 00:30:43,360
+Yeah.
+
+298
+00:30:43,480 --> 00:30:43,700
+Yeah.
+
+299
+00:30:43,880 --> 00:30:44,200
+Fascinating.
+
+300
+00:30:44,320 --> 00:30:45,840
+Well, thank you so much for your time.
+
+301
+00:30:46,000 --> 00:30:46,680
+My pleasure.
+
+302
+00:30:46,900 --> 00:30:49,280
+I've been smiling the whole way through it, which is lovely.
+
+303
+00:30:50,040 --> 00:30:57,160
+Well, look, it's great to have for once, you know, an optimistic message about how we create a better society.
+
+304
+00:30:57,540 --> 00:30:57,740
+Yeah.
+
+305
+00:30:57,740 --> 00:30:58,080
+I love it.
+
+306
+00:30:58,140 --> 00:30:58,920
+Thank you very much.
+
+307
+00:30:59,060 --> 00:30:59,540
+No pleasure.
+
+308
+00:30:59,720 --> 00:31:00,480
+That's it from us.
+
+309
+00:31:00,540 --> 00:31:00,860
+Bye bye.
+
+310
+00:31:01,220 --> 00:31:01,600
+All the best.
+
+311
+00:31:01,680 --> 00:31:01,840
+Goodbye.
+
+312
+00:31:01,840 --> 00:31:01,940
+Goodbye.
+
+313
+00:31:01,940 --> 00:31:02,940
+Bye bye.
+

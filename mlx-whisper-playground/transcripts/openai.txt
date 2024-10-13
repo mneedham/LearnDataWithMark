@@ -1,0 +1,305 @@
+Today on the AI Daily Brief, what's really going on at OpenAI?
+The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI.
+To join the conversation, follow the Discord link in our show notes.
+Hello, friends. Today is the last day I'm going to beg your indulgence for a slightly tweaked format.
+Once again, we just have a main episode, no headlines today.
+I am finally back at home, so this will be the last episode that is impacted.
+But for now, we are going to dig deep into what's really going on at OpenAI.
+Is this normal executive departure stuff?
+Is this in line with what you might expect from a startup like OpenAI?
+Or is there something deeper going on that we should be aware of?
+Welcome back to the AI Daily Brief.
+Earlier this week, we got some surprising news out of OpenAI.
+On Wednesday, CTO Mira Mirati announced unexpectedly that she was leaving the company.
+In the early afternoon, she tweeted,
+I shared the following note with the OpenAI team today.
+The note says,
+After much reflection, I've made the difficult decision to leave OpenAI.
+My six and a half years with the OpenAI team have been an extraordinary privilege.
+Gratitude, gratitude, gratitude.
+And then she basically argues that now is a good time.
+That 01 marks a new era.
+Speech to speech marks a new era.
+That these are inflection points.
+And as an inflection point, it's a good moment for her to exit stage left.
+In terms of what she wants to do, she says,
+I'm stepping away because I want to create the time and space to do my own exploration.
+In other words, she says actually nothing about what she's going to do or why she's leaving.
+Sam responded to her tweet with what he had originally responded in their Slack.
+Mira, thank you for everything.
+It's hard to overstate how much Mira has meant to OpenAI,
+our mission, and to all of us personally.
+I feel tremendous gratitude towards her for what she has helped us build and accomplish,
+but I most of all feel personal gratitude towards her for the support and love during all the hard times.
+I'm excited for what she'll do next.
+Now, OpenAI has an extraordinary amount of focus on it.
+It is undeniably the dominant company in the AI space.
+For a huge portion of the world, ChatGPT is to AI as Kleenex is to tissues.
+And so even if it was just Mira, any executive departure would, of course, be notable.
+However, of course, this is not the first executive departure.
+Earlier this year, OpenAI co-founders Ilya Stutzkever and Andre Karpathy both left the team as well.
+Greg Brockman is currently on leave.
+And of course, all of this is happening in the shadow of the board pushing Sam out only to reinstate him last November.
+When this news broke, early reports suggested that there was a lot of surprise inside of OpenAI.
+Bloomberg and the information both reported a lot of sentiment along the lines of WTF.
+However, it would only get more complicated.
+Later that afternoon, Chief Research Officer Bob McGrew posted,
+The last eight years of OpenAI has been a humbling and awe-inspiring journey.
+The small nonprofit I joined in January 2017 has become the most important research and development company in the world.
+I truly enjoyed working with everyone, blah, blah, blah, blah, blah.
+I'm proud of our achievements, blah, blah, blah, blah, blah.
+And once again, Bob writes,
+It's time for me to take a break.
+There's no better capstone to my work here than shipping O1 to the world.
+Again, very similar argument to Mira.
+We've reached this inflection point and now it's time for me to bow out.
+Almost at the same time, VP of Research focused on post-training Barrett Zoff writes,
+Hey everybody, I have decided to leave OpenAI.
+His note is basically all gratitude, particularly gratitude for Bob.
+And he leaves on the platitude OpenAI is doing and will continue to do incredible work
+and I am very optimistic about the future trajectory of the company and will be rooting everyone on.
+So not one, not two, but three executive departures, all in the span of about six hours.
+Ultimately, this prompted Sam to write yet another note where he said,
+Hi all, Mira has been instrumental in OpenAI's progress and growth for the last 6.5 years.
+She has been a hugely significant factor in our development from an unknown research lab to an important company.
+When Mira informed me this morning she was leaving, I was saddened but of course supported her decision.
+For the past year, she has been building out a strong bench of leaders that will continue our progress.
+I also want to share that Bob and Barrett have decided to depart OpenAI.
+Mira, Bob, and Barrett made these decisions independently of each other and amicably,
+but the timing of Mira's decision was such that it made sense to do this now all at once
+so that we can work together for a smooth handover to the next generation of leadership.
+So a couple things that are interesting from Sam's note.
+First, he had only found out that morning.
+So obviously this was a very last minute, not planned thing.
+Second, he argued that basically this was a rip the band-aid moment off
+and that basically for as much as it was going to bring up questions to have all these departures happen at once,
+it would be infinitely worse to have them staggered over the course of a couple of weeks.
+Now, almost immediately, people's skeptical hackles were raised.
+Justin Hart tweets,
+Guys, this wasn't just some casual transition over at OpenAI.
+It was a walkout.
+And there were about 10,000 versions of this sentiment,
+that all of these people doing this at once must mean something problematic was going on.
+Ethan Evans, who identifies himself as a retired Amazon VP, writes,
+Today's episode is brought to you by Fractional.
+When we wanted to build an AI-powered feature of Superintelligent, our AI Tool Finder,
+I went straight to Fractional.
+The Fractional team is a group of senior engineers in San Francisco working on some of the most exciting projects in applied AI.
+Working with them is basically like hiring an absolute top-flight AI engineering team,
+but in a way that you can customize exactly for your particular needs.
+Like I said, that AI Tool Finder feature that we built with them is already a key part of the Superintelligent platform,
+and we are working on something new as well.
+Fractional works with everyone from startups to the Fortune 500,
+and to request a free consultation, you can go to fractional.ai.
+If you want help identifying and building AI projects for your business,
+then I highly recommend you hit pause, open a web browser,
+and go to fractional.ai to request a free consultation.
+Today's episode is brought to you by Venice.
+Venice is a private, uncensored generative AI app.
+It accesses open-source models to enable text, image, and code generation without the fear of being spied on or having your data exploited.
+Discuss anything with Venice without concern about it being monitored, sold, or given to advertisers and governments.
+Venice is different because your conversations and creations are kept securely within the browser,
+never stored or accessible by Venice.
+Venice is a private, uncensored generative AI app.
+Venice is a private, uncensored generative AI app.
+Venice won't tell you what's okay to say or not.
+Venice won't patronize you.
+It simply provides direct access to machine intelligence.
+No topics are off-limits.
+No ideas are taboo.
+With Venice, you're in control of the AI, as you should be.
+Pro subscriptions are available for $49 a year or $8 per month.
+AI Daily Brief listeners receive a 20% discount on Venice Pro.
+Visit venice.ai.nlw and enter the discount code nlwdailybrief.
+That's NLW Daily Brief, all one word.
+Today's episode is brought to you by Superintelligent, which is, of course, our platform that helps you learn how to use AI tools
+and, perhaps even more importantly, gives you ideas on the best use cases that are actually going to help you achieve whatever it is you want to achieve.
+To recognize the end of summer and back to school slash back to work, we are running our best promotion ever.
+When you sign up for Superintelligent, using code SOBAC, your first month will be 100% free.
+The platform features over 600 fun, highly practical AI tutorials that get you using AI fast and with an eye to actually transforming how you get things done.
+We've just launched Super for Teams, so if you have a group of people at your company that want to figure out how to use AI together, I highly suggest you check it out.
+But for those of you who are using Superintelligent as an individual, once again, if you sign up for Superintelligent between now and the end of the month using code SOBAC, you will get your first month 100% free.
+Go to besuper.ai and check it out today.
+As people tried to figure out, though, if there was maybe some different or bigger catalyst going on here,
+Reuters broke some new details about the reports that we had been getting that OpenAI was in the process of converting itself from a nonprofit to a for-profit.
+The biggest new detail seemed to be that in the arrangement that was being hashed out, Altman would get 7.5% equity in the company.
+At the reported $150 billion valuation that the company is raising at right now, that would be more than $10 billion directly to Sam.
+This was not well-received by many.
+Solopreneur Guru Levels.io writes,
+Sam Altman will give himself 7% of OpenAI, which at its current valuation of $150 billion would be $10.5 billion in shares.
+Levels, like so many, pointed to past comments of Sam saying that he wasn't doing this for the money.
+And concluded,
+I'm a capitalist, and I love people getting rich off their businesses.
+What I personally don't like is the stagy way Sam is doing all of this.
+You never know if he's telling the truth or not.
+It's fine to get rich, just say you want to get rich.
+You're changing the world.
+You should get rewarded, but don't lie.
+Then, of course, there was Elon screaming about the illegality of converting a nonprofit into a for-profit.
+Although he was community noted on his own platform, with people explaining by what process this actually would be legal.
+So, what all is going on here?
+Is this, on the one hand, a protest around this nonprofit to for-profit conversion?
+Or is it something altogether more human?
+I will caveat this by saying I have no unique insider information.
+I haven't talked to anyone at OpenAI about this.
+But it seems to me there is another scenario that people aren't accounting for.
+Which is that in a world where they have made absolute, utter gobs of money,
+the challenge of being inside one of the most demanding companies in the world just isn't worth it anymore.
+So, what do I mean by that?
+At least in the case of Mira and Bob,
+these are folks who have been with OpenAI between six and eight years.
+In that time, they've seen their net worth go from zero to nine figures.
+I have no idea what the equity compensation structure is like inside OpenAI.
+But just for the sake of this conversation,
+let's posit that Mira had one quarter of one percent of the company in equity.
+And that given that it's been six and a half years, she's vested all of that.
+At the reported $150 billion valuation that they're raising at,
+that's $375 million.
+Now, pair that, on the one hand,
+with the extraordinary challenge of working at OpenAI.
+Not only is any startup hard,
+a rocket ship startup is even harder.
+And this is the fastest growing rocket ship in history.
+It's redefining consumer and enterprise at the same time.
+It is ushering in an entirely new era of computing.
+It is in the public eye like basically no company before it.
+Because there is a large community of people
+who say that if they get their business wrong, the world ends.
+The point of all of this is that this is not an easy job.
+And at some point, if you've already made that much money,
+you just get tired.
+Former OpenAI, now Google product lead,
+Logan Kilpatrick, added weight to this saying,
+Muir deserves to take a break.
+She's been sprinting at OpenAI for five plus years.
+Everything doesn't need to be a controversy.
+Janin writes,
+My very boring take is that OpenAI leadership is mostly leaving
+because they've spent a lot of time at the hottest company in the world
+and now can raise incredible amounts of money
+to do anything in the world they want
+or get paid a lot to have a much easier job.
+And in terms of whether this was likely to impact investors
+and their ability to raise,
+some people basically said that this was definitely a protest
+because it would potentially scuttle that deal.
+My base case is that absolutely no way that would not happen.
+I think the simple fact of the matter is,
+if you are a foundation model investor right now,
+your bet is that the upside opportunity of AGI is so valuable
+that your only job is to acquire as much of any of the credible competitors
+to get there as is humanly possible.
+And you basically have to pay whatever the market says you have to pay at this point.
+In the case of OpenAI, that is apparently $150 billion.
+You just really don't have very many more options.
+The credible competitors in this space can be fit on one hand.
+The information seems to validate that,
+writing,
+OpenAI's investors are hanging on for the ride.
+In fact, the information was able to dig up more information
+about a number of the firms that were also participating.
+Now, when it comes to the whole SAM equity debate,
+that's not the part of this that I want to get into now.
+My only take here is that it seems now in retrospect very clear
+that they never should have structured it without him having some stake.
+He could have easily shown how much money was in his intention
+by taking a smaller portion than a CEO normally would.
+But he basically set himself up,
+and OpenAI set themselves up,
+to make an inevitable shift here look like some Machiavellian maneuver,
+even if it wasn't.
+Now, going back to SAM's note,
+a couple last things.
+First of all, SAM does seem to give credence to the idea
+that part of this might just be simple human exhaustion.
+He writes,
+He also even repeated an explanation of why Mira didn't give him more notice.
+He said,
+Leadership changes are a natural part of companies,
+especially companies that grow so quickly and are so demanding.
+I obviously won't pretend it's natural for this one to be so abrupt,
+but we are not a normal company.
+And I think the reasons Mira explained to me,
+there is never a good time,
+anything not abrupt would have leaked,
+and she wanted to do this while OpenAI was in an upswing makes sense.
+Now, you might reject those reasons,
+but they at least strike me as plausible.
+Ultimately, here's where I am with this.
+I think OpenAI is one of,
+if not the most significant company in the world.
+The implications of what they are building go way beyond them or even their users.
+And so I like that there is an incredible amount of scrutiny and skepticism around them.
+Frustrating though it may be for their leadership,
+I think it is part of the cost of doing business,
+and I think it is good that we push and try to understand
+and don't take anything at face value.
+At the same time,
+my general operating mode is that the Occam's razor answer
+for why a thing is as it is is the right one.
+And so it strikes me at least as plausible
+that this is less about some big protest
+or some major controversy inside the company,
+and more the fact that it's really hard
+and they got really rich.
+But I'm sure that over time we will find more,
+and I encourage all of you, of course, to keep digging.
+For now though, that is going to do it for today's AI Daily Brief.
+Until next time, peace.
+Peace.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!
+!
+
+!
+
+!
+
+
+
+
+
+!
+

@@ -1,0 +1,820 @@
+1
+00:00:00,000 --> 00:00:08,680
+Welcome to the Tech Meme Ride Home for Monday, September 30th, 2024. I'm Brian McCullough. Today,
+
+2
+00:00:08,940 --> 00:00:12,940
+that controversial AI bill in California has been vetoed by Governor Newsom.
+
+3
+00:00:13,540 --> 00:00:19,640
+Is even Apple now thinking that its Vision Pro strategy might need a rethink? What really is
+
+4
+00:00:19,640 --> 00:00:24,280
+OpenAI's situation right now, and this time I'm talking money-wise, and the strange resurrection
+
+5
+00:00:24,280 --> 00:00:28,240
+of the point-and-shoot camera? Here's what you missed today in the world of tech.
+
+6
+00:00:30,000 --> 00:00:39,740
+California Governor Gavin Newsom has vetoed AI Safety Bill SB 1047, saying it applies only to
+
+7
+00:00:39,740 --> 00:00:46,320
+large AI models and doesn't account for if deployment is high risk. This was that AI bill
+
+8
+00:00:46,320 --> 00:00:51,420
+that a lot of the AI community and AI VCs were very worried about, quoting the journal.
+
+9
+00:00:51,940 --> 00:00:56,060
+California Governor Gavin Newsom has vetoed a controversial artificial intelligence safety
+
+10
+00:00:56,060 --> 00:00:59,880
+bill that pitted some of the biggest tech companies against prominent scientists who developed the
+
+11
+00:00:59,880 --> 00:01:04,560
+technology. The Democrat decided to reject the measure because it applies only to the biggest
+
+12
+00:01:04,560 --> 00:01:09,920
+and most expensive AI models and doesn't take into account whether they are deployed in high-risk
+
+13
+00:01:09,920 --> 00:01:15,620
+situations, he said in his veto message. Smaller models sometimes handle critical decision-making
+
+14
+00:01:15,620 --> 00:01:21,200
+involving sensitive data such as electrical grids and medical records, while bigger models at times
+
+15
+00:01:21,200 --> 00:01:27,040
+handle low-risk activities such as customer service. Had Newsom signed the bill into law, it would have
+
+16
+00:01:27,040 --> 00:01:32,280
+laid the groundwork for how AI is regulated across the U.S. as California is home to the top companies
+
+17
+00:01:32,280 --> 00:01:37,820
+in the industry. Proposals to regulate AI nationally have made little progress in Washington.
+
+18
+00:01:38,260 --> 00:01:42,800
+The governor announced that he is working with leading AI researchers including
+
+19
+00:01:42,800 --> 00:01:48,600
+Fai Fai Lee, a Stanford University professor who has worked at Google and recently launched a startup
+
+20
+00:01:48,600 --> 00:01:55,100
+called World Labs to develop new legislation he is willing to support. Newsom signed other AI-related
+
+21
+00:01:55,100 --> 00:02:01,000
+bills into law this year. They include one requiring AI developers to label content created by their
+
+22
+00:02:01,000 --> 00:02:06,400
+technology and others regulating election-related deepfakes and giving performers more control over
+
+23
+00:02:06,400 --> 00:02:12,620
+digital replicas of themselves. The bill he vetoed, SB 1047, would have required developers of large AI
+
+24
+00:02:12,620 --> 00:02:17,560
+models to take, quote, reasonable care to ensure that their technology didn't pose, end quote,
+
+25
+00:02:17,700 --> 00:02:24,820
+unreasonable risk of causing or materially enabling a critical harm. It defined that harm as cyberattacks
+
+26
+00:02:24,820 --> 00:02:30,440
+that cause at least $500 million in damages or mass casualties. Developers also would have needed
+
+27
+00:02:30,440 --> 00:02:36,500
+to ensure their AI could be shut down by a human if it started behaving dangerously. The bill applied
+
+28
+00:02:36,500 --> 00:02:41,160
+to AI models that met a certain computing power threshold and cost at least $100 million to train,
+
+29
+00:02:41,640 --> 00:02:46,780
+the estimated cost of OpenAI's biggest model, GPT-4. Any company doing business in California,
+
+30
+00:02:46,920 --> 00:02:51,600
+regardless of where it is headquartered, was covered. Google, Meta, Microsoft, and OpenAI raised
+
+31
+00:02:51,600 --> 00:02:56,580
+concerns about the bill, saying it imposed vague standards in the name of safety. Many smaller
+
+32
+00:02:56,580 --> 00:03:01,420
+companies joined them, arguing the bill would chill innovation by discouraging large developers from
+
+33
+00:03:01,420 --> 00:03:06,180
+making their models available to the public, fracturing a startup ecosystem that relies on such openness
+
+34
+00:03:06,180 --> 00:03:11,000
+to innovate. The bill would have prohibited developers from releasing large AI models, quote,
+
+35
+00:03:11,060 --> 00:03:16,060
+if there is an unreasonable risk that the technology will cause or materially enable a critical harm.
+
+36
+00:03:16,560 --> 00:03:21,100
+Tech companies said the language opened a legal minefield. Nobody knows what that means.
+
+37
+00:03:21,100 --> 00:03:25,920
+So you're basically leaving it to a court that's non-technical, said Martin Casado,
+
+38
+00:03:26,320 --> 00:03:30,340
+a partner overseeing AI investments at venture capital firm Andreessen Horowitz, end quote.
+
+39
+00:03:31,680 --> 00:03:36,040
+One more real quick, though, it's not quite related. Governor Newsom also signed the California
+
+40
+00:03:36,040 --> 00:03:44,020
+Neuro Rights Act into law that treats neural data as personal sensitive information aiming to protect
+
+41
+00:03:44,020 --> 00:03:48,260
+brain data from misuse, quoting the Times.
+
+42
+00:03:48,260 --> 00:03:52,920
+On Saturday, Governor Gavin Newsom of California signed a new law that aims to protect people's
+
+43
+00:03:52,920 --> 00:03:57,480
+brain data from being potentially misused by neurotechnology companies. A growing number of
+
+44
+00:03:57,480 --> 00:04:03,340
+consumer technology products promise to help address cognitive issues, apps to meditate, to improve focus,
+
+45
+00:04:03,460 --> 00:04:08,420
+and to treat mental health conditions like depression. These products monitor and record brain data,
+
+46
+00:04:08,480 --> 00:04:12,480
+which encodes virtually everything that goes on in the mind, including thoughts, feelings,
+
+47
+00:04:12,480 --> 00:04:18,180
+and intentions. The new law, which passed both the California State Assembly and the Senate with no
+
+48
+00:04:18,180 --> 00:04:23,160
+voter opposition, amends the state's current personal privacy law known as the California Consumer
+
+49
+00:04:23,160 --> 00:04:29,460
+Privacy Act by including neural data under personal sensitive information. This includes data generated by a
+
+50
+00:04:29,460 --> 00:04:34,760
+user's brain activity and the meshwork of nerves that extends to the rest of the body, end quote.
+
+51
+00:04:34,760 --> 00:04:45,360
+Mark Gurman Newsletter Monday this weekend. Mark took a look at the fallout from the demo
+
+52
+00:04:45,360 --> 00:04:53,360
+of those meta Orion prototype smart glasses. Mark straight out came out and said, even though it was just a
+
+53
+00:04:53,360 --> 00:05:00,820
+demo, it made even him think that Apple's strategy with the Vision Pro might be a mistake. Quote,
+
+54
+00:05:00,820 --> 00:05:05,760
+Apple seems aware that it needs to rethink its approach to headsets, but there isn't consensus
+
+55
+00:05:05,760 --> 00:05:11,140
+on how to do that, I'm told. As of now, the company's Vision products group is evaluating a
+
+56
+00:05:11,140 --> 00:05:16,000
+few different options, including the status quo route. This would involve keeping the Vision Pro
+
+57
+00:05:16,000 --> 00:05:20,380
+more or less the same but focusing on a less expensive version. Apple could bring down the
+
+58
+00:05:20,380 --> 00:05:25,580
+costs with cheaper materials, lesser internal technologies, and lower quality displays. The company
+
+59
+00:05:25,580 --> 00:05:30,800
+would also follow up with a second-generation version of the original higher-end Vision Pro that has a
+
+60
+00:05:30,800 --> 00:05:36,280
+new chip and Apple intelligence. The smart display route. In this scenario, Apple would remove the
+
+61
+00:05:36,280 --> 00:05:40,880
+onboard computer and external battery from the Vision Pro and shift many of the internal functions
+
+62
+00:05:40,880 --> 00:05:45,720
+over to the iPhone. This would make the iPhone more valuable, reduce the weight and heat of the headset,
+
+63
+00:05:45,920 --> 00:05:50,260
+and more importantly, eliminate several hundred dollars worth of components to bring down the price.
+
+64
+00:05:50,760 --> 00:05:54,660
+Then there's the smart glasses route. This would mean developing a product that's closer to
+
+65
+00:05:54,660 --> 00:06:00,260
+Meta's hit collaboration with Ray-Ban, smart glasses without AR. Apple could use its expertise in chips
+
+66
+00:06:00,260 --> 00:06:05,240
+and audio, as well as its growing collection of AI tools to make a compelling device. This would
+
+67
+00:06:05,240 --> 00:06:10,880
+essentially be a Me Too product, but also something akin to an AirPods on steroids, and Apple fans would
+
+68
+00:06:10,880 --> 00:06:17,420
+probably eat it up. There's then the AI and AirPods route. Apple is working on a new version of the
+
+69
+00:06:17,420 --> 00:06:22,540
+AirPods Pro that uses external cameras and artificial intelligence to understand the outside world and
+
+70
+00:06:22,540 --> 00:06:28,100
+provide information to the user. This would essentially be the smart glasses path, but without actual glasses.
+
+71
+00:06:28,100 --> 00:06:34,540
+Finally, there's the holy grail route. The ultimate goal is standalone augmented reality spectacles that
+
+72
+00:06:34,540 --> 00:06:39,920
+come with high-performing lenses, a battery system, onboard computer, cameras, eye tracking, and other
+
+73
+00:06:39,920 --> 00:06:44,580
+components built in, all while still being the size and weight of normal glasses. This has long been
+
+74
+00:06:44,580 --> 00:06:48,780
+Chief Executive Officer Tim Cook's dream, but Apple previously paused development of such a product
+
+75
+00:06:48,780 --> 00:06:53,860
+because it was just too big a challenge. Apple could ultimately release some or all of these products,
+
+76
+00:06:53,860 --> 00:06:59,420
+but it's going to need to accelerate its work and fast. If not, Apple will risk losing out on a product
+
+77
+00:06:59,420 --> 00:07:02,300
+category that could transform the way people use technology."
+
+78
+00:07:02,300 --> 00:07:14,220
+Speaking of Apple, the journal says that Apple is no longer in talks to participate in OpenAI's
+
+79
+00:07:14,220 --> 00:07:19,460
+funding round that is expected to raise as much as $6.5 billion and close as soon as next week.
+
+80
+00:07:19,460 --> 00:07:25,920
+Not sure we can or need to make anything out of that particularly right now, but it seems like that
+
+81
+00:07:25,920 --> 00:07:32,940
+round is coming, which is making people take a hard look at where OpenAI is at the moment financially.
+
+82
+00:07:33,460 --> 00:07:39,300
+The New York Times has been working their sources and say OpenAI had $300 million in monthly revenue
+
+83
+00:07:39,300 --> 00:07:47,900
+in August, up 1,700% since early 2023. They had 350 million monthly active users in June and expect
+
+84
+00:07:47,900 --> 00:07:54,500
+around $3.7 billion in annual sales this year, but also, of course, $5 billion in losses.
+
+85
+00:07:55,260 --> 00:08:01,360
+Reuters worked their sources to report that OpenAI expects its revenue to grow to $11.6 billion next year.
+
+86
+00:08:01,880 --> 00:08:07,460
+ChatGPT has 10 million paying users and could bring in $2.7 billion in revenue this year,
+
+87
+00:08:07,520 --> 00:08:13,500
+up from $700 million in 2023. But again, the question really is, is that growth sustainable if the cost of
+
+88
+00:08:13,500 --> 00:08:20,460
+providing the product you provide is so expensive? So the journal took a look at the challenges OpenAI is facing
+
+89
+00:08:20,460 --> 00:08:26,400
+if it indeed becomes a for-profit company, which I guess it needs to do to address all that.
+
+90
+00:08:26,720 --> 00:08:32,920
+This includes the complexity of splitting assets with the non-profit arm, which, I hadn't thought of this,
+
+91
+00:08:33,340 --> 00:08:36,500
+might continue to exist. Quoting the journal.
+
+92
+00:08:36,860 --> 00:08:41,960
+The ChatGPT maker is in the midst of raising $6.5 billion from bankers including Microsoft and NVIDIA,
+
+93
+00:08:41,960 --> 00:08:46,120
+along with venture capital firms and a United Arab Emirates state-backed company.
+
+94
+00:08:46,660 --> 00:08:51,780
+An essential provision of talks is that OpenAI, currently governed by a charitable non-profit,
+
+95
+00:08:52,100 --> 00:08:57,120
+must within two years become a public benefit corporation. That means its mission is to earn
+
+96
+00:08:57,120 --> 00:09:01,240
+profit while creating social good. If it doesn't, investors could take back their money.
+
+97
+00:09:01,780 --> 00:09:06,380
+To get there, it will have to deal with regulatory requirements in at least two states,
+
+98
+00:09:07,000 --> 00:09:09,700
+determine how to award equity in the for-profit company,
+
+99
+00:09:09,700 --> 00:09:14,880
+and split assets with the non-profit entity, which will continue to exist.
+
+100
+00:09:15,660 --> 00:09:19,780
+This kind of transaction is incredibly complex and would involve a large number of legal and
+
+101
+00:09:19,780 --> 00:09:23,660
+regulatory hurdles that would need to be navigated, said Karen Blackenstone,
+
+102
+00:09:24,200 --> 00:09:28,780
+general counsel at the investment firm Hanger Management and an attorney specializing in
+
+103
+00:09:28,780 --> 00:09:34,360
+technology and tax-exempt organizations. OpenAI is a Delaware-based corporation and would need to
+
+104
+00:09:34,360 --> 00:09:39,440
+change its structure legally under that state's law. Given Delaware's business-friendly legal regime,
+
+105
+00:09:39,440 --> 00:09:44,420
+making that change would be the easiest part of the process, said Jill Horwitz, a law professor and
+
+106
+00:09:44,420 --> 00:09:50,100
+founding faculty director of the Lowell-Milken Center for Philanthropy and Nonprofits at the
+
+107
+00:09:50,100 --> 00:09:54,840
+University of California, Los Angeles. The more complicated part is what would happen to OpenAI's
+
+108
+00:09:54,840 --> 00:09:59,960
+assets. When such a conversion takes place, it can't simply shift assets from a non-profit to a
+
+109
+00:09:59,960 --> 00:10:05,520
+for-profit. The non-profit is legally required to end up with assets, including any cash and securities,
+
+110
+00:10:05,520 --> 00:10:12,040
+at least as valuable as those it turns over, to the for-profit. In effect, OpenAI's operations would
+
+111
+00:10:12,040 --> 00:10:17,160
+likely be sold to the for-profit company or its investors with the charity retaining the proceeds.
+
+112
+00:10:17,700 --> 00:10:22,480
+Assets, quote, previously donated to the public benefit cannot be repurposed to private benefit
+
+113
+00:10:22,480 --> 00:10:27,860
+without compensating the public for the loss, said Alexander Reed, a partner at the law firm
+
+114
+00:10:27,860 --> 00:10:33,840
+Baker Hostetler. It couldn't be determined how much the remaining non-profit would receive in such a
+
+115
+00:10:33,840 --> 00:10:38,680
+transaction, given that OpenAI is expected to be valued at around $150 billion after the current
+
+116
+00:10:38,680 --> 00:10:43,880
+fundraising round. The amount could be immense. That determination is particularly complicated
+
+117
+00:10:43,880 --> 00:10:48,800
+because the non-profit might own some of OpenAI's patents on AI technology, which would need to be
+
+118
+00:10:48,800 --> 00:10:54,200
+valued in the conversion. Because most of OpenAI's operations are in California, that state's attorney
+
+119
+00:10:54,200 --> 00:10:59,640
+general would have jurisdiction to ensure its charitable assets were protected, according to legal experts.
+
+120
+00:10:59,640 --> 00:11:05,660
+OpenAI hasn't said what the continuing non-profit would do once a profit-seeking company takes over
+
+121
+00:11:05,660 --> 00:11:10,260
+all of its operations. The current non-profit has supported research on universal basic income
+
+122
+00:11:10,260 --> 00:11:15,260
+programs and made charitable grants focused on technology and social equality. According to its
+
+123
+00:11:15,260 --> 00:11:20,200
+website, it could continue to fund such work in the future, using its stake in the for-profit OpenAI
+
+124
+00:11:20,200 --> 00:11:25,700
+as a source of income. One important issue OpenAI will have to resolve in the conversion is what
+
+125
+00:11:25,700 --> 00:11:30,780
+rights the non-profit will have to AI technology that the new company develops, end quote.
+
+126
+00:11:37,380 --> 00:11:42,580
+Men, when we leave the house, it's phone, wallet, keys, how's my hair look right? But if you're
+
+127
+00:11:42,580 --> 00:11:47,180
+experiencing hair loss, you may not be so confident when you step outside your door. So it's time to get
+
+128
+00:11:47,180 --> 00:11:52,420
+that confidence back and restore your hair with HIMSS. HIMSS provides access to a range of hair loss
+
+129
+00:11:52,420 --> 00:11:56,980
+treatments that work, all from the comfort of your couch. HIMSS makes treating hair loss simple with
+
+130
+00:11:56,980 --> 00:12:02,580
+doctor-trusted treatment options and clinically proven ingredients like finasteride and minoxidil
+
+131
+00:12:02,580 --> 00:12:07,180
+that can regrow hair in as little as three to six months. They offer personalized chewable oral spray
+
+132
+00:12:07,180 --> 00:12:12,260
+and serum treatment options so you can find what works best for you. The process is simple and 100%
+
+133
+00:12:12,260 --> 00:12:16,700
+online. Just answer a few questions and a medical provider will determine if treatment is right for you.
+
+134
+00:12:16,700 --> 00:12:22,540
+If prescribed, your treatment is sent directly to your door. Start your free online visit today at
+
+135
+00:12:22,540 --> 00:12:28,960
+HIMSS.com slash ride. That's HIMSS.com slash ride for your personalized hair loss treatment options.
+
+136
+00:12:29,380 --> 00:12:34,600
+HIMSS.com slash ride. Results vary based on studies of topical and oral minoxidil. Prescription
+
+137
+00:12:34,600 --> 00:12:38,400
+products require an online consultation with a healthcare provider who will determine if a
+
+138
+00:12:38,400 --> 00:12:43,440
+prescription is appropriate. Restrictions apply. See website for full details and important safety information.
+
+139
+00:12:46,700 --> 00:12:53,540
+I'm someone who's rounding my 40s and I'm getting the aches and pains that just won't go away all of a sudden.
+
+140
+00:12:53,680 --> 00:12:59,500
+Sometimes I just sleep wrong and something will hurt for weeks. So that's why I've been trying
+
+141
+00:12:59,500 --> 00:13:05,320
+Urolithin A. Urolithin A is a powerful postbiotic that is nearly impossible to get from your diet alone.
+
+142
+00:13:06,000 --> 00:13:12,740
+And MitoPure from Timeline is the first product to offer a precise dose of Urolithin A to upgrade your
+
+143
+00:13:12,740 --> 00:13:17,580
+mitochondrial function. Also increase cellular energy and improve muscle strength and endurance.
+
+144
+00:13:18,220 --> 00:13:22,780
+MitoPure is clinically shown to give our cellular energy generators new power by triggering the body's
+
+145
+00:13:22,780 --> 00:13:28,960
+natural process for removing and rebuilding damaged mitochondria called mitophagy. By taking two soft gels a day
+
+146
+00:13:28,960 --> 00:13:33,060
+for two months, you can see significant improvements in your cellular energy, your muscle strength, and your
+
+147
+00:13:33,060 --> 00:13:37,640
+endurance. After four months of taking MitoPure, you'll feel yourself getting stronger, recovering faster
+
+148
+00:13:37,640 --> 00:13:42,080
+after a workout, and experiencing less inflammation. All part of your healthier aging routine.
+
+149
+00:13:42,620 --> 00:13:47,400
+Timeline has MitoPure in two product designs to fit your needs. Their berry powder is great to mix
+
+150
+00:13:47,400 --> 00:13:51,640
+in with your breakfast yogurt or daily smoothie. And their soft gels are for those days when you're
+
+151
+00:13:51,640 --> 00:13:56,120
+on the run and want a convenient grab-and-go option. Right now, Timeline is offering 10% off your first
+
+152
+00:13:56,120 --> 00:14:02,760
+order of MitoPure. Go to timeline.com slash ride. That's t-i-m-e-l-i-n-e dot com slash ride.
+
+153
+00:14:02,760 --> 00:14:09,180
+If you've searched for some music videos from some high-profile artists recently,
+
+154
+00:14:09,500 --> 00:14:16,100
+you might have come away disappointed. Why? Well, quoting Variety, songs by Adele, Bob Dylan,
+
+155
+00:14:16,260 --> 00:14:22,320
+Green Day, REM, Burn a Boy, Rush, and many others are currently unplayable on YouTube in the U.S. due
+
+156
+00:14:22,320 --> 00:14:28,740
+to a legal dispute between the platform and the performing rights organization, CSAC. Attempts to
+
+157
+00:14:28,740 --> 00:14:32,960
+play many but not all songs by those artists on Saturday met with the following message.
+
+158
+00:14:33,060 --> 00:14:38,500
+This video contains content from CSAC. It is not available in your country. A similar dispute
+
+159
+00:14:38,500 --> 00:14:43,080
+between Universal Music Group and TikTok raged on for several months earlier this year before being
+
+160
+00:14:43,080 --> 00:14:48,900
+resolved. In a statement to Variety, a YouTube rep said, we have held good faith negotiations with
+
+161
+00:14:48,900 --> 00:14:53,960
+CSAC to renew our existing deal. Unfortunately, despite our best efforts, we were unable to reach an
+
+162
+00:14:53,960 --> 00:14:58,880
+equitable agreement before its expiration. We take copyright very seriously, and as a result,
+
+163
+00:14:59,000 --> 00:15:04,300
+content represented by CSAC is no longer available on YouTube in the U.S. We are in active conversations
+
+164
+00:15:04,300 --> 00:15:09,680
+with CSAC and are hoping to reach a new deal as soon as possible. Reps for CSAC did not immediately
+
+165
+00:15:09,680 --> 00:15:14,260
+respond to requests for comment. A source close to the situation tells Variety that the previous deal
+
+166
+00:15:14,260 --> 00:15:19,940
+actually does not expire until next week and suggests that YouTube's move is a negotiating tactic.
+
+167
+00:15:19,940 --> 00:15:27,260
+CSAC is far smaller than ASCAP and BMI, with approximately 30,000 members and 1.5 million
+
+168
+00:15:27,260 --> 00:15:33,260
+compositions, while ASCAP has nearly 800,000 members. But as the caliber of artists affected
+
+169
+00:15:33,260 --> 00:15:38,380
+by the block shows, it represents a comparatively large percentage of the marketplace."
+
+170
+00:15:38,380 --> 00:15:38,780
+End quote.
+
+171
+00:15:44,180 --> 00:15:47,960
+Finally today, I think we've spoken about this before, but maybe not.
+
+172
+00:15:47,960 --> 00:15:55,140
+Back in September of 2022, the X100 series of point-and-shoot digital cameras went viral on TikTok.
+
+173
+00:15:55,680 --> 00:16:01,200
+This has led to huge profits for Fujifilm. Imagine that. Huge profits in camera hardware that
+
+174
+00:16:01,200 --> 00:16:04,360
+isn't a smartphone, quoting Bloomberg.
+
+175
+00:16:05,060 --> 00:16:11,760
+In September 2022, the photographer and TikTok influencer Kylie Katich posted a video showing off
+
+176
+00:16:11,760 --> 00:16:13,660
+her Fujifilm X100V.
+
+177
+00:16:13,660 --> 00:16:18,160
+I just found a camera that will change your life, she told hundreds of thousands of followers at the
+
+178
+00:16:18,160 --> 00:16:24,880
+time as photos of her infant flashed by. With the warm yellowish glow, the images look like they
+
+179
+00:16:24,880 --> 00:16:29,480
+could have been pulled out of a photo album from a generation ago. The camera itself, with its jacket
+
+180
+00:16:29,480 --> 00:16:35,800
+pocket-sized aluminum body, had distinctly vintage features and came programmed with simulations that
+
+181
+00:16:35,800 --> 00:16:41,260
+mimic the look of photographic film without any editing. It looks like a film camera. It has settings
+
+182
+00:16:41,260 --> 00:16:46,640
+like a film camera, Katich said in the video, holding up the $1,400 point-and-shoot. It's digital.
+
+183
+00:16:47,300 --> 00:16:51,960
+Within a day, her post had racked up dozens of comments. Consider me influenced. I am deaf-getting.
+
+184
+00:16:52,260 --> 00:16:55,280
+One person replied, this is the coolest thing ever, said another.
+
+185
+00:16:55,920 --> 00:16:59,880
+The endorsement and others like it reverberated through TikTok's sub-communities.
+
+186
+00:17:00,080 --> 00:17:05,520
+Auto enthusiasts brought their X100Vs to sports car meetups. Musicians took theirs around the world to
+
+187
+00:17:05,520 --> 00:17:11,460
+document the touring lifestyle. Tech geeks, travel junkies, and fashion influencers all wanted an X100V,
+
+188
+00:17:11,640 --> 00:17:16,340
+and once they got one, they let their own followers know. The effect on the company's inventory,
+
+189
+00:17:16,780 --> 00:17:22,240
+already strained by a global chip shortage, was drastic. By November 2022, Fujifilm stopped accepting
+
+190
+00:17:22,240 --> 00:17:27,220
+online orders for the camera, citing its inability to keep up with demand. Buyers turned to resale
+
+191
+00:17:27,220 --> 00:17:32,820
+platforms such as eBay, where X100Vs were selling for twice their retail value. Two years later,
+
+192
+00:17:32,820 --> 00:17:37,500
+TikTok's obsession hasn't slowed, and the manufacturer is still reaping the benefits.
+
+193
+00:17:37,760 --> 00:17:43,540
+Fujifilm's photo imaging segment brought in $3.3 billion for the fiscal year that ended in March,
+
+194
+00:17:43,660 --> 00:17:48,820
+a 14.5% year-over-year increase, and was the company's most profitable division for the first
+
+195
+00:17:48,820 --> 00:17:54,560
+time since at least 2006, when Bloomberg started tracking earnings by segment. Those sales were
+
+196
+00:17:54,560 --> 00:17:59,420
+driven in part by the X100V's successor. Sporting an upgraded sensor and other new features,
+
+197
+00:17:59,420 --> 00:18:06,840
+the X100V1, or VI, sold out almost immediately upon its release in February. Both generations
+
+198
+00:18:06,840 --> 00:18:11,860
+remain unavailable on Fujifilm's website. The company is embracing the camera's coveted status,
+
+199
+00:18:11,960 --> 00:18:18,960
+and a May earnings call, Chief Executive Officer Tiechi Gotu said the X100Vi's inventory situation was
+
+200
+00:18:18,960 --> 00:18:24,660
+normal and compared the product's resale value to that of a prestigious competitor. Leica, a well-known
+
+201
+00:18:24,660 --> 00:18:29,020
+German manufacturer, still maintains a very high value for both their old cameras and the cameras
+
+202
+00:18:29,020 --> 00:18:34,140
+they sell now, and this is our goal, Gotu said in the call. Fujifilm, which declined requests for
+
+203
+00:18:34,140 --> 00:18:39,420
+interviews, said in a statement that it's accelerating production to meet demand. Our goal is that every
+
+204
+00:18:39,420 --> 00:18:43,380
+customer who ordered an X100Vi gets it, the company said, end quote.
+
+205
+00:18:43,380 --> 00:18:54,100
+Nothing for you today. Talk to you tomorrow.
+

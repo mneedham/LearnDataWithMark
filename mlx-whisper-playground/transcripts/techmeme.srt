@@ -1,0 +1,844 @@
+1
+00:00:00,000 --> 00:00:08,760
+Welcome to the Tech Meme Right Home for Thursday, October 10th, 2024. I'm Brian McCullough. Today,
+
+2
+00:00:09,100 --> 00:00:14,060
+Apple TV Plus finally comes to prime video channels. OpenAI says they've been disrupting
+
+3
+00:00:14,060 --> 00:00:20,220
+AI election influence campaigns, but they won't be profitable until when? How Google plans to
+
+4
+00:00:20,220 --> 00:00:25,120
+beat the regulation rap and a review of basically the highest-end smartwatch you can buy. Here's
+
+5
+00:00:25,120 --> 00:00:26,760
+what you missed today in the world of tech.
+
+6
+00:00:30,000 --> 00:00:38,960
+Amazon has announced that Apple TV Plus will soon be available as a $9.99 per month subscription
+
+7
+00:00:38,960 --> 00:00:44,060
+add-on in Prime video channels. That's coming later this month in the U.S., joining more than
+
+8
+00:00:44,060 --> 00:00:49,420
+100 streaming services already there, quoting Bloomberg. What we offer channel partners is
+
+9
+00:00:49,420 --> 00:00:54,620
+hundreds of millions of subscribers around the world. Amazon said having this engagement around
+
+10
+00:00:54,620 --> 00:00:59,340
+the world with Prime members, accessing Prime video is a real great platform for other partners to be
+
+11
+00:00:59,340 --> 00:01:05,080
+able to reach them, end quote. Amazon markets more than 100 streaming services via its channel's store,
+
+12
+00:01:05,520 --> 00:01:09,820
+enabling customers to watch shows from Max, Paramount Plus, and Hallmark within Prime video.
+
+13
+00:01:10,400 --> 00:01:14,940
+Those services rely on Amazon to expand their audience. Apple TV Plus was one of the only major
+
+14
+00:01:14,940 --> 00:01:20,380
+streaming services not available in the store, along with Netflix and Walt Disney's main properties.
+
+15
+00:01:20,980 --> 00:01:25,640
+Those two are among the few with streaming services that have more viewers than Prime video.
+
+16
+00:01:25,640 --> 00:01:31,100
+The agreement expands an existing relationship between the companies. In 2017, Amazon started
+
+17
+00:01:31,100 --> 00:01:37,320
+offering a Prime video app on the Apple TV set-top box, while Prime video is integrated into the Apple
+
+18
+00:01:37,320 --> 00:01:42,800
+TV app across the iPhone maker's device lineup. The two companies are also retail partners with Apple
+
+19
+00:01:42,800 --> 00:01:45,840
+offering an official store via Amazon.com, end quote.
+
+20
+00:01:45,840 --> 00:01:58,440
+OpenAI says it has disrupted more than 20 operations and deceptive networks so far this year that tried
+
+21
+00:01:58,440 --> 00:02:04,140
+to use its models for disinformation purposes, including four that had election-related content,
+
+22
+00:02:04,800 --> 00:02:10,880
+quoting CNBC. In a 54-page report published Wednesday, the chat GPT creator said that it's
+
+23
+00:02:10,880 --> 00:02:14,260
+disrupted, quote, more than 20 operations and deceptive networks from around the world
+
+24
+00:02:14,260 --> 00:02:20,040
+that attempted to use our models. The threats ranged from AI-generated website articles to social media
+
+25
+00:02:20,040 --> 00:02:25,720
+posts by fake accounts. The company said its update on influence and cyber operations was intended to
+
+26
+00:02:25,720 --> 00:02:31,520
+provide a snapshot of what it's seeing and to identify, quote, an initial set of trends that we believe
+
+27
+00:02:31,520 --> 00:02:35,980
+can inform debate on how AI fits into the broader threat landscape, end quote.
+
+28
+00:02:36,640 --> 00:02:41,540
+OpenAI's report lands less than a month before the U.S. presidential election, but beyond the U.S.,
+
+29
+00:02:41,540 --> 00:02:46,640
+it's a significant year for elections worldwide, with contests taking place that affect upward of 4
+
+30
+00:02:46,640 --> 00:02:51,340
+billion people in more than 40 countries. The rise of AI-generated content has led to serious
+
+31
+00:02:51,340 --> 00:02:56,300
+election-related misinformation concerns, with the number of deepfakes that have been created
+
+32
+00:02:56,300 --> 00:03:01,380
+increasing 900% year over year, according to data from Clarity, a machine learning firm.
+
+33
+00:03:01,380 --> 00:03:06,160
+OpenAI wrote in its report that election-related uses of AI, quote,
+
+34
+00:03:06,160 --> 00:03:11,480
+ranged in complexity from simple requests for content generation to complex multi-stage efforts
+
+35
+00:03:11,480 --> 00:03:16,500
+to analyze and reply to social media posts. The social media content related mostly to elections
+
+36
+00:03:16,500 --> 00:03:22,000
+in the U.S. and Rwanda, and to a lesser extent, elections in India and the EU, OpenAI said.
+
+37
+00:03:22,440 --> 00:03:27,000
+In late August, an Iranian operation used OpenAI's products to generate, quote,
+
+38
+00:03:27,120 --> 00:03:31,900
+long-form articles and social media comments about the U.S. election, as well as other topics,
+
+39
+00:03:31,900 --> 00:03:37,240
+but the company said the majority of identified posts received few or no likes, shares, or comments.
+
+40
+00:03:37,900 --> 00:03:43,220
+In July, the company banned ChatGPT accounts in Rwanda that were posting election-related comments
+
+41
+00:03:43,220 --> 00:03:48,360
+on X, and in May, an Israeli company used ChatGPT to generate social media comments about elections
+
+42
+00:03:48,360 --> 00:03:53,820
+in India. OpenAI wrote that it was able to address the case within less than 24 hours.
+
+43
+00:03:54,240 --> 00:03:58,800
+In June, OpenAI addressed a covert operation that used its products to generate comments about the
+
+44
+00:03:58,800 --> 00:04:03,360
+European Parliament elections in France and politics in the U.S., Germany, Italy, and Poland.
+
+45
+00:04:03,840 --> 00:04:07,660
+The company said that while most social media posts it identified received few likes or shares,
+
+46
+00:04:07,800 --> 00:04:12,260
+some real people did reply to the AI-generated posts. None of the election-related operations
+
+47
+00:04:12,260 --> 00:04:16,880
+were able to attract viral engagement or build sustained audiences via the use of ChatGPT
+
+48
+00:04:16,880 --> 00:04:19,840
+and OpenAI's other tools the company wrote, end quote.
+
+49
+00:04:19,840 --> 00:04:30,220
+Sticking with OpenAI for one more second, the information has seen internal documents from
+
+50
+00:04:30,220 --> 00:04:37,620
+OpenAI with projections suggesting that the company won't turn a profit until 2029 when its revenue
+
+51
+00:04:37,620 --> 00:04:46,820
+would hit $100 billion. Losses could hit $14 billion in 2026, up nearly 3x on this year.
+
+52
+00:04:46,820 --> 00:04:52,760
+So if true, number one, they need to hit $100 billion in revenue just to turn a profit. That
+
+53
+00:04:52,760 --> 00:04:58,300
+does suggest that margins aren't great. But number two, that level of cash burn suggests they have
+
+54
+00:04:58,300 --> 00:05:01,000
+a hell of a needle to thread. Quote,
+
+55
+00:05:01,460 --> 00:05:06,140
+This estimate doesn't include stock compensation, which is one of OpenAI's biggest expenses,
+
+56
+00:05:06,440 --> 00:05:11,800
+although not one it pays in cash. OpenAI is emphasizing to investors a metric of profitability
+
+57
+00:05:11,800 --> 00:05:16,720
+that excludes some major expenses, such as the billions it is spending annually on training its
+
+58
+00:05:16,720 --> 00:05:20,980
+large language models. The documents show, by that metric, OpenAI projects it will turn
+
+59
+00:05:20,980 --> 00:05:27,840
+profitable in 2026. The company last week completed a $6.6 billion funding round, valuing it at $157
+
+60
+00:05:27,840 --> 00:05:32,520
+billion. The documents, which include financial statements and forecasts, contain a number of
+
+61
+00:05:32,520 --> 00:05:36,600
+revelations about OpenAI that may change perceptions of the company's financial prospects.
+
+62
+00:05:37,320 --> 00:05:41,340
+OpenAI appears to be burning far less cash than previously thought. The company burned through
+
+63
+00:05:41,340 --> 00:05:46,500
+about $340 million in the first half of this year, leaving it with $1 billion in cash on the
+
+64
+00:05:46,500 --> 00:05:51,240
+balance sheet before the fundraising effort. But the cash burn could accelerate sharply in the next
+
+65
+00:05:51,240 --> 00:05:56,720
+couple of years, the documents suggest. There's a big gap between OpenAI's cash flow and its bottom
+
+66
+00:05:56,720 --> 00:06:01,600
+line, reflecting standard accounting differences in how it treats its major expenses, such as stock
+
+67
+00:06:01,600 --> 00:06:07,220
+compensation and compute credits in different financial statements. OpenAI calculated its net loss to be
+
+68
+00:06:07,220 --> 00:06:13,080
+$3 billion for the first half of the year. OpenAI expects to spend more than $200 billion through
+
+69
+00:06:13,080 --> 00:06:19,820
+the end of the decade, excluding stock compensation costs. Between 60 to 80% of its spending each year
+
+70
+00:06:19,820 --> 00:06:25,120
+would go toward either training or running the models. An analysis of the documents suggests that
+
+71
+00:06:25,120 --> 00:06:32,220
+OpenAI projects its total losses between 2023 and 2028, excluding stock compensation, will be $44 billion.
+
+72
+00:06:32,220 --> 00:06:38,460
+The same analysis suggests the company anticipates it will make $14 billion in profit on that basis in
+
+73
+00:06:38,460 --> 00:06:45,220
+2029. In the first half of this year, the company reported stock compensation of $1.5 billion, likely
+
+74
+00:06:45,220 --> 00:06:50,820
+equivalent to its revenue in the period. The documents imply that Microsoft gets a cut of 20% of OpenAI's
+
+75
+00:06:50,820 --> 00:06:55,840
+revenues, which is higher than previously thought. OpenAI is projecting that computing costs for model
+
+76
+00:06:55,840 --> 00:07:01,140
+training could rise sharply in the next couple of years to as high as $9.5 billion a year
+
+77
+00:07:01,140 --> 00:07:07,720
+in 2026. That's in addition to the amortized upfront costs of training for large language model research,
+
+78
+00:07:08,140 --> 00:07:12,880
+which its financial documents report as research compute costs spread out over a number of years.
+
+79
+00:07:12,880 --> 00:07:19,320
+That figure is also rising sharply to more than $5 billion in 2026 from a projected $1 billion this year.
+
+80
+00:07:19,820 --> 00:07:25,220
+Some of OpenAI's computing costs aren't paid in cash. Microsoft advanced OpenAI computing credits as part
+
+81
+00:07:25,220 --> 00:07:30,280
+of its $10 billion investment last year. And in the first half of this year, OpenAI recorded about
+
+82
+00:07:30,280 --> 00:07:35,700
+$500 million of data center lease expenses covered by Microsoft, according to the documents and a
+
+83
+00:07:35,700 --> 00:07:41,080
+person familiar with the matter. It's unclear how many computing credits OpenAI has left. It's likely,
+
+84
+00:07:41,260 --> 00:07:47,820
+however, that OpenAI will have to spend more of its own cash if it increases compute spending as much
+
+85
+00:07:47,820 --> 00:07:53,320
+as projected in the documents. OpenAI also has been discussing borrowing money to try to set up data
+
+86
+00:07:53,320 --> 00:07:58,780
+centers more quickly than Microsoft can, the information reported this week. Still, OpenAI could scale back
+
+87
+00:07:58,780 --> 00:08:03,740
+the compute spending, for instance, if upcoming models have more staying power than prior ones because
+
+88
+00:08:03,740 --> 00:08:08,540
+rivals aren't able to catch up quickly, or if the models are less costly to train because of future
+
+89
+00:08:08,540 --> 00:08:12,040
+breakthroughs. That would reduce the demands on its cash resources."
+
+90
+00:08:12,040 --> 00:08:26,200
+This makes me a tiny bit concerned about the Vision Pro. Sources say Dan Riccio, Apple's Vision Pro
+
+91
+00:08:26,200 --> 00:08:32,040
+chief and former senior vice president of hardware engineering is leaving Apple in October. The
+
+92
+00:08:32,040 --> 00:08:35,560
+Vision Pro team will now report to John Ternus, quoting Bloomberg.
+
+93
+00:08:36,100 --> 00:08:40,540
+Mike Rockwell, Riccio's current lieutenant, will continue to lead the Vision products group on a
+
+94
+00:08:40,540 --> 00:08:44,840
+day-to-day basis, said the people who asked not to be identified because the changes aren't public.
+
+95
+00:08:45,220 --> 00:08:48,380
+A spokesperson for the Cupertino, California-based company declined to comment.
+
+96
+00:08:48,840 --> 00:08:53,400
+Riccio's exit marks one of the most significant departures from Apple's management team,
+
+97
+00:08:53,400 --> 00:08:58,460
+though it's been in the making for some time. Three years ago, he switched from being a senior
+
+98
+00:08:58,460 --> 00:09:03,480
+vice president to a vice president and left the 12-person executive team a step toward his
+
+99
+00:09:03,480 --> 00:09:08,340
+eventual retirement. Riccio spoke at an event at the Massachusetts Institute of Technology on Wednesday,
+
+100
+00:09:08,780 --> 00:09:13,740
+telling students he is winding down his career at Apple. He said he wants to get more involved at
+
+101
+00:09:13,740 --> 00:09:18,740
+the engineering program named for him at the university, including by potentially teaching or
+
+102
+00:09:18,740 --> 00:09:23,240
+developing curriculum material. He also spoke about the birth of the original iMac and said the
+
+103
+00:09:23,240 --> 00:09:29,260
+iPhone X was the product he was most proud to create. The executive spent 26 years at the
+
+104
+00:09:29,260 --> 00:09:33,580
+company and was known at times for an abrasive style and controversial moves, but he also made
+
+105
+00:09:33,580 --> 00:09:38,500
+key hires and encouraged acquisitions that resulted in major new products. His tenure included overseeing
+
+106
+00:09:38,500 --> 00:09:43,040
+some of Apple's biggest bets, including development of the Vision Pro headset and the failed bid to make
+
+107
+00:09:43,040 --> 00:09:55,300
+a car." There's no shortage of helpful AI tools out there, but using them means switching back and
+
+108
+00:09:55,300 --> 00:10:00,380
+forth between yet another digital tool. So instead of simplifying your workflow, it just becomes more
+
+109
+00:10:00,380 --> 00:10:06,160
+complicated. Unless, of course, you're in Notion. The new Notion AI is a single AI tool that does it all.
+
+110
+00:10:06,160 --> 00:10:12,400
+You can search across Notion and other apps, generate docs in your own style, analyze PDFs and images,
+
+111
+00:10:12,400 --> 00:10:17,280
+and it will chat with you about anything. Notion AI is connected to multiple knowledge sources. It uses
+
+112
+00:10:17,280 --> 00:10:23,580
+AI knowledge from GPT-4 and Claude to chat with you about any topic. It can search across thousands of
+
+113
+00:10:23,580 --> 00:10:28,900
+Notion docs in seconds to quickly answer any question. And with AI connectors now in beta,
+
+114
+00:10:29,300 --> 00:10:33,540
+Notion AI can search across Slack, discussions, Google Docs, sheets, and slides,
+
+115
+00:10:33,540 --> 00:10:39,180
+and more tools like GitHub and Jira are coming soon. Unlike other specialized tools or legacy
+
+116
+00:10:39,180 --> 00:10:43,640
+suites that have you bouncing between six different apps, Notion is seamlessly integrated,
+
+117
+00:10:43,880 --> 00:10:48,560
+infinitely flexible, and beautifully easy to use. Try Notion for free when you go to
+
+118
+00:10:48,560 --> 00:10:54,040
+notion.com slash ride. That's all lowercase letters, notion.com slash ride to try the powerful,
+
+119
+00:10:54,240 --> 00:11:00,600
+easy-to-use Notion AI today. And when you use our link, you're supporting our show, notion.com slash ride.
+
+120
+00:11:03,540 --> 00:11:09,860
+How do you make a password that's strong enough no one will be able to guess it, but also impossible
+
+121
+00:11:09,860 --> 00:11:15,280
+to forget? And how can you do that for a hundred different websites? And how can you make it so
+
+122
+00:11:15,280 --> 00:11:20,660
+everyone in your company can do the same without ever having the need to reset them? Sounds like
+
+123
+00:11:20,660 --> 00:11:25,880
+an impossible task unless you have 1Password. As I've said, I've been using 1Password for about 15 years.
+
+124
+00:11:26,440 --> 00:11:31,680
+I have it on every computer and phone I've had over that time. I used 1Password today. I used it like
+
+125
+00:11:31,680 --> 00:11:37,460
+three minutes ago. Companies lose hours every day just from employees forgetting and resetting passwords.
+
+126
+00:11:37,920 --> 00:11:43,200
+A single data breach costs millions of dollars, but 1Password secures every sign-in to save you time and money.
+
+127
+00:11:43,500 --> 00:11:49,000
+Any device, any time. 1Password lets you securely switch between iPhone, Android, Mac, and PC with
+
+128
+00:11:49,000 --> 00:11:54,420
+convenient features like Autofill for quick sign-ins. All you have to do is remember the one strong
+
+129
+00:11:54,420 --> 00:11:58,560
+account password that protects everything else. Your logins, your credit cards, secure notes,
+
+130
+00:11:58,660 --> 00:12:04,400
+or the office Wi-Fi password. Protect your global workforce with simple security, easy secret
+
+131
+00:12:04,400 --> 00:12:09,740
+sharing, and actionable insight reports. Right now, my listeners get a free two-week trial at
+
+132
+00:12:09,740 --> 00:12:15,220
+1password.com slash ride for your growing business. That's two free weeks at 1password.com slash ride.
+
+133
+00:12:15,320 --> 00:12:20,200
+Don't let security slow your business down. Go to 1password.com slash ride.
+
+134
+00:12:20,200 --> 00:12:27,780
+The Financial Times takes a look at how Google plans to deflect and delay that U.S. breakup threat
+
+135
+00:12:27,780 --> 00:12:34,180
+that we spoke about yesterday. A Remedies ruling is likely in mid-2025, but legal timelines may let it
+
+136
+00:12:34,180 --> 00:12:41,100
+put off any impact of that ruling for years. Quote, Google's initial response to the DOJ's proposals
+
+137
+00:12:41,100 --> 00:12:47,060
+that competition is thriving in search ads and fierce in artificial intelligence would have been less
+
+138
+00:12:47,060 --> 00:12:53,340
+convincing even two years ago before OpenAI's launch of the breakthrough chat GPT chatbot. Spinning out
+
+139
+00:12:53,340 --> 00:12:58,540
+its arguments through the appeals courts will be crucial to Google's strategy as it looks to deflect
+
+140
+00:12:58,540 --> 00:13:04,140
+or delay the effects of August's landmark ruling by a federal judge that it maintained an illegal
+
+141
+00:13:04,140 --> 00:13:08,260
+monopoly by paying billions of dollars to device makers, mobile carriers, and browser developers.
+
+142
+00:13:08,840 --> 00:13:13,500
+The legal timelines involved in such a complex and high-stakes case are likely to allow Google to put
+
+143
+00:13:13,500 --> 00:13:18,920
+off any impact on its business for years. It plans to appeal the liability decision when the judge rules
+
+144
+00:13:18,920 --> 00:13:24,540
+on remedies, which is likely to be in mid-2025, and may then also contest the remedies themselves.
+
+145
+00:13:25,220 --> 00:13:30,560
+Broadly, Google's argument focuses on what it describes as regulatory overreach following a case
+
+146
+00:13:30,560 --> 00:13:35,440
+about the impact of its distribution agreements. Forcing it to divest assets or share data with
+
+147
+00:13:35,440 --> 00:13:40,860
+competitors would, quote, go far beyond the specific legal issues in this case, it said in a blog post on
+
+148
+00:13:40,860 --> 00:13:46,940
+Tuesday. Requiring Google to split off its Chrome browser or Android operating system or other
+
+149
+00:13:46,940 --> 00:13:51,840
+structural remedies would, quote, tilt the field at the precise moment that competition is thriving,
+
+150
+00:13:51,940 --> 00:13:56,460
+the company said. With new search advertising competitors such as Amazon and TikTok emerging
+
+151
+00:13:56,460 --> 00:14:01,760
+and widespread disruption to its core business from AI startups, including OpenAI and perplexity,
+
+152
+00:14:02,200 --> 00:14:07,420
+Google can argue that it is facing the stiffest competition since Microsoft's Bing launched 15 years ago.
+
+153
+00:14:07,420 --> 00:14:11,980
+On Tuesday, for example, Google pointed to an e-marketer forecast that its share of U.S. search
+
+154
+00:14:11,980 --> 00:14:17,420
+advertising spending would fall below 50% next year for the first time since the research group started
+
+155
+00:14:17,420 --> 00:14:22,780
+tracking the market in 2008, primarily due to rapid growth in Amazon's marketing business.
+
+156
+00:14:23,060 --> 00:14:27,160
+The company is likely to appeal its antitrust cases all the way up to the U.S. Supreme Court.
+
+157
+00:14:27,660 --> 00:14:31,580
+This is the start of a long process, it said in Tuesday's blog post.
+
+158
+00:14:31,580 --> 00:14:37,780
+Yet Jason Kent, a big tech critic who leads the digital content Next trade group of online publishers,
+
+159
+00:14:38,240 --> 00:14:42,600
+said it was not a given that the Supreme Court would take up the case. He estimated that it could
+
+160
+00:14:42,600 --> 00:14:46,800
+take two or three years for any remedies to be enforced if the case proceeds through the courts,
+
+161
+00:14:46,920 --> 00:14:52,520
+adding, quote, the reality is Google is racking up legal losses, they have a difficult set of facts
+
+162
+00:14:52,520 --> 00:14:58,140
+along with spoliation from purging evidence, and they may try to settle or proactively make moves
+
+163
+00:14:58,140 --> 00:15:09,740
+to control the outcome, end quote. Finally today, a review. The Verge says that the Garmin
+
+164
+00:15:09,740 --> 00:15:17,080
+Phoenix 8, the $1,000 smartwatch, has excellent battery life and fitness tracking and an OLED display,
+
+165
+00:15:17,220 --> 00:15:24,660
+but it costs $350 more than the Phoenix 7 and lacks LTE, which apparently is key, quote.
+
+166
+00:15:24,660 --> 00:15:30,040
+The big additions to the Phoenix 8 are a speaker and microphone. They mean you can now interact
+
+167
+00:15:30,040 --> 00:15:34,280
+with the watch in more ways than fitness tracking and training. You can take calls from the wrist,
+
+168
+00:15:34,420 --> 00:15:37,600
+use an on-device voice assistant for setting timers and starting activities,
+
+169
+00:15:38,020 --> 00:15:42,500
+and connect to your phone's built-in assistant for more complex queries. If you can convince your
+
+170
+00:15:42,500 --> 00:15:47,380
+loved ones to download the new Garmin Messenger app, replying to messages on the wrist also has gotten
+
+171
+00:15:47,380 --> 00:15:53,260
+easier. Theoretically, these are all good updates. In practice, it means the Phoenix 8 doesn't play to
+
+172
+00:15:53,260 --> 00:15:58,160
+Garmin's strengths. The bulk of the smart updates zero in on the addition of the microphone and speaker,
+
+173
+00:15:58,620 --> 00:16:02,920
+namely voice assistants and calling from the wrist. But there's a big factor holding back the Phoenix
+
+174
+00:16:02,920 --> 00:16:09,540
+8's smart features, the lack of LTE. Yes, you can make and receive calls with the Phoenix 8 so long as
+
+175
+00:16:09,540 --> 00:16:14,820
+your phone is within Bluetooth range. Yes, you can talk to a voice assistant, but it's limited unless
+
+176
+00:16:14,820 --> 00:16:21,540
+your phone is nearby. Yes, you can reply to text, but you get my drift. If you get a cellular Apple Watch,
+
+177
+00:16:21,540 --> 00:16:25,760
+Galaxy Watch, or Pixel Watch, you can leave your phone at home. That's not really an option with
+
+178
+00:16:25,760 --> 00:16:30,520
+the Phoenix 8. The friction is particularly noticeable with the on-device voice assistant.
+
+179
+00:16:30,820 --> 00:16:35,280
+The assistant works pretty well, but it's mostly limited to commands that don't require an internet
+
+180
+00:16:35,280 --> 00:16:39,960
+connection. You can start activities, set timers, and tweak settings. It can tell you the weather,
+
+181
+00:16:40,080 --> 00:16:45,160
+provided it's loaded the day's weather from Wi-Fi or your phone via Bluetooth. But say you want to send
+
+182
+00:16:45,160 --> 00:16:50,180
+a text message. This nameless assistant can't do that. Instead, you'll have to scroll to a different menu
+
+183
+00:16:50,180 --> 00:16:54,280
+and launch your phone's assistant. It's good to have that option, but at that point, you're probably
+
+184
+00:16:54,280 --> 00:16:59,400
+just going to whip out your phone anyway. Part of the problem is that Garmin has always been staunchly
+
+185
+00:16:59,400 --> 00:17:04,300
+platform agnostic. I happen to think that's a good thing, but the price you pay is never having your
+
+186
+00:17:04,300 --> 00:17:09,140
+watch work quite as seamlessly with your phone. For example, it's great that you can dictate voice
+
+187
+00:17:09,140 --> 00:17:14,140
+memos now, but their usefulness is limited because there's no easy way to get them off your wrist and
+
+188
+00:17:14,140 --> 00:17:19,300
+onto another device. That's unlike the Pixel Watch 3 where I can just record something and boom,
+
+189
+00:17:19,400 --> 00:17:24,940
+it's magically on my Pixel 8 Pro. Everyone I've ever met with a Phoenix watch has been a triathlete,
+
+190
+00:17:25,040 --> 00:17:30,300
+ultramarathoner, or someone who casually qualifies for the Boston Marathon with a sub-three-hour
+
+191
+00:17:30,300 --> 00:17:34,920
+marathon time. These folks pick something like the Phoenix because they need a tracker with Mondo
+
+192
+00:17:34,920 --> 00:17:40,380
+battery life, stellar GPS accuracy, in-depth training programs, and maps for traversing trails.
+
+193
+00:17:40,380 --> 00:17:45,580
+Those are the features that people would leave Apple or Samsung for, and they don't get a major
+
+194
+00:17:45,580 --> 00:17:50,340
+upgrade with the Phoenix 8. To make matters worse, I almost choked when I saw the Phoenix 8's starting
+
+195
+00:17:50,340 --> 00:17:57,100
+price was a whole $350 more than the Phoenix 7. That's not a $50 to $100 hike where you grumble
+
+196
+00:17:57,100 --> 00:18:03,260
+and then begrudgingly admit that inflation is a bitch. For $999, you could buy a laptop. Hell,
+
+197
+00:18:03,380 --> 00:18:10,360
+the Apple Watch Ultra 2 is $800 while the Galaxy Watch Ultra is $650. Those do come with LTE,
+
+198
+00:18:10,380 --> 00:18:15,040
+and if you're determined to get a Garmin, there are literally dozens of cheaper options. Might I
+
+199
+00:18:15,040 --> 00:18:22,040
+suggest the $450 Forerunner, 265, or a discounted Phoenix 7 Pro or Epix Pro? It's frustrating because
+
+200
+00:18:22,040 --> 00:18:26,960
+Garmin is right to shore up its smart features. There's not much to improve on the fitness front,
+
+201
+00:18:27,020 --> 00:18:31,200
+so making its watches more useful outside of training makes a lot of sense. It's also crystal
+
+202
+00:18:31,200 --> 00:18:35,240
+clear that Garmin has some catching up to do, and progress isn't going to happen overnight.
+
+203
+00:18:35,700 --> 00:18:40,160
+The Phoenix 8 might be on the right track, but it doesn't quite nail the price or execution.
+
+204
+00:18:40,160 --> 00:18:40,960
+End quote.
+
+205
+00:18:48,580 --> 00:18:57,420
+Okay, everybody. Rad 80s, 90s history is currently number 34 on the history chart. Please, if you
+
+206
+00:18:57,420 --> 00:19:03,640
+haven't done so, subscribe to the show. Especially if you use Apple Podcasts, please follow the show
+
+207
+00:19:03,640 --> 00:19:10,300
+on Apple Podcasts. And also, write a review. Give it five stars and write a quick sentence or two
+
+208
+00:19:10,300 --> 00:19:15,040
+review. Even if you've already subscribed, go back and do that. It'll really help. We can do this,
+
+209
+00:19:15,100 --> 00:19:20,080
+people. We can get to number one. The history category is not as competitive as some others,
+
+210
+00:19:20,080 --> 00:19:26,940
+so we can make my dream come true of having a number one podcast. Link in the show notes to the
+
+211
+00:19:26,940 --> 00:19:32,580
+Apple Podcasts link itself. Again, please follow, rate, and review. Thanks in advance.
+

@@ -1,0 +1,1220 @@
+1
+00:00:00,160 --> 00:00:03,760
+Today on the AI Daily Brief, what's really going on at OpenAI?
+
+2
+00:00:04,460 --> 00:00:08,940
+The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI.
+
+3
+00:00:09,420 --> 00:00:12,020
+To join the conversation, follow the Discord link in our show notes.
+
+4
+00:00:17,880 --> 00:00:22,460
+Hello, friends. Today is the last day I'm going to beg your indulgence for a slightly tweaked format.
+
+5
+00:00:23,060 --> 00:00:25,500
+Once again, we just have a main episode, no headlines today.
+
+6
+00:00:25,980 --> 00:00:28,980
+I am finally back at home, so this will be the last episode that is impacted.
+
+7
+00:00:28,980 --> 00:00:32,940
+But for now, we are going to dig deep into what's really going on at OpenAI.
+
+8
+00:00:33,540 --> 00:00:35,960
+Is this normal executive departure stuff?
+
+9
+00:00:36,060 --> 00:00:39,260
+Is this in line with what you might expect from a startup like OpenAI?
+
+10
+00:00:39,540 --> 00:00:42,700
+Or is there something deeper going on that we should be aware of?
+
+11
+00:00:43,220 --> 00:00:44,720
+Welcome back to the AI Daily Brief.
+
+12
+00:00:45,200 --> 00:00:49,180
+Earlier this week, we got some surprising news out of OpenAI.
+
+13
+00:00:49,780 --> 00:00:55,540
+On Wednesday, CTO Mira Mirati announced unexpectedly that she was leaving the company.
+
+14
+00:00:55,960 --> 00:00:57,500
+In the early afternoon, she tweeted,
+
+15
+00:00:57,500 --> 00:01:00,000
+I shared the following note with the OpenAI team today.
+
+16
+00:01:00,460 --> 00:01:01,140
+The note says,
+
+17
+00:01:01,460 --> 00:01:04,220
+After much reflection, I've made the difficult decision to leave OpenAI.
+
+18
+00:01:04,600 --> 00:01:07,700
+My six and a half years with the OpenAI team have been an extraordinary privilege.
+
+19
+00:01:08,200 --> 00:01:09,340
+Gratitude, gratitude, gratitude.
+
+20
+00:01:09,880 --> 00:01:12,280
+And then she basically argues that now is a good time.
+
+21
+00:01:12,640 --> 00:01:14,320
+That 01 marks a new era.
+
+22
+00:01:14,720 --> 00:01:16,140
+Speech to speech marks a new era.
+
+23
+00:01:16,500 --> 00:01:18,100
+That these are inflection points.
+
+24
+00:01:18,380 --> 00:01:21,700
+And as an inflection point, it's a good moment for her to exit stage left.
+
+25
+00:01:22,060 --> 00:01:23,840
+In terms of what she wants to do, she says,
+
+26
+00:01:23,840 --> 00:01:27,000
+I'm stepping away because I want to create the time and space to do my own exploration.
+
+27
+00:01:27,560 --> 00:01:30,780
+In other words, she says actually nothing about what she's going to do or why she's leaving.
+
+28
+00:01:31,380 --> 00:01:34,460
+Sam responded to her tweet with what he had originally responded in their Slack.
+
+29
+00:01:35,020 --> 00:01:36,060
+Mira, thank you for everything.
+
+30
+00:01:36,240 --> 00:01:38,480
+It's hard to overstate how much Mira has meant to OpenAI,
+
+31
+00:01:38,740 --> 00:01:40,160
+our mission, and to all of us personally.
+
+32
+00:01:40,800 --> 00:01:43,800
+I feel tremendous gratitude towards her for what she has helped us build and accomplish,
+
+33
+00:01:44,220 --> 00:01:48,080
+but I most of all feel personal gratitude towards her for the support and love during all the hard times.
+
+34
+00:01:48,380 --> 00:01:49,940
+I'm excited for what she'll do next.
+
+35
+00:01:49,940 --> 00:01:54,080
+Now, OpenAI has an extraordinary amount of focus on it.
+
+36
+00:01:54,500 --> 00:01:57,660
+It is undeniably the dominant company in the AI space.
+
+37
+00:01:58,000 --> 00:02:02,420
+For a huge portion of the world, ChatGPT is to AI as Kleenex is to tissues.
+
+38
+00:02:03,000 --> 00:02:06,980
+And so even if it was just Mira, any executive departure would, of course, be notable.
+
+39
+00:02:07,660 --> 00:02:10,020
+However, of course, this is not the first executive departure.
+
+40
+00:02:10,620 --> 00:02:15,220
+Earlier this year, OpenAI co-founders Ilya Stutzkever and Andre Karpathy both left the team as well.
+
+41
+00:02:15,800 --> 00:02:17,720
+Greg Brockman is currently on leave.
+
+42
+00:02:17,720 --> 00:02:22,800
+And of course, all of this is happening in the shadow of the board pushing Sam out only to reinstate him last November.
+
+43
+00:02:23,520 --> 00:02:28,520
+When this news broke, early reports suggested that there was a lot of surprise inside of OpenAI.
+
+44
+00:02:29,320 --> 00:02:32,980
+Bloomberg and the information both reported a lot of sentiment along the lines of WTF.
+
+45
+00:02:33,680 --> 00:02:35,540
+However, it would only get more complicated.
+
+46
+00:02:36,360 --> 00:02:39,260
+Later that afternoon, Chief Research Officer Bob McGrew posted,
+
+47
+00:02:39,260 --> 00:02:42,640
+The last eight years of OpenAI has been a humbling and awe-inspiring journey.
+
+48
+00:02:43,180 --> 00:02:48,340
+The small nonprofit I joined in January 2017 has become the most important research and development company in the world.
+
+49
+00:02:48,880 --> 00:02:50,960
+I truly enjoyed working with everyone, blah, blah, blah, blah, blah.
+
+50
+00:02:51,060 --> 00:02:52,600
+I'm proud of our achievements, blah, blah, blah, blah, blah.
+
+51
+00:02:53,180 --> 00:02:54,380
+And once again, Bob writes,
+
+52
+00:02:54,600 --> 00:02:55,800
+It's time for me to take a break.
+
+53
+00:02:55,960 --> 00:02:59,080
+There's no better capstone to my work here than shipping O1 to the world.
+
+54
+00:02:59,780 --> 00:03:01,860
+Again, very similar argument to Mira.
+
+55
+00:03:02,240 --> 00:03:04,840
+We've reached this inflection point and now it's time for me to bow out.
+
+56
+00:03:04,840 --> 00:03:09,980
+Almost at the same time, VP of Research focused on post-training Barrett Zoff writes,
+
+57
+00:03:10,480 --> 00:03:12,500
+Hey everybody, I have decided to leave OpenAI.
+
+58
+00:03:13,140 --> 00:03:15,860
+His note is basically all gratitude, particularly gratitude for Bob.
+
+59
+00:03:16,280 --> 00:03:19,880
+And he leaves on the platitude OpenAI is doing and will continue to do incredible work
+
+60
+00:03:19,880 --> 00:03:23,600
+and I am very optimistic about the future trajectory of the company and will be rooting everyone on.
+
+61
+00:03:24,260 --> 00:03:28,860
+So not one, not two, but three executive departures, all in the span of about six hours.
+
+62
+00:03:29,580 --> 00:03:32,380
+Ultimately, this prompted Sam to write yet another note where he said,
+
+63
+00:03:32,380 --> 00:03:37,000
+Hi all, Mira has been instrumental in OpenAI's progress and growth for the last 6.5 years.
+
+64
+00:03:37,320 --> 00:03:41,660
+She has been a hugely significant factor in our development from an unknown research lab to an important company.
+
+65
+00:03:42,100 --> 00:03:46,120
+When Mira informed me this morning she was leaving, I was saddened but of course supported her decision.
+
+66
+00:03:46,480 --> 00:03:49,840
+For the past year, she has been building out a strong bench of leaders that will continue our progress.
+
+67
+00:03:50,420 --> 00:03:53,440
+I also want to share that Bob and Barrett have decided to depart OpenAI.
+
+68
+00:03:54,140 --> 00:03:57,340
+Mira, Bob, and Barrett made these decisions independently of each other and amicably,
+
+69
+00:03:57,620 --> 00:04:01,100
+but the timing of Mira's decision was such that it made sense to do this now all at once
+
+70
+00:04:01,100 --> 00:04:04,500
+so that we can work together for a smooth handover to the next generation of leadership.
+
+71
+00:04:05,120 --> 00:04:07,060
+So a couple things that are interesting from Sam's note.
+
+72
+00:04:07,620 --> 00:04:10,320
+First, he had only found out that morning.
+
+73
+00:04:10,800 --> 00:04:13,200
+So obviously this was a very last minute, not planned thing.
+
+74
+00:04:13,820 --> 00:04:16,840
+Second, he argued that basically this was a rip the band-aid moment off
+
+75
+00:04:16,840 --> 00:04:20,840
+and that basically for as much as it was going to bring up questions to have all these departures happen at once,
+
+76
+00:04:20,840 --> 00:04:24,220
+it would be infinitely worse to have them staggered over the course of a couple of weeks.
+
+77
+00:04:25,080 --> 00:04:28,720
+Now, almost immediately, people's skeptical hackles were raised.
+
+78
+00:04:28,720 --> 00:04:30,300
+Justin Hart tweets,
+
+79
+00:04:30,680 --> 00:04:33,200
+Guys, this wasn't just some casual transition over at OpenAI.
+
+80
+00:04:33,540 --> 00:04:34,520
+It was a walkout.
+
+81
+00:04:35,200 --> 00:04:38,100
+And there were about 10,000 versions of this sentiment,
+
+82
+00:04:38,640 --> 00:04:42,660
+that all of these people doing this at once must mean something problematic was going on.
+
+83
+00:04:43,160 --> 00:04:46,440
+Ethan Evans, who identifies himself as a retired Amazon VP, writes,
+
+84
+00:04:46,440 --> 00:05:15,060
+Today's episode is brought to you by Fractional.
+
+85
+00:05:15,060 --> 00:05:20,900
+When we wanted to build an AI-powered feature of Superintelligent, our AI Tool Finder,
+
+86
+00:05:21,240 --> 00:05:23,040
+I went straight to Fractional.
+
+87
+00:05:23,420 --> 00:05:28,760
+The Fractional team is a group of senior engineers in San Francisco working on some of the most exciting projects in applied AI.
+
+88
+00:05:29,080 --> 00:05:33,560
+Working with them is basically like hiring an absolute top-flight AI engineering team,
+
+89
+00:05:33,740 --> 00:05:37,040
+but in a way that you can customize exactly for your particular needs.
+
+90
+00:05:37,420 --> 00:05:42,100
+Like I said, that AI Tool Finder feature that we built with them is already a key part of the Superintelligent platform,
+
+91
+00:05:42,220 --> 00:05:43,880
+and we are working on something new as well.
+
+92
+00:05:43,880 --> 00:05:47,120
+Fractional works with everyone from startups to the Fortune 500,
+
+93
+00:05:47,480 --> 00:05:50,820
+and to request a free consultation, you can go to fractional.ai.
+
+94
+00:05:51,160 --> 00:05:54,460
+If you want help identifying and building AI projects for your business,
+
+95
+00:05:54,580 --> 00:05:57,660
+then I highly recommend you hit pause, open a web browser,
+
+96
+00:05:57,800 --> 00:06:00,860
+and go to fractional.ai to request a free consultation.
+
+97
+00:06:02,300 --> 00:06:04,420
+Today's episode is brought to you by Venice.
+
+98
+00:06:04,860 --> 00:06:07,500
+Venice is a private, uncensored generative AI app.
+
+99
+00:06:07,500 --> 00:06:13,800
+It accesses open-source models to enable text, image, and code generation without the fear of being spied on or having your data exploited.
+
+100
+00:06:14,300 --> 00:06:19,060
+Discuss anything with Venice without concern about it being monitored, sold, or given to advertisers and governments.
+
+101
+00:06:19,540 --> 00:06:23,280
+Venice is different because your conversations and creations are kept securely within the browser,
+
+102
+00:06:23,480 --> 00:06:25,100
+never stored or accessible by Venice.
+
+103
+00:06:25,100 --> 00:06:26,100
+Venice is a private, uncensored generative AI app.
+
+104
+00:06:26,100 --> 00:06:27,100
+Venice is a private, uncensored generative AI app.
+
+105
+00:06:27,100 --> 00:06:28,480
+Venice won't tell you what's okay to say or not.
+
+106
+00:06:28,680 --> 00:06:29,760
+Venice won't patronize you.
+
+107
+00:06:30,060 --> 00:06:32,260
+It simply provides direct access to machine intelligence.
+
+108
+00:06:32,480 --> 00:06:33,580
+No topics are off-limits.
+
+109
+00:06:33,820 --> 00:06:35,000
+No ideas are taboo.
+
+110
+00:06:35,540 --> 00:06:38,700
+With Venice, you're in control of the AI, as you should be.
+
+111
+00:06:39,360 --> 00:06:43,060
+Pro subscriptions are available for $49 a year or $8 per month.
+
+112
+00:06:43,400 --> 00:06:46,320
+AI Daily Brief listeners receive a 20% discount on Venice Pro.
+
+113
+00:06:46,580 --> 00:06:50,900
+Visit venice.ai.nlw and enter the discount code nlwdailybrief.
+
+114
+00:06:50,900 --> 00:06:53,940
+That's NLW Daily Brief, all one word.
+
+115
+00:06:55,440 --> 00:07:03,340
+Today's episode is brought to you by Superintelligent, which is, of course, our platform that helps you learn how to use AI tools
+
+116
+00:07:03,340 --> 00:07:11,900
+and, perhaps even more importantly, gives you ideas on the best use cases that are actually going to help you achieve whatever it is you want to achieve.
+
+117
+00:07:12,040 --> 00:07:17,300
+To recognize the end of summer and back to school slash back to work, we are running our best promotion ever.
+
+118
+00:07:17,300 --> 00:07:23,480
+When you sign up for Superintelligent, using code SOBAC, your first month will be 100% free.
+
+119
+00:07:23,860 --> 00:07:33,520
+The platform features over 600 fun, highly practical AI tutorials that get you using AI fast and with an eye to actually transforming how you get things done.
+
+120
+00:07:34,000 --> 00:07:41,240
+We've just launched Super for Teams, so if you have a group of people at your company that want to figure out how to use AI together, I highly suggest you check it out.
+
+121
+00:07:41,240 --> 00:07:52,060
+But for those of you who are using Superintelligent as an individual, once again, if you sign up for Superintelligent between now and the end of the month using code SOBAC, you will get your first month 100% free.
+
+122
+00:07:52,400 --> 00:07:55,340
+Go to besuper.ai and check it out today.
+
+123
+00:07:55,800 --> 00:08:00,720
+As people tried to figure out, though, if there was maybe some different or bigger catalyst going on here,
+
+124
+00:08:01,280 --> 00:08:07,800
+Reuters broke some new details about the reports that we had been getting that OpenAI was in the process of converting itself from a nonprofit to a for-profit.
+
+125
+00:08:07,800 --> 00:08:14,420
+The biggest new detail seemed to be that in the arrangement that was being hashed out, Altman would get 7.5% equity in the company.
+
+126
+00:08:15,060 --> 00:08:21,700
+At the reported $150 billion valuation that the company is raising at right now, that would be more than $10 billion directly to Sam.
+
+127
+00:08:22,160 --> 00:08:24,220
+This was not well-received by many.
+
+128
+00:08:24,760 --> 00:08:26,540
+Solopreneur Guru Levels.io writes,
+
+129
+00:08:26,940 --> 00:08:33,000
+Sam Altman will give himself 7% of OpenAI, which at its current valuation of $150 billion would be $10.5 billion in shares.
+
+130
+00:08:33,580 --> 00:08:37,600
+Levels, like so many, pointed to past comments of Sam saying that he wasn't doing this for the money.
+
+131
+00:08:37,800 --> 00:08:38,420
+And concluded,
+
+132
+00:08:38,800 --> 00:08:41,200
+I'm a capitalist, and I love people getting rich off their businesses.
+
+133
+00:08:41,740 --> 00:08:44,640
+What I personally don't like is the stagy way Sam is doing all of this.
+
+134
+00:08:45,100 --> 00:08:46,580
+You never know if he's telling the truth or not.
+
+135
+00:08:46,900 --> 00:08:48,740
+It's fine to get rich, just say you want to get rich.
+
+136
+00:08:48,840 --> 00:08:49,700
+You're changing the world.
+
+137
+00:08:49,800 --> 00:08:51,340
+You should get rewarded, but don't lie.
+
+138
+00:08:52,120 --> 00:08:56,440
+Then, of course, there was Elon screaming about the illegality of converting a nonprofit into a for-profit.
+
+139
+00:08:56,940 --> 00:09:01,920
+Although he was community noted on his own platform, with people explaining by what process this actually would be legal.
+
+140
+00:09:01,920 --> 00:09:05,060
+So, what all is going on here?
+
+141
+00:09:05,680 --> 00:09:10,620
+Is this, on the one hand, a protest around this nonprofit to for-profit conversion?
+
+142
+00:09:10,920 --> 00:09:13,020
+Or is it something altogether more human?
+
+143
+00:09:13,540 --> 00:09:17,140
+I will caveat this by saying I have no unique insider information.
+
+144
+00:09:17,760 --> 00:09:19,740
+I haven't talked to anyone at OpenAI about this.
+
+145
+00:09:19,740 --> 00:09:23,160
+But it seems to me there is another scenario that people aren't accounting for.
+
+146
+00:09:23,600 --> 00:09:27,740
+Which is that in a world where they have made absolute, utter gobs of money,
+
+147
+00:09:28,220 --> 00:09:32,160
+the challenge of being inside one of the most demanding companies in the world just isn't worth it anymore.
+
+148
+00:09:32,620 --> 00:09:33,760
+So, what do I mean by that?
+
+149
+00:09:34,180 --> 00:09:35,620
+At least in the case of Mira and Bob,
+
+150
+00:09:36,100 --> 00:09:38,600
+these are folks who have been with OpenAI between six and eight years.
+
+151
+00:09:39,100 --> 00:09:42,480
+In that time, they've seen their net worth go from zero to nine figures.
+
+152
+00:09:42,480 --> 00:09:46,500
+I have no idea what the equity compensation structure is like inside OpenAI.
+
+153
+00:09:46,900 --> 00:09:48,300
+But just for the sake of this conversation,
+
+154
+00:09:48,760 --> 00:09:52,920
+let's posit that Mira had one quarter of one percent of the company in equity.
+
+155
+00:09:53,300 --> 00:09:56,020
+And that given that it's been six and a half years, she's vested all of that.
+
+156
+00:09:56,360 --> 00:09:59,680
+At the reported $150 billion valuation that they're raising at,
+
+157
+00:10:00,040 --> 00:10:02,000
+that's $375 million.
+
+158
+00:10:02,920 --> 00:10:04,800
+Now, pair that, on the one hand,
+
+159
+00:10:05,180 --> 00:10:08,960
+with the extraordinary challenge of working at OpenAI.
+
+160
+00:10:09,560 --> 00:10:11,200
+Not only is any startup hard,
+
+161
+00:10:11,200 --> 00:10:12,940
+a rocket ship startup is even harder.
+
+162
+00:10:13,400 --> 00:10:15,340
+And this is the fastest growing rocket ship in history.
+
+163
+00:10:15,860 --> 00:10:18,560
+It's redefining consumer and enterprise at the same time.
+
+164
+00:10:18,980 --> 00:10:21,500
+It is ushering in an entirely new era of computing.
+
+165
+00:10:21,880 --> 00:10:24,620
+It is in the public eye like basically no company before it.
+
+166
+00:10:24,880 --> 00:10:26,820
+Because there is a large community of people
+
+167
+00:10:26,820 --> 00:10:29,420
+who say that if they get their business wrong, the world ends.
+
+168
+00:10:29,980 --> 00:10:32,360
+The point of all of this is that this is not an easy job.
+
+169
+00:10:32,740 --> 00:10:35,200
+And at some point, if you've already made that much money,
+
+170
+00:10:35,260 --> 00:10:36,380
+you just get tired.
+
+171
+00:10:37,080 --> 00:10:38,980
+Former OpenAI, now Google product lead,
+
+172
+00:10:38,980 --> 00:10:41,380
+Logan Kilpatrick, added weight to this saying,
+
+173
+00:10:41,700 --> 00:10:42,960
+Muir deserves to take a break.
+
+174
+00:10:43,280 --> 00:10:45,520
+She's been sprinting at OpenAI for five plus years.
+
+175
+00:10:46,060 --> 00:10:47,600
+Everything doesn't need to be a controversy.
+
+176
+00:10:48,480 --> 00:10:49,080
+Janin writes,
+
+177
+00:10:49,320 --> 00:10:52,060
+My very boring take is that OpenAI leadership is mostly leaving
+
+178
+00:10:52,060 --> 00:10:54,280
+because they've spent a lot of time at the hottest company in the world
+
+179
+00:10:54,280 --> 00:10:55,780
+and now can raise incredible amounts of money
+
+180
+00:10:55,780 --> 00:10:57,040
+to do anything in the world they want
+
+181
+00:10:57,040 --> 00:10:59,220
+or get paid a lot to have a much easier job.
+
+182
+00:10:59,220 --> 00:11:02,580
+And in terms of whether this was likely to impact investors
+
+183
+00:11:02,580 --> 00:11:03,920
+and their ability to raise,
+
+184
+00:11:04,320 --> 00:11:06,980
+some people basically said that this was definitely a protest
+
+185
+00:11:06,980 --> 00:11:08,960
+because it would potentially scuttle that deal.
+
+186
+00:11:09,380 --> 00:11:12,200
+My base case is that absolutely no way that would not happen.
+
+187
+00:11:12,660 --> 00:11:14,160
+I think the simple fact of the matter is,
+
+188
+00:11:14,460 --> 00:11:16,560
+if you are a foundation model investor right now,
+
+189
+00:11:17,060 --> 00:11:20,920
+your bet is that the upside opportunity of AGI is so valuable
+
+190
+00:11:20,920 --> 00:11:24,480
+that your only job is to acquire as much of any of the credible competitors
+
+191
+00:11:24,480 --> 00:11:26,560
+to get there as is humanly possible.
+
+192
+00:11:26,560 --> 00:11:30,080
+And you basically have to pay whatever the market says you have to pay at this point.
+
+193
+00:11:30,500 --> 00:11:32,820
+In the case of OpenAI, that is apparently $150 billion.
+
+194
+00:11:33,540 --> 00:11:35,680
+You just really don't have very many more options.
+
+195
+00:11:36,260 --> 00:11:39,060
+The credible competitors in this space can be fit on one hand.
+
+196
+00:11:39,720 --> 00:11:41,220
+The information seems to validate that,
+
+197
+00:11:41,480 --> 00:11:41,700
+writing,
+
+198
+00:11:41,820 --> 00:11:43,860
+OpenAI's investors are hanging on for the ride.
+
+199
+00:11:44,320 --> 00:11:46,340
+In fact, the information was able to dig up more information
+
+200
+00:11:46,340 --> 00:11:48,200
+about a number of the firms that were also participating.
+
+201
+00:11:48,820 --> 00:11:50,960
+Now, when it comes to the whole SAM equity debate,
+
+202
+00:11:51,260 --> 00:11:53,140
+that's not the part of this that I want to get into now.
+
+203
+00:11:53,140 --> 00:11:56,520
+My only take here is that it seems now in retrospect very clear
+
+204
+00:11:56,520 --> 00:11:59,380
+that they never should have structured it without him having some stake.
+
+205
+00:11:59,780 --> 00:12:02,540
+He could have easily shown how much money was in his intention
+
+206
+00:12:02,540 --> 00:12:05,140
+by taking a smaller portion than a CEO normally would.
+
+207
+00:12:05,560 --> 00:12:06,900
+But he basically set himself up,
+
+208
+00:12:06,980 --> 00:12:08,260
+and OpenAI set themselves up,
+
+209
+00:12:08,340 --> 00:12:11,660
+to make an inevitable shift here look like some Machiavellian maneuver,
+
+210
+00:12:12,220 --> 00:12:13,040
+even if it wasn't.
+
+211
+00:12:13,680 --> 00:12:15,100
+Now, going back to SAM's note,
+
+212
+00:12:15,480 --> 00:12:16,460
+a couple last things.
+
+213
+00:12:17,000 --> 00:12:19,620
+First of all, SAM does seem to give credence to the idea
+
+214
+00:12:19,620 --> 00:12:21,940
+that part of this might just be simple human exhaustion.
+
+215
+00:12:22,400 --> 00:12:23,020
+He writes,
+
+216
+00:12:23,020 --> 00:12:40,280
+He also even repeated an explanation of why Mira didn't give him more notice.
+
+217
+00:12:40,280 --> 00:12:41,200
+He said,
+
+218
+00:12:41,200 --> 00:12:43,500
+Leadership changes are a natural part of companies,
+
+219
+00:12:43,600 --> 00:12:45,940
+especially companies that grow so quickly and are so demanding.
+
+220
+00:12:46,400 --> 00:12:48,760
+I obviously won't pretend it's natural for this one to be so abrupt,
+
+221
+00:12:48,880 --> 00:12:50,020
+but we are not a normal company.
+
+222
+00:12:50,420 --> 00:12:52,060
+And I think the reasons Mira explained to me,
+
+223
+00:12:52,200 --> 00:12:53,260
+there is never a good time,
+
+224
+00:12:53,400 --> 00:12:54,540
+anything not abrupt would have leaked,
+
+225
+00:12:54,660 --> 00:12:57,280
+and she wanted to do this while OpenAI was in an upswing makes sense.
+
+226
+00:12:57,900 --> 00:12:59,220
+Now, you might reject those reasons,
+
+227
+00:12:59,460 --> 00:13:01,060
+but they at least strike me as plausible.
+
+228
+00:13:01,900 --> 00:13:03,340
+Ultimately, here's where I am with this.
+
+229
+00:13:03,560 --> 00:13:05,460
+I think OpenAI is one of,
+
+230
+00:13:05,520 --> 00:13:07,320
+if not the most significant company in the world.
+
+231
+00:13:07,320 --> 00:13:12,000
+The implications of what they are building go way beyond them or even their users.
+
+232
+00:13:12,620 --> 00:13:17,000
+And so I like that there is an incredible amount of scrutiny and skepticism around them.
+
+233
+00:13:17,760 --> 00:13:19,340
+Frustrating though it may be for their leadership,
+
+234
+00:13:19,680 --> 00:13:21,480
+I think it is part of the cost of doing business,
+
+235
+00:13:21,660 --> 00:13:24,700
+and I think it is good that we push and try to understand
+
+236
+00:13:24,700 --> 00:13:26,400
+and don't take anything at face value.
+
+237
+00:13:26,880 --> 00:13:27,900
+At the same time,
+
+238
+00:13:28,180 --> 00:13:30,660
+my general operating mode is that the Occam's razor answer
+
+239
+00:13:30,660 --> 00:13:32,940
+for why a thing is as it is is the right one.
+
+240
+00:13:32,940 --> 00:13:35,000
+And so it strikes me at least as plausible
+
+241
+00:13:35,000 --> 00:13:37,320
+that this is less about some big protest
+
+242
+00:13:37,320 --> 00:13:39,420
+or some major controversy inside the company,
+
+243
+00:13:39,960 --> 00:13:41,480
+and more the fact that it's really hard
+
+244
+00:13:41,480 --> 00:13:42,820
+and they got really rich.
+
+245
+00:13:43,380 --> 00:13:45,680
+But I'm sure that over time we will find more,
+
+246
+00:13:45,960 --> 00:13:47,780
+and I encourage all of you, of course, to keep digging.
+
+247
+00:13:48,440 --> 00:13:50,500
+For now though, that is going to do it for today's AI Daily Brief.
+
+248
+00:13:50,880 --> 00:13:52,300
+Until next time, peace.
+
+249
+00:13:52,300 --> 00:13:53,300
+Peace.
+
+250
+00:13:53,300 --> 00:13:53,300
+
+
+251
+00:13:53,300 --> 00:13:53,300
+
+
+252
+00:13:53,300 --> 00:13:53,300
+
+
+253
+00:13:53,300 --> 00:13:53,300
+
+
+254
+00:13:53,300 --> 00:13:53,300
+
+
+255
+00:13:53,300 --> 00:13:53,300
+
+
+256
+00:13:53,300 --> 00:13:53,300
+
+
+257
+00:13:53,300 --> 00:13:53,300
+
+
+258
+00:13:53,300 --> 00:13:53,300
+
+
+259
+00:13:53,300 --> 00:13:53,300
+
+
+260
+00:13:53,300 --> 00:13:53,300
+
+
+261
+00:13:53,300 --> 00:13:53,300
+
+
+262
+00:13:53,300 --> 00:13:53,300
+
+
+263
+00:13:53,300 --> 00:13:53,300
+
+
+264
+00:13:53,300 --> 00:13:53,300
+
+
+265
+00:13:53,300 --> 00:13:53,300
+
+
+266
+00:13:53,300 --> 00:13:53,300
+
+
+267
+00:13:53,300 --> 00:13:53,300
+
+
+268
+00:13:53,300 --> 00:13:53,300
+
+
+269
+00:13:53,300 --> 00:13:53,300
+
+
+270
+00:13:53,300 --> 00:13:53,300
+
+
+271
+00:13:53,300 --> 00:13:53,300
+
+
+272
+00:13:53,300 --> 00:13:53,300
+
+
+273
+00:13:53,300 --> 00:13:53,300
+
+
+274
+00:13:53,300 --> 00:13:53,300
+
+
+275
+00:13:53,300 --> 00:13:53,300
+
+
+276
+00:13:53,300 --> 00:13:53,300
+
+
+277
+00:13:53,300 --> 00:13:53,300
+
+
+278
+00:13:53,300 --> 00:13:53,300
+
+
+279
+00:13:53,300 --> 00:13:53,300
+
+
+280
+00:13:53,300 --> 00:13:53,300
+
+
+281
+00:13:53,300 --> 00:13:53,300
+
+
+282
+00:13:53,300 --> 00:13:53,300
+
+
+283
+00:13:53,300 --> 00:13:53,300
+
+
+284
+00:13:53,300 --> 00:13:53,300
+
+
+285
+00:13:53,300 --> 00:13:53,300
+
+
+286
+00:13:53,300 --> 00:13:53,300
+
+
+287
+00:13:53,300 --> 00:13:53,300
+
+
+288
+00:13:53,300 --> 00:13:53,300
+
+
+289
+00:13:53,300 --> 00:13:53,300
+
+
+290
+00:13:53,300 --> 00:13:53,300
+
+
+291
+00:13:53,300 --> 00:13:53,300
+
+
+292
+00:13:53,300 --> 00:13:53,300
+
+
+293
+00:13:53,300 --> 00:13:54,300
+!
+
+294
+00:13:54,300 --> 00:13:53,300
+!
+
+295
+00:13:53,300 --> 00:13:53,300
+
+
+296
+00:13:53,300 --> 00:13:54,300
+!
+
+297
+00:13:54,300 --> 00:13:54,300
+
+
+298
+00:13:54,300 --> 00:13:55,300
+!
+
+299
+00:13:55,300 --> 00:13:55,300
+
+
+300
+00:13:55,300 --> 00:13:55,300
+
+
+301
+00:13:55,300 --> 00:13:55,300
+
+
+302
+00:13:55,300 --> 00:13:55,300
+
+
+303
+00:13:55,300 --> 00:13:55,300
+
+
+304
+00:13:55,300 --> 00:13:57,300
+!
+
+305
+00:13:57,300 --> 00:13:57,300
+
+

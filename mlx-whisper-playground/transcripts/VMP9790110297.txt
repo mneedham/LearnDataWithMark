@@ -1,0 +1,1496 @@
+How do custom orders work on Kraken?
+Imagine I'm a music producer, dialing in my newest track.
+Need more bass? Crank it!
+Vocals not popping? Double it up!
+Want a bigger sound? Hit that reverb. Hard.
+That's custom orders on Kraken.
+Complete control over your crypto trades.
+Go to kraken.com and see what crypto can be.
+Don't invest unless you're prepared to lose all the money you invest.
+This is a high-risk investment, and you should not expect to be protected if something goes wrong.
+Hey, everybody. I'm Ashley C. Ford, and I'm the host of Into the Mix,
+a Ben & Jerry's podcast about joy and justice, produced with Vox Creative.
+And in our new miniseries, we're talking about voter fraud.
+For years now, former President Donald Trump has made it a key talking point,
+despite there being no evidence of widespread fraud.
+But what impact do claims like these have on ordinary voters?
+People like Olivia Coley Pearson, a civil servant in Douglas, Georgia,
+who was arrested for voter fraud because she showed a first-time voter how the voting machines worked.
+Hear how she fought back on the latest episode of Into the Mix.
+Subscribe now, wherever you listen.
+Today's number, $762,000.
+That's how much Republican PACs have spent at the Capitol Grill Steakhouse this election cycle.
+Ed, how do you bring a Republican to his knees?
+You paint your dick orange.
+Hello, Ed. How are you?
+I'm good. I'm more excited by that number than I am by the joke.
+$750,000 to the Capitol Grill is one of the greatest statistics we've had on this podcast so far.
+Yeah, but it's nothing compared to the amount of revenue that Grindr recognized in Milwaukee the weekend at the convention.
+That's a good point. I'm sure they're correlated. I'm sure they both had spikes at the same time.
+So the most interesting thing about that stat, Ed, is that that is 13 times the amount of money that the Democrats spent. It's crazy, no?
+It's unbelievable. What do you think is the Capitol Grill equivalent for the Democrats?
+Epstein's Island.
+That was good. That was good.
+That is good. Do you like the Capitol Grill? What's your favorite restaurant these days?
+I'm sort of a creature of habit. My favorite restaurant in London is Granger & Co.
+I started going there when I spent a summer here and it's in Marlebone.
+My favorite restaurant, period, is In-N-Out Burger, but in New York, my new favorite is Sartiano's.
+Because I know Scott Sartiano and I like him and it's cool and I see celebs there and I kind of feel like I'm like, oh, hi.
+And they treat me nice because I know Scott and I feel big time there.
+What's your favorite restaurant? What do young, cool people eat?
+Isodi in the West Village is pretty great. Pretty good pasta.
+I haven't been to Sartiano's. I'd like to try it out.
+Granger is great. And the ricotta pancakes are sort of a staple there. Have you tried those?
+Yeah, of course. Although I had all this blood work done and I'm used to walking into the room like I just want, like I'm Simone Biles and I've just stuck the landing whenever I have blood work done.
+And she's like, well, this is a bit of an issue. We need to talk about this. I'm like, huh? What? Wait, no, I'm me. I'm like crazy healthy. I'm getting old, Ed.
+And I kept asking her to take my blood pressure until it was fine. I'm like, no, take it again. Take it again.
+And why are we talking about this? Do you think your diet has something to do with this? Why are we on blood work now?
+I have no idea. I got here. I had maybe that's part of the problem. So I've spent the last two mornings for two to three hours getting NADs. Do you know what these are?
+They supposedly it's basically biohacking. I'm convinced it's biohacking for rich people. Rich people, I think they can live longer than other people.
+So they do all this stupid shit. And I think I've fallen into this trap. So it's these it stands for some nuclear atomic diaclide or something.
+And supposedly it activates cell growth. And I don't know. You're not going to recognize me on next week's pod.
+I'm just going to be. You're going to be ripped. I don't even need to be ripped anymore. I just want to be this adorable little Jewish. I want to look like Barbra Streisand and Yentl.
+I just want to look young and feminine. Wait, is this my way of coming out?
+You want to look like Timothee Chalamet, I think is what you're describing.
+I don't know if it's his NADs, but my brain is just firing in a billion different directions right now.
+OK, well, let's let's take all this energy and point it towards the markets now.
+Let's do it.
+And start with our weekly review of Market Vitals.
+The S&P 500 declined. The dollar rose. Bitcoin fell. And the yield on 10-year treasuries increased.
+Shifting to the headlines. Tesla's quarterly deliveries rose for the first time this year, up more than 6% from a year earlier.
+However, that metric still came in below analyst expectations and the stock fell 3% on the news.
+CVS is considering breaking up its pharmacy and insurance businesses as it looks to improve operations.
+The company is also pursuing cost-cutting initiatives, including cutting nearly 3,000 jobs.
+And finally, venture capital firm CRV is returning more than half of the money from its $500 million select fund to investors.
+The firm decided to cut the select fund, which invested in mature startups, after consistently seeing valuations that were too high to get a decent return.
+Scott, your thoughts, starting with Tesla's quarterly delivery update.
+The biggest trend, I think, in auto is that while everyone wanted to follow Musk because he's got a three-quarter of a trillion dollar market cap and it was all about EVs, it ends up that may have been wrong.
+And Ford and General Motors went all in.
+And Toyota, which in my view is the best-managed automobile company in the world, said, no, we're not going to go after the NFT of EVs.
+And they made a big bet on hybrids.
+And the consumer is actually moving towards hybrids.
+And hybrids basically offer a lot of the upside of electric.
+It's more efficient, less carbon or less shit into the air, and it doesn't rely on the grid.
+So you have more range, less insecurity about being caught somewhere without a charging station.
+They're actually less expensive.
+And Toyota is kind of killing it right now.
+And despite the fact that Toyota is killing it and growing faster than Tesla, really well positioned and made a huge investment on the right horse, and that is hybrids as opposed to EVs.
+It trades at 0.8 times revenues, whereas Tesla trades at 8 to 9 times revenues.
+So one of these things is either vastly overvalued or one of them is vastly undervalued.
+But we're so obsessed with Tesla because of the individual at the head of that company that we don't talk about general trends in the industry.
+And I think it's all about hybrids.
+Yeah, it is interesting how the EV used to be sort of the sexiest two letters in the auto industry.
+And it's kind of just so ubiquitous now.
+It doesn't have that level of hype and sex appeal that it used to.
+And so Tesla has to rely on different hype stories now.
+And I think that's why I believe that these quarterly delivery updates are becoming less and less important.
+You know, essentially the story is they pretty much met expectations.
+They remain just ahead of BYD in terms of overall EV deliveries.
+The overall message, and we'll get a fuller picture of earnings in a couple of weeks, but the overall message is, you know, things are going fine-ish for Tesla.
+But more importantly for Tesla, this Thursday is their big robotaxi event.
+And I think that's more important than the numbers because, as we've talked about with Tesla before, the valuation is all about the narrative.
+This is the big moment where people will ask the question, is the robotaxi actually legit?
+My prediction is that that robotaxi event will be a giant letdown.
+Two tells, for me, why that's going to happen.
+One is the narrative leading up to it.
+Elon has a habit of overpromising and under-delivering.
+But he isn't even overpromising about this event.
+He's barely talking about it.
+He's spending most of his time shitposting about politics, which makes me think that he believes that this robotaxi is going to underwhelm.
+And the second tell for me is the location of the event.
+They're doing it at the Warner Brothers studio in Burbank, which to me says, this is going to be a cinematic event.
+This isn't actually going to be a sort of technological showcase.
+This is just going to be a big production, sexy commercial about what the robotaxi could look like, as opposed to a tangible demonstration of what it actually looks like right now.
+So my prediction would be that this robotaxi event that's happening end of this week will be highly underwhelming.
+And I think the stock is going to suffer as all of the hype and the excitement around Tesla continues to deflate.
+Your thoughts on CVS evaluating spinning out their insurance and their healthcare businesses separate from their consumer business?
+There's a lot here.
+Essentially, they're deconglomerating.
+They saw Amazon coming and they felt like they needed to bulk up and take advantage of the user interface or the customer interface they had and thought, we can upsell you upstream to insurance.
+We can upsell you or downsell you downstream to one-minute clinics.
+I've actually used those clinics a couple of times for vaccines.
+And I thought they were really, really good.
+But what happens with a conglomerate is you end up paying a conglomerate tax.
+And that is when the New York Times CEO thinks, you know, newspapers are a shitty business.
+I don't want to just answer for one company.
+I want to diversify.
+So they go and buy a bunch of other newspapers and then buy the building, their headquarters.
+At one point, the New York Times building was worth more than the entire company.
+So it had become a REIT accidentally.
+They own 70% of the Boston Red Sox.
+Makes no fucking sense.
+I remember when I asked the CEO, I don't know if you know this or not,
+but I was on the board of the New York Times that.
+I need a bell.
+Where's my bell?
+In the boarding, they said, Scott Galloway, director.
+What do you think?
+We were talking about capital strategy.
+And I'm like, why do we own the Boston Red Sox?
+And Janet Robinson, the CEO of the Times said,
+because we get special insight into Boston athletics.
+I'm like, oh, yeah.
+I know about this story, but that's a very interesting detail I have not heard before.
+Well, it's called bullshit.
+She was trying to justify an asset they own for no real reason.
+And I'm like, oh, yeah, we're known for our coverage of the Celtics.
+But it made no sense.
+But what happens is CEOs love to get – their incentive is to get bigger.
+Now, why do they want to get bigger?
+Because their compensation is based on the following.
+Directors don't like to do any work.
+The compensation committee hires a firm called Towers Perrin to come in
+and look at compensation.
+They say, okay, Janet Robinson, the CEO of the New York Times,
+it's a media company that is doing $5 billion in revenue.
+That's the thing.
+What kind of sector it's in, the size of the company.
+And then they say the average person running a $5 billion media company
+gets this much in compensation and this much in stock options.
+So the incentive of the CEO is to diversify such that their life is just less anxious, right?
+If one brand isn't doing well, the other is usually doing a bit better.
+It kind of smooths out the earnings.
+And two, the bigger the company, you typically, the higher the compensation.
+So there are a lot of incentives to try and have a game-changing acquisition.
+And two-thirds of acquisitions do not work.
+People overpay for them because they get excited.
+They don't realize this business is hard.
+Integration problems.
+You have to pay a premium to take out the other shareholders.
+So they very rarely work.
+When they work, they can work hugely.
+Meta is probably the best acquirer in history.
+Instagram, which they purchased for a billion, is probably worth a couple hundred billion.
+But the vast majority of the time, they're not.
+Now, on the flip side, what almost always works is the disposition of assets or spends.
+Because in a conglomerate where investors think, you know, I don't need you to diversify for me.
+I can go buy an insurance company all on my own.
+So I don't like this kind of milquetoast, amorphous Frankenstein of a company.
+So they end up, typically the market says, let's find the shittiest business
+and assign that multiple to the entire thing.
+You end up with this company that, despite perhaps having good assets,
+trades at the multiple of a shitty retailer in decline.
+So this insurance company that they own would probably trade at a much higher multiple for
+an independent company.
+So the disposition of assets becomes accretive to shareholders.
+Spins almost always work.
+So I think this is a good idea.
+Our final headline is CRV returning their money to investors, something you basically never
+see venture capitalists doing.
+What is your read on this?
+Why have they done this?
+And what does it say about the VC industry right now?
+All of the returns are kind of aggregating to a small number of funds that are essentially
+getting the best deal flow.
+And they're looking for companies that they can put hundreds of millions or billions into
+because they've raised so much capital.
+And I think what you're seeing is this enormous shakeout in the VC community where you're either
+one of these mega funds that before the returns on fund nine come in, you're already raising fund 10.
+And because you get amazing deal flow, your institutional investors get good money or really
+niche focused VC firms that bring a very specific knowledge like Lux Capital, Josh Wolf's company,
+that's kind of this deep, serious, forward-looking technologies like brain scans, brain implants,
+or nuclear power, whatever it is.
+But just a smaller, medium-sized VC that's trying to invest in tech, you're kind of fucked.
+You have no advantage.
+You don't have the capital.
+You're not getting good deal flow.
+And so I think there's just going to be, I mean, there already is kind of a pretty serious shakeout.
+And I think these guys have probably said, we can't find good deals.
+And the few deals we find are just so expensive.
+The market has taken startups.
+I mean, it's sort of tempting right after I sold L2, I immediately went to, well, I'm going
+to go raise, start another company.
+Because the amount of money you can raise at a valuation, it really has gotten kind of
+bad shit crazy.
+But at that point, my attitude was as a quote unquote proven entrepreneur, there was maybe
+two or three investors I would raise money for or I just wasn't going to raise.
+And so to be a tier two here, it is really, really tough.
+And as a whole, I just think it's a shitty asset class.
+More specific to this CRV headline, it's really all about late stage VC.
+They're still operating an early stage fund, which, you know, they didn't return the money
+there.
+I assume it's doing okay slash fine.
+But their concern is late stage VC.
+And just some statistics here.
+Last year, late stage deal volume fell 53%.
+And late stage funding, the amount of actual capital going into these late stage companies
+fell 60%.
+And in addition, we're seeing this giant drop off in IPO activity.
+We've only had 150 new listings in the US this year.
+You compare that to 2021, where we had more than a thousand new IPOs.
+And so the general theme that we're seeing within VC is that we're seeing far fewer Series D
+rounds, far fewer Series E rounds, far fewer companies are sort of breaching the surface
+of growth stage and, you know, picking up steam and entering into the public capital markets.
+My question to you would be, why is that happening?
+I would speculate that that's a function of the fact that the IPO market has yet to emerge
+from the sort of deep freeze it's been in for the last several years.
+It's typically late stage investment is, all right, we need to short the balance sheet,
+maybe make a few tuck in acquisitions, but we're basically getting cleaned up for an IPO.
+And it's sort of right now the worst of both worlds.
+And that is, it's expensive because these companies still have a, you know, the market is still
+fairly hot for companies in the right sector.
+But the IPO market is all but shut to just a few players.
+So it's sort of like, okay, I'm paying a lot, hoping to get into liquidity in a market where
+fewer companies are getting, are getting out.
+It feels like deal flow is very downstream.
+And what I mean by that, we're seeing far fewer IPOs recently.
+And now we're seeing that also late stage deal flow is falling off a cliff and funding.
+And I wonder if that means that this is going to continue to trickle down into early stage
+startups.
+And I wonder if the general theme is that we're seeing the ramifications of a world where simply
+fewer successful companies are being created in general.
+And, you know, we're just beginning to see the after effects of that.
+We're seeing the impacts where the market is becoming more and more dominated by these
+mega, mega giant companies, the Magnificent Seven, Big Tech, the companies that we constantly
+talk about on this podcast.
+And in the meanwhile, actual successful company formation has been slowly dying.
+And we're beginning to see the ramifications of that in the public markets and then in late
+stage.
+And I wonder if that will continue to the point where suddenly maybe venture as an industry
+is not a thing anymore.
+Well, you just made the argument for Chair Khan.
+That's her whole rap is that effectively what we have here is an ecosystem that says find
+the monopoly or find the future monopoly.
+And then once that company starts, a company starts to show market leadership in a hot sector,
+you just try and out-raise everybody and just literally sweep the competition off the deck
+with brute force with more and more capital.
+And it just it's not a very healthy ecosystem.
+What you have is a small number of apex predators where they introduce a reticulated anaconda to
+an ecosystem.
+And there's just no other species that can fight back.
+So what you're saying is accurate.
+And for me, it all kind of forward engineers to the fact that we just need dramatically more
+antitrust.
+Yeah, I think the other alternative for VCs is you either try to get a 10, 20, 30x return on the
+company that you bet on that becomes a monopoly, or you're going for a one and a half to 2x return
+where the company will be acqui-hired by a big tech company.
+I can just speak from experience.
+General Catalyst invested in my company, L2.
+27 months later, they got three times their money back and they were disappointed.
+Their attitude is you're either 10x or you're zero.
+Which means so many VCs are going to get crushed now because there are fewer and fewer winners.
+A hundred percent.
+That's why I'm really not cut out for venture capital.
+And I probably should never raise money from venture capitalists again.
+Plus, at the age of 50, I probably shouldn't.
+And that is my skill has been taking a company from A to D or E and selling it for a really good
+valuation.
+I build companies.
+I built my first company.
+I started a strategy firm and sold it for $33 million when it was doing 10 million in revenue
+when I was, I don't know, 33 or 34.
+And then L2 built it, got it to 20 million in revenue, sold it for 160 million.
+That's what I'm good at.
+My investors were sort of nonplussed by that.
+I mean, they were happy.
+They made money.
+They were willing to invest with me again.
+But in the venture business, they're like, go, baby, go.
+Swing for the fucking fence.
+And if you herniate a disc, okay, that's fine.
+But we're not here for singles and doubles, folks.
+The difference, the reason why I like working with private equity is you're in companies
+and the private equity guys say, all right, we're going to give management 8% of the company.
+We're all on the same page.
+We're going to try and be in this thing three to seven years and then sell for two to three
+X what we invested.
+I find that's much healthier than a bunch of young guys from Stanford saying, 50X, baby,
+50X.
+It's just sort of, okay.
+Wish me luck.
+I'm going to try real hard.
+Yeah, exactly.
+We'll be right back after the break with a look at a new AI IPO.
+If you're enjoying the show, hit follow and leave us a review on ProfG Markets.
+We'll be right back.
+Don't invest unless you're prepared to lose all the money you invest.
+This is a high risk investment and you should not expect to be protected if something goes wrong.
+Support for the show comes from Oracle.
+AI might be the most important new computer technology ever.
+It's storming every industry and literally billions of dollars are being invested.
+So buckle up.
+The problem is that AI needs a lot of speed and processing power.
+So how do you compete without costs spiraling out of control?
+It's time to upgrade to the next generation of the cloud.
+Oracle Cloud Infrastructure or OCI.
+OCI is a single platform for your infrastructure, database, application development and AI needs.
+OCI has four to eight times the bandwidth of other clouds,
+offers one consistent price instead of variable regional pricing.
+And of course, nobody does data better than Oracle.
+So now you can train your AI models at twice the speed and less than half the cost of other clouds.
+If you want to do more and spend less, like Uber, 8x8 and Databricks Mosaic,
+take a free test drive of OCI at oracle.com slash fox.
+That's oracle.com slash fox.
+Oracle.com slash fox.
+Hey there, I'm Ashley C. Ford, and I host Into the Mix, a Ben and Jerry's podcast about joy and justice,
+produced with Vox Creative.
+As former President Donald Trump continues to claim, without evidence,
+that voter fraud is a key issue in the 2024 presidential election,
+we wanted to know,
+what impact can claims like this have on ordinary voters?
+Olivia Coley Pearson, or Miss Livy as she is known in her community,
+comes from a family of proud voters and civil rights activists.
+So as an adult, civil service came naturally to her.
+In 2012, while she was volunteering at the polls,
+a first-time voter asked Miss Livy how the voting machine worked.
+And of course, she showed them.
+Years later, in 2016, Miss Livy was arrested for voter fraud because of it.
+In her mind, this arrest wasn't about voter fraud.
+It was about intimidating Black voters.
+Listen to her story on the first episode of our new three-part series on Into the Mix.
+Out now.
+We're back with Prof G Markets.
+California-based chipmaker Cerebris Systems filed for an IPO that could raise up to $1 billion.
+With an offering of that size, the NVIDIA Challenger could be valued at around $7 to $8 billion.
+Cerebris showed strong, albeit early-stage growth for the first six months of 2024,
+with revenue increasing more than 15-fold from a year earlier.
+The trouble is, 87% of those sales came from just one company.
+That company is G42, the top AI firm in the United Arab Emirates.
+Should the US give Cerebris any trouble with its export licenses,
+most of the company's revenue could be at risk.
+Scott, what do you make of this IPO filing from Cerebris, perhaps the new NVIDIA?
+Look, this is, never underestimate the market's ability to come up with a product when consumers
+have cash in hand.
+And you have a small number of companies that have kind of soaked up the majority of the
+capital in the retail markets.
+And that is, the SPAC market emerged because there were a lot of dentists and lawyers and
+retail investors that thought, I would really like to be part of the Pepsi generation,
+and I'm willing to buy a cool little company, even if Goldman Sachs doesn't think it's ready
+for prime time.
+And the demand was there amongst retail investors, and SPACs went out, and they were largely shitty
+companies, and a lot of retail investors lost a lot of money.
+The demand from retail, and who do you invest, if you're a retail investor that wants exposure
+to AI, where do you invest right now?
+It's basically Microsoft or NVIDIA.
+What else do you invest in?
+That's it.
+There's so much demand for an NVIDIA-like competitor, even if it's a distant, distant,
+distant number five, that there's a market for it.
+Now, the first sign is that Barclays and Citi are not tier one.
+Let me be clear, Barclays and Citi are the underwriters of this IPO.
+Yeah, they're the underwriters.
+So what that says is Morgan Stanley, JP Morgan, and Goldman Sachs said no.
+Otherwise, one of those guys would be on the cover, which isn't to say it isn't a good
+company, which isn't to say that it won't get a good reception in the marketplace, but
+that's sort of the first, I don't want to call it a red flag, but the first indicator
+here.
+The red flag that is the size of Kansas here is that 87% of its revenues come from a company
+backed by, I think, the UAE that is building its own LLM that also owns or has the opportunity
+to buy shares in the company.
+I mean, it's kind of a related party conflict, overly concentrated customer base that is the
+stuff of nightmares.
+Having said that, I would like to invest.
+Whoever, I mean, there's a couple of reasons I'd like to invest.
+I like the idea of bringing attention, sunlight, and capital to anything in this space that is
+not NVIDIA or OpenAI.
+It would be great for other competitors to emerge.
+So I would love to be supportive of this company.
+I want to follow it.
+I want to talk about it.
+I want to water as many new companies in this space as possible such that it just doesn't
+develop into the Wintel, only much more concentrated.
+The second is, I just think there's a decent chance this company gets an enormous pop because,
+oh, it's AI.
+Oh, it's a competitor to NVIDIA.
+NVIDIA.
+Sure, I'll throw some money at it.
+And it's going to go out at a $7 billion market cap.
+Say there's a one in 50 chance it becomes a quarter of NVIDIA.
+Well, that would be $750 billion.
+That would be, I mean, do the math.
+That's still an okay investment.
+So this is a lottery ticket, but it's a lottery ticket on the super, super, whatever it's called,
+the super jackpot or the Powerball that all of a sudden we woke up and it's like, it's
+$1.1 billion.
+The prize here is so enormous for anybody that establishes momentum and traction.
+So it's not the ilk.
+It's not the pedigree you'd want in a company like this right now.
+I wouldn't be surprised if the thing doubles on its first trade.
+Well, I find it interesting that they're almost borrowing marketing tactics from the fast food
+industry.
+And that is, you know, when Burger King sales start slowing, a very surefire way to stoke
+demand and interest in the company is to come out with a triple whopper or a double king XL.
+Basically just create a fun size item of the product that you're already selling.
+So having said that, I'm just going to read you some of the main details from the S1.
+The first page in gigantic font, it takes up the entire page, says, quote, bigger chips are
+faster and more efficient for AI.
+In the prospectus summary, quote, the third generation Cerebrus wafer scale engine is the
+largest chip ever sold.
+It is 57 times larger than the leading commercially available GPU.
+It has 52 times more compute cores, 880 times more on chip memory and 7000 times more memory
+bandwidth.
+The sheer size of the wafer scale chip allows us to keep more work on silicon and minimize
+the time consuming power hungry movement of data.
+In other words, the sales pitch is that size matters.
+That's basically it.
+But then again, they also say that it's 20 times faster than NVIDIA's chips.
+And to your point, you know, if it's a good marketing tactic, maybe that's all that matters.
+Maybe people read that.
+They hear how big this chip is and they think, this is great.
+We want to get involved.
+So I'm sort of find it a little bit ridiculous parts of this.
+I'm certainly concerned about that 87% number going to one company.
+But there is an argument to be made that this kind of stuff could work and coming out with
+fun-sized AI could generate the momentum they need to actually do well in the stock market.
+If they can do anything, if ends up that any of their IP, any of their niches, if defense
+contractors or pharmaceutical firms find that this monster, supersized chip works for them,
+it's going to be worth a lot more than $7 billion.
+So this is highly volatile.
+But the upside here is asymmetric.
+Yeah, it's like a mean stock play.
+Yeah.
+I could easily see this thing on any signs of life going to $30, $40, or $50 billion.
+7x versus, assume the downside is zero.
+But we should be clear, this is not at all value investing.
+This is not based on the fundamentals.
+And I do want to get your take on the fundamentals.
+So they did $136 million in the first half of this year.
+That number is up 15-fold from the previous year.
+However, as we pointed out, 87% of that revenue is coming from one company, and that is G42.
+And just I want to get your take a little bit on G42.
+So this is an AI holding company that is based in Abu Dhabi.
+They do AI everything.
+I mean, the website, it says AI research, AI cloud computing, AI data centers, AI healthcare,
+investing, et cetera, et cetera.
+And they are largely controlled by the royal family of Abu Dhabi,
+and largely funded by the UAE Sovereign Wealth Fund.
+My instinct when I see these kinds of companies
+is that this is very rich people who don't really know what they're doing.
+Another word for that is, another term for that is dumb money.
+You know, people who have more money than they even know what to do with.
+That is my instinct.
+Having said that, though, Microsoft is also a significant investor in G42.
+They have partnerships going on with OpenAI and Dell and IBM and Microsoft.
+They could be legit.
+But my question to you would be, is the fact that their biggest client,
+a Middle Eastern royalty-backed holding company,
+is that good, bad, or does it not matter?
+Okay, so there's some good and there's some bad.
+So let's talk about the bad.
+Related party transactions in 1999 and 2007,
+when I was starting my tech companies,
+what we found is that basically it was,
+if you had a software company or even brand strategy,
+my firm Profit,
+in 99 we were killing it because there were all of these startups
+who needed a brand identity and a logo and a strategy
+and a positioning and a website.
+So it was just champagne and cocaine.
+When the market collapsed in 2000,
+just all of our new clients dried up
+because all of the new guys were gone.
+They just got swept off the decks.
+And a lot of times you found that all these new software startups,
+Broadcom and all this e-commerce shit we were buying,
+they were selling to all these hundreds or thousands of e-commerce startups
+and then overnight, 60% of them were gone.
+We were kind of all selling software and shit to each other
+in the kind of the new brave world of the ecosystem.
+There are so many new AI startups that the fear is,
+okay, if there's a chill here,
+these guys get swept off the deck first.
+The scariest thing here is the concentration of one client, right?
+Now, having said that,
+you can imagine that the Gulf and the entire world looks at the amount,
+it looks at this sector and says,
+this is going to be probably the sector that creates the most shareholder value,
+the quickest in a long, long time.
+And it really bums us out that 97% of it is in one nation
+and 80% of it or 70% of it isn't with a seven mile radius
+of SFO International Airport.
+And as we try and transition, we being the Gulf states or the UAE in this case,
+from a fossil fuel-based economy to a services, tech, hospitality, education,
+and in this instance, you know, technology-based economy,
+we would like to have a presence in AI.
+So the related party transaction here is really uncomfortable.
+Having said that, when your related party has the deepest pockets in the world,
+it's kind of a good related party.
+And they'll be very supportive of the company moving forward
+because they would like to see the center of gravity,
+at least a little bit around AI, move into that region.
+So red flags, red flags everywhere.
+I'm a buyer.
+Yeah, just one final comment from me on these sovereign wealth funds.
+The public investment fund, which is Saudi Arabia,
+Mubadala, which is UAE,
+these funds, in my view, are the most susceptible to bullshit.
+They are not disciples of the boring is sexy argument which you have made.
+These are people who invest hundreds of billions of dollars
+into whatever is the technology du jour.
+They'll invest billions into buying Premier League teams.
+They're building cities that have artificial moons.
+I mean, these people love sexy stuff.
+And so the idea that there is a company
+that is pitching the world's biggest GPU cluster,
+I'm just not at all surprised that the biggest backer
+is someone in the Gulf with a shit ton of oil money.
+What I have found, the worst thing they could have done for their brand
+was this brand called Masayoshi Son.
+And that is the whole WeWork fiasco,
+SoftBank got this reputation for coming in
+and just overfunding stupid fucking ideas.
+And it's tightly linked to this,
+what you would describe as dumb money in the Gulf.
+If you spend any time in the Gulf
+and you spend any time with these guys,
+I would argue on average,
+they are more professionally managed
+than the majority of VC hedge funds in the West.
+I mean, a rookie move is if you meet a new VC or fund
+and they think they're going to fly into Riyadh
+and just like hold out a hat
+and that billions of dollars is going to drop into their fund.
+They're in for a rude awakening.
+That's what's happening, no?
+No.
+I feel like those are the head...
+Fair enough.
+I don't experience it personally.
+But what I certainly see in the headlines
+is that you take a flight,
+you have your brand,
+you hold your hat out
+and they dump billions of dollars in.
+Oh, no, no, no, no.
+For every fund that's raising money there,
+there are a hundred going there
+and going to a cool resort in the desert
+and going to the Superfund conference
+and then coming back with no money.
+As a matter of fact,
+they've switched their objective
+to no longer letting money leave the region.
+But what they want is what's in it for us.
+We need to get...
+We want to create jobs.
+We want to...
+We know we're running out of oil.
+We don't know if it's 40 years or 70 years,
+but we know we're running out of it.
+So we need to make this transition.
+And the transition is not only making money abroad,
+but it's building sustainable industry here.
+They're trying to build a huge industry
+and even a city focusing on gaming,
+you know, video games.
+They're building huge universities.
+NYU has a huge presence in Abu Dhabi.
+I think it's a little bit reductive
+and I don't know.
+I think you're falling into the trap
+of believing that you've seen the headlines
+and the stories and the...
+They've made bad investments.
+Oh, no doubt.
+But I also think they've made good investments.
+And my experience with them has been
+that they are just as,
+if not more sophisticated
+than any other alternative investments investor.
+Anyways, come to Riyadh.
+You and I are going to Riyadh.
+Yeah, exactly.
+I think that's where we're headed here.
+I think either MBS is in the room with you
+with a gun to your head
+or we're going to get them on the podcast.
+One of those two things is going to happen.
+Neither of those is true.
+And I want to be clear,
+I have no investments
+or vested interest in the golf right now.
+Just to be clear.
+Just to be clear.
+We'll look into that.
+We'll be right back after the break
+with a look at the path forward for Nike.
+It's taken a few months,
+but I think I've almost chosen our next car.
+I've weighed up new versus secondhand,
+assessed the depreciation rates
+and spoken to eight insurance providers.
+I'll be ready to enter phase two of selection
+over the next few weeks.
+You might be a driving enthusiast,
+but we're not all admin enthusiasts.
+Pivotal is the all-inclusive
+premium car subscription service
+that simplifies your life.
+With insurance, maintenance,
+and the possibility of switching
+to a fresh vehicle every six months,
+experience the flexible alternative
+to car ownership
+at drivepivotal.com.
+Adobe Express is the quick and easy
+create anything app.
+It has taken my content to the next level,
+making it simple to create everything I need
+to promote my business.
+From Instagram and TikTok posts
+to logos and flyers,
+all in just a few clicks.
+Build your brand with Adobe Express.
+Search for Adobe Express to find out more
+and get the app for free.
+Adobe Express,
+the quick and easy
+create anything app.
+This is an ad for BetterHelp.
+Welcome to the world.
+Please read your personal owner's manual thoroughly.
+In it, you'll find simple instructions
+for how to interact
+with your fellow human beings
+and how to find happiness
+and peace of mind.
+Thank you
+and have a nice life.
+Unfortunately,
+life doesn't come
+with an owner's manual.
+That's why there's
+BetterHelp Online Therapy.
+Connect with a credentialed therapist
+by phone,
+video,
+or online chat.
+Visit BetterHelp.com
+to learn more.
+That's BetterHelp.com.
+We're back with Proftary Markets.
+Nike withdrew its full-year sales guidance
+ahead of its new CEO's arrival
+later this month.
+The company also postponed
+its investor day,
+signaling that a meaningful turnaround
+will take some time
+and the stock fell 7%.
+As we discussed previously,
+Nike tapped company veteran Elliot Hill
+to take the helm
+amid declining sales.
+Revenue for the most recent quarter
+dropped 10% year over year.
+CFO Matthew Friend
+said pulling the guidance
+would give Hill
+quote,
+much needed flexibility
+to evaluate Nike strategies
+and business trends.
+Scott,
+based on your experience,
+one,
+what do you make of
+these Nike earnings,
+revenue down 10%?
+And two,
+what do you think
+the new CEO,
+Elliot Hill,
+needs to do here
+to stage a comeback
+for Nike?
+You know,
+I like this company so much.
+I have a bias.
+I want you to go first,
+Ed.
+I think you probably have,
+I mean,
+you know,
+unlike your exceptionally
+biased bordering
+on racist views
+of the Gulf,
+I'd like your views
+on Nike on the swoosh.
+And by the way,
+they're really nice white people.
+Go ahead.
+No one's going to buy this.
+No one's going to buy
+the reason I believe
+that they're investing
+in these companies
+because I'm racist.
+Anyways,
+go ahead.
+What do you think of Nike?
+Well,
+I think what's interesting
+is that,
+you know,
+there's not one part
+of the business here
+that is working.
+It's basically bad
+across the board.
+So you're seeing
+revenue declines
+in direct revenue,
+in brand revenue,
+in wholesale revenue.
+You're also seeing
+revenue declines
+across every region.
+So it's down 11%
+in North America.
+It's down 13% in Europe.
+The slowest decrease
+was in China,
+which is down 4%.
+But that's sort of
+the rising tide
+with all boats
+as we're seeing,
+you know,
+China is somewhat improving
+or at least it's falling
+less fast than it was before.
+So the financial picture
+for Nike is very simple.
+Things are just bad
+across the board.
+The only other
+interesting detail
+is the fact
+that they decided
+to withdraw
+their full year guidance,
+i.e.
+their financial forecast
+for the next 12 months.
+And instead,
+they're only offering
+quarterly forecasting.
+And their explanation
+for that
+is that,
+you know,
+we have a management shakeup,
+we've got a new CEO,
+we're in a transition period.
+I can't tell if that is
+an appropriate excuse or not.
+So I would like to get
+your take on that.
+What do you make of a company
+like Nike,
+as big as Nike,
+saying,
+we actually don't know
+what the next 12 months
+looks like
+because we've got
+a new CEO coming in.
+Is that a valid excuse
+or is it a little bit bullshit?
+I think it's the latter.
+I think when you're a company
+like Nike,
+you should have such a deep bench,
+you should have such
+a talented CFO,
+you should be able to draw
+on such an incredibly talented CEO,
+which I think
+the new CEO is,
+that you should be able
+to handle learnings calls
+and forward-looking projections.
+So if you really feel that way,
+that you need to free up,
+the excuse they gave
+that it would essentially,
+what was it said?
+That it would much need
+a flexibility to evaluate
+Nike's strategy
+and business trends.
+That's why companies
+are taken private
+because when you have
+a public company,
+you're sort of promising
+that you're going to give
+a certain level of transparency,
+especially when you're
+an S&P company like Nike.
+So that is yet another signal
+that these guys really
+don't have their shit together.
+And even if you were
+to come on and say,
+I'm new,
+this is what I'm thinking,
+and have the CFO report
+in a very no mercy,
+no malice way,
+you know,
+this is what's going on,
+I think analysts would be fine.
+But to kind of go back
+into we don't know
+what's going on,
+we want the freedom
+to figure this out,
+come on,
+you're fucking Nike,
+for God's sakes.
+You should have that.
+You should have five people
+sitting around the table
+that could probably be the CEO
+in the earnings call
+for the next two or three quarters
+that are just very good
+at what they do.
+And the fact that
+they don't have that,
+it reflects poorly
+on the board
+and the bench,
+if you will.
+Now,
+down 10%
+on a company this size
+is no doubt,
+that is nearly a meltdown
+for a company like this
+that is so diversified
+around the globe.
+I wonder if this was
+a bit of a kitchen sink quarter,
+if they kind of threw
+all their bad news in here.
+What do they need to do?
+I'd be very curious to know,
+and you never like
+to say this out loud,
+I'd be very curious to know
+what their revenue
+per employee is.
+It feels to me like
+a pretty significant
+layoff is coming.
+But what they need to show
+is some momentum
+around shrinking
+the product development time
+and getting kind of,
+if you will,
+I don't want to say cool again,
+but on trend again,
+getting out there
+and getting much more
+in touch at a ground level
+with some of their
+cooler, smaller retailers
+being more on trend.
+And then once they
+discover trends,
+getting stuff from design
+or concept to shelf
+much faster.
+And I think they should
+be able to figure that out.
+Also,
+they've just left
+these niches
+and these doors wide open
+for Hoka and for On.
+At the end of the day,
+I agree with you.
+They shouldn't be saying,
+oh,
+we're in such disarray
+that we're not going
+to be able to do it
+basically every public company.
+97% of public companies
+managed to do this
+and none of them have the,
+or very few of them
+have the resources
+and the depth of the bench
+of a Nike.
+So I just think this brand
+is just,
+I don't care where you go.
+I don't care if you go
+to Cape Town
+or Seoul
+or, you know,
+Cambodia.
+11-year-olds
+playing football
+in the yard
+are wearing Nike
+and the brand
+has always reinvented itself.
+They have such
+powerful marketing roots.
+They're not even
+needed to reinvent itself.
+It just resonates
+so deeply
+that I,
+I like this company a lot.
+I think at these
+price levels,
+I mean,
+I'd be prepared
+for it to go down more,
+but this is,
+you know,
+I'm thinking about
+setting up a trust
+for my kids
+and this is one
+of those stocks
+that I would put in there
+and just say,
+okay,
+look at it in 20 years.
+Two things
+I find quite interesting.
+One is,
+I think you're right
+that the CFO
+kind of did a shitty job here
+and the rest
+of the management team
+while the previous CEO,
+John Donahoe,
+is out.
+And it sort of reminds me
+of like the Gareth Southgate
+problem
+where we have this tendency
+to just assume
+that everything's going bad
+because the head honcho sucks.
+And now the head honcho's out
+and we're seeing
+that maybe actually
+the rest of the management team
+sucks too.
+Maybe the players
+on the field
+are not performing
+as well as they should.
+But we're so obsessed
+with blaming the manager,
+in this case,
+the England manager,
+or in this case,
+the Nike CEO,
+that we just get
+so caught up with that.
+And then when they leave,
+we're like,
+oh, maybe it's an us problem
+that we didn't realize.
+The second thing
+that I find kind of interesting,
+what you're saying
+about the brand
+and how strong it is,
+we often hear this idea
+of brand as moat,
+that if you have
+a strong brand,
+it can act as
+a really strong moat
+to prevent competition
+from your competitors.
+And, you know,
+10 years ago,
+I feel like we would have
+used Nike
+as the shining example of this.
+We would have said,
+you know,
+Nike is far and away
+the winner.
+It has a huge moat
+because it has
+such a strong brand.
+But I look at what's
+happened in Nike here
+and I look at what's
+happened to a lot of
+other iconic brands
+recently that you
+have been talking about
+and that you've
+written about in your blog.
+Starbucks, for example,
+Disney,
+down more than 25%
+in the past five years.
+Estee Lauder,
+basically cut in half
+over the past five years.
+And it feels like
+at this point,
+you could maybe
+make the opposite case,
+which is that,
+you know,
+a strong brand,
+when it's strong,
+looks like a moat
+until eventually it isn't.
+Because what looks like
+might be happening
+is that these companies
+have become so reliant
+and so dependent
+on their brand
+that it ends up
+being their downfall.
+They think that
+they're invincible
+because we're Nike,
+because we're Estee Lauder.
+Who could come after us?
+It's an interesting observation.
+And that is,
+so the algorithm
+for printing money
+from the end of World War II
+to the introduction of Google
+has come up
+with a mediocre product,
+a mediocre car,
+salty snack,
+mediocre shoe,
+mediocre carbonated drink,
+and then wrap it
+in these amazing brand codes
+of youth, masculinity,
+European elegance,
+sex appeal,
+and use this incredibly
+cheap medium,
+we didn't realize
+how cheap it was,
+called broadcast media
+where all of America
+was watching
+one of three channels
+and just pound away
+at these associations
+and people would pay
+two bucks
+for 20 cents
+a peanut butter paste
+because it meant
+that you loved your kids more
+because choosing moms
+chose Jeff
+or that I was
+a more competitive,
+strong, masculine,
+individual American person
+if I bought
+$210 Air Jordans.
+Since the introduction
+of Google,
+the rise of quality
+and innovation
+has just been dramatic
+and the example
+I use is hotels.
+Whenever I traveled
+and I've been traveling
+180 to 220 days a year
+for the last 30 years,
+I would stay
+at the Four Seasons
+with a Mandarin Oriental.
+One, because someone else
+was paying
+and two,
+they were always an eight.
+On a scale of one to ten,
+they were always an eight.
+And if I was in Madrid,
+I didn't have the time
+or the insight
+to figure out
+is there a better hotel
+than the Madrid Four Seasons,
+which I know
+is going to be lovely.
+Now with the introduction
+of Google,
+TripAdvisor,
+your social graph,
+Instagram,
+within about five minutes,
+I can figure out
+the Rosewood Villa Magna
+is absolutely
+where I want to stay
+in Madrid.
+I mean,
+that's just it.
+Or when I'm in Sao Paulo,
+yeah, the Four Seasons
+would be great,
+but again,
+actually,
+the Rosewood there
+is probably,
+in my opinion,
+the best hotel
+in the world.
+It's the Faena
+in South Beach.
+And people can figure
+it out now.
+So it sounds passe,
+but all of a sudden,
+product and innovation
+are the new bomb.
+And the notion
+that you're putting forward
+that they got too reliant
+on the mode
+of the Nike brand
+and not focused
+enough on new product,
+new innovation,
+new marketing channels,
+I think that's a worthwhile
+or a fair criticism.
+But having said that,
+there are certain brands
+and certain items
+where brand plays
+a bigger role.
+You are a Panerai,
+it means you're having
+a midlife crisis,
+maybe a little bit
+of erectile dysfunction,
+have a little bit
+of money.
+But if you have sex
+with me,
+if we have kids,
+your kids are more likely
+to survive
+than if you...
+That's what everyone thinks.
+Exactly.
+Then if you have...
+Just go with it.
+Then if you have sex
+with Ed,
+who's wearing
+a fucking swatch watch.
+So your watch,
+your watch,
+the degree you got
+from college,
+the only reason
+your girlfriend's with you
+is because she heard
+you went to Princeton, Ed.
+I've already spoken
+to her about this.
+Your car,
+and also your shoes
+are really powerful forms
+of self-expressive benefit.
+And the self-expressive benefit
+of Nike that registers
+across two, three,
+probably four million consumers
+around the world
+is still unbelievable.
+Translates unbelievable margin.
+But the brand era,
+I agree with you,
+the brand era
+is officially over.
+I don't know
+if you'd call it
+the supply chain era
+or the innovation era,
+but the way you communicate
+a better supply chain
+or the vessel
+for communication
+for supply chain
+or innovation
+is still the brand
+and the logo.
+Anything that's on HBO,
+I'll trial.
+A big thing,
+a big show
+coming from HBO,
+I'm like,
+oh, I'll watch it
+because they just have
+a finer filter.
+Any hotel from Rosewood,
+I will try
+because it does have,
+in my opinion,
+a finer filter.
+Now, does that mean
+brand is as big a moat?
+Absolutely not
+because I have my,
+I have Instagram,
+I have my social graph.
+So what you're saying
+holds true.
+A company like Nike
+can,
+if it's not careful,
+fall further faster.
+But just based on
+that base of awareness
+and aspirational value
+and self-expressive benefit,
+they have just tons
+of permission.
+If they come out
+with a decent product line,
+you're going to,
+I think you're going to see
+those revenues
+start to pop again.
+Yeah,
+I think that's right.
+Let's take a look
+at the week ahead.
+We'll see the consumer price
+and producer price indices
+for September
+and third quarter
+earnings season kicks off
+with JV Morgan,
+Wells Fargo,
+and BlackRock
+all reporting.
+Scott,
+do you have any
+predictions for us?
+Well, just based on
+what you said,
+I do think there's a,
+I think churn
+is really important
+and I'd like to think
+there's some churn
+going on right now.
+Companies like
+Starbucks,
+Intel,
+Disney,
+Nike,
+Estee Lauder,
+Warner Brothers,
+these companies are,
+as they should be,
+getting kicked in the nuts
+and that makes room
+for new competitors.
+I'd like to think,
+unfortunately,
+they're mostly being
+kicked in the butt
+by TikTok,
+but anyways,
+in a weak Chinese consumer.
+But you are seeing
+a changing of the guard.
+Too many old people
+running these companies.
+Too many old people
+who are getting paid
+too much fucking money
+for lackluster performance.
+So all super talented executives,
+but I would speculate
+that Bob Iger
+and David Zaslav
+are going to announce
+or at least put in place
+some sort of succession plan
+in the next year or two.
+These are people
+who are both great executives,
+especially Bob Iger.
+Zaslav has made
+a third of a billion dollars
+to lose 60,
+70% of his shareholders'
+valuation.
+And then the final one
+is I think Fabrizio Freda,
+the CEO at Estee Lauder.
+That company has shit the bed
+the last five years.
+They're probably due.
+He's had a great career,
+a storied career.
+He's made a lot of money.
+He deserves it.
+But I wouldn't be surprised
+if in the next
+three, six, 12 months,
+if you should get
+the timing right,
+we see succession strategies
+announced at Warner Brothers
+and Disney,
+and we see a new CEO
+at Estee Lauder Company.
+This episode was produced
+by Claire Miller
+and engineered
+by Benjamin Spencer.
+Our associate producer
+is Alison Weiss.
+Our executive producer
+is Catherine Dillon.
+Mia Silverio is our research lead
+and Drew Burrows
+is our technical director.
+Thank you for listening
+to Prof. G Markets
+from the Vox Media Podcast Network.
+Join us on Thursday
+for a conversation
+with Mark Zandi
+only on Prof. G Markets.
+Lifetimes
+You have me
+In kind reunion
+As the world turns
+And the dark flies
+In love
+In love
+In love
+In love
+In love
+In love
+In love
+In love
+In love
+In love
+In love
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In love
+In love
+In love
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your kids
+Go to Princeton
+Does that help?
+How do custom orders
+work on Kraken?
+Imagine I'm a music producer
+dialing in my newest track.
+Need more bass?
+Crank it.
+Vocals not popping?
+Double it up.
+Want a bigger sound?
+Hit that reverb.
+Hard.
+That's custom orders
+on Kraken.
+Complete control
+over your crypto trades.
+Go to kraken.com
+and see what crypto can be.
+Don't invest
+unless you're prepared
+to lose all the money you invest.
+This is a high risk investment
+and you should not expect to be protected
+if something goes wrong.
+I'm Ashley C. Ford
+and I host
+Into the Mix,
+a Ben and Jerry's podcast
+about joy and justice
+produced with Vox Creative.
+We're back with new episodes
+taking a look at voter fraud,
+specifically how the fear
+of voter fraud accusations
+can lead to voter suppression.
+As the 2024 election
+draws nearer,
+former President Donald Trump
+continues to claim
+without evidence
+that widespread voter fraud
+lost him the election
+in 2020.
+So we wanted to know,
+how do claims like this
+affect ordinary voters?
+Hear the story
+of a civil servant
+who faced felony charges
+and years in prison
+for helping a first-time voter
+figure out
+how to use a voting machine.
+That story and more
+on Into the Mix,
+a Ben and Jerry's podcast.
+a Ben and Jerry's podcast.

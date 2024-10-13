@@ -1,0 +1,5984 @@
+1
+00:00:00,840 --> 00:00:03,080
+How do custom orders work on Kraken?
+
+2
+00:00:03,560 --> 00:00:06,820
+Imagine I'm a music producer, dialing in my newest track.
+
+3
+00:00:07,320 --> 00:00:08,800
+Need more bass? Crank it!
+
+4
+00:00:09,280 --> 00:00:11,180
+Vocals not popping? Double it up!
+
+5
+00:00:11,700 --> 00:00:14,780
+Want a bigger sound? Hit that reverb. Hard.
+
+6
+00:00:15,520 --> 00:00:16,880
+That's custom orders on Kraken.
+
+7
+00:00:17,240 --> 00:00:18,940
+Complete control over your crypto trades.
+
+8
+00:00:19,580 --> 00:00:21,840
+Go to kraken.com and see what crypto can be.
+
+9
+00:00:22,460 --> 00:00:24,920
+Don't invest unless you're prepared to lose all the money you invest.
+
+10
+00:00:25,220 --> 00:00:28,660
+This is a high-risk investment, and you should not expect to be protected if something goes wrong.
+
+11
+00:00:30,000 --> 00:00:34,900
+Hey, everybody. I'm Ashley C. Ford, and I'm the host of Into the Mix,
+
+12
+00:00:35,340 --> 00:00:40,200
+a Ben & Jerry's podcast about joy and justice, produced with Vox Creative.
+
+13
+00:00:40,860 --> 00:00:44,220
+And in our new miniseries, we're talking about voter fraud.
+
+14
+00:00:44,880 --> 00:00:49,300
+For years now, former President Donald Trump has made it a key talking point,
+
+15
+00:00:49,400 --> 00:00:52,420
+despite there being no evidence of widespread fraud.
+
+16
+00:00:52,900 --> 00:00:56,860
+But what impact do claims like these have on ordinary voters?
+
+17
+00:00:56,860 --> 00:01:01,980
+People like Olivia Coley Pearson, a civil servant in Douglas, Georgia,
+
+18
+00:01:02,160 --> 00:01:07,640
+who was arrested for voter fraud because she showed a first-time voter how the voting machines worked.
+
+19
+00:01:08,140 --> 00:01:11,660
+Hear how she fought back on the latest episode of Into the Mix.
+
+20
+00:01:12,100 --> 00:01:14,100
+Subscribe now, wherever you listen.
+
+21
+00:01:26,860 --> 00:01:49,240
+Today's number, $762,000.
+
+22
+00:01:49,240 --> 00:01:54,400
+That's how much Republican PACs have spent at the Capitol Grill Steakhouse this election cycle.
+
+23
+00:01:54,600 --> 00:01:57,280
+Ed, how do you bring a Republican to his knees?
+
+24
+00:01:57,920 --> 00:01:59,340
+You paint your dick orange.
+
+25
+00:01:59,340 --> 00:02:12,560
+Hello, Ed. How are you?
+
+26
+00:02:12,900 --> 00:02:16,420
+I'm good. I'm more excited by that number than I am by the joke.
+
+27
+00:02:17,700 --> 00:02:22,960
+$750,000 to the Capitol Grill is one of the greatest statistics we've had on this podcast so far.
+
+28
+00:02:23,160 --> 00:02:28,140
+Yeah, but it's nothing compared to the amount of revenue that Grindr recognized in Milwaukee the weekend at the convention.
+
+29
+00:02:28,140 --> 00:02:32,160
+That's a good point. I'm sure they're correlated. I'm sure they both had spikes at the same time.
+
+30
+00:02:32,320 --> 00:02:39,960
+So the most interesting thing about that stat, Ed, is that that is 13 times the amount of money that the Democrats spent. It's crazy, no?
+
+31
+00:02:40,100 --> 00:02:43,800
+It's unbelievable. What do you think is the Capitol Grill equivalent for the Democrats?
+
+32
+00:02:44,820 --> 00:02:45,520
+Epstein's Island.
+
+33
+00:02:46,000 --> 00:02:48,720
+That was good. That was good.
+
+34
+00:02:48,980 --> 00:02:52,000
+That is good. Do you like the Capitol Grill? What's your favorite restaurant these days?
+
+35
+00:02:52,180 --> 00:02:57,020
+I'm sort of a creature of habit. My favorite restaurant in London is Granger & Co.
+
+36
+00:02:57,020 --> 00:02:59,860
+I started going there when I spent a summer here and it's in Marlebone.
+
+37
+00:03:00,500 --> 00:03:05,960
+My favorite restaurant, period, is In-N-Out Burger, but in New York, my new favorite is Sartiano's.
+
+38
+00:03:06,520 --> 00:03:11,360
+Because I know Scott Sartiano and I like him and it's cool and I see celebs there and I kind of feel like I'm like, oh, hi.
+
+39
+00:03:11,400 --> 00:03:14,520
+And they treat me nice because I know Scott and I feel big time there.
+
+40
+00:03:14,620 --> 00:03:16,540
+What's your favorite restaurant? What do young, cool people eat?
+
+41
+00:03:16,840 --> 00:03:19,880
+Isodi in the West Village is pretty great. Pretty good pasta.
+
+42
+00:03:19,880 --> 00:03:22,200
+I haven't been to Sartiano's. I'd like to try it out.
+
+43
+00:03:23,300 --> 00:03:27,720
+Granger is great. And the ricotta pancakes are sort of a staple there. Have you tried those?
+
+44
+00:03:27,940 --> 00:03:38,100
+Yeah, of course. Although I had all this blood work done and I'm used to walking into the room like I just want, like I'm Simone Biles and I've just stuck the landing whenever I have blood work done.
+
+45
+00:03:38,100 --> 00:03:47,340
+And she's like, well, this is a bit of an issue. We need to talk about this. I'm like, huh? What? Wait, no, I'm me. I'm like crazy healthy. I'm getting old, Ed.
+
+46
+00:03:48,020 --> 00:03:54,900
+And I kept asking her to take my blood pressure until it was fine. I'm like, no, take it again. Take it again.
+
+47
+00:03:55,260 --> 00:03:59,700
+And why are we talking about this? Do you think your diet has something to do with this? Why are we on blood work now?
+
+48
+00:03:59,700 --> 00:04:12,440
+I have no idea. I got here. I had maybe that's part of the problem. So I've spent the last two mornings for two to three hours getting NADs. Do you know what these are?
+
+49
+00:04:12,600 --> 00:04:19,820
+They supposedly it's basically biohacking. I'm convinced it's biohacking for rich people. Rich people, I think they can live longer than other people.
+
+50
+00:04:19,820 --> 00:04:28,760
+So they do all this stupid shit. And I think I've fallen into this trap. So it's these it stands for some nuclear atomic diaclide or something.
+
+51
+00:04:28,760 --> 00:04:34,840
+And supposedly it activates cell growth. And I don't know. You're not going to recognize me on next week's pod.
+
+52
+00:04:35,760 --> 00:04:42,400
+I'm just going to be. You're going to be ripped. I don't even need to be ripped anymore. I just want to be this adorable little Jewish. I want to look like Barbra Streisand and Yentl.
+
+53
+00:04:43,700 --> 00:04:48,380
+I just want to look young and feminine. Wait, is this my way of coming out?
+
+54
+00:04:48,380 --> 00:04:51,320
+You want to look like Timothee Chalamet, I think is what you're describing.
+
+55
+00:04:51,500 --> 00:04:55,520
+I don't know if it's his NADs, but my brain is just firing in a billion different directions right now.
+
+56
+00:04:55,520 --> 00:04:59,860
+OK, well, let's let's take all this energy and point it towards the markets now.
+
+57
+00:04:59,940 --> 00:05:00,420
+Let's do it.
+
+58
+00:05:00,500 --> 00:05:02,620
+And start with our weekly review of Market Vitals.
+
+59
+00:05:09,340 --> 00:05:15,180
+The S&P 500 declined. The dollar rose. Bitcoin fell. And the yield on 10-year treasuries increased.
+
+60
+00:05:15,180 --> 00:05:22,380
+Shifting to the headlines. Tesla's quarterly deliveries rose for the first time this year, up more than 6% from a year earlier.
+
+61
+00:05:22,880 --> 00:05:27,680
+However, that metric still came in below analyst expectations and the stock fell 3% on the news.
+
+62
+00:05:28,140 --> 00:05:33,760
+CVS is considering breaking up its pharmacy and insurance businesses as it looks to improve operations.
+
+63
+00:05:34,380 --> 00:05:38,860
+The company is also pursuing cost-cutting initiatives, including cutting nearly 3,000 jobs.
+
+64
+00:05:38,860 --> 00:05:46,660
+And finally, venture capital firm CRV is returning more than half of the money from its $500 million select fund to investors.
+
+65
+00:05:46,900 --> 00:05:56,100
+The firm decided to cut the select fund, which invested in mature startups, after consistently seeing valuations that were too high to get a decent return.
+
+66
+00:05:56,660 --> 00:06:00,980
+Scott, your thoughts, starting with Tesla's quarterly delivery update.
+
+67
+00:06:00,980 --> 00:06:12,000
+The biggest trend, I think, in auto is that while everyone wanted to follow Musk because he's got a three-quarter of a trillion dollar market cap and it was all about EVs, it ends up that may have been wrong.
+
+68
+00:06:12,180 --> 00:06:14,100
+And Ford and General Motors went all in.
+
+69
+00:06:14,780 --> 00:06:20,940
+And Toyota, which in my view is the best-managed automobile company in the world, said, no, we're not going to go after the NFT of EVs.
+
+70
+00:06:21,320 --> 00:06:23,220
+And they made a big bet on hybrids.
+
+71
+00:06:23,220 --> 00:06:27,220
+And the consumer is actually moving towards hybrids.
+
+72
+00:06:27,480 --> 00:06:32,160
+And hybrids basically offer a lot of the upside of electric.
+
+73
+00:06:32,460 --> 00:06:37,780
+It's more efficient, less carbon or less shit into the air, and it doesn't rely on the grid.
+
+74
+00:06:38,300 --> 00:06:42,920
+So you have more range, less insecurity about being caught somewhere without a charging station.
+
+75
+00:06:43,080 --> 00:06:44,320
+They're actually less expensive.
+
+76
+00:06:45,100 --> 00:06:48,040
+And Toyota is kind of killing it right now.
+
+77
+00:06:48,040 --> 00:06:58,980
+And despite the fact that Toyota is killing it and growing faster than Tesla, really well positioned and made a huge investment on the right horse, and that is hybrids as opposed to EVs.
+
+78
+00:06:59,580 --> 00:07:05,740
+It trades at 0.8 times revenues, whereas Tesla trades at 8 to 9 times revenues.
+
+79
+00:07:05,960 --> 00:07:11,540
+So one of these things is either vastly overvalued or one of them is vastly undervalued.
+
+80
+00:07:11,540 --> 00:07:19,780
+But we're so obsessed with Tesla because of the individual at the head of that company that we don't talk about general trends in the industry.
+
+81
+00:07:19,880 --> 00:07:21,580
+And I think it's all about hybrids.
+
+82
+00:07:21,980 --> 00:07:27,320
+Yeah, it is interesting how the EV used to be sort of the sexiest two letters in the auto industry.
+
+83
+00:07:27,460 --> 00:07:30,120
+And it's kind of just so ubiquitous now.
+
+84
+00:07:30,200 --> 00:07:32,860
+It doesn't have that level of hype and sex appeal that it used to.
+
+85
+00:07:33,440 --> 00:07:36,820
+And so Tesla has to rely on different hype stories now.
+
+86
+00:07:36,820 --> 00:07:42,920
+And I think that's why I believe that these quarterly delivery updates are becoming less and less important.
+
+87
+00:07:43,400 --> 00:07:47,580
+You know, essentially the story is they pretty much met expectations.
+
+88
+00:07:48,100 --> 00:07:52,580
+They remain just ahead of BYD in terms of overall EV deliveries.
+
+89
+00:07:53,340 --> 00:08:00,320
+The overall message, and we'll get a fuller picture of earnings in a couple of weeks, but the overall message is, you know, things are going fine-ish for Tesla.
+
+90
+00:08:00,320 --> 00:08:07,040
+But more importantly for Tesla, this Thursday is their big robotaxi event.
+
+91
+00:08:07,380 --> 00:08:13,580
+And I think that's more important than the numbers because, as we've talked about with Tesla before, the valuation is all about the narrative.
+
+92
+00:08:14,020 --> 00:08:19,440
+This is the big moment where people will ask the question, is the robotaxi actually legit?
+
+93
+00:08:19,860 --> 00:08:23,720
+My prediction is that that robotaxi event will be a giant letdown.
+
+94
+00:08:24,120 --> 00:08:26,400
+Two tells, for me, why that's going to happen.
+
+95
+00:08:26,920 --> 00:08:29,460
+One is the narrative leading up to it.
+
+96
+00:08:29,460 --> 00:08:32,360
+Elon has a habit of overpromising and under-delivering.
+
+97
+00:08:32,600 --> 00:08:34,980
+But he isn't even overpromising about this event.
+
+98
+00:08:35,080 --> 00:08:36,300
+He's barely talking about it.
+
+99
+00:08:36,560 --> 00:08:43,740
+He's spending most of his time shitposting about politics, which makes me think that he believes that this robotaxi is going to underwhelm.
+
+100
+00:08:44,260 --> 00:08:46,740
+And the second tell for me is the location of the event.
+
+101
+00:08:47,240 --> 00:08:53,820
+They're doing it at the Warner Brothers studio in Burbank, which to me says, this is going to be a cinematic event.
+
+102
+00:08:53,980 --> 00:08:57,000
+This isn't actually going to be a sort of technological showcase.
+
+103
+00:08:57,000 --> 00:09:07,660
+This is just going to be a big production, sexy commercial about what the robotaxi could look like, as opposed to a tangible demonstration of what it actually looks like right now.
+
+104
+00:09:07,720 --> 00:09:13,600
+So my prediction would be that this robotaxi event that's happening end of this week will be highly underwhelming.
+
+105
+00:09:13,600 --> 00:09:20,300
+And I think the stock is going to suffer as all of the hype and the excitement around Tesla continues to deflate.
+
+106
+00:09:20,740 --> 00:09:30,060
+Your thoughts on CVS evaluating spinning out their insurance and their healthcare businesses separate from their consumer business?
+
+107
+00:09:30,060 --> 00:09:31,120
+There's a lot here.
+
+108
+00:09:32,040 --> 00:09:34,520
+Essentially, they're deconglomerating.
+
+109
+00:09:34,700 --> 00:09:44,460
+They saw Amazon coming and they felt like they needed to bulk up and take advantage of the user interface or the customer interface they had and thought, we can upsell you upstream to insurance.
+
+110
+00:09:44,580 --> 00:09:48,460
+We can upsell you or downsell you downstream to one-minute clinics.
+
+111
+00:09:48,560 --> 00:09:51,720
+I've actually used those clinics a couple of times for vaccines.
+
+112
+00:09:52,220 --> 00:09:54,100
+And I thought they were really, really good.
+
+113
+00:09:54,100 --> 00:09:59,640
+But what happens with a conglomerate is you end up paying a conglomerate tax.
+
+114
+00:10:00,340 --> 00:10:04,980
+And that is when the New York Times CEO thinks, you know, newspapers are a shitty business.
+
+115
+00:10:05,100 --> 00:10:06,540
+I don't want to just answer for one company.
+
+116
+00:10:06,580 --> 00:10:07,500
+I want to diversify.
+
+117
+00:10:07,860 --> 00:10:11,660
+So they go and buy a bunch of other newspapers and then buy the building, their headquarters.
+
+118
+00:10:11,920 --> 00:10:16,320
+At one point, the New York Times building was worth more than the entire company.
+
+119
+00:10:16,400 --> 00:10:17,860
+So it had become a REIT accidentally.
+
+120
+00:10:18,000 --> 00:10:19,800
+They own 70% of the Boston Red Sox.
+
+121
+00:10:19,940 --> 00:10:20,940
+Makes no fucking sense.
+
+122
+00:10:21,460 --> 00:10:23,680
+I remember when I asked the CEO, I don't know if you know this or not,
+
+123
+00:10:23,680 --> 00:10:25,060
+but I was on the board of the New York Times that.
+
+124
+00:10:25,120 --> 00:10:25,640
+I need a bell.
+
+125
+00:10:25,720 --> 00:10:26,340
+Where's my bell?
+
+126
+00:10:28,160 --> 00:10:30,320
+In the boarding, they said, Scott Galloway, director.
+
+127
+00:10:31,820 --> 00:10:32,460
+What do you think?
+
+128
+00:10:32,540 --> 00:10:33,920
+We were talking about capital strategy.
+
+129
+00:10:34,040 --> 00:10:35,460
+And I'm like, why do we own the Boston Red Sox?
+
+130
+00:10:35,500 --> 00:10:37,120
+And Janet Robinson, the CEO of the Times said,
+
+131
+00:10:37,480 --> 00:10:39,740
+because we get special insight into Boston athletics.
+
+132
+00:10:39,740 --> 00:10:40,800
+I'm like, oh, yeah.
+
+133
+00:10:41,000 --> 00:10:44,360
+I know about this story, but that's a very interesting detail I have not heard before.
+
+134
+00:10:44,680 --> 00:10:45,480
+Well, it's called bullshit.
+
+135
+00:10:45,740 --> 00:10:48,220
+She was trying to justify an asset they own for no real reason.
+
+136
+00:10:48,500 --> 00:10:51,580
+And I'm like, oh, yeah, we're known for our coverage of the Celtics.
+
+137
+00:10:51,580 --> 00:10:53,920
+But it made no sense.
+
+138
+00:10:54,140 --> 00:10:59,260
+But what happens is CEOs love to get – their incentive is to get bigger.
+
+139
+00:10:59,740 --> 00:11:00,840
+Now, why do they want to get bigger?
+
+140
+00:11:00,980 --> 00:11:03,500
+Because their compensation is based on the following.
+
+141
+00:11:04,080 --> 00:11:05,460
+Directors don't like to do any work.
+
+142
+00:11:05,540 --> 00:11:08,380
+The compensation committee hires a firm called Towers Perrin to come in
+
+143
+00:11:08,380 --> 00:11:10,120
+and look at compensation.
+
+144
+00:11:10,280 --> 00:11:12,640
+They say, okay, Janet Robinson, the CEO of the New York Times,
+
+145
+00:11:13,260 --> 00:11:16,720
+it's a media company that is doing $5 billion in revenue.
+
+146
+00:11:17,080 --> 00:11:17,520
+That's the thing.
+
+147
+00:11:17,560 --> 00:11:19,180
+What kind of sector it's in, the size of the company.
+
+148
+00:11:19,180 --> 00:11:23,080
+And then they say the average person running a $5 billion media company
+
+149
+00:11:23,080 --> 00:11:27,040
+gets this much in compensation and this much in stock options.
+
+150
+00:11:27,240 --> 00:11:34,740
+So the incentive of the CEO is to diversify such that their life is just less anxious, right?
+
+151
+00:11:35,100 --> 00:11:38,500
+If one brand isn't doing well, the other is usually doing a bit better.
+
+152
+00:11:38,580 --> 00:11:39,940
+It kind of smooths out the earnings.
+
+153
+00:11:40,600 --> 00:11:43,420
+And two, the bigger the company, you typically, the higher the compensation.
+
+154
+00:11:43,420 --> 00:11:47,200
+So there are a lot of incentives to try and have a game-changing acquisition.
+
+155
+00:11:47,520 --> 00:11:50,820
+And two-thirds of acquisitions do not work.
+
+156
+00:11:51,240 --> 00:11:54,040
+People overpay for them because they get excited.
+
+157
+00:11:54,180 --> 00:11:56,000
+They don't realize this business is hard.
+
+158
+00:11:56,740 --> 00:11:57,780
+Integration problems.
+
+159
+00:11:58,120 --> 00:12:00,380
+You have to pay a premium to take out the other shareholders.
+
+160
+00:12:00,520 --> 00:12:01,860
+So they very rarely work.
+
+161
+00:12:01,920 --> 00:12:03,700
+When they work, they can work hugely.
+
+162
+00:12:03,940 --> 00:12:05,820
+Meta is probably the best acquirer in history.
+
+163
+00:12:07,080 --> 00:12:10,060
+Instagram, which they purchased for a billion, is probably worth a couple hundred billion.
+
+164
+00:12:10,060 --> 00:12:12,160
+But the vast majority of the time, they're not.
+
+165
+00:12:12,340 --> 00:12:18,140
+Now, on the flip side, what almost always works is the disposition of assets or spends.
+
+166
+00:12:18,700 --> 00:12:24,800
+Because in a conglomerate where investors think, you know, I don't need you to diversify for me.
+
+167
+00:12:24,880 --> 00:12:27,100
+I can go buy an insurance company all on my own.
+
+168
+00:12:27,260 --> 00:12:31,960
+So I don't like this kind of milquetoast, amorphous Frankenstein of a company.
+
+169
+00:12:32,500 --> 00:12:36,720
+So they end up, typically the market says, let's find the shittiest business
+
+170
+00:12:36,720 --> 00:12:39,000
+and assign that multiple to the entire thing.
+
+171
+00:12:39,000 --> 00:12:44,040
+You end up with this company that, despite perhaps having good assets,
+
+172
+00:12:44,760 --> 00:12:47,460
+trades at the multiple of a shitty retailer in decline.
+
+173
+00:12:47,720 --> 00:12:52,560
+So this insurance company that they own would probably trade at a much higher multiple for
+
+174
+00:12:52,560 --> 00:12:53,320
+an independent company.
+
+175
+00:12:53,440 --> 00:12:57,300
+So the disposition of assets becomes accretive to shareholders.
+
+176
+00:12:57,520 --> 00:12:59,920
+Spins almost always work.
+
+177
+00:13:00,000 --> 00:13:02,120
+So I think this is a good idea.
+
+178
+00:13:02,120 --> 00:13:08,600
+Our final headline is CRV returning their money to investors, something you basically never
+
+179
+00:13:08,600 --> 00:13:11,580
+see venture capitalists doing.
+
+180
+00:13:13,000 --> 00:13:14,460
+What is your read on this?
+
+181
+00:13:14,580 --> 00:13:15,620
+Why have they done this?
+
+182
+00:13:15,660 --> 00:13:19,220
+And what does it say about the VC industry right now?
+
+183
+00:13:19,220 --> 00:13:25,260
+All of the returns are kind of aggregating to a small number of funds that are essentially
+
+184
+00:13:25,260 --> 00:13:26,640
+getting the best deal flow.
+
+185
+00:13:26,840 --> 00:13:31,020
+And they're looking for companies that they can put hundreds of millions or billions into
+
+186
+00:13:31,020 --> 00:13:33,260
+because they've raised so much capital.
+
+187
+00:13:33,540 --> 00:13:38,480
+And I think what you're seeing is this enormous shakeout in the VC community where you're either
+
+188
+00:13:38,480 --> 00:13:43,840
+one of these mega funds that before the returns on fund nine come in, you're already raising fund 10.
+
+189
+00:13:44,540 --> 00:13:51,800
+And because you get amazing deal flow, your institutional investors get good money or really
+
+190
+00:13:51,800 --> 00:13:59,740
+niche focused VC firms that bring a very specific knowledge like Lux Capital, Josh Wolf's company,
+
+191
+00:13:59,820 --> 00:14:06,880
+that's kind of this deep, serious, forward-looking technologies like brain scans, brain implants,
+
+192
+00:14:06,880 --> 00:14:08,420
+or nuclear power, whatever it is.
+
+193
+00:14:08,880 --> 00:14:14,420
+But just a smaller, medium-sized VC that's trying to invest in tech, you're kind of fucked.
+
+194
+00:14:14,520 --> 00:14:15,520
+You have no advantage.
+
+195
+00:14:15,640 --> 00:14:16,500
+You don't have the capital.
+
+196
+00:14:16,660 --> 00:14:18,200
+You're not getting good deal flow.
+
+197
+00:14:18,960 --> 00:14:23,940
+And so I think there's just going to be, I mean, there already is kind of a pretty serious shakeout.
+
+198
+00:14:24,040 --> 00:14:27,960
+And I think these guys have probably said, we can't find good deals.
+
+199
+00:14:28,240 --> 00:14:31,280
+And the few deals we find are just so expensive.
+
+200
+00:14:31,560 --> 00:14:34,200
+The market has taken startups.
+
+201
+00:14:34,200 --> 00:14:38,160
+I mean, it's sort of tempting right after I sold L2, I immediately went to, well, I'm going
+
+202
+00:14:38,160 --> 00:14:40,860
+to go raise, start another company.
+
+203
+00:14:41,060 --> 00:14:46,220
+Because the amount of money you can raise at a valuation, it really has gotten kind of
+
+204
+00:14:46,220 --> 00:14:47,120
+bad shit crazy.
+
+205
+00:14:47,760 --> 00:14:53,280
+But at that point, my attitude was as a quote unquote proven entrepreneur, there was maybe
+
+206
+00:14:53,280 --> 00:14:56,880
+two or three investors I would raise money for or I just wasn't going to raise.
+
+207
+00:14:56,880 --> 00:15:02,900
+And so to be a tier two here, it is really, really tough.
+
+208
+00:15:03,000 --> 00:15:05,620
+And as a whole, I just think it's a shitty asset class.
+
+209
+00:15:06,100 --> 00:15:11,700
+More specific to this CRV headline, it's really all about late stage VC.
+
+210
+00:15:12,180 --> 00:15:17,620
+They're still operating an early stage fund, which, you know, they didn't return the money
+
+211
+00:15:17,620 --> 00:15:17,900
+there.
+
+212
+00:15:18,180 --> 00:15:21,340
+I assume it's doing okay slash fine.
+
+213
+00:15:21,340 --> 00:15:24,480
+But their concern is late stage VC.
+
+214
+00:15:24,800 --> 00:15:25,880
+And just some statistics here.
+
+215
+00:15:26,320 --> 00:15:30,160
+Last year, late stage deal volume fell 53%.
+
+216
+00:15:30,680 --> 00:15:36,420
+And late stage funding, the amount of actual capital going into these late stage companies
+
+217
+00:15:36,420 --> 00:15:38,120
+fell 60%.
+
+218
+00:15:38,120 --> 00:15:42,140
+And in addition, we're seeing this giant drop off in IPO activity.
+
+219
+00:15:42,140 --> 00:15:45,580
+We've only had 150 new listings in the US this year.
+
+220
+00:15:45,720 --> 00:15:49,660
+You compare that to 2021, where we had more than a thousand new IPOs.
+
+221
+00:15:49,660 --> 00:15:55,640
+And so the general theme that we're seeing within VC is that we're seeing far fewer Series D
+
+222
+00:15:55,640 --> 00:16:01,280
+rounds, far fewer Series E rounds, far fewer companies are sort of breaching the surface
+
+223
+00:16:01,280 --> 00:16:07,840
+of growth stage and, you know, picking up steam and entering into the public capital markets.
+
+224
+00:16:08,620 --> 00:16:11,360
+My question to you would be, why is that happening?
+
+225
+00:16:11,800 --> 00:16:16,120
+I would speculate that that's a function of the fact that the IPO market has yet to emerge
+
+226
+00:16:16,120 --> 00:16:19,060
+from the sort of deep freeze it's been in for the last several years.
+
+227
+00:16:19,060 --> 00:16:23,860
+It's typically late stage investment is, all right, we need to short the balance sheet,
+
+228
+00:16:23,980 --> 00:16:28,600
+maybe make a few tuck in acquisitions, but we're basically getting cleaned up for an IPO.
+
+229
+00:16:29,680 --> 00:16:31,780
+And it's sort of right now the worst of both worlds.
+
+230
+00:16:31,880 --> 00:16:37,260
+And that is, it's expensive because these companies still have a, you know, the market is still
+
+231
+00:16:37,260 --> 00:16:39,200
+fairly hot for companies in the right sector.
+
+232
+00:16:39,200 --> 00:16:43,320
+But the IPO market is all but shut to just a few players.
+
+233
+00:16:43,520 --> 00:16:49,580
+So it's sort of like, okay, I'm paying a lot, hoping to get into liquidity in a market where
+
+234
+00:16:49,580 --> 00:16:52,300
+fewer companies are getting, are getting out.
+
+235
+00:16:52,300 --> 00:16:55,540
+It feels like deal flow is very downstream.
+
+236
+00:16:55,840 --> 00:16:59,880
+And what I mean by that, we're seeing far fewer IPOs recently.
+
+237
+00:17:00,300 --> 00:17:05,440
+And now we're seeing that also late stage deal flow is falling off a cliff and funding.
+
+238
+00:17:05,440 --> 00:17:13,800
+And I wonder if that means that this is going to continue to trickle down into early stage
+
+239
+00:17:13,800 --> 00:17:14,240
+startups.
+
+240
+00:17:14,400 --> 00:17:21,040
+And I wonder if the general theme is that we're seeing the ramifications of a world where simply
+
+241
+00:17:21,040 --> 00:17:24,880
+fewer successful companies are being created in general.
+
+242
+00:17:24,880 --> 00:17:29,120
+And, you know, we're just beginning to see the after effects of that.
+
+243
+00:17:29,220 --> 00:17:35,200
+We're seeing the impacts where the market is becoming more and more dominated by these
+
+244
+00:17:35,200 --> 00:17:40,820
+mega, mega giant companies, the Magnificent Seven, Big Tech, the companies that we constantly
+
+245
+00:17:40,820 --> 00:17:41,900
+talk about on this podcast.
+
+246
+00:17:42,540 --> 00:17:47,920
+And in the meanwhile, actual successful company formation has been slowly dying.
+
+247
+00:17:47,920 --> 00:17:52,940
+And we're beginning to see the ramifications of that in the public markets and then in late
+
+248
+00:17:52,940 --> 00:17:53,260
+stage.
+
+249
+00:17:53,260 --> 00:17:58,320
+And I wonder if that will continue to the point where suddenly maybe venture as an industry
+
+250
+00:17:58,320 --> 00:18:00,340
+is not a thing anymore.
+
+251
+00:18:00,720 --> 00:18:02,900
+Well, you just made the argument for Chair Khan.
+
+252
+00:18:03,480 --> 00:18:08,060
+That's her whole rap is that effectively what we have here is an ecosystem that says find
+
+253
+00:18:08,060 --> 00:18:09,940
+the monopoly or find the future monopoly.
+
+254
+00:18:10,500 --> 00:18:15,420
+And then once that company starts, a company starts to show market leadership in a hot sector,
+
+255
+00:18:15,700 --> 00:18:22,040
+you just try and out-raise everybody and just literally sweep the competition off the deck
+
+256
+00:18:22,040 --> 00:18:24,200
+with brute force with more and more capital.
+
+257
+00:18:25,940 --> 00:18:28,880
+And it just it's not a very healthy ecosystem.
+
+258
+00:18:28,880 --> 00:18:36,060
+What you have is a small number of apex predators where they introduce a reticulated anaconda to
+
+259
+00:18:36,060 --> 00:18:36,680
+an ecosystem.
+
+260
+00:18:36,680 --> 00:18:39,960
+And there's just no other species that can fight back.
+
+261
+00:18:39,960 --> 00:18:42,540
+So what you're saying is accurate.
+
+262
+00:18:43,080 --> 00:18:47,880
+And for me, it all kind of forward engineers to the fact that we just need dramatically more
+
+263
+00:18:47,880 --> 00:18:48,520
+antitrust.
+
+264
+00:18:48,520 --> 00:18:56,140
+Yeah, I think the other alternative for VCs is you either try to get a 10, 20, 30x return on the
+
+265
+00:18:56,140 --> 00:19:03,080
+company that you bet on that becomes a monopoly, or you're going for a one and a half to 2x return
+
+266
+00:19:03,080 --> 00:19:06,560
+where the company will be acqui-hired by a big tech company.
+
+267
+00:19:06,560 --> 00:19:08,060
+I can just speak from experience.
+
+268
+00:19:08,920 --> 00:19:11,440
+General Catalyst invested in my company, L2.
+
+269
+00:19:12,020 --> 00:19:15,180
+27 months later, they got three times their money back and they were disappointed.
+
+270
+00:19:16,220 --> 00:19:19,380
+Their attitude is you're either 10x or you're zero.
+
+271
+00:19:19,600 --> 00:19:24,400
+Which means so many VCs are going to get crushed now because there are fewer and fewer winners.
+
+272
+00:19:24,600 --> 00:19:25,320
+A hundred percent.
+
+273
+00:19:26,440 --> 00:19:28,720
+That's why I'm really not cut out for venture capital.
+
+274
+00:19:28,940 --> 00:19:31,580
+And I probably should never raise money from venture capitalists again.
+
+275
+00:19:31,660 --> 00:19:33,360
+Plus, at the age of 50, I probably shouldn't.
+
+276
+00:19:33,360 --> 00:19:43,900
+And that is my skill has been taking a company from A to D or E and selling it for a really good
+
+277
+00:19:43,900 --> 00:19:44,360
+valuation.
+
+278
+00:19:44,640 --> 00:19:45,500
+I build companies.
+
+279
+00:19:46,640 --> 00:19:47,700
+I built my first company.
+
+280
+00:19:47,980 --> 00:19:55,460
+I started a strategy firm and sold it for $33 million when it was doing 10 million in revenue
+
+281
+00:19:55,460 --> 00:19:57,360
+when I was, I don't know, 33 or 34.
+
+282
+00:19:58,020 --> 00:20:02,880
+And then L2 built it, got it to 20 million in revenue, sold it for 160 million.
+
+283
+00:20:03,360 --> 00:20:04,340
+That's what I'm good at.
+
+284
+00:20:04,880 --> 00:20:07,340
+My investors were sort of nonplussed by that.
+
+285
+00:20:07,520 --> 00:20:08,480
+I mean, they were happy.
+
+286
+00:20:08,560 --> 00:20:09,100
+They made money.
+
+287
+00:20:09,200 --> 00:20:10,640
+They were willing to invest with me again.
+
+288
+00:20:11,320 --> 00:20:16,420
+But in the venture business, they're like, go, baby, go.
+
+289
+00:20:16,620 --> 00:20:17,780
+Swing for the fucking fence.
+
+290
+00:20:17,780 --> 00:20:20,880
+And if you herniate a disc, okay, that's fine.
+
+291
+00:20:21,500 --> 00:20:24,140
+But we're not here for singles and doubles, folks.
+
+292
+00:20:24,760 --> 00:20:28,220
+The difference, the reason why I like working with private equity is you're in companies
+
+293
+00:20:28,220 --> 00:20:33,120
+and the private equity guys say, all right, we're going to give management 8% of the company.
+
+294
+00:20:33,460 --> 00:20:34,560
+We're all on the same page.
+
+295
+00:20:34,840 --> 00:20:38,920
+We're going to try and be in this thing three to seven years and then sell for two to three
+
+296
+00:20:38,920 --> 00:20:39,860
+X what we invested.
+
+297
+00:20:39,860 --> 00:20:46,580
+I find that's much healthier than a bunch of young guys from Stanford saying, 50X, baby,
+
+298
+00:20:47,020 --> 00:20:47,860
+50X.
+
+299
+00:20:48,240 --> 00:20:50,000
+It's just sort of, okay.
+
+300
+00:20:50,160 --> 00:20:50,740
+Wish me luck.
+
+301
+00:20:50,780 --> 00:20:52,180
+I'm going to try real hard.
+
+302
+00:20:52,460 --> 00:20:53,460
+Yeah, exactly.
+
+303
+00:20:56,180 --> 00:20:59,900
+We'll be right back after the break with a look at a new AI IPO.
+
+304
+00:21:00,320 --> 00:21:04,480
+If you're enjoying the show, hit follow and leave us a review on ProfG Markets.
+
+305
+00:21:04,480 --> 00:21:34,460
+We'll be right back.
+
+306
+00:21:34,480 --> 00:21:36,820
+Don't invest unless you're prepared to lose all the money you invest.
+
+307
+00:21:37,120 --> 00:21:40,560
+This is a high risk investment and you should not expect to be protected if something goes wrong.
+
+308
+00:21:42,240 --> 00:21:44,280
+Support for the show comes from Oracle.
+
+309
+00:21:44,860 --> 00:21:48,860
+AI might be the most important new computer technology ever.
+
+310
+00:21:49,360 --> 00:21:53,460
+It's storming every industry and literally billions of dollars are being invested.
+
+311
+00:21:53,920 --> 00:21:54,860
+So buckle up.
+
+312
+00:21:55,320 --> 00:21:58,640
+The problem is that AI needs a lot of speed and processing power.
+
+313
+00:21:59,200 --> 00:22:02,500
+So how do you compete without costs spiraling out of control?
+
+314
+00:22:02,500 --> 00:22:05,920
+It's time to upgrade to the next generation of the cloud.
+
+315
+00:22:06,340 --> 00:22:08,620
+Oracle Cloud Infrastructure or OCI.
+
+316
+00:22:09,560 --> 00:22:15,680
+OCI is a single platform for your infrastructure, database, application development and AI needs.
+
+317
+00:22:16,120 --> 00:22:19,080
+OCI has four to eight times the bandwidth of other clouds,
+
+318
+00:22:19,520 --> 00:22:22,920
+offers one consistent price instead of variable regional pricing.
+
+319
+00:22:23,280 --> 00:22:25,500
+And of course, nobody does data better than Oracle.
+
+320
+00:22:25,500 --> 00:22:31,220
+So now you can train your AI models at twice the speed and less than half the cost of other clouds.
+
+321
+00:22:31,840 --> 00:22:36,580
+If you want to do more and spend less, like Uber, 8x8 and Databricks Mosaic,
+
+322
+00:22:37,040 --> 00:22:40,940
+take a free test drive of OCI at oracle.com slash fox.
+
+323
+00:22:41,140 --> 00:22:43,300
+That's oracle.com slash fox.
+
+324
+00:22:43,300 --> 00:22:45,760
+Oracle.com slash fox.
+
+325
+00:22:49,760 --> 00:22:57,940
+Hey there, I'm Ashley C. Ford, and I host Into the Mix, a Ben and Jerry's podcast about joy and justice,
+
+326
+00:22:58,340 --> 00:22:59,820
+produced with Vox Creative.
+
+327
+00:22:59,820 --> 00:23:04,920
+As former President Donald Trump continues to claim, without evidence,
+
+328
+00:23:05,340 --> 00:23:09,760
+that voter fraud is a key issue in the 2024 presidential election,
+
+329
+00:23:10,280 --> 00:23:11,220
+we wanted to know,
+
+330
+00:23:11,720 --> 00:23:15,600
+what impact can claims like this have on ordinary voters?
+
+331
+00:23:16,320 --> 00:23:20,560
+Olivia Coley Pearson, or Miss Livy as she is known in her community,
+
+332
+00:23:21,080 --> 00:23:24,780
+comes from a family of proud voters and civil rights activists.
+
+333
+00:23:25,460 --> 00:23:28,500
+So as an adult, civil service came naturally to her.
+
+334
+00:23:28,500 --> 00:23:32,180
+In 2012, while she was volunteering at the polls,
+
+335
+00:23:32,660 --> 00:23:36,320
+a first-time voter asked Miss Livy how the voting machine worked.
+
+336
+00:23:36,720 --> 00:23:38,180
+And of course, she showed them.
+
+337
+00:23:38,840 --> 00:23:43,940
+Years later, in 2016, Miss Livy was arrested for voter fraud because of it.
+
+338
+00:23:44,460 --> 00:23:47,720
+In her mind, this arrest wasn't about voter fraud.
+
+339
+00:23:48,040 --> 00:23:50,520
+It was about intimidating Black voters.
+
+340
+00:23:51,400 --> 00:23:56,360
+Listen to her story on the first episode of our new three-part series on Into the Mix.
+
+341
+00:23:56,360 --> 00:23:57,260
+Out now.
+
+342
+00:23:58,500 --> 00:24:08,260
+We're back with Prof G Markets.
+
+343
+00:24:08,920 --> 00:24:14,700
+California-based chipmaker Cerebris Systems filed for an IPO that could raise up to $1 billion.
+
+344
+00:24:15,180 --> 00:24:20,440
+With an offering of that size, the NVIDIA Challenger could be valued at around $7 to $8 billion.
+
+345
+00:24:20,440 --> 00:24:25,800
+Cerebris showed strong, albeit early-stage growth for the first six months of 2024,
+
+346
+00:24:26,160 --> 00:24:29,040
+with revenue increasing more than 15-fold from a year earlier.
+
+347
+00:24:29,300 --> 00:24:34,280
+The trouble is, 87% of those sales came from just one company.
+
+348
+00:24:34,600 --> 00:24:39,360
+That company is G42, the top AI firm in the United Arab Emirates.
+
+349
+00:24:39,740 --> 00:24:42,820
+Should the US give Cerebris any trouble with its export licenses,
+
+350
+00:24:42,820 --> 00:24:45,480
+most of the company's revenue could be at risk.
+
+351
+00:24:46,040 --> 00:24:52,200
+Scott, what do you make of this IPO filing from Cerebris, perhaps the new NVIDIA?
+
+352
+00:24:52,200 --> 00:24:56,920
+Look, this is, never underestimate the market's ability to come up with a product when consumers
+
+353
+00:24:56,920 --> 00:24:57,840
+have cash in hand.
+
+354
+00:24:58,660 --> 00:25:02,240
+And you have a small number of companies that have kind of soaked up the majority of the
+
+355
+00:25:02,240 --> 00:25:04,580
+capital in the retail markets.
+
+356
+00:25:04,660 --> 00:25:10,820
+And that is, the SPAC market emerged because there were a lot of dentists and lawyers and
+
+357
+00:25:10,820 --> 00:25:14,240
+retail investors that thought, I would really like to be part of the Pepsi generation,
+
+358
+00:25:14,240 --> 00:25:18,980
+and I'm willing to buy a cool little company, even if Goldman Sachs doesn't think it's ready
+
+359
+00:25:18,980 --> 00:25:19,820
+for prime time.
+
+360
+00:25:20,580 --> 00:25:25,400
+And the demand was there amongst retail investors, and SPACs went out, and they were largely shitty
+
+361
+00:25:25,400 --> 00:25:28,660
+companies, and a lot of retail investors lost a lot of money.
+
+362
+00:25:29,280 --> 00:25:33,580
+The demand from retail, and who do you invest, if you're a retail investor that wants exposure
+
+363
+00:25:33,580 --> 00:25:35,020
+to AI, where do you invest right now?
+
+364
+00:25:35,080 --> 00:25:36,500
+It's basically Microsoft or NVIDIA.
+
+365
+00:25:36,560 --> 00:25:37,520
+What else do you invest in?
+
+366
+00:25:37,820 --> 00:25:38,080
+That's it.
+
+367
+00:25:38,080 --> 00:25:45,640
+There's so much demand for an NVIDIA-like competitor, even if it's a distant, distant,
+
+368
+00:25:45,820 --> 00:25:50,980
+distant number five, that there's a market for it.
+
+369
+00:25:51,040 --> 00:25:56,620
+Now, the first sign is that Barclays and Citi are not tier one.
+
+370
+00:25:56,760 --> 00:25:59,700
+Let me be clear, Barclays and Citi are the underwriters of this IPO.
+
+371
+00:25:59,840 --> 00:26:00,620
+Yeah, they're the underwriters.
+
+372
+00:26:01,040 --> 00:26:05,440
+So what that says is Morgan Stanley, JP Morgan, and Goldman Sachs said no.
+
+373
+00:26:05,440 --> 00:26:09,520
+Otherwise, one of those guys would be on the cover, which isn't to say it isn't a good
+
+374
+00:26:09,520 --> 00:26:12,480
+company, which isn't to say that it won't get a good reception in the marketplace, but
+
+375
+00:26:12,480 --> 00:26:15,580
+that's sort of the first, I don't want to call it a red flag, but the first indicator
+
+376
+00:26:15,580 --> 00:26:15,860
+here.
+
+377
+00:26:16,440 --> 00:26:23,880
+The red flag that is the size of Kansas here is that 87% of its revenues come from a company
+
+378
+00:26:23,880 --> 00:26:31,720
+backed by, I think, the UAE that is building its own LLM that also owns or has the opportunity
+
+379
+00:26:31,720 --> 00:26:32,880
+to buy shares in the company.
+
+380
+00:26:32,880 --> 00:26:38,540
+I mean, it's kind of a related party conflict, overly concentrated customer base that is the
+
+381
+00:26:38,540 --> 00:26:39,580
+stuff of nightmares.
+
+382
+00:26:40,080 --> 00:26:42,440
+Having said that, I would like to invest.
+
+383
+00:26:43,220 --> 00:26:46,620
+Whoever, I mean, there's a couple of reasons I'd like to invest.
+
+384
+00:26:46,900 --> 00:26:53,380
+I like the idea of bringing attention, sunlight, and capital to anything in this space that is
+
+385
+00:26:53,380 --> 00:26:55,580
+not NVIDIA or OpenAI.
+
+386
+00:26:56,060 --> 00:26:59,400
+It would be great for other competitors to emerge.
+
+387
+00:26:59,540 --> 00:27:01,600
+So I would love to be supportive of this company.
+
+388
+00:27:01,600 --> 00:27:02,380
+I want to follow it.
+
+389
+00:27:02,420 --> 00:27:03,400
+I want to talk about it.
+
+390
+00:27:03,860 --> 00:27:09,180
+I want to water as many new companies in this space as possible such that it just doesn't
+
+391
+00:27:09,180 --> 00:27:12,460
+develop into the Wintel, only much more concentrated.
+
+392
+00:27:12,860 --> 00:27:20,560
+The second is, I just think there's a decent chance this company gets an enormous pop because,
+
+393
+00:27:21,440 --> 00:27:22,120
+oh, it's AI.
+
+394
+00:27:22,540 --> 00:27:23,860
+Oh, it's a competitor to NVIDIA.
+
+395
+00:27:23,860 --> 00:27:24,300
+NVIDIA.
+
+396
+00:27:24,360 --> 00:27:25,960
+Sure, I'll throw some money at it.
+
+397
+00:27:26,040 --> 00:27:28,240
+And it's going to go out at a $7 billion market cap.
+
+398
+00:27:28,320 --> 00:27:33,920
+Say there's a one in 50 chance it becomes a quarter of NVIDIA.
+
+399
+00:27:34,320 --> 00:27:36,280
+Well, that would be $750 billion.
+
+400
+00:27:36,700 --> 00:27:39,820
+That would be, I mean, do the math.
+
+401
+00:27:39,920 --> 00:27:41,180
+That's still an okay investment.
+
+402
+00:27:41,180 --> 00:27:49,060
+So this is a lottery ticket, but it's a lottery ticket on the super, super, whatever it's called,
+
+403
+00:27:49,100 --> 00:27:53,100
+the super jackpot or the Powerball that all of a sudden we woke up and it's like, it's
+
+404
+00:27:53,100 --> 00:27:54,080
+$1.1 billion.
+
+405
+00:27:54,600 --> 00:27:59,940
+The prize here is so enormous for anybody that establishes momentum and traction.
+
+406
+00:28:00,240 --> 00:28:02,820
+So it's not the ilk.
+
+407
+00:28:02,940 --> 00:28:05,920
+It's not the pedigree you'd want in a company like this right now.
+
+408
+00:28:05,920 --> 00:28:09,620
+I wouldn't be surprised if the thing doubles on its first trade.
+
+409
+00:28:10,000 --> 00:28:14,480
+Well, I find it interesting that they're almost borrowing marketing tactics from the fast food
+
+410
+00:28:14,480 --> 00:28:14,900
+industry.
+
+411
+00:28:15,140 --> 00:28:24,820
+And that is, you know, when Burger King sales start slowing, a very surefire way to stoke
+
+412
+00:28:24,820 --> 00:28:31,600
+demand and interest in the company is to come out with a triple whopper or a double king XL.
+
+413
+00:28:31,600 --> 00:28:35,980
+Basically just create a fun size item of the product that you're already selling.
+
+414
+00:28:36,300 --> 00:28:41,280
+So having said that, I'm just going to read you some of the main details from the S1.
+
+415
+00:28:41,680 --> 00:28:49,520
+The first page in gigantic font, it takes up the entire page, says, quote, bigger chips are
+
+416
+00:28:49,520 --> 00:28:51,600
+faster and more efficient for AI.
+
+417
+00:28:52,160 --> 00:28:58,380
+In the prospectus summary, quote, the third generation Cerebrus wafer scale engine is the
+
+418
+00:28:58,380 --> 00:29:00,140
+largest chip ever sold.
+
+419
+00:29:00,140 --> 00:29:04,640
+It is 57 times larger than the leading commercially available GPU.
+
+420
+00:29:05,000 --> 00:29:12,120
+It has 52 times more compute cores, 880 times more on chip memory and 7000 times more memory
+
+421
+00:29:12,120 --> 00:29:12,540
+bandwidth.
+
+422
+00:29:12,860 --> 00:29:19,500
+The sheer size of the wafer scale chip allows us to keep more work on silicon and minimize
+
+423
+00:29:19,500 --> 00:29:22,320
+the time consuming power hungry movement of data.
+
+424
+00:29:22,440 --> 00:29:26,520
+In other words, the sales pitch is that size matters.
+
+425
+00:29:27,380 --> 00:29:28,740
+That's basically it.
+
+426
+00:29:28,740 --> 00:29:33,940
+But then again, they also say that it's 20 times faster than NVIDIA's chips.
+
+427
+00:29:34,100 --> 00:29:39,460
+And to your point, you know, if it's a good marketing tactic, maybe that's all that matters.
+
+428
+00:29:39,580 --> 00:29:40,800
+Maybe people read that.
+
+429
+00:29:41,040 --> 00:29:44,900
+They hear how big this chip is and they think, this is great.
+
+430
+00:29:44,980 --> 00:29:45,840
+We want to get involved.
+
+431
+00:29:45,840 --> 00:29:51,000
+So I'm sort of find it a little bit ridiculous parts of this.
+
+432
+00:29:51,000 --> 00:29:57,160
+I'm certainly concerned about that 87% number going to one company.
+
+433
+00:29:57,160 --> 00:30:02,480
+But there is an argument to be made that this kind of stuff could work and coming out with
+
+434
+00:30:02,480 --> 00:30:07,500
+fun-sized AI could generate the momentum they need to actually do well in the stock market.
+
+435
+00:30:07,760 --> 00:30:13,260
+If they can do anything, if ends up that any of their IP, any of their niches, if defense
+
+436
+00:30:13,260 --> 00:30:19,140
+contractors or pharmaceutical firms find that this monster, supersized chip works for them,
+
+437
+00:30:19,140 --> 00:30:21,720
+it's going to be worth a lot more than $7 billion.
+
+438
+00:30:22,520 --> 00:30:24,580
+So this is highly volatile.
+
+439
+00:30:25,980 --> 00:30:28,040
+But the upside here is asymmetric.
+
+440
+00:30:28,240 --> 00:30:29,280
+Yeah, it's like a mean stock play.
+
+441
+00:30:29,600 --> 00:30:29,700
+Yeah.
+
+442
+00:30:29,780 --> 00:30:34,200
+I could easily see this thing on any signs of life going to $30, $40, or $50 billion.
+
+443
+00:30:35,220 --> 00:30:37,540
+7x versus, assume the downside is zero.
+
+444
+00:30:37,540 --> 00:30:40,620
+But we should be clear, this is not at all value investing.
+
+445
+00:30:40,820 --> 00:30:42,500
+This is not based on the fundamentals.
+
+446
+00:30:42,880 --> 00:30:44,940
+And I do want to get your take on the fundamentals.
+
+447
+00:30:45,180 --> 00:30:48,960
+So they did $136 million in the first half of this year.
+
+448
+00:30:49,040 --> 00:30:51,560
+That number is up 15-fold from the previous year.
+
+449
+00:30:51,960 --> 00:30:56,780
+However, as we pointed out, 87% of that revenue is coming from one company, and that is G42.
+
+450
+00:30:57,580 --> 00:31:01,200
+And just I want to get your take a little bit on G42.
+
+451
+00:31:01,880 --> 00:31:05,100
+So this is an AI holding company that is based in Abu Dhabi.
+
+452
+00:31:05,100 --> 00:31:07,860
+They do AI everything.
+
+453
+00:31:08,280 --> 00:31:13,980
+I mean, the website, it says AI research, AI cloud computing, AI data centers, AI healthcare,
+
+454
+00:31:14,440 --> 00:31:15,840
+investing, et cetera, et cetera.
+
+455
+00:31:16,600 --> 00:31:20,780
+And they are largely controlled by the royal family of Abu Dhabi,
+
+456
+00:31:21,100 --> 00:31:24,800
+and largely funded by the UAE Sovereign Wealth Fund.
+
+457
+00:31:26,060 --> 00:31:30,880
+My instinct when I see these kinds of companies
+
+458
+00:31:30,880 --> 00:31:36,980
+is that this is very rich people who don't really know what they're doing.
+
+459
+00:31:37,140 --> 00:31:41,880
+Another word for that is, another term for that is dumb money.
+
+460
+00:31:42,740 --> 00:31:47,040
+You know, people who have more money than they even know what to do with.
+
+461
+00:31:47,120 --> 00:31:48,200
+That is my instinct.
+
+462
+00:31:48,340 --> 00:31:54,340
+Having said that, though, Microsoft is also a significant investor in G42.
+
+463
+00:31:54,340 --> 00:31:58,580
+They have partnerships going on with OpenAI and Dell and IBM and Microsoft.
+
+464
+00:31:59,500 --> 00:32:00,580
+They could be legit.
+
+465
+00:32:01,200 --> 00:32:04,720
+But my question to you would be, is the fact that their biggest client,
+
+466
+00:32:04,920 --> 00:32:08,720
+a Middle Eastern royalty-backed holding company,
+
+467
+00:32:08,820 --> 00:32:11,940
+is that good, bad, or does it not matter?
+
+468
+00:32:12,400 --> 00:32:13,840
+Okay, so there's some good and there's some bad.
+
+469
+00:32:13,960 --> 00:32:14,940
+So let's talk about the bad.
+
+470
+00:32:15,100 --> 00:32:17,960
+Related party transactions in 1999 and 2007,
+
+471
+00:32:17,960 --> 00:32:20,820
+when I was starting my tech companies,
+
+472
+00:32:21,680 --> 00:32:23,420
+what we found is that basically it was,
+
+473
+00:32:23,920 --> 00:32:26,780
+if you had a software company or even brand strategy,
+
+474
+00:32:26,960 --> 00:32:28,540
+my firm Profit,
+
+475
+00:32:29,580 --> 00:32:33,160
+in 99 we were killing it because there were all of these startups
+
+476
+00:32:33,160 --> 00:32:37,540
+who needed a brand identity and a logo and a strategy
+
+477
+00:32:37,540 --> 00:32:39,000
+and a positioning and a website.
+
+478
+00:32:39,300 --> 00:32:41,160
+So it was just champagne and cocaine.
+
+479
+00:32:41,740 --> 00:32:43,500
+When the market collapsed in 2000,
+
+480
+00:32:44,240 --> 00:32:46,200
+just all of our new clients dried up
+
+481
+00:32:46,200 --> 00:32:48,120
+because all of the new guys were gone.
+
+482
+00:32:48,360 --> 00:32:49,700
+They just got swept off the decks.
+
+483
+00:32:50,480 --> 00:32:53,480
+And a lot of times you found that all these new software startups,
+
+484
+00:32:53,700 --> 00:32:56,400
+Broadcom and all this e-commerce shit we were buying,
+
+485
+00:32:57,040 --> 00:33:00,200
+they were selling to all these hundreds or thousands of e-commerce startups
+
+486
+00:33:00,200 --> 00:33:02,360
+and then overnight, 60% of them were gone.
+
+487
+00:33:02,460 --> 00:33:04,760
+We were kind of all selling software and shit to each other
+
+488
+00:33:04,760 --> 00:33:08,420
+in the kind of the new brave world of the ecosystem.
+
+489
+00:33:08,420 --> 00:33:13,200
+There are so many new AI startups that the fear is,
+
+490
+00:33:13,380 --> 00:33:14,320
+okay, if there's a chill here,
+
+491
+00:33:14,420 --> 00:33:15,940
+these guys get swept off the deck first.
+
+492
+00:33:15,940 --> 00:33:22,380
+The scariest thing here is the concentration of one client, right?
+
+493
+00:33:22,660 --> 00:33:23,620
+Now, having said that,
+
+494
+00:33:24,200 --> 00:33:28,380
+you can imagine that the Gulf and the entire world looks at the amount,
+
+495
+00:33:28,540 --> 00:33:29,760
+it looks at this sector and says,
+
+496
+00:33:29,820 --> 00:33:32,820
+this is going to be probably the sector that creates the most shareholder value,
+
+497
+00:33:32,880 --> 00:33:34,560
+the quickest in a long, long time.
+
+498
+00:33:35,340 --> 00:33:39,080
+And it really bums us out that 97% of it is in one nation
+
+499
+00:33:39,080 --> 00:33:42,540
+and 80% of it or 70% of it isn't with a seven mile radius
+
+500
+00:33:42,540 --> 00:33:43,780
+of SFO International Airport.
+
+501
+00:33:43,780 --> 00:33:48,760
+And as we try and transition, we being the Gulf states or the UAE in this case,
+
+502
+00:33:48,860 --> 00:33:54,180
+from a fossil fuel-based economy to a services, tech, hospitality, education,
+
+503
+00:33:54,180 --> 00:33:58,180
+and in this instance, you know, technology-based economy,
+
+504
+00:33:58,400 --> 00:34:01,320
+we would like to have a presence in AI.
+
+505
+00:34:01,320 --> 00:34:05,280
+So the related party transaction here is really uncomfortable.
+
+506
+00:34:05,500 --> 00:34:10,020
+Having said that, when your related party has the deepest pockets in the world,
+
+507
+00:34:10,100 --> 00:34:11,780
+it's kind of a good related party.
+
+508
+00:34:12,200 --> 00:34:14,340
+And they'll be very supportive of the company moving forward
+
+509
+00:34:14,340 --> 00:34:16,340
+because they would like to see the center of gravity,
+
+510
+00:34:16,460 --> 00:34:20,100
+at least a little bit around AI, move into that region.
+
+511
+00:34:20,100 --> 00:34:23,320
+So red flags, red flags everywhere.
+
+512
+00:34:23,800 --> 00:34:24,560
+I'm a buyer.
+
+513
+00:34:24,880 --> 00:34:28,840
+Yeah, just one final comment from me on these sovereign wealth funds.
+
+514
+00:34:29,380 --> 00:34:31,760
+The public investment fund, which is Saudi Arabia,
+
+515
+00:34:32,260 --> 00:34:34,080
+Mubadala, which is UAE,
+
+516
+00:34:35,080 --> 00:34:40,200
+these funds, in my view, are the most susceptible to bullshit.
+
+517
+00:34:40,620 --> 00:34:44,800
+They are not disciples of the boring is sexy argument which you have made.
+
+518
+00:34:44,900 --> 00:34:48,460
+These are people who invest hundreds of billions of dollars
+
+519
+00:34:48,460 --> 00:34:52,040
+into whatever is the technology du jour.
+
+520
+00:34:52,440 --> 00:34:55,100
+They'll invest billions into buying Premier League teams.
+
+521
+00:34:55,460 --> 00:34:58,100
+They're building cities that have artificial moons.
+
+522
+00:34:58,580 --> 00:35:01,940
+I mean, these people love sexy stuff.
+
+523
+00:35:02,420 --> 00:35:04,220
+And so the idea that there is a company
+
+524
+00:35:04,220 --> 00:35:09,300
+that is pitching the world's biggest GPU cluster,
+
+525
+00:35:09,920 --> 00:35:13,600
+I'm just not at all surprised that the biggest backer
+
+526
+00:35:13,600 --> 00:35:16,700
+is someone in the Gulf with a shit ton of oil money.
+
+527
+00:35:16,700 --> 00:35:20,120
+What I have found, the worst thing they could have done for their brand
+
+528
+00:35:20,120 --> 00:35:22,340
+was this brand called Masayoshi Son.
+
+529
+00:35:23,280 --> 00:35:27,260
+And that is the whole WeWork fiasco,
+
+530
+00:35:28,000 --> 00:35:29,660
+SoftBank got this reputation for coming in
+
+531
+00:35:29,660 --> 00:35:31,540
+and just overfunding stupid fucking ideas.
+
+532
+00:35:32,220 --> 00:35:34,340
+And it's tightly linked to this,
+
+533
+00:35:34,680 --> 00:35:37,680
+what you would describe as dumb money in the Gulf.
+
+534
+00:35:37,940 --> 00:35:39,420
+If you spend any time in the Gulf
+
+535
+00:35:39,420 --> 00:35:40,720
+and you spend any time with these guys,
+
+536
+00:35:40,940 --> 00:35:42,460
+I would argue on average,
+
+537
+00:35:42,460 --> 00:35:44,420
+they are more professionally managed
+
+538
+00:35:44,420 --> 00:35:48,700
+than the majority of VC hedge funds in the West.
+
+539
+00:35:49,460 --> 00:35:53,160
+I mean, a rookie move is if you meet a new VC or fund
+
+540
+00:35:53,160 --> 00:35:54,920
+and they think they're going to fly into Riyadh
+
+541
+00:35:54,920 --> 00:35:56,300
+and just like hold out a hat
+
+542
+00:35:56,300 --> 00:35:58,560
+and that billions of dollars is going to drop into their fund.
+
+543
+00:35:58,980 --> 00:36:00,220
+They're in for a rude awakening.
+
+544
+00:36:00,380 --> 00:36:01,380
+That's what's happening, no?
+
+545
+00:36:01,540 --> 00:36:01,860
+No.
+
+546
+00:36:02,180 --> 00:36:04,180
+I feel like those are the head...
+
+547
+00:36:04,180 --> 00:36:05,180
+Fair enough.
+
+548
+00:36:05,260 --> 00:36:06,640
+I don't experience it personally.
+
+549
+00:36:06,640 --> 00:36:08,720
+But what I certainly see in the headlines
+
+550
+00:36:08,720 --> 00:36:11,780
+is that you take a flight,
+
+551
+00:36:12,240 --> 00:36:13,100
+you have your brand,
+
+552
+00:36:13,220 --> 00:36:14,480
+you hold your hat out
+
+553
+00:36:14,480 --> 00:36:15,980
+and they dump billions of dollars in.
+
+554
+00:36:16,100 --> 00:36:17,140
+Oh, no, no, no, no.
+
+555
+00:36:17,800 --> 00:36:21,060
+For every fund that's raising money there,
+
+556
+00:36:21,180 --> 00:36:22,340
+there are a hundred going there
+
+557
+00:36:22,340 --> 00:36:24,900
+and going to a cool resort in the desert
+
+558
+00:36:24,900 --> 00:36:26,260
+and going to the Superfund conference
+
+559
+00:36:26,260 --> 00:36:27,720
+and then coming back with no money.
+
+560
+00:36:27,800 --> 00:36:28,480
+As a matter of fact,
+
+561
+00:36:28,560 --> 00:36:30,460
+they've switched their objective
+
+562
+00:36:30,460 --> 00:36:32,640
+to no longer letting money leave the region.
+
+563
+00:36:32,760 --> 00:36:35,280
+But what they want is what's in it for us.
+
+564
+00:36:35,280 --> 00:36:36,660
+We need to get...
+
+565
+00:36:36,660 --> 00:36:37,660
+We want to create jobs.
+
+566
+00:36:37,880 --> 00:36:38,280
+We want to...
+
+567
+00:36:38,280 --> 00:36:40,740
+We know we're running out of oil.
+
+568
+00:36:41,200 --> 00:36:42,860
+We don't know if it's 40 years or 70 years,
+
+569
+00:36:42,920 --> 00:36:44,080
+but we know we're running out of it.
+
+570
+00:36:44,140 --> 00:36:45,300
+So we need to make this transition.
+
+571
+00:36:45,420 --> 00:36:47,360
+And the transition is not only making money abroad,
+
+572
+00:36:47,360 --> 00:36:49,860
+but it's building sustainable industry here.
+
+573
+00:36:49,940 --> 00:36:52,340
+They're trying to build a huge industry
+
+574
+00:36:52,340 --> 00:36:54,220
+and even a city focusing on gaming,
+
+575
+00:36:54,480 --> 00:36:55,500
+you know, video games.
+
+576
+00:36:55,840 --> 00:36:57,900
+They're building huge universities.
+
+577
+00:36:58,180 --> 00:37:00,280
+NYU has a huge presence in Abu Dhabi.
+
+578
+00:37:00,280 --> 00:37:04,460
+I think it's a little bit reductive
+
+579
+00:37:04,460 --> 00:37:07,500
+and I don't know.
+
+580
+00:37:07,660 --> 00:37:10,500
+I think you're falling into the trap
+
+581
+00:37:10,500 --> 00:37:14,620
+of believing that you've seen the headlines
+
+582
+00:37:14,620 --> 00:37:15,860
+and the stories and the...
+
+583
+00:37:15,860 --> 00:37:16,920
+They've made bad investments.
+
+584
+00:37:17,360 --> 00:37:18,120
+Oh, no doubt.
+
+585
+00:37:18,260 --> 00:37:19,680
+But I also think they've made good investments.
+
+586
+00:37:20,540 --> 00:37:24,140
+And my experience with them has been
+
+587
+00:37:24,140 --> 00:37:25,540
+that they are just as,
+
+588
+00:37:25,620 --> 00:37:26,580
+if not more sophisticated
+
+589
+00:37:26,580 --> 00:37:28,860
+than any other alternative investments investor.
+
+590
+00:37:28,860 --> 00:37:32,000
+Anyways, come to Riyadh.
+
+591
+00:37:32,060 --> 00:37:33,000
+You and I are going to Riyadh.
+
+592
+00:37:33,020 --> 00:37:33,640
+Yeah, exactly.
+
+593
+00:37:34,000 --> 00:37:35,900
+I think that's where we're headed here.
+
+594
+00:37:36,280 --> 00:37:39,900
+I think either MBS is in the room with you
+
+595
+00:37:39,900 --> 00:37:40,740
+with a gun to your head
+
+596
+00:37:40,740 --> 00:37:42,020
+or we're going to get them on the podcast.
+
+597
+00:37:42,340 --> 00:37:44,180
+One of those two things is going to happen.
+
+598
+00:37:44,540 --> 00:37:45,860
+Neither of those is true.
+
+599
+00:37:46,000 --> 00:37:46,840
+And I want to be clear,
+
+600
+00:37:46,880 --> 00:37:47,720
+I have no investments
+
+601
+00:37:47,720 --> 00:37:49,640
+or vested interest in the golf right now.
+
+602
+00:37:50,300 --> 00:37:51,540
+Just to be clear.
+
+603
+00:37:52,500 --> 00:37:53,420
+Just to be clear.
+
+604
+00:37:53,420 --> 00:37:54,200
+We'll look into that.
+
+605
+00:37:55,480 --> 00:37:56,700
+We'll be right back after the break
+
+606
+00:37:56,700 --> 00:37:58,720
+with a look at the path forward for Nike.
+
+607
+00:37:58,860 --> 00:38:10,380
+It's taken a few months,
+
+608
+00:38:10,460 --> 00:38:12,220
+but I think I've almost chosen our next car.
+
+609
+00:38:12,460 --> 00:38:13,960
+I've weighed up new versus secondhand,
+
+610
+00:38:14,080 --> 00:38:15,200
+assessed the depreciation rates
+
+611
+00:38:15,200 --> 00:38:16,780
+and spoken to eight insurance providers.
+
+612
+00:38:17,020 --> 00:38:18,560
+I'll be ready to enter phase two of selection
+
+613
+00:38:18,560 --> 00:38:19,580
+over the next few weeks.
+
+614
+00:38:20,000 --> 00:38:21,700
+You might be a driving enthusiast,
+
+615
+00:38:21,700 --> 00:38:23,880
+but we're not all admin enthusiasts.
+
+616
+00:38:24,200 --> 00:38:25,780
+Pivotal is the all-inclusive
+
+617
+00:38:25,780 --> 00:38:27,740
+premium car subscription service
+
+618
+00:38:27,740 --> 00:38:29,140
+that simplifies your life.
+
+619
+00:38:29,380 --> 00:38:30,420
+With insurance, maintenance,
+
+620
+00:38:30,680 --> 00:38:31,840
+and the possibility of switching
+
+621
+00:38:31,840 --> 00:38:33,540
+to a fresh vehicle every six months,
+
+622
+00:38:33,700 --> 00:38:35,160
+experience the flexible alternative
+
+623
+00:38:35,160 --> 00:38:36,060
+to car ownership
+
+624
+00:38:36,060 --> 00:38:37,980
+at drivepivotal.com.
+
+625
+00:38:37,980 --> 00:38:42,120
+Adobe Express is the quick and easy
+
+626
+00:38:42,120 --> 00:38:43,460
+create anything app.
+
+627
+00:38:44,180 --> 00:38:46,060
+It has taken my content to the next level,
+
+628
+00:38:46,420 --> 00:38:48,460
+making it simple to create everything I need
+
+629
+00:38:48,460 --> 00:38:49,480
+to promote my business.
+
+630
+00:38:50,000 --> 00:38:51,780
+From Instagram and TikTok posts
+
+631
+00:38:51,780 --> 00:38:53,060
+to logos and flyers,
+
+632
+00:38:53,400 --> 00:38:54,800
+all in just a few clicks.
+
+633
+00:38:55,940 --> 00:38:57,920
+Build your brand with Adobe Express.
+
+634
+00:38:58,660 --> 00:39:00,480
+Search for Adobe Express to find out more
+
+635
+00:39:00,480 --> 00:39:01,820
+and get the app for free.
+
+636
+00:39:02,660 --> 00:39:03,320
+Adobe Express,
+
+637
+00:39:03,320 --> 00:39:05,080
+the quick and easy
+
+638
+00:39:05,080 --> 00:39:06,180
+create anything app.
+
+639
+00:39:08,960 --> 00:39:10,460
+This is an ad for BetterHelp.
+
+640
+00:39:10,640 --> 00:39:11,740
+Welcome to the world.
+
+641
+00:39:11,980 --> 00:39:13,920
+Please read your personal owner's manual thoroughly.
+
+642
+00:39:14,180 --> 00:39:15,800
+In it, you'll find simple instructions
+
+643
+00:39:15,800 --> 00:39:16,740
+for how to interact
+
+644
+00:39:16,740 --> 00:39:18,000
+with your fellow human beings
+
+645
+00:39:18,000 --> 00:39:19,100
+and how to find happiness
+
+646
+00:39:19,100 --> 00:39:19,940
+and peace of mind.
+
+647
+00:39:20,160 --> 00:39:20,660
+Thank you
+
+648
+00:39:20,660 --> 00:39:21,740
+and have a nice life.
+
+649
+00:39:22,180 --> 00:39:22,660
+Unfortunately,
+
+650
+00:39:23,220 --> 00:39:24,180
+life doesn't come
+
+651
+00:39:24,180 --> 00:39:25,220
+with an owner's manual.
+
+652
+00:39:25,580 --> 00:39:26,480
+That's why there's
+
+653
+00:39:26,480 --> 00:39:28,160
+BetterHelp Online Therapy.
+
+654
+00:39:28,440 --> 00:39:29,880
+Connect with a credentialed therapist
+
+655
+00:39:29,880 --> 00:39:30,640
+by phone,
+
+656
+00:39:30,960 --> 00:39:31,220
+video,
+
+657
+00:39:31,220 --> 00:39:32,300
+or online chat.
+
+658
+00:39:32,600 --> 00:39:34,140
+Visit BetterHelp.com
+
+659
+00:39:34,140 --> 00:39:34,980
+to learn more.
+
+660
+00:39:35,200 --> 00:39:38,120
+That's BetterHelp.com.
+
+661
+00:39:44,980 --> 00:39:46,820
+We're back with Proftary Markets.
+
+662
+00:39:47,260 --> 00:39:49,300
+Nike withdrew its full-year sales guidance
+
+663
+00:39:49,300 --> 00:39:51,040
+ahead of its new CEO's arrival
+
+664
+00:39:51,040 --> 00:39:51,880
+later this month.
+
+665
+00:39:52,120 --> 00:39:53,460
+The company also postponed
+
+666
+00:39:53,460 --> 00:39:54,320
+its investor day,
+
+667
+00:39:54,660 --> 00:39:55,980
+signaling that a meaningful turnaround
+
+668
+00:39:55,980 --> 00:39:57,100
+will take some time
+
+669
+00:39:57,100 --> 00:39:58,720
+and the stock fell 7%.
+
+670
+00:39:58,720 --> 00:40:00,700
+As we discussed previously,
+
+671
+00:40:00,700 --> 00:40:03,280
+Nike tapped company veteran Elliot Hill
+
+672
+00:40:03,280 --> 00:40:04,340
+to take the helm
+
+673
+00:40:04,340 --> 00:40:05,340
+amid declining sales.
+
+674
+00:40:05,800 --> 00:40:07,100
+Revenue for the most recent quarter
+
+675
+00:40:07,100 --> 00:40:09,180
+dropped 10% year over year.
+
+676
+00:40:09,980 --> 00:40:11,120
+CFO Matthew Friend
+
+677
+00:40:11,120 --> 00:40:12,260
+said pulling the guidance
+
+678
+00:40:12,260 --> 00:40:12,900
+would give Hill
+
+679
+00:40:12,900 --> 00:40:13,260
+quote,
+
+680
+00:40:13,620 --> 00:40:14,500
+much needed flexibility
+
+681
+00:40:14,500 --> 00:40:16,260
+to evaluate Nike strategies
+
+682
+00:40:16,260 --> 00:40:17,520
+and business trends.
+
+683
+00:40:17,680 --> 00:40:17,820
+Scott,
+
+684
+00:40:18,400 --> 00:40:20,000
+based on your experience,
+
+685
+00:40:20,660 --> 00:40:21,960
+one,
+
+686
+00:40:22,020 --> 00:40:22,640
+what do you make of
+
+687
+00:40:22,640 --> 00:40:23,640
+these Nike earnings,
+
+688
+00:40:23,720 --> 00:40:24,620
+revenue down 10%?
+
+689
+00:40:24,800 --> 00:40:25,180
+And two,
+
+690
+00:40:25,400 --> 00:40:26,140
+what do you think
+
+691
+00:40:26,140 --> 00:40:27,000
+the new CEO,
+
+692
+00:40:27,200 --> 00:40:27,740
+Elliot Hill,
+
+693
+00:40:27,740 --> 00:40:28,780
+needs to do here
+
+694
+00:40:28,780 --> 00:40:29,980
+to stage a comeback
+
+695
+00:40:29,980 --> 00:40:30,400
+for Nike?
+
+696
+00:40:30,740 --> 00:40:30,900
+You know,
+
+697
+00:40:31,020 --> 00:40:32,880
+I like this company so much.
+
+698
+00:40:32,980 --> 00:40:33,860
+I have a bias.
+
+699
+00:40:34,060 --> 00:40:35,180
+I want you to go first,
+
+700
+00:40:35,300 --> 00:40:35,380
+Ed.
+
+701
+00:40:35,400 --> 00:40:36,400
+I think you probably have,
+
+702
+00:40:36,660 --> 00:40:37,000
+I mean,
+
+703
+00:40:37,820 --> 00:40:38,140
+you know,
+
+704
+00:40:38,260 --> 00:40:40,480
+unlike your exceptionally
+
+705
+00:40:40,480 --> 00:40:41,480
+biased bordering
+
+706
+00:40:41,480 --> 00:40:43,700
+on racist views
+
+707
+00:40:43,700 --> 00:40:44,380
+of the Gulf,
+
+708
+00:40:44,380 --> 00:40:48,220
+I'd like your views
+
+709
+00:40:48,220 --> 00:40:49,360
+on Nike on the swoosh.
+
+710
+00:40:49,420 --> 00:40:49,840
+And by the way,
+
+711
+00:40:49,860 --> 00:40:51,100
+they're really nice white people.
+
+712
+00:40:51,360 --> 00:40:51,720
+Go ahead.
+
+713
+00:40:53,340 --> 00:40:54,760
+No one's going to buy this.
+
+714
+00:40:55,140 --> 00:40:56,300
+No one's going to buy
+
+715
+00:40:56,300 --> 00:40:58,260
+the reason I believe
+
+716
+00:40:58,260 --> 00:40:59,760
+that they're investing
+
+717
+00:40:59,760 --> 00:41:00,100
+in these companies
+
+718
+00:41:00,100 --> 00:41:00,640
+because I'm racist.
+
+719
+00:41:01,000 --> 00:41:01,420
+Anyways,
+
+720
+00:41:01,580 --> 00:41:02,020
+go ahead.
+
+721
+00:41:02,500 --> 00:41:03,180
+What do you think of Nike?
+
+722
+00:41:03,580 --> 00:41:03,980
+Well,
+
+723
+00:41:04,160 --> 00:41:04,880
+I think what's interesting
+
+724
+00:41:04,880 --> 00:41:05,480
+is that,
+
+725
+00:41:05,480 --> 00:41:05,860
+you know,
+
+726
+00:41:05,920 --> 00:41:07,620
+there's not one part
+
+727
+00:41:07,620 --> 00:41:08,600
+of the business here
+
+728
+00:41:08,600 --> 00:41:10,020
+that is working.
+
+729
+00:41:11,620 --> 00:41:12,860
+It's basically bad
+
+730
+00:41:12,860 --> 00:41:13,600
+across the board.
+
+731
+00:41:13,600 --> 00:41:14,320
+So you're seeing
+
+732
+00:41:14,320 --> 00:41:15,480
+revenue declines
+
+733
+00:41:15,480 --> 00:41:16,440
+in direct revenue,
+
+734
+00:41:16,600 --> 00:41:17,400
+in brand revenue,
+
+735
+00:41:17,480 --> 00:41:18,340
+in wholesale revenue.
+
+736
+00:41:18,580 --> 00:41:19,440
+You're also seeing
+
+737
+00:41:19,440 --> 00:41:20,420
+revenue declines
+
+738
+00:41:20,420 --> 00:41:21,960
+across every region.
+
+739
+00:41:22,080 --> 00:41:22,980
+So it's down 11%
+
+740
+00:41:22,980 --> 00:41:23,640
+in North America.
+
+741
+00:41:23,780 --> 00:41:25,660
+It's down 13% in Europe.
+
+742
+00:41:25,920 --> 00:41:27,160
+The slowest decrease
+
+743
+00:41:27,160 --> 00:41:28,240
+was in China,
+
+744
+00:41:28,320 --> 00:41:29,500
+which is down 4%.
+
+745
+00:41:29,500 --> 00:41:30,620
+But that's sort of
+
+746
+00:41:30,620 --> 00:41:31,600
+the rising tide
+
+747
+00:41:31,600 --> 00:41:32,260
+with all boats
+
+748
+00:41:32,260 --> 00:41:32,920
+as we're seeing,
+
+749
+00:41:33,040 --> 00:41:33,740
+you know,
+
+750
+00:41:34,340 --> 00:41:36,520
+China is somewhat improving
+
+751
+00:41:36,520 --> 00:41:38,040
+or at least it's falling
+
+752
+00:41:38,040 --> 00:41:39,860
+less fast than it was before.
+
+753
+00:41:40,140 --> 00:41:41,120
+So the financial picture
+
+754
+00:41:41,120 --> 00:41:42,540
+for Nike is very simple.
+
+755
+00:41:42,540 --> 00:41:44,180
+Things are just bad
+
+756
+00:41:44,180 --> 00:41:45,260
+across the board.
+
+757
+00:41:45,440 --> 00:41:46,620
+The only other
+
+758
+00:41:46,620 --> 00:41:47,620
+interesting detail
+
+759
+00:41:47,620 --> 00:41:48,240
+is the fact
+
+760
+00:41:48,240 --> 00:41:48,840
+that they decided
+
+761
+00:41:48,840 --> 00:41:49,480
+to withdraw
+
+762
+00:41:49,480 --> 00:41:51,160
+their full year guidance,
+
+763
+00:41:51,600 --> 00:41:51,980
+i.e.
+
+764
+00:41:52,240 --> 00:41:53,260
+their financial forecast
+
+765
+00:41:53,260 --> 00:41:54,380
+for the next 12 months.
+
+766
+00:41:54,540 --> 00:41:55,200
+And instead,
+
+767
+00:41:55,300 --> 00:41:55,900
+they're only offering
+
+768
+00:41:55,900 --> 00:41:57,660
+quarterly forecasting.
+
+769
+00:41:58,020 --> 00:41:58,840
+And their explanation
+
+770
+00:41:58,840 --> 00:41:59,380
+for that
+
+771
+00:41:59,380 --> 00:42:00,120
+is that,
+
+772
+00:42:00,180 --> 00:42:00,340
+you know,
+
+773
+00:42:00,360 --> 00:42:01,500
+we have a management shakeup,
+
+774
+00:42:01,540 --> 00:42:02,380
+we've got a new CEO,
+
+775
+00:42:02,600 --> 00:42:04,060
+we're in a transition period.
+
+776
+00:42:04,060 --> 00:42:07,420
+I can't tell if that is
+
+777
+00:42:07,420 --> 00:42:10,060
+an appropriate excuse or not.
+
+778
+00:42:10,140 --> 00:42:11,300
+So I would like to get
+
+779
+00:42:11,300 --> 00:42:12,240
+your take on that.
+
+780
+00:42:12,480 --> 00:42:13,740
+What do you make of a company
+
+781
+00:42:13,740 --> 00:42:14,400
+like Nike,
+
+782
+00:42:14,520 --> 00:42:15,560
+as big as Nike,
+
+783
+00:42:16,060 --> 00:42:16,500
+saying,
+
+784
+00:42:16,860 --> 00:42:17,640
+we actually don't know
+
+785
+00:42:17,640 --> 00:42:18,740
+what the next 12 months
+
+786
+00:42:18,740 --> 00:42:19,660
+looks like
+
+787
+00:42:19,660 --> 00:42:20,260
+because we've got
+
+788
+00:42:20,260 --> 00:42:21,860
+a new CEO coming in.
+
+789
+00:42:21,900 --> 00:42:22,800
+Is that a valid excuse
+
+790
+00:42:22,800 --> 00:42:24,200
+or is it a little bit bullshit?
+
+791
+00:42:24,580 --> 00:42:25,460
+I think it's the latter.
+
+792
+00:42:25,660 --> 00:42:26,480
+I think when you're a company
+
+793
+00:42:26,480 --> 00:42:26,960
+like Nike,
+
+794
+00:42:27,020 --> 00:42:28,240
+you should have such a deep bench,
+
+795
+00:42:28,340 --> 00:42:29,240
+you should have such
+
+796
+00:42:29,240 --> 00:42:30,340
+a talented CFO,
+
+797
+00:42:30,960 --> 00:42:32,080
+you should be able to draw
+
+798
+00:42:32,080 --> 00:42:33,680
+on such an incredibly talented CEO,
+
+799
+00:42:33,840 --> 00:42:34,400
+which I think
+
+800
+00:42:34,400 --> 00:42:37,440
+the new CEO is,
+
+801
+00:42:37,780 --> 00:42:38,880
+that you should be able
+
+802
+00:42:38,880 --> 00:42:39,920
+to handle learnings calls
+
+803
+00:42:39,920 --> 00:42:42,260
+and forward-looking projections.
+
+804
+00:42:43,180 --> 00:42:44,920
+So if you really feel that way,
+
+805
+00:42:45,020 --> 00:42:46,440
+that you need to free up,
+
+806
+00:42:46,700 --> 00:42:47,960
+the excuse they gave
+
+807
+00:42:47,960 --> 00:42:50,200
+that it would essentially,
+
+808
+00:42:50,780 --> 00:42:51,900
+what was it said?
+
+809
+00:42:52,020 --> 00:42:53,120
+That it would much need
+
+810
+00:42:53,120 --> 00:42:54,140
+a flexibility to evaluate
+
+811
+00:42:54,140 --> 00:42:54,860
+Nike's strategy
+
+812
+00:42:54,860 --> 00:42:55,480
+and business trends.
+
+813
+00:42:55,800 --> 00:42:56,560
+That's why companies
+
+814
+00:42:56,560 --> 00:42:57,440
+are taken private
+
+815
+00:42:57,440 --> 00:42:59,420
+because when you have
+
+816
+00:42:59,420 --> 00:43:00,180
+a public company,
+
+817
+00:43:00,280 --> 00:43:01,000
+you're sort of promising
+
+818
+00:43:01,000 --> 00:43:01,700
+that you're going to give
+
+819
+00:43:01,700 --> 00:43:02,780
+a certain level of transparency,
+
+820
+00:43:02,980 --> 00:43:03,700
+especially when you're
+
+821
+00:43:03,700 --> 00:43:05,180
+an S&P company like Nike.
+
+822
+00:43:06,140 --> 00:43:08,400
+So that is yet another signal
+
+823
+00:43:08,400 --> 00:43:09,260
+that these guys really
+
+824
+00:43:09,260 --> 00:43:10,400
+don't have their shit together.
+
+825
+00:43:11,120 --> 00:43:11,840
+And even if you were
+
+826
+00:43:11,840 --> 00:43:12,600
+to come on and say,
+
+827
+00:43:12,700 --> 00:43:13,060
+I'm new,
+
+828
+00:43:13,160 --> 00:43:13,940
+this is what I'm thinking,
+
+829
+00:43:14,100 --> 00:43:15,280
+and have the CFO report
+
+830
+00:43:15,280 --> 00:43:16,040
+in a very no mercy,
+
+831
+00:43:16,120 --> 00:43:16,880
+no malice way,
+
+832
+00:43:17,640 --> 00:43:17,960
+you know,
+
+833
+00:43:17,960 --> 00:43:18,820
+this is what's going on,
+
+834
+00:43:18,860 --> 00:43:19,980
+I think analysts would be fine.
+
+835
+00:43:20,060 --> 00:43:21,440
+But to kind of go back
+
+836
+00:43:21,440 --> 00:43:23,360
+into we don't know
+
+837
+00:43:23,360 --> 00:43:24,240
+what's going on,
+
+838
+00:43:24,320 --> 00:43:25,060
+we want the freedom
+
+839
+00:43:25,060 --> 00:43:25,980
+to figure this out,
+
+840
+00:43:26,420 --> 00:43:26,780
+come on,
+
+841
+00:43:26,840 --> 00:43:27,640
+you're fucking Nike,
+
+842
+00:43:27,960 --> 00:43:28,640
+for God's sakes.
+
+843
+00:43:28,720 --> 00:43:29,680
+You should have that.
+
+844
+00:43:29,680 --> 00:43:31,740
+You should have five people
+
+845
+00:43:31,740 --> 00:43:32,620
+sitting around the table
+
+846
+00:43:32,620 --> 00:43:34,140
+that could probably be the CEO
+
+847
+00:43:34,140 --> 00:43:35,000
+in the earnings call
+
+848
+00:43:35,000 --> 00:43:37,260
+for the next two or three quarters
+
+849
+00:43:37,260 --> 00:43:38,280
+that are just very good
+
+850
+00:43:38,280 --> 00:43:38,900
+at what they do.
+
+851
+00:43:39,080 --> 00:43:39,820
+And the fact that
+
+852
+00:43:39,820 --> 00:43:40,840
+they don't have that,
+
+853
+00:43:41,100 --> 00:43:42,300
+it reflects poorly
+
+854
+00:43:42,300 --> 00:43:42,960
+on the board
+
+855
+00:43:42,960 --> 00:43:45,320
+and the bench,
+
+856
+00:43:45,400 --> 00:43:45,880
+if you will.
+
+857
+00:43:46,280 --> 00:43:46,500
+Now,
+
+858
+00:43:46,620 --> 00:43:47,460
+down 10%
+
+859
+00:43:47,460 --> 00:43:48,900
+on a company this size
+
+860
+00:43:48,900 --> 00:43:50,040
+is no doubt,
+
+861
+00:43:50,240 --> 00:43:52,460
+that is nearly a meltdown
+
+862
+00:43:52,460 --> 00:43:53,360
+for a company like this
+
+863
+00:43:53,360 --> 00:43:54,220
+that is so diversified
+
+864
+00:43:54,220 --> 00:43:55,020
+around the globe.
+
+865
+00:43:55,020 --> 00:43:57,240
+I wonder if this was
+
+866
+00:43:57,240 --> 00:43:58,540
+a bit of a kitchen sink quarter,
+
+867
+00:43:58,600 --> 00:43:59,120
+if they kind of threw
+
+868
+00:43:59,120 --> 00:44:00,280
+all their bad news in here.
+
+869
+00:44:01,560 --> 00:44:02,700
+What do they need to do?
+
+870
+00:44:02,820 --> 00:44:04,200
+I'd be very curious to know,
+
+871
+00:44:04,220 --> 00:44:04,720
+and you never like
+
+872
+00:44:04,720 --> 00:44:05,400
+to say this out loud,
+
+873
+00:44:05,460 --> 00:44:06,380
+I'd be very curious to know
+
+874
+00:44:06,380 --> 00:44:06,920
+what their revenue
+
+875
+00:44:06,920 --> 00:44:07,840
+per employee is.
+
+876
+00:44:07,940 --> 00:44:08,700
+It feels to me like
+
+877
+00:44:08,700 --> 00:44:09,840
+a pretty significant
+
+878
+00:44:09,840 --> 00:44:10,760
+layoff is coming.
+
+879
+00:44:11,660 --> 00:44:13,620
+But what they need to show
+
+880
+00:44:13,620 --> 00:44:15,120
+is some momentum
+
+881
+00:44:15,120 --> 00:44:17,560
+around shrinking
+
+882
+00:44:17,560 --> 00:44:18,920
+the product development time
+
+883
+00:44:18,920 --> 00:44:20,080
+and getting kind of,
+
+884
+00:44:20,140 --> 00:44:20,520
+if you will,
+
+885
+00:44:20,580 --> 00:44:21,480
+I don't want to say cool again,
+
+886
+00:44:21,520 --> 00:44:22,600
+but on trend again,
+
+887
+00:44:23,340 --> 00:44:24,020
+getting out there
+
+888
+00:44:24,020 --> 00:44:24,760
+and getting much more
+
+889
+00:44:24,760 --> 00:44:25,860
+in touch at a ground level
+
+890
+00:44:25,860 --> 00:44:26,380
+with some of their
+
+891
+00:44:26,380 --> 00:44:28,120
+cooler, smaller retailers
+
+892
+00:44:28,120 --> 00:44:29,820
+being more on trend.
+
+893
+00:44:29,980 --> 00:44:30,420
+And then once they
+
+894
+00:44:30,420 --> 00:44:31,260
+discover trends,
+
+895
+00:44:31,620 --> 00:44:33,680
+getting stuff from design
+
+896
+00:44:33,680 --> 00:44:35,300
+or concept to shelf
+
+897
+00:44:35,300 --> 00:44:36,220
+much faster.
+
+898
+00:44:36,800 --> 00:44:37,980
+And I think they should
+
+899
+00:44:37,980 --> 00:44:39,100
+be able to figure that out.
+
+900
+00:44:39,180 --> 00:44:39,520
+Also,
+
+901
+00:44:40,260 --> 00:44:41,040
+they've just left
+
+902
+00:44:41,040 --> 00:44:41,720
+these niches
+
+903
+00:44:41,720 --> 00:44:42,840
+and these doors wide open
+
+904
+00:44:42,840 --> 00:44:44,300
+for Hoka and for On.
+
+905
+00:44:45,020 --> 00:44:45,800
+At the end of the day,
+
+906
+00:44:45,860 --> 00:44:47,220
+I agree with you.
+
+907
+00:44:47,360 --> 00:44:48,620
+They shouldn't be saying,
+
+908
+00:44:48,780 --> 00:44:48,940
+oh,
+
+909
+00:44:48,980 --> 00:44:50,940
+we're in such disarray
+
+910
+00:44:50,940 --> 00:44:52,960
+that we're not going
+
+911
+00:44:52,960 --> 00:44:53,920
+to be able to do it
+
+912
+00:44:53,920 --> 00:44:56,120
+basically every public company.
+
+913
+00:44:57,120 --> 00:44:58,480
+97% of public companies
+
+914
+00:44:58,480 --> 00:44:59,580
+managed to do this
+
+915
+00:44:59,580 --> 00:45:00,820
+and none of them have the,
+
+916
+00:45:01,040 --> 00:45:02,060
+or very few of them
+
+917
+00:45:02,060 --> 00:45:02,880
+have the resources
+
+918
+00:45:02,880 --> 00:45:04,080
+and the depth of the bench
+
+919
+00:45:04,080 --> 00:45:05,440
+of a Nike.
+
+920
+00:45:05,760 --> 00:45:07,620
+So I just think this brand
+
+921
+00:45:07,620 --> 00:45:08,140
+is just,
+
+922
+00:45:08,980 --> 00:45:09,980
+I don't care where you go.
+
+923
+00:45:10,040 --> 00:45:10,560
+I don't care if you go
+
+924
+00:45:10,560 --> 00:45:11,380
+to Cape Town
+
+925
+00:45:11,380 --> 00:45:12,580
+or Seoul
+
+926
+00:45:12,580 --> 00:45:14,300
+or, you know,
+
+927
+00:45:14,740 --> 00:45:16,900
+Cambodia.
+
+928
+00:45:17,660 --> 00:45:18,520
+11-year-olds
+
+929
+00:45:18,520 --> 00:45:19,460
+playing football
+
+930
+00:45:19,460 --> 00:45:21,180
+in the yard
+
+931
+00:45:21,180 --> 00:45:22,200
+are wearing Nike
+
+932
+00:45:22,200 --> 00:45:24,360
+and the brand
+
+933
+00:45:24,360 --> 00:45:25,580
+has always reinvented itself.
+
+934
+00:45:25,700 --> 00:45:26,080
+They have such
+
+935
+00:45:26,080 --> 00:45:27,440
+powerful marketing roots.
+
+936
+00:45:27,880 --> 00:45:28,520
+They're not even
+
+937
+00:45:28,520 --> 00:45:29,680
+needed to reinvent itself.
+
+938
+00:45:29,760 --> 00:45:30,620
+It just resonates
+
+939
+00:45:30,620 --> 00:45:31,640
+so deeply
+
+940
+00:45:31,640 --> 00:45:32,940
+that I,
+
+941
+00:45:32,940 --> 00:45:34,060
+I like this company a lot.
+
+942
+00:45:34,120 --> 00:45:34,760
+I think at these
+
+943
+00:45:34,760 --> 00:45:35,580
+price levels,
+
+944
+00:45:35,580 --> 00:45:36,700
+I mean,
+
+945
+00:45:36,720 --> 00:45:37,300
+I'd be prepared
+
+946
+00:45:37,300 --> 00:45:38,280
+for it to go down more,
+
+947
+00:45:38,440 --> 00:45:39,200
+but this is,
+
+948
+00:45:39,380 --> 00:45:39,600
+you know,
+
+949
+00:45:39,640 --> 00:45:40,180
+I'm thinking about
+
+950
+00:45:40,180 --> 00:45:40,880
+setting up a trust
+
+951
+00:45:40,880 --> 00:45:41,580
+for my kids
+
+952
+00:45:41,580 --> 00:45:42,720
+and this is one
+
+953
+00:45:42,720 --> 00:45:43,380
+of those stocks
+
+954
+00:45:43,380 --> 00:45:44,480
+that I would put in there
+
+955
+00:45:44,480 --> 00:45:44,900
+and just say,
+
+956
+00:45:44,960 --> 00:45:45,120
+okay,
+
+957
+00:45:45,200 --> 00:45:46,640
+look at it in 20 years.
+
+958
+00:45:46,640 --> 00:45:47,520
+Two things
+
+959
+00:45:47,520 --> 00:45:48,540
+I find quite interesting.
+
+960
+00:45:48,700 --> 00:45:49,100
+One is,
+
+961
+00:45:49,620 --> 00:45:50,660
+I think you're right
+
+962
+00:45:50,660 --> 00:45:51,600
+that the CFO
+
+963
+00:45:51,600 --> 00:45:53,340
+kind of did a shitty job here
+
+964
+00:45:53,340 --> 00:45:54,720
+and the rest
+
+965
+00:45:54,720 --> 00:45:55,620
+of the management team
+
+966
+00:45:55,620 --> 00:45:57,100
+while the previous CEO,
+
+967
+00:45:57,860 --> 00:45:58,720
+John Donahoe,
+
+968
+00:45:58,760 --> 00:45:59,200
+is out.
+
+969
+00:45:59,580 --> 00:46:00,740
+And it sort of reminds me
+
+970
+00:46:00,740 --> 00:46:01,980
+of like the Gareth Southgate
+
+971
+00:46:01,980 --> 00:46:02,540
+problem
+
+972
+00:46:02,540 --> 00:46:04,820
+where we have this tendency
+
+973
+00:46:04,820 --> 00:46:05,880
+to just assume
+
+974
+00:46:05,880 --> 00:46:08,040
+that everything's going bad
+
+975
+00:46:08,040 --> 00:46:09,600
+because the head honcho sucks.
+
+976
+00:46:10,220 --> 00:46:12,160
+And now the head honcho's out
+
+977
+00:46:12,160 --> 00:46:13,180
+and we're seeing
+
+978
+00:46:13,180 --> 00:46:13,920
+that maybe actually
+
+979
+00:46:13,920 --> 00:46:15,140
+the rest of the management team
+
+980
+00:46:15,140 --> 00:46:15,660
+sucks too.
+
+981
+00:46:15,780 --> 00:46:16,540
+Maybe the players
+
+982
+00:46:16,540 --> 00:46:17,620
+on the field
+
+983
+00:46:17,620 --> 00:46:19,820
+are not performing
+
+984
+00:46:19,820 --> 00:46:20,680
+as well as they should.
+
+985
+00:46:20,780 --> 00:46:22,160
+But we're so obsessed
+
+986
+00:46:22,160 --> 00:46:23,720
+with blaming the manager,
+
+987
+00:46:23,840 --> 00:46:24,260
+in this case,
+
+988
+00:46:24,320 --> 00:46:25,180
+the England manager,
+
+989
+00:46:25,340 --> 00:46:25,760
+or in this case,
+
+990
+00:46:26,380 --> 00:46:27,560
+the Nike CEO,
+
+991
+00:46:28,360 --> 00:46:29,420
+that we just get
+
+992
+00:46:29,420 --> 00:46:30,460
+so caught up with that.
+
+993
+00:46:30,540 --> 00:46:31,240
+And then when they leave,
+
+994
+00:46:31,280 --> 00:46:31,500
+we're like,
+
+995
+00:46:31,600 --> 00:46:33,440
+oh, maybe it's an us problem
+
+996
+00:46:33,440 --> 00:46:34,760
+that we didn't realize.
+
+997
+00:46:34,980 --> 00:46:35,860
+The second thing
+
+998
+00:46:35,860 --> 00:46:36,820
+that I find kind of interesting,
+
+999
+00:46:37,180 --> 00:46:37,680
+what you're saying
+
+1000
+00:46:37,680 --> 00:46:38,360
+about the brand
+
+1001
+00:46:38,360 --> 00:46:39,460
+and how strong it is,
+
+1002
+00:46:40,140 --> 00:46:41,780
+we often hear this idea
+
+1003
+00:46:41,780 --> 00:46:44,340
+of brand as moat,
+
+1004
+00:46:44,840 --> 00:46:45,480
+that if you have
+
+1005
+00:46:45,480 --> 00:46:46,560
+a strong brand,
+
+1006
+00:46:46,960 --> 00:46:48,200
+it can act as
+
+1007
+00:46:48,200 --> 00:46:49,900
+a really strong moat
+
+1008
+00:46:49,900 --> 00:46:51,560
+to prevent competition
+
+1009
+00:46:51,560 --> 00:46:52,520
+from your competitors.
+
+1010
+00:46:53,560 --> 00:46:54,560
+And, you know,
+
+1011
+00:46:54,640 --> 00:46:55,340
+10 years ago,
+
+1012
+00:46:55,380 --> 00:46:56,200
+I feel like we would have
+
+1013
+00:46:56,200 --> 00:46:57,000
+used Nike
+
+1014
+00:46:57,000 --> 00:46:58,340
+as the shining example of this.
+
+1015
+00:46:58,400 --> 00:46:58,840
+We would have said,
+
+1016
+00:46:59,280 --> 00:46:59,580
+you know,
+
+1017
+00:46:59,840 --> 00:47:01,760
+Nike is far and away
+
+1018
+00:47:01,760 --> 00:47:02,160
+the winner.
+
+1019
+00:47:02,300 --> 00:47:03,260
+It has a huge moat
+
+1020
+00:47:03,260 --> 00:47:04,080
+because it has
+
+1021
+00:47:04,080 --> 00:47:05,260
+such a strong brand.
+
+1022
+00:47:05,260 --> 00:47:06,440
+But I look at what's
+
+1023
+00:47:06,440 --> 00:47:07,520
+happened in Nike here
+
+1024
+00:47:07,520 --> 00:47:08,960
+and I look at what's
+
+1025
+00:47:08,960 --> 00:47:09,720
+happened to a lot of
+
+1026
+00:47:09,720 --> 00:47:10,900
+other iconic brands
+
+1027
+00:47:10,900 --> 00:47:11,780
+recently that you
+
+1028
+00:47:11,780 --> 00:47:12,580
+have been talking about
+
+1029
+00:47:12,580 --> 00:47:13,260
+and that you've
+
+1030
+00:47:13,260 --> 00:47:14,440
+written about in your blog.
+
+1031
+00:47:14,820 --> 00:47:15,900
+Starbucks, for example,
+
+1032
+00:47:16,440 --> 00:47:16,880
+Disney,
+
+1033
+00:47:17,320 --> 00:47:19,520
+down more than 25%
+
+1034
+00:47:19,520 --> 00:47:20,380
+in the past five years.
+
+1035
+00:47:20,880 --> 00:47:21,520
+Estee Lauder,
+
+1036
+00:47:22,360 --> 00:47:23,440
+basically cut in half
+
+1037
+00:47:23,440 --> 00:47:24,420
+over the past five years.
+
+1038
+00:47:24,820 --> 00:47:25,840
+And it feels like
+
+1039
+00:47:25,840 --> 00:47:26,340
+at this point,
+
+1040
+00:47:26,380 --> 00:47:27,140
+you could maybe
+
+1041
+00:47:27,140 --> 00:47:28,480
+make the opposite case,
+
+1042
+00:47:28,840 --> 00:47:29,640
+which is that,
+
+1043
+00:47:30,020 --> 00:47:30,260
+you know,
+
+1044
+00:47:30,300 --> 00:47:31,140
+a strong brand,
+
+1045
+00:47:31,240 --> 00:47:32,060
+when it's strong,
+
+1046
+00:47:32,060 --> 00:47:33,180
+looks like a moat
+
+1047
+00:47:33,180 --> 00:47:35,340
+until eventually it isn't.
+
+1048
+00:47:35,760 --> 00:47:36,960
+Because what looks like
+
+1049
+00:47:36,960 --> 00:47:38,160
+might be happening
+
+1050
+00:47:38,160 --> 00:47:39,440
+is that these companies
+
+1051
+00:47:39,440 --> 00:47:41,820
+have become so reliant
+
+1052
+00:47:41,820 --> 00:47:42,660
+and so dependent
+
+1053
+00:47:42,660 --> 00:47:43,540
+on their brand
+
+1054
+00:47:43,540 --> 00:47:45,260
+that it ends up
+
+1055
+00:47:45,260 --> 00:47:46,320
+being their downfall.
+
+1056
+00:47:46,440 --> 00:47:47,040
+They think that
+
+1057
+00:47:47,040 --> 00:47:47,760
+they're invincible
+
+1058
+00:47:47,760 --> 00:47:49,380
+because we're Nike,
+
+1059
+00:47:49,560 --> 00:47:50,980
+because we're Estee Lauder.
+
+1060
+00:47:51,140 --> 00:47:52,480
+Who could come after us?
+
+1061
+00:47:52,780 --> 00:47:53,780
+It's an interesting observation.
+
+1062
+00:47:54,180 --> 00:47:54,800
+And that is,
+
+1063
+00:47:55,440 --> 00:47:56,180
+so the algorithm
+
+1064
+00:47:56,180 --> 00:47:57,240
+for printing money
+
+1065
+00:47:57,240 --> 00:47:58,620
+from the end of World War II
+
+1066
+00:47:58,620 --> 00:47:59,680
+to the introduction of Google
+
+1067
+00:47:59,680 --> 00:48:00,160
+has come up
+
+1068
+00:48:00,160 --> 00:48:01,180
+with a mediocre product,
+
+1069
+00:48:01,180 --> 00:48:02,180
+a mediocre car,
+
+1070
+00:48:02,760 --> 00:48:03,520
+salty snack,
+
+1071
+00:48:03,720 --> 00:48:04,480
+mediocre shoe,
+
+1072
+00:48:05,160 --> 00:48:08,440
+mediocre carbonated drink,
+
+1073
+00:48:08,640 --> 00:48:09,880
+and then wrap it
+
+1074
+00:48:09,880 --> 00:48:11,360
+in these amazing brand codes
+
+1075
+00:48:11,360 --> 00:48:12,360
+of youth, masculinity,
+
+1076
+00:48:12,600 --> 00:48:13,560
+European elegance,
+
+1077
+00:48:13,920 --> 00:48:14,560
+sex appeal,
+
+1078
+00:48:14,720 --> 00:48:16,500
+and use this incredibly
+
+1079
+00:48:16,500 --> 00:48:17,200
+cheap medium,
+
+1080
+00:48:17,260 --> 00:48:17,720
+we didn't realize
+
+1081
+00:48:17,720 --> 00:48:18,540
+how cheap it was,
+
+1082
+00:48:19,060 --> 00:48:20,120
+called broadcast media
+
+1083
+00:48:20,120 --> 00:48:21,120
+where all of America
+
+1084
+00:48:21,120 --> 00:48:21,600
+was watching
+
+1085
+00:48:21,600 --> 00:48:22,420
+one of three channels
+
+1086
+00:48:22,420 --> 00:48:23,600
+and just pound away
+
+1087
+00:48:23,600 --> 00:48:25,060
+at these associations
+
+1088
+00:48:25,060 --> 00:48:26,200
+and people would pay
+
+1089
+00:48:26,200 --> 00:48:26,700
+two bucks
+
+1090
+00:48:26,700 --> 00:48:27,420
+for 20 cents
+
+1091
+00:48:27,420 --> 00:48:28,280
+a peanut butter paste
+
+1092
+00:48:28,280 --> 00:48:28,840
+because it meant
+
+1093
+00:48:28,840 --> 00:48:29,860
+that you loved your kids more
+
+1094
+00:48:29,860 --> 00:48:31,380
+because choosing moms
+
+1095
+00:48:31,380 --> 00:48:32,140
+chose Jeff
+
+1096
+00:48:32,140 --> 00:48:33,680
+or that I was
+
+1097
+00:48:33,680 --> 00:48:34,620
+a more competitive,
+
+1098
+00:48:34,900 --> 00:48:35,760
+strong, masculine,
+
+1099
+00:48:36,080 --> 00:48:37,380
+individual American person
+
+1100
+00:48:37,380 --> 00:48:38,040
+if I bought
+
+1101
+00:48:38,040 --> 00:48:40,300
+$210 Air Jordans.
+
+1102
+00:48:40,780 --> 00:48:41,580
+Since the introduction
+
+1103
+00:48:41,580 --> 00:48:42,220
+of Google,
+
+1104
+00:48:43,140 --> 00:48:44,840
+the rise of quality
+
+1105
+00:48:44,840 --> 00:48:45,440
+and innovation
+
+1106
+00:48:45,440 --> 00:48:47,280
+has just been dramatic
+
+1107
+00:48:47,280 --> 00:48:47,800
+and the example
+
+1108
+00:48:47,800 --> 00:48:48,960
+I use is hotels.
+
+1109
+00:48:49,860 --> 00:48:50,900
+Whenever I traveled
+
+1110
+00:48:50,900 --> 00:48:51,760
+and I've been traveling
+
+1111
+00:48:51,760 --> 00:48:53,860
+180 to 220 days a year
+
+1112
+00:48:53,860 --> 00:48:54,820
+for the last 30 years,
+
+1113
+00:48:54,900 --> 00:48:55,260
+I would stay
+
+1114
+00:48:55,260 --> 00:48:56,100
+at the Four Seasons
+
+1115
+00:48:56,100 --> 00:48:57,600
+with a Mandarin Oriental.
+
+1116
+00:48:57,600 --> 00:48:58,980
+One, because someone else
+
+1117
+00:48:58,980 --> 00:48:59,560
+was paying
+
+1118
+00:48:59,560 --> 00:49:00,180
+and two,
+
+1119
+00:49:00,260 --> 00:49:01,240
+they were always an eight.
+
+1120
+00:49:01,380 --> 00:49:02,180
+On a scale of one to ten,
+
+1121
+00:49:02,240 --> 00:49:02,860
+they were always an eight.
+
+1122
+00:49:02,940 --> 00:49:04,540
+And if I was in Madrid,
+
+1123
+00:49:04,920 --> 00:49:06,140
+I didn't have the time
+
+1124
+00:49:06,140 --> 00:49:06,740
+or the insight
+
+1125
+00:49:06,740 --> 00:49:07,680
+to figure out
+
+1126
+00:49:07,680 --> 00:49:08,760
+is there a better hotel
+
+1127
+00:49:08,760 --> 00:49:09,900
+than the Madrid Four Seasons,
+
+1128
+00:49:09,980 --> 00:49:10,380
+which I know
+
+1129
+00:49:10,380 --> 00:49:11,080
+is going to be lovely.
+
+1130
+00:49:11,800 --> 00:49:12,720
+Now with the introduction
+
+1131
+00:49:12,720 --> 00:49:13,260
+of Google,
+
+1132
+00:49:13,660 --> 00:49:14,280
+TripAdvisor,
+
+1133
+00:49:14,540 --> 00:49:15,380
+your social graph,
+
+1134
+00:49:15,560 --> 00:49:15,920
+Instagram,
+
+1135
+00:49:16,580 --> 00:49:17,660
+within about five minutes,
+
+1136
+00:49:17,660 --> 00:49:18,540
+I can figure out
+
+1137
+00:49:18,540 --> 00:49:19,860
+the Rosewood Villa Magna
+
+1138
+00:49:19,860 --> 00:49:20,740
+is absolutely
+
+1139
+00:49:20,740 --> 00:49:22,020
+where I want to stay
+
+1140
+00:49:22,020 --> 00:49:23,220
+in Madrid.
+
+1141
+00:49:23,620 --> 00:49:23,860
+I mean,
+
+1142
+00:49:23,880 --> 00:49:24,580
+that's just it.
+
+1143
+00:49:25,020 --> 00:49:26,260
+Or when I'm in Sao Paulo,
+
+1144
+00:49:26,260 --> 00:49:27,220
+yeah, the Four Seasons
+
+1145
+00:49:27,220 --> 00:49:27,600
+would be great,
+
+1146
+00:49:27,700 --> 00:49:28,320
+but again,
+
+1147
+00:49:28,400 --> 00:49:28,660
+actually,
+
+1148
+00:49:28,740 --> 00:49:29,320
+the Rosewood there
+
+1149
+00:49:29,320 --> 00:49:29,740
+is probably,
+
+1150
+00:49:29,860 --> 00:49:30,240
+in my opinion,
+
+1151
+00:49:30,320 --> 00:49:32,040
+the best hotel
+
+1152
+00:49:32,040 --> 00:49:32,400
+in the world.
+
+1153
+00:49:32,460 --> 00:49:33,240
+It's the Faena
+
+1154
+00:49:33,240 --> 00:49:35,780
+in South Beach.
+
+1155
+00:49:35,860 --> 00:49:36,760
+And people can figure
+
+1156
+00:49:36,760 --> 00:49:37,320
+it out now.
+
+1157
+00:49:37,420 --> 00:49:38,140
+So it sounds passe,
+
+1158
+00:49:38,320 --> 00:49:38,900
+but all of a sudden,
+
+1159
+00:49:39,020 --> 00:49:40,120
+product and innovation
+
+1160
+00:49:40,120 --> 00:49:41,960
+are the new bomb.
+
+1161
+00:49:42,440 --> 00:49:43,600
+And the notion
+
+1162
+00:49:43,600 --> 00:49:44,460
+that you're putting forward
+
+1163
+00:49:44,460 --> 00:49:45,400
+that they got too reliant
+
+1164
+00:49:45,400 --> 00:49:45,900
+on the mode
+
+1165
+00:49:45,900 --> 00:49:46,660
+of the Nike brand
+
+1166
+00:49:46,660 --> 00:49:48,220
+and not focused
+
+1167
+00:49:48,220 --> 00:49:50,340
+enough on new product,
+
+1168
+00:49:50,580 --> 00:49:51,240
+new innovation,
+
+1169
+00:49:51,620 --> 00:49:52,560
+new marketing channels,
+
+1170
+00:49:52,840 --> 00:49:54,360
+I think that's a worthwhile
+
+1171
+00:49:54,360 --> 00:49:56,860
+or a fair criticism.
+
+1172
+00:49:57,860 --> 00:49:59,260
+But having said that,
+
+1173
+00:49:59,740 --> 00:50:00,760
+there are certain brands
+
+1174
+00:50:00,760 --> 00:50:01,520
+and certain items
+
+1175
+00:50:01,520 --> 00:50:02,520
+where brand plays
+
+1176
+00:50:02,520 --> 00:50:03,400
+a bigger role.
+
+1177
+00:50:03,820 --> 00:50:04,780
+You are a Panerai,
+
+1178
+00:50:04,900 --> 00:50:05,320
+it means you're having
+
+1179
+00:50:05,320 --> 00:50:06,120
+a midlife crisis,
+
+1180
+00:50:06,300 --> 00:50:06,860
+maybe a little bit
+
+1181
+00:50:06,860 --> 00:50:07,680
+of erectile dysfunction,
+
+1182
+00:50:07,840 --> 00:50:08,300
+have a little bit
+
+1183
+00:50:08,300 --> 00:50:08,620
+of money.
+
+1184
+00:50:11,620 --> 00:50:13,680
+But if you have sex
+
+1185
+00:50:13,680 --> 00:50:14,120
+with me,
+
+1186
+00:50:14,820 --> 00:50:16,800
+if we have kids,
+
+1187
+00:50:17,120 --> 00:50:18,720
+your kids are more likely
+
+1188
+00:50:18,720 --> 00:50:19,420
+to survive
+
+1189
+00:50:19,420 --> 00:50:20,120
+than if you...
+
+1190
+00:50:20,120 --> 00:50:21,900
+That's what everyone thinks.
+
+1191
+00:50:22,060 --> 00:50:22,380
+Exactly.
+
+1192
+00:50:23,120 --> 00:50:24,020
+Then if you have...
+
+1193
+00:50:24,020 --> 00:50:24,780
+Just go with it.
+
+1194
+00:50:24,980 --> 00:50:25,840
+Then if you have sex
+
+1195
+00:50:25,840 --> 00:50:26,240
+with Ed,
+
+1196
+00:50:26,280 --> 00:50:26,620
+who's wearing
+
+1197
+00:50:26,620 --> 00:50:27,680
+a fucking swatch watch.
+
+1198
+00:50:28,240 --> 00:50:30,300
+So your watch,
+
+1199
+00:50:30,880 --> 00:50:31,560
+your watch,
+
+1200
+00:50:31,900 --> 00:50:33,220
+the degree you got
+
+1201
+00:50:33,220 --> 00:50:34,060
+from college,
+
+1202
+00:50:34,140 --> 00:50:34,520
+the only reason
+
+1203
+00:50:34,520 --> 00:50:35,260
+your girlfriend's with you
+
+1204
+00:50:35,260 --> 00:50:35,700
+is because she heard
+
+1205
+00:50:35,700 --> 00:50:36,720
+you went to Princeton, Ed.
+
+1206
+00:50:36,720 --> 00:50:37,260
+I've already spoken
+
+1207
+00:50:37,260 --> 00:50:37,900
+to her about this.
+
+1208
+00:50:39,160 --> 00:50:40,100
+Your car,
+
+1209
+00:50:40,620 --> 00:50:41,960
+and also your shoes
+
+1210
+00:50:41,960 --> 00:50:44,080
+are really powerful forms
+
+1211
+00:50:44,080 --> 00:50:45,380
+of self-expressive benefit.
+
+1212
+00:50:45,980 --> 00:50:47,500
+And the self-expressive benefit
+
+1213
+00:50:47,500 --> 00:50:49,200
+of Nike that registers
+
+1214
+00:50:49,200 --> 00:50:50,360
+across two, three,
+
+1215
+00:50:50,480 --> 00:50:51,600
+probably four million consumers
+
+1216
+00:50:51,600 --> 00:50:52,260
+around the world
+
+1217
+00:50:52,260 --> 00:50:55,440
+is still unbelievable.
+
+1218
+00:50:55,920 --> 00:50:57,380
+Translates unbelievable margin.
+
+1219
+00:50:58,020 --> 00:50:59,440
+But the brand era,
+
+1220
+00:50:59,600 --> 00:51:00,300
+I agree with you,
+
+1221
+00:51:00,380 --> 00:51:01,060
+the brand era
+
+1222
+00:51:01,060 --> 00:51:02,420
+is officially over.
+
+1223
+00:51:02,860 --> 00:51:03,260
+I don't know
+
+1224
+00:51:03,260 --> 00:51:03,760
+if you'd call it
+
+1225
+00:51:03,760 --> 00:51:04,900
+the supply chain era
+
+1226
+00:51:04,900 --> 00:51:05,840
+or the innovation era,
+
+1227
+00:51:06,220 --> 00:51:07,500
+but the way you communicate
+
+1228
+00:51:07,500 --> 00:51:08,700
+a better supply chain
+
+1229
+00:51:08,700 --> 00:51:09,620
+or the vessel
+
+1230
+00:51:09,620 --> 00:51:10,280
+for communication
+
+1231
+00:51:10,280 --> 00:51:11,040
+for supply chain
+
+1232
+00:51:11,040 --> 00:51:11,480
+or innovation
+
+1233
+00:51:11,480 --> 00:51:12,960
+is still the brand
+
+1234
+00:51:12,960 --> 00:51:14,300
+and the logo.
+
+1235
+00:51:14,480 --> 00:51:15,600
+Anything that's on HBO,
+
+1236
+00:51:16,080 --> 00:51:16,600
+I'll trial.
+
+1237
+00:51:16,600 --> 00:51:17,740
+A big thing,
+
+1238
+00:51:18,000 --> 00:51:19,040
+a big show
+
+1239
+00:51:19,040 --> 00:51:19,980
+coming from HBO,
+
+1240
+00:51:20,160 --> 00:51:20,400
+I'm like,
+
+1241
+00:51:20,500 --> 00:51:21,280
+oh, I'll watch it
+
+1242
+00:51:21,280 --> 00:51:22,620
+because they just have
+
+1243
+00:51:22,620 --> 00:51:24,300
+a finer filter.
+
+1244
+00:51:24,560 --> 00:51:25,760
+Any hotel from Rosewood,
+
+1245
+00:51:25,840 --> 00:51:26,580
+I will try
+
+1246
+00:51:26,580 --> 00:51:27,780
+because it does have,
+
+1247
+00:51:27,900 --> 00:51:28,380
+in my opinion,
+
+1248
+00:51:29,020 --> 00:51:29,740
+a finer filter.
+
+1249
+00:51:29,860 --> 00:51:30,740
+Now, does that mean
+
+1250
+00:51:30,740 --> 00:51:32,480
+brand is as big a moat?
+
+1251
+00:51:32,620 --> 00:51:33,400
+Absolutely not
+
+1252
+00:51:33,400 --> 00:51:34,200
+because I have my,
+
+1253
+00:51:34,260 --> 00:51:34,820
+I have Instagram,
+
+1254
+00:51:35,040 --> 00:51:36,140
+I have my social graph.
+
+1255
+00:51:36,500 --> 00:51:37,440
+So what you're saying
+
+1256
+00:51:37,440 --> 00:51:38,340
+holds true.
+
+1257
+00:51:39,240 --> 00:51:40,420
+A company like Nike
+
+1258
+00:51:40,420 --> 00:51:40,720
+can,
+
+1259
+00:51:40,880 --> 00:51:41,560
+if it's not careful,
+
+1260
+00:51:41,700 --> 00:51:42,900
+fall further faster.
+
+1261
+00:51:42,900 --> 00:51:44,780
+But just based on
+
+1262
+00:51:44,780 --> 00:51:46,460
+that base of awareness
+
+1263
+00:51:46,460 --> 00:51:47,820
+and aspirational value
+
+1264
+00:51:47,820 --> 00:51:49,040
+and self-expressive benefit,
+
+1265
+00:51:49,860 --> 00:51:51,360
+they have just tons
+
+1266
+00:51:51,360 --> 00:51:51,980
+of permission.
+
+1267
+00:51:52,660 --> 00:51:53,260
+If they come out
+
+1268
+00:51:53,260 --> 00:51:55,060
+with a decent product line,
+
+1269
+00:51:55,740 --> 00:51:56,220
+you're going to,
+
+1270
+00:51:56,300 --> 00:51:57,240
+I think you're going to see
+
+1271
+00:51:57,240 --> 00:51:58,080
+those revenues
+
+1272
+00:51:58,080 --> 00:51:59,460
+start to pop again.
+
+1273
+00:52:00,140 --> 00:52:00,220
+Yeah,
+
+1274
+00:52:00,420 --> 00:52:01,020
+I think that's right.
+
+1275
+00:52:01,100 --> 00:52:01,600
+Let's take a look
+
+1276
+00:52:01,600 --> 00:52:02,120
+at the week ahead.
+
+1277
+00:52:02,120 --> 00:52:05,260
+We'll see the consumer price
+
+1278
+00:52:05,260 --> 00:52:06,320
+and producer price indices
+
+1279
+00:52:06,320 --> 00:52:06,920
+for September
+
+1280
+00:52:06,920 --> 00:52:08,140
+and third quarter
+
+1281
+00:52:08,140 --> 00:52:09,320
+earnings season kicks off
+
+1282
+00:52:09,320 --> 00:52:10,460
+with JV Morgan,
+
+1283
+00:52:10,780 --> 00:52:11,480
+Wells Fargo,
+
+1284
+00:52:11,840 --> 00:52:12,660
+and BlackRock
+
+1285
+00:52:12,660 --> 00:52:13,480
+all reporting.
+
+1286
+00:52:14,180 --> 00:52:14,620
+Scott,
+
+1287
+00:52:14,680 --> 00:52:15,060
+do you have any
+
+1288
+00:52:15,060 --> 00:52:15,800
+predictions for us?
+
+1289
+00:52:15,980 --> 00:52:16,520
+Well, just based on
+
+1290
+00:52:16,520 --> 00:52:17,120
+what you said,
+
+1291
+00:52:17,200 --> 00:52:18,100
+I do think there's a,
+
+1292
+00:52:18,440 --> 00:52:19,300
+I think churn
+
+1293
+00:52:19,300 --> 00:52:20,200
+is really important
+
+1294
+00:52:20,200 --> 00:52:21,200
+and I'd like to think
+
+1295
+00:52:21,200 --> 00:52:22,060
+there's some churn
+
+1296
+00:52:22,060 --> 00:52:23,480
+going on right now.
+
+1297
+00:52:23,560 --> 00:52:23,980
+Companies like
+
+1298
+00:52:23,980 --> 00:52:24,440
+Starbucks,
+
+1299
+00:52:24,880 --> 00:52:25,420
+Intel,
+
+1300
+00:52:26,280 --> 00:52:26,740
+Disney,
+
+1301
+00:52:27,720 --> 00:52:28,400
+Nike,
+
+1302
+00:52:29,080 --> 00:52:29,740
+Estee Lauder,
+
+1303
+00:52:30,300 --> 00:52:31,000
+Warner Brothers,
+
+1304
+00:52:31,000 --> 00:52:32,840
+these companies are,
+
+1305
+00:52:33,760 --> 00:52:34,660
+as they should be,
+
+1306
+00:52:34,780 --> 00:52:36,020
+getting kicked in the nuts
+
+1307
+00:52:36,020 --> 00:52:37,700
+and that makes room
+
+1308
+00:52:37,700 --> 00:52:38,640
+for new competitors.
+
+1309
+00:52:39,000 --> 00:52:39,620
+I'd like to think,
+
+1310
+00:52:39,700 --> 00:52:40,080
+unfortunately,
+
+1311
+00:52:40,180 --> 00:52:40,720
+they're mostly being
+
+1312
+00:52:40,720 --> 00:52:41,260
+kicked in the butt
+
+1313
+00:52:41,260 --> 00:52:42,980
+by TikTok,
+
+1314
+00:52:43,440 --> 00:52:43,940
+but anyways,
+
+1315
+00:52:44,000 --> 00:52:45,000
+in a weak Chinese consumer.
+
+1316
+00:52:45,800 --> 00:52:46,780
+But you are seeing
+
+1317
+00:52:46,780 --> 00:52:47,720
+a changing of the guard.
+
+1318
+00:52:48,240 --> 00:52:49,760
+Too many old people
+
+1319
+00:52:49,760 --> 00:52:50,780
+running these companies.
+
+1320
+00:52:51,620 --> 00:52:53,320
+Too many old people
+
+1321
+00:52:53,320 --> 00:52:54,120
+who are getting paid
+
+1322
+00:52:54,120 --> 00:52:55,300
+too much fucking money
+
+1323
+00:52:55,300 --> 00:52:57,560
+for lackluster performance.
+
+1324
+00:52:58,240 --> 00:53:00,740
+So all super talented executives,
+
+1325
+00:53:01,000 --> 00:53:04,000
+but I would speculate
+
+1326
+00:53:04,000 --> 00:53:05,220
+that Bob Iger
+
+1327
+00:53:05,220 --> 00:53:06,840
+and David Zaslav
+
+1328
+00:53:06,840 --> 00:53:07,880
+are going to announce
+
+1329
+00:53:07,880 --> 00:53:08,840
+or at least put in place
+
+1330
+00:53:08,840 --> 00:53:10,040
+some sort of succession plan
+
+1331
+00:53:10,040 --> 00:53:11,000
+in the next year or two.
+
+1332
+00:53:12,160 --> 00:53:13,200
+These are people
+
+1333
+00:53:13,200 --> 00:53:15,000
+who are both great executives,
+
+1334
+00:53:15,760 --> 00:53:17,100
+especially Bob Iger.
+
+1335
+00:53:17,580 --> 00:53:18,600
+Zaslav has made
+
+1336
+00:53:18,600 --> 00:53:19,640
+a third of a billion dollars
+
+1337
+00:53:19,640 --> 00:53:20,820
+to lose 60,
+
+1338
+00:53:20,900 --> 00:53:22,020
+70% of his shareholders'
+
+1339
+00:53:22,940 --> 00:53:23,460
+valuation.
+
+1340
+00:53:24,160 --> 00:53:25,120
+And then the final one
+
+1341
+00:53:25,120 --> 00:53:27,220
+is I think Fabrizio Freda,
+
+1342
+00:53:27,420 --> 00:53:28,640
+the CEO at Estee Lauder.
+
+1343
+00:53:28,640 --> 00:53:30,660
+That company has shit the bed
+
+1344
+00:53:30,660 --> 00:53:31,660
+the last five years.
+
+1345
+00:53:32,340 --> 00:53:33,460
+They're probably due.
+
+1346
+00:53:33,620 --> 00:53:34,600
+He's had a great career,
+
+1347
+00:53:34,740 --> 00:53:35,400
+a storied career.
+
+1348
+00:53:35,580 --> 00:53:36,320
+He's made a lot of money.
+
+1349
+00:53:36,380 --> 00:53:37,080
+He deserves it.
+
+1350
+00:53:37,400 --> 00:53:39,020
+But I wouldn't be surprised
+
+1351
+00:53:39,020 --> 00:53:39,800
+if in the next
+
+1352
+00:53:39,800 --> 00:53:41,980
+three, six, 12 months,
+
+1353
+00:53:42,040 --> 00:53:42,300
+if you should get
+
+1354
+00:53:42,300 --> 00:53:42,960
+the timing right,
+
+1355
+00:53:43,040 --> 00:53:44,720
+we see succession strategies
+
+1356
+00:53:44,720 --> 00:53:45,940
+announced at Warner Brothers
+
+1357
+00:53:45,940 --> 00:53:46,460
+and Disney,
+
+1358
+00:53:46,460 --> 00:53:48,140
+and we see a new CEO
+
+1359
+00:53:48,140 --> 00:53:49,200
+at Estee Lauder Company.
+
+1360
+00:53:51,400 --> 00:53:52,560
+This episode was produced
+
+1361
+00:53:52,560 --> 00:53:53,260
+by Claire Miller
+
+1362
+00:53:53,260 --> 00:53:53,940
+and engineered
+
+1363
+00:53:53,940 --> 00:53:54,820
+by Benjamin Spencer.
+
+1364
+00:53:55,140 --> 00:53:55,840
+Our associate producer
+
+1365
+00:53:55,840 --> 00:53:56,540
+is Alison Weiss.
+
+1366
+00:53:56,640 --> 00:53:57,340
+Our executive producer
+
+1367
+00:53:57,340 --> 00:53:58,040
+is Catherine Dillon.
+
+1368
+00:53:58,500 --> 00:54:00,040
+Mia Silverio is our research lead
+
+1369
+00:54:00,040 --> 00:54:01,040
+and Drew Burrows
+
+1370
+00:54:01,040 --> 00:54:02,060
+is our technical director.
+
+1371
+00:54:02,520 --> 00:54:03,260
+Thank you for listening
+
+1372
+00:54:03,260 --> 00:54:04,060
+to Prof. G Markets
+
+1373
+00:54:04,060 --> 00:54:05,620
+from the Vox Media Podcast Network.
+
+1374
+00:54:06,100 --> 00:54:07,040
+Join us on Thursday
+
+1375
+00:54:07,040 --> 00:54:08,140
+for a conversation
+
+1376
+00:54:08,140 --> 00:54:09,220
+with Mark Zandi
+
+1377
+00:54:09,220 --> 00:54:11,160
+only on Prof. G Markets.
+
+1378
+00:54:11,160 --> 00:54:15,840
+Lifetimes
+
+1379
+00:54:15,840 --> 00:54:24,040
+You have me
+
+1380
+00:54:24,040 --> 00:54:28,380
+In kind reunion
+
+1381
+00:54:28,380 --> 00:54:35,880
+As the world turns
+
+1382
+00:54:35,880 --> 00:54:40,380
+And the dark flies
+
+1383
+00:54:40,380 --> 00:54:42,580
+In love
+
+1384
+00:54:42,580 --> 00:54:43,700
+In love
+
+1385
+00:54:43,700 --> 00:54:45,060
+In love
+
+1386
+00:54:45,060 --> 00:54:46,060
+In love
+
+1387
+00:54:46,060 --> 00:54:47,060
+In love
+
+1388
+00:54:47,060 --> 00:54:48,060
+In love
+
+1389
+00:54:48,060 --> 00:54:49,060
+In love
+
+1390
+00:54:49,060 --> 00:54:50,060
+In love
+
+1391
+00:54:50,060 --> 00:54:52,060
+In love
+
+1392
+00:54:52,060 --> 00:54:53,060
+In love
+
+1393
+00:54:53,060 --> 00:54:54,060
+In love
+
+1394
+00:54:54,060 --> 00:54:54,060
+
+
+1395
+00:54:54,060 --> 00:54:54,060
+
+
+1396
+00:54:54,060 --> 00:54:54,060
+
+
+1397
+00:54:54,060 --> 00:54:54,060
+
+
+1398
+00:54:54,060 --> 00:54:54,060
+
+
+1399
+00:54:54,060 --> 00:54:54,060
+
+
+1400
+00:54:54,060 --> 00:54:54,060
+
+
+1401
+00:54:54,060 --> 00:54:54,060
+
+
+1402
+00:54:54,060 --> 00:54:54,060
+
+
+1403
+00:54:54,060 --> 00:54:54,060
+
+
+1404
+00:54:54,060 --> 00:54:54,060
+
+
+1405
+00:54:54,060 --> 00:54:54,060
+
+
+1406
+00:54:54,060 --> 00:54:54,060
+
+
+1407
+00:54:54,060 --> 00:54:54,060
+
+
+1408
+00:54:54,060 --> 00:54:54,060
+
+
+1409
+00:54:54,060 --> 00:54:54,060
+
+
+1410
+00:54:54,060 --> 00:54:55,060
+In love
+
+1411
+00:54:55,060 --> 00:54:56,060
+In love
+
+1412
+00:54:56,060 --> 00:55:08,060
+In love
+
+1413
+00:55:08,060 --> 00:55:08,060
+
+
+1414
+00:55:08,060 --> 00:55:08,060
+
+
+1415
+00:55:08,060 --> 00:55:08,060
+
+
+1416
+00:55:08,060 --> 00:55:08,060
+
+
+1417
+00:55:08,060 --> 00:55:08,060
+
+
+1418
+00:55:08,060 --> 00:55:08,060
+
+
+1419
+00:55:08,060 --> 00:55:08,060
+
+
+1420
+00:55:08,060 --> 00:55:08,060
+
+
+1421
+00:55:08,060 --> 00:55:08,060
+
+
+1422
+00:55:08,060 --> 00:55:08,060
+
+
+1423
+00:55:08,060 --> 00:55:08,060
+
+
+1424
+00:55:08,060 --> 00:55:08,060
+
+
+1425
+00:55:08,060 --> 00:55:08,060
+
+
+1426
+00:55:08,060 --> 00:55:08,060
+
+
+1427
+00:55:08,060 --> 00:55:08,060
+
+
+1428
+00:55:08,060 --> 00:55:08,060
+
+
+1429
+00:55:08,060 --> 00:55:08,060
+
+
+1430
+00:55:08,060 --> 00:55:08,060
+
+
+1431
+00:55:08,060 --> 00:55:08,060
+
+
+1432
+00:55:08,060 --> 00:55:08,060
+
+
+1433
+00:55:08,060 --> 00:55:08,060
+
+
+1434
+00:55:08,060 --> 00:55:08,060
+
+
+1435
+00:55:08,060 --> 00:55:08,060
+
+
+1436
+00:55:08,060 --> 00:55:08,060
+
+
+1437
+00:55:08,060 --> 00:55:08,060
+
+
+1438
+00:55:08,060 --> 00:55:08,380
+Your kids
+
+1439
+00:55:08,380 --> 00:55:09,080
+Go to Princeton
+
+1440
+00:55:09,080 --> 00:55:09,700
+Does that help?
+
+1441
+00:55:09,700 --> 00:55:13,980
+How do custom orders
+
+1442
+00:55:13,980 --> 00:55:14,780
+work on Kraken?
+
+1443
+00:55:15,280 --> 00:55:17,040
+Imagine I'm a music producer
+
+1444
+00:55:17,040 --> 00:55:18,540
+dialing in my newest track.
+
+1445
+00:55:19,040 --> 00:55:19,620
+Need more bass?
+
+1446
+00:55:20,020 --> 00:55:20,500
+Crank it.
+
+1447
+00:55:21,040 --> 00:55:21,800
+Vocals not popping?
+
+1448
+00:55:22,280 --> 00:55:22,880
+Double it up.
+
+1449
+00:55:23,440 --> 00:55:24,160
+Want a bigger sound?
+
+1450
+00:55:24,520 --> 00:55:25,620
+Hit that reverb.
+
+1451
+00:55:26,060 --> 00:55:26,480
+Hard.
+
+1452
+00:55:27,220 --> 00:55:28,100
+That's custom orders
+
+1453
+00:55:28,100 --> 00:55:28,580
+on Kraken.
+
+1454
+00:55:28,960 --> 00:55:29,600
+Complete control
+
+1455
+00:55:29,600 --> 00:55:30,640
+over your crypto trades.
+
+1456
+00:55:31,280 --> 00:55:32,240
+Go to kraken.com
+
+1457
+00:55:32,240 --> 00:55:33,540
+and see what crypto can be.
+
+1458
+00:55:34,160 --> 00:55:34,960
+Don't invest
+
+1459
+00:55:34,960 --> 00:55:35,540
+unless you're prepared
+
+1460
+00:55:35,540 --> 00:55:36,620
+to lose all the money you invest.
+
+1461
+00:55:36,940 --> 00:55:37,980
+This is a high risk investment
+
+1462
+00:55:37,980 --> 00:55:39,500
+and you should not expect to be protected
+
+1463
+00:55:39,500 --> 00:55:40,360
+if something goes wrong.
+
+1464
+00:55:44,000 --> 00:55:45,360
+I'm Ashley C. Ford
+
+1465
+00:55:45,360 --> 00:55:46,220
+and I host
+
+1466
+00:55:46,220 --> 00:55:47,100
+Into the Mix,
+
+1467
+00:55:47,520 --> 00:55:48,720
+a Ben and Jerry's podcast
+
+1468
+00:55:48,720 --> 00:55:50,420
+about joy and justice
+
+1469
+00:55:50,420 --> 00:55:51,980
+produced with Vox Creative.
+
+1470
+00:55:52,620 --> 00:55:54,480
+We're back with new episodes
+
+1471
+00:55:54,480 --> 00:55:56,220
+taking a look at voter fraud,
+
+1472
+00:55:56,680 --> 00:55:58,080
+specifically how the fear
+
+1473
+00:55:58,080 --> 00:55:59,560
+of voter fraud accusations
+
+1474
+00:55:59,560 --> 00:56:01,660
+can lead to voter suppression.
+
+1475
+00:56:02,180 --> 00:56:04,000
+As the 2024 election
+
+1476
+00:56:04,000 --> 00:56:05,060
+draws nearer,
+
+1477
+00:56:05,060 --> 00:56:06,860
+former President Donald Trump
+
+1478
+00:56:06,860 --> 00:56:08,080
+continues to claim
+
+1479
+00:56:08,080 --> 00:56:09,320
+without evidence
+
+1480
+00:56:09,320 --> 00:56:11,240
+that widespread voter fraud
+
+1481
+00:56:11,240 --> 00:56:12,400
+lost him the election
+
+1482
+00:56:12,400 --> 00:56:13,200
+in 2020.
+
+1483
+00:56:13,780 --> 00:56:15,020
+So we wanted to know,
+
+1484
+00:56:15,360 --> 00:56:16,700
+how do claims like this
+
+1485
+00:56:16,700 --> 00:56:18,360
+affect ordinary voters?
+
+1486
+00:56:19,020 --> 00:56:19,920
+Hear the story
+
+1487
+00:56:19,920 --> 00:56:20,940
+of a civil servant
+
+1488
+00:56:20,940 --> 00:56:22,520
+who faced felony charges
+
+1489
+00:56:22,520 --> 00:56:24,140
+and years in prison
+
+1490
+00:56:24,140 --> 00:56:26,060
+for helping a first-time voter
+
+1491
+00:56:26,060 --> 00:56:26,740
+figure out
+
+1492
+00:56:26,740 --> 00:56:28,380
+how to use a voting machine.
+
+1493
+00:56:28,880 --> 00:56:30,220
+That story and more
+
+1494
+00:56:30,220 --> 00:56:31,420
+on Into the Mix,
+
+1495
+00:56:31,800 --> 00:56:32,820
+a Ben and Jerry's podcast.
+
+1496
+00:56:32,820 --> 00:56:33,100
+a Ben and Jerry's podcast.
+

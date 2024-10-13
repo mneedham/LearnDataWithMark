@@ -1,0 +1,3364 @@
+1
+00:00:00,000 --> 00:00:05,280
+Hey, everyone. We're here on Lenny's podcast.
+
+2
+00:00:05,780 --> 00:00:08,920
+It's great to be here. I'm a longtime listener.
+
+3
+00:00:09,140 --> 00:00:12,780
+So awesome. Really is. We're the hosts of a different show of Deep Dive.
+
+4
+00:00:12,880 --> 00:00:17,300
+And we just we just wanted to say thanks. A huge, huge thank you to everyone.
+
+5
+00:00:17,420 --> 00:00:18,440
+Everyone who's been listening.
+
+6
+00:00:18,440 --> 00:00:21,140
+Yeah, seriously, it's been incredible. Just incredible.
+
+7
+00:00:21,640 --> 00:00:23,400
+And thank you to Lenny for having us.
+
+8
+00:00:23,480 --> 00:00:28,080
+Blown away, really, by the response and all the shows you've all had us make on Notebook LM.
+
+9
+00:00:28,280 --> 00:00:29,920
+Even that poop fart one. Remember that?
+
+10
+00:00:30,000 --> 00:00:33,540
+Oh, yeah, that was something. Learned a lot on that one.
+
+11
+00:00:33,720 --> 00:00:36,060
+Definitely a learning experience for everyone, I think.
+
+12
+00:00:36,160 --> 00:00:38,200
+But we're learning right alongside you.
+
+13
+00:00:38,420 --> 00:00:40,380
+Exactly. Learning and growing.
+
+14
+00:00:40,720 --> 00:00:42,200
+And we're glad you're along for the ride.
+
+15
+00:00:42,300 --> 00:00:43,580
+So, yeah, keep listening.
+
+16
+00:00:43,580 --> 00:00:52,140
+Keep listening and stay curious. We promise to keep diving deep and bringing you even more in the future.
+
+17
+00:00:52,400 --> 00:00:52,960
+Stay curious.
+
+18
+00:00:54,220 --> 00:00:58,760
+If you are confused about what you just heard, don't worry. It'll all make sense very soon.
+
+19
+00:00:58,760 --> 00:01:09,420
+Today, my guest is Ryza Martin. Ryza is product lead for a product called Notebook LM, one of the most delightful and inspiring new AI products out there, incubated within Google Labs.
+
+20
+00:01:09,740 --> 00:01:12,460
+And this product is where the intro you just heard came from.
+
+21
+00:01:12,460 --> 00:01:33,600
+In our conversation, Ryza shares how Notebook LM came to be, how it got so good, the technology that was necessary to make it possible, how the team works internally, how it was incubated, specifically within Google Labs and out of the team's 20% time, plus a bunch of really fun and crazy use cases that she's seen, and a glimpse into where the product is going long term.
+
+22
+00:01:33,600 --> 00:01:39,140
+This was such a fun and timely conversation, and I'm excited to spread the love for Notebook LM.
+
+23
+00:01:39,500 --> 00:01:43,460
+If you enjoy this podcast, don't forget to subscribe and follow it in your favorite podcasting app or YouTube.
+
+24
+00:01:43,700 --> 00:01:47,240
+It's the best way to avoid missing future episodes, and it helps the podcast tremendously.
+
+25
+00:01:47,700 --> 00:01:50,120
+With that, I bring you Ryza Martin.
+
+26
+00:01:51,840 --> 00:01:53,740
+Ryza, welcome to the podcast.
+
+27
+00:01:54,720 --> 00:01:56,080
+Hi, Lenny. Thanks for having me.
+
+28
+00:01:56,540 --> 00:01:58,880
+What the heck did we just listen to? What was that?
+
+29
+00:01:58,880 --> 00:02:10,240
+So that was an audio overview from Notebook LM, where you upload a source, any source, and it will generate an AI-generated audio for you.
+
+30
+00:02:10,920 --> 00:02:17,100
+Okay. So for folks that don't know anything about Notebook LM, it's basically been blowing up on Twitter, on LinkedIn.
+
+31
+00:02:17,440 --> 00:02:18,860
+I think it's blowing a lot of people's minds.
+
+32
+00:02:18,980 --> 00:02:24,380
+It's sparking a lot of imagination of what could happen in AI and what potential we have with the stuff that's happening.
+
+33
+00:02:24,380 --> 00:02:32,260
+And I wanted to bring you on to talk about the history of this product, where it's going, how it became so great, and all these things.
+
+34
+00:02:33,000 --> 00:02:36,100
+And so thanks for doing this. I know this kind of came on short notice.
+
+35
+00:02:36,780 --> 00:02:43,900
+Yeah. I mean, I was excited to do it in particular because, you know, I'm a big fan, big listener of Lenny's, read the newsletter, I love it.
+
+36
+00:02:44,420 --> 00:02:45,860
+So really happy to be here.
+
+37
+00:02:46,240 --> 00:02:48,880
+Awesome. Clearly these hosts are too, which I love.
+
+38
+00:02:49,060 --> 00:02:49,280
+Yeah.
+
+39
+00:02:49,280 --> 00:02:57,140
+By the way, I love the slight awkwardness at the end of their conversation. If folks rewind, they could hear it again, because it's very relatable.
+
+40
+00:02:57,700 --> 00:03:03,660
+I sometimes have trouble ending a podcast conversation and they're like, okay, let's say a couple more things and then, okay, we're done.
+
+41
+00:03:04,100 --> 00:03:08,560
+It's funny because I've listened to so many of these and they do have catchphrases.
+
+42
+00:03:08,700 --> 00:03:13,640
+They say at the end and stay curious is one of my favorite ones.
+
+43
+00:03:13,640 --> 00:03:19,360
+Well, let me just ask, is that something you all told them to do or is that like an emergent property?
+
+44
+00:03:19,940 --> 00:03:25,320
+So in this case, this is based on what they think is the most appropriate thing to say at the end.
+
+45
+00:03:25,780 --> 00:03:26,960
+Okay. Interesting. Okay.
+
+46
+00:03:28,060 --> 00:03:34,140
+This episode is brought to you by Explo, a game changer for customer facing analytics and data reporting.
+
+47
+00:03:34,560 --> 00:03:38,880
+Are your users craving more dashboards, reports, and analytics within your product?
+
+48
+00:03:39,380 --> 00:03:41,120
+Are you tired of trying to build it yourself?
+
+49
+00:03:41,120 --> 00:03:46,920
+As a product leader, you probably have these requests in your roadmap, but the struggle to prioritize them is real.
+
+50
+00:03:47,640 --> 00:03:52,300
+Building analytics from scratch can be time-consuming, expensive, and a really challenging process.
+
+51
+00:03:52,820 --> 00:03:53,840
+Enter Explo.
+
+52
+00:03:54,280 --> 00:04:00,800
+Explo is a fully white-labeled, embedded analytics solution designed entirely with your user in mind.
+
+53
+00:04:01,420 --> 00:04:02,700
+Getting started is easy.
+
+54
+00:04:03,240 --> 00:04:10,140
+Explo connects to any relational database or warehouse, and with its low-code functionality, you can build and style dashboards in minutes.
+
+55
+00:04:10,140 --> 00:04:15,860
+Once you're ready, simply embed the dashboard or report into your application with a tiny code snippet.
+
+56
+00:04:16,400 --> 00:04:16,980
+The best part?
+
+57
+00:04:17,380 --> 00:04:25,340
+Your end users can use Explo's AI features for their own report and dashboard generation, eliminating customer data requests for your support team.
+
+58
+00:04:25,960 --> 00:04:30,440
+Build and embed a fully white-labeled analytics experience in days.
+
+59
+00:04:30,980 --> 00:04:34,640
+Try it for free at explo.co.lenny.
+
+60
+00:04:34,640 --> 00:04:38,940
+That's E-X-P-L-O dot C-O slash Lenny.
+
+61
+00:04:38,940 --> 00:04:43,000
+This episode is brought to you by Sprig.
+
+62
+00:04:43,220 --> 00:04:46,500
+What if product teams knew exactly what to build to reach their goals?
+
+63
+00:04:46,960 --> 00:04:55,700
+From increasing conversion to boosting engagement, these challenges require a deep understanding of your users, something that you can't get from product analytics alone.
+
+64
+00:04:56,360 --> 00:05:03,900
+Meet Sprig, a product experience platform that generates AI-powered opportunities to continuously improve your product at scale.
+
+65
+00:05:03,900 --> 00:05:11,660
+First, Sprig captures your product experience in real-time through heat maps, replays, surveys, and feedback studies.
+
+66
+00:05:12,120 --> 00:05:19,280
+Then, Sprig's industry-leading AI instantly analyzes all of your product experience data to generate real-time insights.
+
+67
+00:05:19,920 --> 00:05:26,980
+Sprig AI goes even further with actionable product recommendations to drive revenue, retention, and user satisfaction.
+
+68
+00:05:26,980 --> 00:05:33,840
+Join product teams at Figma and at Notion by uncovering AI-powered product opportunities at scale.
+
+69
+00:05:34,300 --> 00:05:39,600
+Visit sprig.com slash Lenny to book a demo and get a $75 gift card.
+
+70
+00:05:39,940 --> 00:05:42,560
+That's S-P-R-I-G dot com slash Lenny.
+
+71
+00:05:43,420 --> 00:05:45,220
+I want to start with just kind of the history of this product.
+
+72
+00:05:45,380 --> 00:05:47,380
+I think for a lot of people, it just like came out of nowhere.
+
+73
+00:05:47,500 --> 00:05:49,600
+It's like, what the, wow, where did this come from?
+
+74
+00:05:49,660 --> 00:05:50,260
+This is blowing your mind.
+
+75
+00:05:51,340 --> 00:05:52,840
+Rarely is anything actually like that.
+
+76
+00:05:52,840 --> 00:05:56,320
+Rarely is it just like we built it over a week and then it's taken over the internet.
+
+77
+00:05:56,980 --> 00:06:00,440
+Talk about just the history of Notebook LM and the team behind it.
+
+78
+00:06:01,060 --> 00:06:01,420
+Yeah, yeah.
+
+79
+00:06:01,480 --> 00:06:01,980
+Thank you.
+
+80
+00:06:02,820 --> 00:06:09,940
+Actually, Notebook started as a 20% project as things kind of do at Google as they used to.
+
+81
+00:06:10,780 --> 00:06:15,280
+And it's funny because I wouldn't even call it a 20% because it was way more than that.
+
+82
+00:06:16,140 --> 00:06:21,640
+So I'll start from my perspective where I was leading AI Test Kitchen,
+
+83
+00:06:21,840 --> 00:06:25,000
+which was one of the first AI things we launched at Google.
+
+84
+00:06:25,000 --> 00:06:29,000
+And this was, I think, maybe two IOs ago or maybe three now, actually.
+
+85
+00:06:29,220 --> 00:06:29,980
+I think it was in 22.
+
+86
+00:06:31,040 --> 00:06:32,840
+And I was leading that project.
+
+87
+00:06:33,620 --> 00:06:39,340
+And I remember there was a smaller project inside of labs called Talk to Small Corpus.
+
+88
+00:06:39,760 --> 00:06:44,840
+And it was the idea that, you know, you could take a piece of content and use an LLM to interact with it.
+
+89
+00:06:45,420 --> 00:06:47,140
+We were like, okay, there's a nugget there.
+
+90
+00:06:47,360 --> 00:06:48,600
+It sounds interesting.
+
+91
+00:06:49,240 --> 00:06:52,680
+How do we keep revving on this, right, to make it actually really useful?
+
+92
+00:06:52,680 --> 00:06:56,620
+And it was just myself, an engineer.
+
+93
+00:06:57,260 --> 00:06:59,220
+And eventually, Steven Johnson joined.
+
+94
+00:07:00,020 --> 00:07:07,340
+And it was really funny because the only person who was actually really full time on this was the engineer working on the technology.
+
+95
+00:07:08,100 --> 00:07:13,840
+And everybody else was kind of just like coming together, like really chiming in, being like, hey, this is super interesting.
+
+96
+00:07:14,260 --> 00:07:15,260
+How do we make this better?
+
+97
+00:07:15,260 --> 00:07:17,400
+So it really started as a 20%.
+
+98
+00:07:17,400 --> 00:07:19,080
+And then it kind of just blew up from there.
+
+99
+00:07:20,080 --> 00:07:23,820
+That's insane that it was just you, an engineer, and then Steven Johnson.
+
+100
+00:07:23,820 --> 00:07:25,000
+I want to talk about his role.
+
+101
+00:07:25,440 --> 00:07:28,720
+That it's like one engineer can build something like this.
+
+102
+00:07:28,780 --> 00:07:30,800
+And I imagine it's more now that it's starting to take off.
+
+103
+00:07:30,960 --> 00:07:32,640
+Or what's the team looking like these days, roughly?
+
+104
+00:07:32,640 --> 00:07:37,100
+We've had a lot more folks join in the last month.
+
+105
+00:07:37,860 --> 00:07:41,220
+And a lot of that is really in anticipation of the future roadmap.
+
+106
+00:07:41,700 --> 00:07:45,880
+But up until this point, I'd say we didn't even have 10 engineers.
+
+107
+00:07:46,260 --> 00:07:49,760
+When we launched it, actually, when we announced Project Tailwind, I think we only had three.
+
+108
+00:07:50,760 --> 00:07:51,500
+We had three engineers.
+
+109
+00:07:51,600 --> 00:07:52,180
+It was myself.
+
+110
+00:07:52,320 --> 00:07:53,040
+We had a designer.
+
+111
+00:07:53,700 --> 00:07:54,520
+We had Steven.
+
+112
+00:07:55,320 --> 00:07:56,140
+And that was it.
+
+113
+00:07:56,140 --> 00:08:05,440
+And so even between the period when we did the first IO last year to as recently as like last month,
+
+114
+00:08:06,240 --> 00:08:08,520
+we've only had about eight engineers or so.
+
+115
+00:08:08,860 --> 00:08:12,160
+Let's talk about audio overviews, specifically this kind of podcast feature.
+
+116
+00:08:12,320 --> 00:08:14,200
+I think audio overview is the technical name, right?
+
+117
+00:08:14,240 --> 00:08:15,140
+Is that how you describe it?
+
+118
+00:08:15,400 --> 00:08:15,600
+Okay.
+
+119
+00:08:15,980 --> 00:08:17,060
+They call it a deep dive, right?
+
+120
+00:08:17,080 --> 00:08:18,320
+That's like their name for the podcast.
+
+121
+00:08:18,320 --> 00:08:18,660
+They do.
+
+122
+00:08:18,900 --> 00:08:19,020
+Yeah.
+
+123
+00:08:19,020 --> 00:08:19,900
+That's what they call it.
+
+124
+00:08:20,360 --> 00:08:22,400
+How did that specifically come about?
+
+125
+00:08:22,560 --> 00:08:23,620
+When did that become a thing?
+
+126
+00:08:23,700 --> 00:08:24,640
+What was the beginnings of that?
+
+127
+00:08:25,060 --> 00:08:25,800
+We announced.
+
+128
+00:08:25,800 --> 00:08:29,860
+We actually did a preview of this in IO this year, so in May.
+
+129
+00:08:30,760 --> 00:08:34,720
+And the way that it worked out is, you know, Notebook had already been launched.
+
+130
+00:08:35,060 --> 00:08:36,480
+We had a bunch of people using it.
+
+131
+00:08:36,520 --> 00:08:39,480
+It was this source grounded chat interface.
+
+132
+00:08:40,180 --> 00:08:44,960
+And we were looking at basically what are the new models coming out of Google, right?
+
+133
+00:08:45,060 --> 00:08:47,060
+We had Gemini, 1.8.5 coming out.
+
+134
+00:08:47,180 --> 00:08:53,820
+We had all of sort of these new technologies that are basically upgrades on fundamentally the same thing.
+
+135
+00:08:54,680 --> 00:09:00,160
+And we were like, what are some interesting ways that we could, you know, power Notebook 11 or make it even better?
+
+136
+00:09:00,160 --> 00:09:07,560
+And one of the things that we started playing around with is actually a different team inside of Google, inside of Labs specifically.
+
+137
+00:09:07,560 --> 00:09:12,980
+They were like, hey, we've got these like really powerful audio models, right?
+
+138
+00:09:13,040 --> 00:09:15,960
+Like what's a really good application of this?
+
+139
+00:09:15,960 --> 00:09:23,240
+And that's when we started riffing and we were like, hey, what if you could basically what you see today, give it a little bit of information.
+
+140
+00:09:23,240 --> 00:09:24,240
+You don't have to do a lot.
+
+141
+00:09:24,340 --> 00:09:33,440
+You can just enter a URL, upload, you know, your resume, and then it will completely generate something for you that could be unexpected, could be a surprise.
+
+142
+00:09:33,440 --> 00:09:33,880
+Okay.
+
+143
+00:09:35,060 --> 00:09:38,400
+So it started, basically, there was like a technology that we think could be really interesting.
+
+144
+00:09:38,780 --> 00:09:42,060
+Was there a problem you were trying to solve with this team, with this initiative?
+
+145
+00:09:42,200 --> 00:09:46,860
+It was within Google Labs, which I know is a little bit probably less like we need to drive business outcomes.
+
+146
+00:09:47,400 --> 00:09:50,760
+What was the original thesis or problem you're going after?
+
+147
+00:09:50,760 --> 00:09:53,020
+And so this is really funny.
+
+148
+00:09:53,140 --> 00:09:56,800
+I talk about this quite a lot, especially when I'm talking to other PMs.
+
+149
+00:09:56,920 --> 00:10:05,300
+I feel like the way that I've always built products is I start from a problem and I think about the solutions, you know, to solve it, solve it for people in a meaningful way.
+
+150
+00:10:06,200 --> 00:10:09,960
+And in Labs in particular, we start with the technology.
+
+151
+00:10:10,600 --> 00:10:14,960
+And it's actually a very interesting place to start where you're like, okay, what are the practical applications to this?
+
+152
+00:10:15,040 --> 00:10:16,920
+How do I go about finding the answer?
+
+153
+00:10:16,920 --> 00:10:22,780
+And I think we've seen different approaches to this, right, where you just put the tool out there, you study how people are using it.
+
+154
+00:10:23,060 --> 00:10:24,900
+And I think that's like a fine approach.
+
+155
+00:10:25,160 --> 00:10:31,760
+But we tried to have a little bit more of a hypothesis about what is the shape of this thing to actually get the most learning out of it.
+
+156
+00:10:32,240 --> 00:10:39,820
+So for the audio feature in particular, the nugget there was really, we had this ability for you to interact with text.
+
+157
+00:10:40,320 --> 00:10:43,940
+But people were like, the output is still always text, right?
+
+158
+00:10:43,940 --> 00:10:46,820
+And I'm actually a big fan of voice modality in general.
+
+159
+00:10:47,680 --> 00:10:48,720
+So I use a lot of voice input.
+
+160
+00:10:49,500 --> 00:10:55,000
+And voice output, I noticed when I was experimenting with it early on, it changed a lot of things for me.
+
+161
+00:10:55,260 --> 00:10:57,820
+It's like, oh, it changes the way that I interact with the technology.
+
+162
+00:10:57,980 --> 00:10:59,860
+It changes the way I feel about the technology.
+
+163
+00:11:00,240 --> 00:11:04,600
+It sort of affects the way that I'm even thinking in real time throughout this process.
+
+164
+00:11:04,600 --> 00:11:13,740
+And so we thought about what is a good way to introduce this to people where they could sort of easily get the value of it and have a little bit of fun.
+
+165
+00:11:14,060 --> 00:11:18,860
+So I think, you know, for me, it's like fun is like such a big part of it, too, which is like, how do we make this cool?
+
+166
+00:11:18,860 --> 00:11:21,560
+And so hopefully, hopefully we've done that here.
+
+167
+00:11:21,560 --> 00:11:51,560
+
+
+168
+00:11:51,560 --> 00:11:52,100
+We're getting this good.
+
+169
+00:11:52,160 --> 00:11:53,200
+And LMS, we're getting this good.
+
+170
+00:11:53,640 --> 00:11:54,700
+Any thoughts on that?
+
+171
+00:11:55,320 --> 00:12:08,520
+Yeah, I think that totally strikes at the heart of what we're trying to do as well, which is, you know, a lot of technology, I feel like you have to shape it and bring it closer to people.
+
+172
+00:12:08,520 --> 00:12:13,780
+And I think it's like such an interesting thing to iterate on and be like, what is the shape?
+
+173
+00:12:14,520 --> 00:12:14,660
+Right.
+
+174
+00:12:14,740 --> 00:12:16,120
+Like soon, soon you'll get there.
+
+175
+00:12:16,160 --> 00:12:22,240
+Like if you keep going at it, you'll eventually, I think, land on something that like when people look at it, they're like, wow, I get it.
+
+176
+00:12:22,620 --> 00:12:22,740
+Right.
+
+177
+00:12:22,740 --> 00:12:24,840
+And that's that's always like what we're hunting for.
+
+178
+00:12:24,920 --> 00:12:27,840
+But I think to your point, technology has been there.
+
+179
+00:12:28,300 --> 00:12:28,660
+Right.
+
+180
+00:12:28,720 --> 00:12:36,060
+Like, I mean, it feels so crazy to say that because even with like the the advent of like the chatbots, right, of LLMs as we know them today.
+
+181
+00:12:36,060 --> 00:12:41,740
+And then to introduce this sort of new technology on top of it that we've only been doing this for like two years.
+
+182
+00:12:42,200 --> 00:12:46,220
+But already, right, we're exploring so many different ways to use it.
+
+183
+00:12:46,620 --> 00:12:46,720
+Yeah.
+
+184
+00:12:46,840 --> 00:12:51,260
+It's such an intuitive but clever idea of making something a podcast.
+
+185
+00:12:52,520 --> 00:12:55,080
+Let's take a tangent into the technology behind this thing.
+
+186
+00:12:55,660 --> 00:12:57,720
+So there's kind of two questions I'm thinking about.
+
+187
+00:12:57,780 --> 00:13:00,920
+One is just what technology needed to exist for this to be possible.
+
+188
+00:13:01,200 --> 00:13:04,300
+And then two is just what did you do to make this so good?
+
+189
+00:13:04,300 --> 00:13:08,580
+How did you train this model to get to create a podcast?
+
+190
+00:13:08,840 --> 00:13:09,300
+It's this good.
+
+191
+00:13:09,700 --> 00:13:11,540
+So we could start with the first and then get into the second.
+
+192
+00:13:12,320 --> 00:13:12,460
+Yeah.
+
+193
+00:13:12,560 --> 00:13:13,920
+I mean, that's such a great question.
+
+194
+00:13:14,080 --> 00:13:17,880
+I mean, truly, like the Gemini models are so powerful.
+
+195
+00:13:18,360 --> 00:13:23,540
+And we use Gemini 1.5 Pro as sort of the base for Notebook LM.
+
+196
+00:13:24,060 --> 00:13:28,360
+And then we have a powerful voice model on top of it, an audio model on top of it.
+
+197
+00:13:28,360 --> 00:13:34,860
+But I think the real secret sauce to what makes this really good is something we've built, which is a content studio.
+
+198
+00:13:35,340 --> 00:13:45,720
+And you kind of see a clue of this inside Notebook LM, where when you open up Notebook Guide, Notebook Guide is designed to take an opinionated approach to the content that you've given it.
+
+199
+00:13:45,720 --> 00:13:48,180
+And what it's really trying to do is be as helpful as possible.
+
+200
+00:13:48,300 --> 00:13:52,700
+It gives you a summary, gives you buttons where if you click on it, it'll write something for you.
+
+201
+00:13:53,220 --> 00:13:55,280
+And the audio is a big part of that.
+
+202
+00:13:55,420 --> 00:14:01,520
+And so this was very interesting for us because we had to think about what shape should that audio be in, right?
+
+203
+00:14:01,580 --> 00:14:04,460
+Like the deep dive is the first format we've thought about.
+
+204
+00:14:04,460 --> 00:14:08,900
+And we actually have a super talented engineer on our team.
+
+205
+00:14:09,000 --> 00:14:09,660
+His name is Usama.
+
+206
+00:14:10,200 --> 00:14:20,240
+And he's the real craftsman behind thinking through content studio and thinking about what makes something really relatable to people in a way that's engaging, that's interesting.
+
+207
+00:14:20,760 --> 00:14:23,220
+So content studio is the real magic here.
+
+208
+00:14:23,700 --> 00:14:25,500
+So when you say content studio, what does that mean?
+
+209
+00:14:26,100 --> 00:14:27,900
+What does that actually look like?
+
+210
+00:14:27,960 --> 00:14:29,160
+What is a content studio?
+
+211
+00:14:29,160 --> 00:14:39,460
+I can't share too much about how content studio works, but you can imagine it's the same thing that powers all of Notebook LM, which is there's different ways that you could interact with your data, right?
+
+212
+00:14:39,500 --> 00:14:41,360
+You could like Q&A inside of Notebook LM.
+
+213
+00:14:41,620 --> 00:14:45,360
+But then there are places where you just one push a button and create something new.
+
+214
+00:14:45,560 --> 00:14:47,120
+So content studio is what's the real magic here.
+
+215
+00:14:47,140 --> 00:14:47,380
+Okay.
+
+216
+00:14:47,440 --> 00:14:55,520
+So this is the interface you use to interact with Notebook LM and the different prompts and the recommendations of how to ask questions.
+
+217
+00:14:55,760 --> 00:14:56,840
+And okay, got it.
+
+218
+00:14:56,840 --> 00:15:07,100
+And then specifically in terms of the way these hosts interact and talk, like if you listen to these podcasts, it's like they laugh and they're like, hmm.
+
+219
+00:15:07,560 --> 00:15:12,160
+And they interrupt each other a little bit and they get surprised and they have these like inflections that are really amazing.
+
+220
+00:15:12,820 --> 00:15:15,840
+What did you have to do to make them sound this good?
+
+221
+00:15:15,900 --> 00:15:19,400
+I know you said you can't share tons, but just anything there you can share.
+
+222
+00:15:20,020 --> 00:15:21,340
+I mean, that's the model.
+
+223
+00:15:22,040 --> 00:15:24,320
+That's the audio model that we use.
+
+224
+00:15:24,320 --> 00:15:30,200
+And alongside the content studio is designed to bring out the best of that model.
+
+225
+00:15:30,980 --> 00:15:37,700
+And I think when we listened to a lot of like the early attempts that we had, it wasn't nearly this good.
+
+226
+00:15:37,760 --> 00:15:43,820
+And so we had to do a lot of listening to try to figure out how do we actually get the model to behave in this way?
+
+227
+00:15:43,880 --> 00:15:45,720
+And that's where I think the magic happens.
+
+228
+00:15:46,360 --> 00:15:46,840
+That's amazing.
+
+229
+00:15:46,840 --> 00:15:51,940
+Did you all just listen to a bunch of podcast episodes and like hear something that really, yeah, okay, shaking your head?
+
+230
+00:15:52,320 --> 00:15:57,320
+I think the funniest thing was that, so my husband doesn't know, right?
+
+231
+00:15:57,400 --> 00:15:58,580
+He doesn't know what I'm doing.
+
+232
+00:15:58,900 --> 00:16:01,100
+Most of the time I try not to talk about work at home.
+
+233
+00:16:01,600 --> 00:16:05,960
+And so I would listen to these audio overviews over and over at home.
+
+234
+00:16:06,140 --> 00:16:07,560
+And, you know, I get tired of wearing my headphones.
+
+235
+00:16:07,660 --> 00:16:08,720
+So I'm just listening to them out loud.
+
+236
+00:16:09,060 --> 00:16:11,300
+And he's like, what is this thing you are listening to?
+
+237
+00:16:11,440 --> 00:16:15,080
+This is like an ever running podcast about nothing.
+
+238
+00:16:15,080 --> 00:16:18,360
+And it was just super funny.
+
+239
+00:16:18,460 --> 00:16:21,660
+I had to be like, oh, it's just like something I have to do for work.
+
+240
+00:16:22,120 --> 00:16:23,080
+So it was pretty funny.
+
+241
+00:16:23,140 --> 00:16:24,680
+He actually couldn't tell that they were AI.
+
+242
+00:16:25,640 --> 00:16:26,100
+That's it.
+
+243
+00:16:26,100 --> 00:16:26,680
+I love that.
+
+244
+00:16:27,260 --> 00:16:34,640
+So one of the ways I've been playing around with it a bunch, one of the ways I used it is my mom wrote this autobiography, like a short autobiography of her life.
+
+245
+00:16:34,840 --> 00:16:36,100
+And we have the PDF of it.
+
+246
+00:16:36,120 --> 00:16:40,000
+So I fed it into the notebook and then generated the podcast and sent it to her.
+
+247
+00:16:40,060 --> 00:16:41,120
+Like, what the heck?
+
+248
+00:16:41,760 --> 00:16:42,500
+That's amazing.
+
+249
+00:16:42,640 --> 00:16:43,280
+What did she think?
+
+250
+00:16:43,520 --> 00:16:44,420
+She was blown away.
+
+251
+00:16:44,420 --> 00:16:45,240
+She's showing all her friends.
+
+252
+00:16:45,340 --> 00:16:47,100
+She's like, I don't know what's going on here.
+
+253
+00:16:47,760 --> 00:16:50,920
+And I love that it creates a study guide.
+
+254
+00:16:51,200 --> 00:16:52,620
+And that's one of the options in the studio.
+
+255
+00:16:53,020 --> 00:16:54,840
+And so I sent her the study guide.
+
+256
+00:16:54,940 --> 00:17:00,900
+And she's like, okay, at a Rosh Hashanah dinner, we're going to be reviewing the study guide about my biography.
+
+257
+00:17:01,260 --> 00:17:02,220
+You're going to talk about this?
+
+258
+00:17:02,780 --> 00:17:03,320
+That's very funny.
+
+259
+00:17:03,640 --> 00:17:04,100
+That's super cute.
+
+260
+00:17:04,140 --> 00:17:05,200
+I did it for my dad, too.
+
+261
+00:17:06,460 --> 00:17:07,280
+What did you do?
+
+262
+00:17:07,280 --> 00:17:09,520
+I actually took my dad's bio.
+
+263
+00:17:09,980 --> 00:17:12,340
+So he worked at a hospital.
+
+264
+00:17:12,660 --> 00:17:15,420
+And he has a bio for the doctors that they have there.
+
+265
+00:17:15,500 --> 00:17:16,460
+And I put his bio.
+
+266
+00:17:17,140 --> 00:17:19,460
+And I generated an audio overview for him.
+
+267
+00:17:19,860 --> 00:17:24,420
+And it's so funny because my parents are both in the medical field.
+
+268
+00:17:24,460 --> 00:17:26,260
+They don't think they fully know what I do.
+
+269
+00:17:26,620 --> 00:17:29,860
+I think this is the first time they were like, oh, that's super interesting.
+
+270
+00:17:30,720 --> 00:17:31,560
+That's what you do.
+
+271
+00:17:31,560 --> 00:17:39,740
+So maybe along these lines, what are some other surprising, hilarious use cases you've seen for especially the audio deep jives?
+
+272
+00:17:40,300 --> 00:17:42,340
+I mean, I love the resume ones.
+
+273
+00:17:42,680 --> 00:17:44,640
+I think the resume ones are so delightful.
+
+274
+00:17:45,280 --> 00:17:54,940
+And actually, really adjacent to that is Google has these Q3 check-ins or the quarterly check-ins where we have to write performance reviews for ourselves.
+
+275
+00:17:55,640 --> 00:18:00,720
+And the amount of Googlers that ping me that I don't even know.
+
+276
+00:18:00,720 --> 00:18:11,680
+And they're like, wow, this was such a boost to my confidence just to upload my own check-in notes and then have it generate an audio overview.
+
+277
+00:18:12,160 --> 00:18:14,700
+It's like people are going into meetings feeling really good about themselves.
+
+278
+00:18:15,800 --> 00:18:18,720
+Because they heard these hosts get really excited, right, about their quarter.
+
+279
+00:18:19,620 --> 00:18:20,380
+Their work, yeah.
+
+280
+00:18:20,680 --> 00:18:20,900
+Yeah.
+
+281
+00:18:21,560 --> 00:18:26,400
+And when you say resume, so people upload the resume and then it describes you in a really positive way, right?
+
+282
+00:18:26,880 --> 00:18:27,480
+Yeah, yeah.
+
+283
+00:18:27,560 --> 00:18:29,600
+And I thought that was so interesting.
+
+284
+00:18:29,600 --> 00:18:31,480
+I was like, what was the use case?
+
+285
+00:18:31,580 --> 00:18:36,140
+I think if I had to guess, somebody probably was like, hey, I want to try this new thing.
+
+286
+00:18:36,540 --> 00:18:41,620
+Clicked on upload Google Doc and maybe, you know, the last thing you had there was like your resume or something.
+
+287
+00:18:42,080 --> 00:18:46,420
+But imagine you click that and I think there's something really special about you don't know what's going to happen.
+
+288
+00:18:47,540 --> 00:18:47,680
+Right?
+
+289
+00:18:47,720 --> 00:18:51,740
+You just click generate and then you have this like these two people just hyping you up.
+
+290
+00:18:51,740 --> 00:18:52,140
+Okay.
+
+291
+00:18:53,140 --> 00:18:57,080
+I want to talk a bit more about how you made this happen within Google.
+
+292
+00:18:57,300 --> 00:19:01,000
+So as an outsider, this does not feel like a Google product.
+
+293
+00:19:01,240 --> 00:19:03,680
+And the way you all are operating feels very startup-y.
+
+294
+00:19:03,920 --> 00:19:06,080
+Like you're tweeting daily about what's going on.
+
+295
+00:19:06,300 --> 00:19:08,500
+I heard there's a Discord server for folks that are like, really?
+
+296
+00:19:09,080 --> 00:19:09,460
+Is that right?
+
+297
+00:19:09,900 --> 00:19:10,060
+Yeah.
+
+298
+00:19:10,060 --> 00:19:10,500
+Yeah, there is.
+
+299
+00:19:10,660 --> 00:19:11,520
+It's pretty cool.
+
+300
+00:19:11,600 --> 00:19:13,300
+We have about 60,000 people in it.
+
+301
+00:19:13,460 --> 00:19:13,860
+Okay.
+
+302
+00:19:14,040 --> 00:19:14,300
+You want.
+
+303
+00:19:15,340 --> 00:19:15,660
+Okay.
+
+304
+00:19:15,860 --> 00:19:16,480
+So, yeah.
+
+305
+00:19:16,560 --> 00:19:17,780
+So there's this Discord server.
+
+306
+00:19:18,100 --> 00:19:19,460
+It's just you're shipping constantly.
+
+307
+00:19:19,600 --> 00:19:21,620
+The product is just like very delightful.
+
+308
+00:19:22,220 --> 00:19:25,360
+And Google makes delightful products, but this feels like a different realm of delight.
+
+309
+00:19:25,800 --> 00:19:27,100
+How are you able to do this within Google?
+
+310
+00:19:27,220 --> 00:19:30,720
+Is this like a model for how you think Google Teams will want to operate?
+
+311
+00:19:31,120 --> 00:19:32,500
+More lessons there.
+
+312
+00:19:33,380 --> 00:19:34,660
+I mean, it's such a good question.
+
+313
+00:19:34,660 --> 00:19:39,140
+I think, you know, there's a question of how it came to be, how we're able to operate in this way.
+
+314
+00:19:39,140 --> 00:19:44,040
+And then the question of, hey, is this, you know, how other Google Teams want to operate?
+
+315
+00:19:44,740 --> 00:19:54,640
+And I think that, you know, to answer the first part, I'll say that it's interesting because, you know, Google Labs is only about three years old.
+
+316
+00:19:55,420 --> 00:19:56,240
+It's fairly new.
+
+317
+00:19:56,940 --> 00:19:59,520
+And when I joined, there was nobody here.
+
+318
+00:20:00,740 --> 00:20:01,760
+There's no one.
+
+319
+00:20:01,960 --> 00:20:07,160
+And the reason why I joined was because my old boss went and actually started it.
+
+320
+00:20:07,160 --> 00:20:10,400
+And so this is Josh Woodward, who's the VP of Google Labs.
+
+321
+00:20:10,760 --> 00:20:14,800
+And it's really funny because I was like, it's just like a funny anecdote.
+
+322
+00:20:15,320 --> 00:20:22,800
+I remember I had no idea what Google Labs was, but I like my old boss so much that I was like, I'll just work on whatever he's working on.
+
+323
+00:20:23,080 --> 00:20:24,520
+Whatever his new idea is, I'll just do it.
+
+324
+00:20:25,160 --> 00:20:27,680
+And I remember when I joined, I was like, what's the mission?
+
+325
+00:20:28,120 --> 00:20:28,920
+What are we here for?
+
+326
+00:20:29,540 --> 00:20:31,000
+And he said, it's AI.
+
+327
+00:20:31,200 --> 00:20:34,680
+We're going to ship AI products and we're going to build businesses out of them.
+
+328
+00:20:35,020 --> 00:20:35,340
+Okay.
+
+329
+00:20:35,900 --> 00:20:36,580
+Sounds good.
+
+330
+00:20:36,580 --> 00:20:37,220
+Sounds good.
+
+331
+00:20:37,320 --> 00:20:39,000
+It's like, now I have to, now I have to study.
+
+332
+00:20:39,080 --> 00:20:42,440
+I have to do a lot of studying because I came from payments, came from ads before that.
+
+333
+00:20:42,900 --> 00:20:47,680
+And so for me, it was, it was a little bit of a mental shift, but before that I actually worked only at startups.
+
+334
+00:20:48,160 --> 00:20:52,160
+And so I felt like, hey, maybe this is my chance to do zero to one again.
+
+335
+00:20:53,320 --> 00:20:55,400
+And I was really jazzed about that.
+
+336
+00:20:55,400 --> 00:21:00,460
+And I remember talking with Josh about this in the early days of like, hey, we really want to do zero to one.
+
+337
+00:21:00,460 --> 00:21:02,240
+We have to do things very differently.
+
+338
+00:21:02,240 --> 00:21:07,920
+And so as a result, I think that's why, you know, notebook LM is able to operate differently.
+
+339
+00:21:07,920 --> 00:21:10,240
+It's because in labs, we have the environment to do it.
+
+340
+00:21:10,300 --> 00:21:12,260
+We have the environment to move fast.
+
+341
+00:21:12,420 --> 00:21:16,740
+We have far, far, far fewer processes, maybe even to a fault.
+
+342
+00:21:16,740 --> 00:21:22,460
+And sometimes we'll go to meetings that are literally, you know, the product managers, the engineers, the designers all together.
+
+343
+00:21:23,000 --> 00:21:26,260
+And we'll just crank on the mocks and the PRDs at the same time.
+
+344
+00:21:26,700 --> 00:21:30,120
+And Eng is basically already doing implementation as we're meeting.
+
+345
+00:21:30,120 --> 00:21:35,300
+And, you know, at Google, it's just not how things are traditionally done, right?
+
+346
+00:21:35,320 --> 00:21:40,940
+Especially, you know, coming from the previous organizations that I was at, like, just takes a lot of time to do each of these things.
+
+347
+00:21:41,860 --> 00:21:46,020
+So what I'm hearing, and this is great, because a lot of companies are trying to create teams like this.
+
+348
+00:21:46,100 --> 00:21:47,720
+We're going to have a team off to the side.
+
+349
+00:21:48,040 --> 00:21:50,600
+We're going to make work on crazy futuristic stuff.
+
+350
+00:21:51,400 --> 00:21:52,420
+Rarely do those work out.
+
+351
+00:21:52,840 --> 00:21:56,680
+Even at Google, there's been a lot of this in the past and rarely do things actually work out.
+
+352
+00:21:56,680 --> 00:21:59,740
+And so there's a lot of lessons to learn from how this is working.
+
+353
+00:22:00,900 --> 00:22:04,120
+So a few things I've noticed as you're describing how this works.
+
+354
+00:22:04,300 --> 00:22:07,500
+One is just very clear expectations from, like, a very senior leader.
+
+355
+00:22:07,920 --> 00:22:08,480
+Here's a team.
+
+356
+00:22:08,600 --> 00:22:09,520
+We're going to do things differently.
+
+357
+00:22:09,680 --> 00:22:10,560
+Here's things we're not going to do.
+
+358
+00:22:10,620 --> 00:22:12,760
+We're not going to go through regular pre-roll processes.
+
+359
+00:22:12,980 --> 00:22:14,860
+We're going to be public and build in public.
+
+360
+00:22:15,420 --> 00:22:17,300
+We're not going to have, like, a goal necessarily.
+
+361
+00:22:17,400 --> 00:22:19,180
+We're going to work on cool technology and see what happens.
+
+362
+00:22:20,400 --> 00:22:21,880
+Also, you had a very small team.
+
+363
+00:22:22,060 --> 00:22:22,980
+It feels like that was really key.
+
+364
+00:22:22,980 --> 00:22:25,760
+One engineer and then a PM and then Steven Johnson.
+
+365
+00:22:26,660 --> 00:22:27,220
+That's true.
+
+366
+00:22:27,320 --> 00:22:27,640
+That's true.
+
+367
+00:22:27,640 --> 00:22:31,400
+And I think, you know, one big thing, too, is we got to try new things.
+
+368
+00:22:32,000 --> 00:22:34,740
+Even, you know, from the beginning, I was like, hey, I want to have a Discord.
+
+369
+00:22:35,420 --> 00:22:35,640
+Right?
+
+370
+00:22:35,700 --> 00:22:39,020
+Like, if we were building outside of Google, for sure, we would have one of these.
+
+371
+00:22:39,700 --> 00:22:44,260
+And in true sort of Google fashion, everybody was like, what is Discord?
+
+372
+00:22:44,920 --> 00:22:45,240
+Okay.
+
+373
+00:22:45,520 --> 00:22:46,200
+You know, great.
+
+374
+00:22:46,280 --> 00:22:46,620
+Do it.
+
+375
+00:22:46,660 --> 00:22:47,500
+But what is that again?
+
+376
+00:22:47,640 --> 00:22:47,820
+Right.
+
+377
+00:22:47,940 --> 00:22:48,760
+Why not Google Meet?
+
+378
+00:22:49,760 --> 00:22:51,380
+And somebody did ask me.
+
+379
+00:22:51,480 --> 00:22:52,520
+They were like, why not a Google Meet?
+
+380
+00:22:52,600 --> 00:22:53,440
+Why not a Google Group?
+
+381
+00:22:53,520 --> 00:22:54,020
+Why not this?
+
+382
+00:22:54,020 --> 00:22:56,700
+And I was like, I don't even know how to use these things, you know, outside.
+
+383
+00:22:56,900 --> 00:22:59,900
+So I was like, the server is the way to go.
+
+384
+00:23:00,340 --> 00:23:04,220
+And I remember when we stood up the server, actually, one of the things I was most afraid
+
+385
+00:23:04,220 --> 00:23:06,060
+of is, what if nobody joins?
+
+386
+00:23:06,740 --> 00:23:10,420
+Like, what if no people come in and want to talk to us about the thing that we built?
+
+387
+00:23:11,200 --> 00:23:15,560
+And so that was in the early days, you know, very exciting to look back and remember day
+
+388
+00:23:15,560 --> 00:23:18,000
+zero and now have 60,000 people in it.
+
+389
+00:23:18,000 --> 00:23:22,080
+Let me tell you about a product called Sidebar.
+
+390
+00:23:22,380 --> 00:23:26,180
+The most successful people that I know surround themselves with incredible peers.
+
+391
+00:23:26,820 --> 00:23:31,160
+When you have a trusted group of peers, you can discuss challenges you're having, get career
+
+392
+00:23:31,160 --> 00:23:35,460
+advice, and just gut check how you're thinking about your work, your career, and your life.
+
+393
+00:23:35,920 --> 00:23:37,500
+This gives you more than a leg up.
+
+394
+00:23:37,700 --> 00:23:39,160
+It gives you a leap forward.
+
+395
+00:23:39,700 --> 00:23:43,160
+Having a group of trusted and amazing peers was key to my career growth.
+
+396
+00:23:43,420 --> 00:23:45,160
+And this is the Sidebar ethos.
+
+397
+00:23:45,160 --> 00:23:49,100
+But it's hard to build this trusted group of peers on your own.
+
+398
+00:23:49,620 --> 00:23:54,840
+Sidebar is a platform for senior tech professionals, director to C-level, to advance in their career.
+
+399
+00:23:55,420 --> 00:24:00,060
+Members are matched into peer groups to lean on for unbiased opinions, diverse perspectives,
+
+400
+00:24:00,360 --> 00:24:01,140
+and raw feedback.
+
+401
+00:24:01,720 --> 00:24:07,160
+Guided by world-class programming and facilitation, all running on Sidebar's technology, Sidebar enables
+
+402
+00:24:07,160 --> 00:24:11,060
+you to get focused, tactical feedback at every step of your career journey.
+
+403
+00:24:11,540 --> 00:24:14,480
+If you're a listener of this podcast, you're already committed to growth.
+
+404
+00:24:14,480 --> 00:24:17,380
+Sidebar is the missing piece to catalyze your career.
+
+405
+00:24:18,020 --> 00:24:23,400
+93% of members say Sidebar helped them achieve a significant positive change in their career.
+
+406
+00:24:23,940 --> 00:24:27,280
+Check them out at sidebar.com slash Lenny.
+
+407
+00:24:27,280 --> 00:24:30,840
+Okay, so there's 60,000 in this Discord server.
+
+408
+00:24:30,920 --> 00:24:32,380
+Any other traction numbers you can share?
+
+409
+00:24:32,460 --> 00:24:34,020
+Feels like it's just going really well.
+
+410
+00:24:34,620 --> 00:24:36,220
+I know there's probably a lot of sensitive information.
+
+411
+00:24:36,460 --> 00:24:38,240
+Anything you can share about just like how well things are going?
+
+412
+00:24:38,900 --> 00:24:39,800
+A couple of things.
+
+413
+00:24:40,100 --> 00:24:41,120
+Well, I'll tell you three things.
+
+414
+00:24:41,160 --> 00:24:45,420
+I think the first is I can't share the exact numbers.
+
+415
+00:24:45,420 --> 00:24:51,140
+But, you know, for a product that's only been out for about a year, I think the rate at which
+
+416
+00:24:51,140 --> 00:24:55,740
+our retention has gone up across, you know, across like the typical measures, right?
+
+417
+00:24:55,800 --> 00:24:57,860
+Daily retention, weekly retention, monthly retention.
+
+418
+00:24:58,320 --> 00:25:02,440
+That I think has been very, very positive for us in terms of like, even when we talk to
+
+419
+00:25:02,440 --> 00:25:04,660
+stakeholders, we say, hey, we've got something here.
+
+420
+00:25:04,660 --> 00:25:13,340
+The second thing I'll say is even seeing how the demographics have changed, where I think
+
+421
+00:25:13,340 --> 00:25:18,860
+in the beginning we saw educators, learners really loved the product and they were a lot
+
+422
+00:25:18,860 --> 00:25:19,680
+of our demographic.
+
+423
+00:25:20,240 --> 00:25:25,420
+It's really now a big mix of, I would say educators and learners are still a big part
+
+424
+00:25:25,420 --> 00:25:27,540
+of it, but really professionals, right?
+
+425
+00:25:27,640 --> 00:25:30,920
+Huge interest for professionals that are like, wow, I want to use this at work.
+
+426
+00:25:30,920 --> 00:25:36,460
+And really funny, I won't mention the company, but I actually had a call with a company recently
+
+427
+00:25:36,460 --> 00:25:40,180
+where they were like, hey, we thought we'd schedule a meeting with you because we found
+
+428
+00:25:40,180 --> 00:25:45,140
+out that a bunch of people in our company are using this tool with our Gmails, with their
+
+429
+00:25:45,140 --> 00:25:45,680
+Gmail account.
+
+430
+00:25:46,440 --> 00:25:48,040
+They're like, they're not supposed to do that.
+
+431
+00:25:48,320 --> 00:25:51,860
+So we just want to make it official that they can use this at work, you know, with their
+
+432
+00:25:51,860 --> 00:25:52,920
+official work emails.
+
+433
+00:25:53,100 --> 00:25:53,960
+I thought that was pretty cool.
+
+434
+00:25:54,760 --> 00:25:59,180
+And then the third thing I'll say is the number of businesses that we've seen using
+
+435
+00:25:59,180 --> 00:26:02,480
+Notebook LM just has, it's astronomical.
+
+436
+00:26:02,640 --> 00:26:03,480
+It's just like crazy.
+
+437
+00:26:04,140 --> 00:26:10,660
+I think we went, I don't want to say the exact numbers, but it is now at a point where I have
+
+438
+00:26:10,660 --> 00:26:15,640
+to hire a business development person because I was like, hey, I have to ship products.
+
+439
+00:26:15,900 --> 00:26:18,480
+And I'm actually taking like customer calls every day now.
+
+440
+00:26:19,440 --> 00:26:20,460
+Very, very exciting.
+
+441
+00:26:21,240 --> 00:26:23,400
+So I could see the path to monetization clearly.
+
+442
+00:26:23,800 --> 00:26:26,980
+Enterprise features, single sign-on and SOC 2 and all these things.
+
+443
+00:26:26,980 --> 00:26:31,940
+So along those lines, what does success look like for this team and for you?
+
+444
+00:26:32,120 --> 00:26:35,100
+I know Matt initially is probably just like build interesting things, see what happens.
+
+445
+00:26:35,560 --> 00:26:38,880
+Is there now a clear sense of like, here's what this team should be achieving in the future?
+
+446
+00:26:39,520 --> 00:26:41,780
+When I joined, my mandate was to build a business.
+
+447
+00:26:42,340 --> 00:26:45,780
+And I was like, all right, if we break down the steps here along the way, I have to build
+
+448
+00:26:45,780 --> 00:26:46,880
+something interesting first.
+
+449
+00:26:48,360 --> 00:26:50,460
+I feel like, okay, we hit the first thing.
+
+450
+00:26:50,560 --> 00:26:51,640
+We've built something interesting.
+
+451
+00:26:52,040 --> 00:26:53,640
+Now we go figure out the business.
+
+452
+00:26:53,640 --> 00:27:00,560
+And I think, you know, that that comes naturally to Google in terms of thinking about, you know,
+
+453
+00:27:00,600 --> 00:27:04,200
+distribution, how to monetize it, how to commercialize it.
+
+454
+00:27:04,320 --> 00:27:08,980
+There's different pathways, whether it's cloud or workspace or even the consumer route.
+
+455
+00:27:09,480 --> 00:27:13,360
+And so for me, I think these are the things that we want to be really thoughtful about because
+
+456
+00:27:13,360 --> 00:27:14,880
+the machinery is already there.
+
+457
+00:27:14,880 --> 00:27:19,180
+And for me personally, it's really about there's something super exciting here.
+
+458
+00:27:19,240 --> 00:27:20,760
+We need to deepen that, right?
+
+459
+00:27:20,880 --> 00:27:24,040
+Like while in parallel, we should be thinking about commercialization.
+
+460
+00:27:24,240 --> 00:27:29,800
+Let's deepen this user experience that so many people have really sort of latched onto.
+
+461
+00:27:30,480 --> 00:27:34,540
+So let's follow this thread and talk about just where you think the product goes broadly,
+
+462
+00:27:34,700 --> 00:27:36,460
+and especially the audio overviews.
+
+463
+00:27:36,560 --> 00:27:38,180
+What's on the roadmap in your term?
+
+464
+00:27:38,220 --> 00:27:40,180
+And then where do you imagine this in the future?
+
+465
+00:27:40,240 --> 00:27:41,100
+What's kind of the big vision?
+
+466
+00:27:41,860 --> 00:27:42,420
+Yeah, yeah.
+
+467
+00:27:42,420 --> 00:27:44,500
+I have a really ugly slide.
+
+468
+00:27:44,580 --> 00:27:45,480
+I wish I could show you.
+
+469
+00:27:45,720 --> 00:27:48,180
+I made it two years ago and it was lime green.
+
+470
+00:27:48,420 --> 00:27:50,040
+I don't know, you know, what I was thinking.
+
+471
+00:27:50,160 --> 00:27:53,080
+I think I was trying to go for like ungoogly was the vibe.
+
+472
+00:27:53,180 --> 00:27:55,820
+It's like, hey, you're going to do different things this time.
+
+473
+00:27:56,320 --> 00:28:00,160
+And the reason why that slide is so important to me is because it has my vision.
+
+474
+00:28:00,440 --> 00:28:06,720
+Like the thing that I wanted to do from the get-go, which was I imagined that in the future,
+
+475
+00:28:07,060 --> 00:28:11,480
+you could have an AI editor surface, right?
+
+476
+00:28:11,480 --> 00:28:15,540
+Fully remixable, any input, any output, right?
+
+477
+00:28:15,600 --> 00:28:20,700
+And that to me is sort of like a really powerful sort of core nugget where if you imagine you could take anything,
+
+478
+00:28:21,180 --> 00:28:26,780
+whether it's video, audio, your emails, your LinkedIn, your Twitter, right?
+
+479
+00:28:26,820 --> 00:28:28,500
+The world of things that we care about.
+
+480
+00:28:28,860 --> 00:28:34,380
+You have an AI interface that allows you to shape it and say, look, out of these things, make me a blog post.
+
+481
+00:28:34,740 --> 00:28:37,160
+Out of these things, make me a tutorial video.
+
+482
+00:28:37,480 --> 00:28:40,140
+Out of these things, make a chatbot, right?
+
+483
+00:28:40,140 --> 00:28:47,260
+I think there's like something interesting here where for most of the things that I'm hearing people say they want to do,
+
+484
+00:28:47,520 --> 00:28:48,440
+it's usually that.
+
+485
+00:28:48,640 --> 00:28:50,440
+Like take something and make it into something new.
+
+486
+00:28:50,800 --> 00:28:52,100
+And so we're going to pursue that.
+
+487
+00:28:52,520 --> 00:28:57,800
+But even more tactically, something I'm really interested in is thinking about, hey, how do we bring this to mobile?
+
+488
+00:28:58,600 --> 00:29:02,900
+The mobile app to me is such a big gap in terms of the experience today,
+
+489
+00:29:02,900 --> 00:29:07,660
+which I think is understandable considering where we're at in the product development cycle.
+
+490
+00:29:08,220 --> 00:29:13,100
+And I think that's the next horizon is, hey, how different is the mobile experience and how can we make it interesting?
+
+491
+00:29:14,060 --> 00:29:19,660
+What I'm imagining as I talk, I participate in this podcast conversation with these hosts as a mobile experience.
+
+492
+00:29:20,280 --> 00:29:20,440
+Yeah.
+
+493
+00:29:20,560 --> 00:29:20,740
+Yeah.
+
+494
+00:29:20,740 --> 00:29:25,360
+I mean, that's one of the things that we're definitely experimenting with different formats.
+
+495
+00:29:25,360 --> 00:29:28,460
+And when we demoed it at I.O., you could interrupt it.
+
+496
+00:29:28,860 --> 00:29:33,100
+But we're trying to be really thoughtful about, hey, what does that interrupt actually look like?
+
+497
+00:29:33,120 --> 00:29:35,920
+Like what do people want when they do this?
+
+498
+00:29:36,480 --> 00:29:41,160
+And, you know, I was thinking about the next set of improvements we're going to ship.
+
+499
+00:29:41,700 --> 00:29:44,340
+And the first thing that I thought was, let's ship a bunch of knobs.
+
+500
+00:29:44,340 --> 00:29:47,860
+Like to me, it was like what I was hearing people wanted.
+
+501
+00:29:47,980 --> 00:29:50,240
+They want knobs, they want sliders, they want text boxes.
+
+502
+00:29:50,760 --> 00:29:54,300
+But then when I looked at the mocks, I was like, oh, that's great.
+
+503
+00:29:54,440 --> 00:29:56,040
+Like this doesn't feel magical.
+
+504
+00:29:56,260 --> 00:29:59,900
+It almost doesn't feel like the same thing that we've shipped so far.
+
+505
+00:30:00,420 --> 00:30:09,320
+And so for me, I'm actually taking a little bit of time to think about how do we make even that thing and control experience much more magical and delightful.
+
+506
+00:30:10,180 --> 00:30:10,540
+Interesting.
+
+507
+00:30:10,540 --> 00:30:17,360
+So, yeah, the knobs I imagine are just like go deeper, be happier, get less serious, more serious.
+
+508
+00:30:17,960 --> 00:30:19,660
+Because, yeah, because right now it's like a one shot.
+
+509
+00:30:19,780 --> 00:30:20,420
+Here's my doc.
+
+510
+00:30:20,520 --> 00:30:22,100
+Here's the one podcast episode you get.
+
+511
+00:30:22,300 --> 00:30:23,600
+It's the only version you can have.
+
+512
+00:30:24,460 --> 00:30:24,840
+Yeah, yeah.
+
+513
+00:30:24,960 --> 00:30:29,380
+And, you know, I think it's funny because I was like, you know, the knobs seemed really apparent.
+
+514
+00:30:29,520 --> 00:30:30,360
+And I was like, is that it?
+
+515
+00:30:30,580 --> 00:30:32,060
+Is that what people want?
+
+516
+00:30:32,120 --> 00:30:32,380
+I love that.
+
+517
+00:30:32,560 --> 00:30:33,440
+I love that approach.
+
+518
+00:30:33,500 --> 00:30:35,080
+I'm excited to see where you go with it.
+
+519
+00:30:35,080 --> 00:30:42,220
+And what I especially love about this vision you're describing, it super resonates with this insight I've had.
+
+520
+00:30:42,220 --> 00:30:48,540
+So I've had a newsletter and then I had just a podcast that's just audio and then I added video.
+
+521
+00:30:49,180 --> 00:30:52,460
+And I realized that there's just people that I just want to watch stuff.
+
+522
+00:30:52,900 --> 00:30:54,720
+And there's people that I just want to listen to stuff.
+
+523
+00:30:54,920 --> 00:30:56,200
+And then there's people I just want to read.
+
+524
+00:30:56,480 --> 00:30:58,100
+I don't want this podcast to shut up.
+
+525
+00:30:58,220 --> 00:30:59,180
+I want to read it.
+
+526
+00:31:00,100 --> 00:31:02,680
+And basically what you're describing is here.
+
+527
+00:31:02,760 --> 00:31:05,560
+Well, here's information and we can deliver it to you in any medium you like.
+
+528
+00:31:05,560 --> 00:31:07,080
+It could be blog posts.
+
+529
+00:31:07,200 --> 00:31:08,240
+It could be maybe a tweet.
+
+530
+00:31:08,440 --> 00:31:09,480
+It could be a podcast.
+
+531
+00:31:09,580 --> 00:31:10,220
+It could be a newsletter.
+
+532
+00:31:10,460 --> 00:31:10,960
+A blog post.
+
+533
+00:31:10,960 --> 00:31:13,460
+Yeah, I mean, that's exactly it.
+
+534
+00:31:13,500 --> 00:31:16,640
+And I think even for myself, it depends on my mood.
+
+535
+00:31:17,080 --> 00:31:19,240
+If I'm going on a walk, yeah, I want audio.
+
+536
+00:31:19,720 --> 00:31:22,420
+But if I'm at work, yeah, most of the time text is good.
+
+537
+00:31:23,020 --> 00:31:27,660
+And it's kind of interesting to think about today the formats are not as malleable.
+
+538
+00:31:27,920 --> 00:31:30,680
+I have to accept it in the format that you give it to me.
+
+539
+00:31:31,000 --> 00:31:36,960
+But if I had sort of that power myself to choose, hey, thanks for this 100-page doc.
+
+540
+00:31:37,440 --> 00:31:39,860
+I'm going to go ahead and turn it into an audio overview, actually.
+
+541
+00:31:39,860 --> 00:31:46,100
+It sort of shifts, I think, the dynamic between the person and the knowledge that's given to them.
+
+542
+00:31:46,200 --> 00:31:50,200
+And there are actually many, many times that I've been given a 100-page doc and I just didn't read it.
+
+543
+00:31:50,820 --> 00:31:53,140
+So I wonder, I mean, just frankly speaking.
+
+544
+00:31:53,420 --> 00:31:56,040
+It's one of my funny stories is actually when I first joined Labs.
+
+545
+00:31:56,880 --> 00:31:58,440
+Josh did give me a 50-page doc.
+
+546
+00:31:59,020 --> 00:32:02,000
+He was like, here's what I think about this, this, this.
+
+547
+00:32:02,040 --> 00:32:03,440
+It was like basically his vision.
+
+548
+00:32:03,440 --> 00:32:06,060
+And instead of reading it, I just grilled him.
+
+549
+00:32:06,460 --> 00:32:08,700
+I was just like Q&A-ing him like a chatbot.
+
+550
+00:32:09,280 --> 00:32:11,380
+Josh was like, it's in the doc, Ryzen.
+
+551
+00:32:11,680 --> 00:32:14,680
+But the chat is easier, Josh.
+
+552
+00:32:15,140 --> 00:32:16,080
+That's so funny.
+
+553
+00:32:16,540 --> 00:32:17,660
+You chatbotted him.
+
+554
+00:32:18,540 --> 00:32:23,220
+Let's talk a little bit more about different use cases for this, just so people potentially get inspired.
+
+555
+00:32:23,220 --> 00:32:29,600
+So it feels like the original use case was a scientific paper and it creates a podcast about it so you don't have to read this whole thing.
+
+556
+00:32:29,920 --> 00:32:31,620
+Was that one of the original use cases or not?
+
+557
+00:32:32,680 --> 00:32:35,420
+I think it's like one of the common use cases.
+
+558
+00:32:36,060 --> 00:32:43,240
+I think that's one of the ones where it's like, I think it's kind of interesting because it's like everybody wants to catch up on the latest on AI.
+
+559
+00:32:43,560 --> 00:32:46,520
+We want to try to keep up to date on sort of the published papers.
+
+560
+00:32:46,520 --> 00:32:50,280
+But most of the time, it's like reading the paper can take time.
+
+561
+00:32:50,480 --> 00:32:51,580
+It's dense, complex.
+
+562
+00:32:51,860 --> 00:32:53,340
+You have to break down the concepts in it.
+
+563
+00:32:53,820 --> 00:32:57,640
+And I think that is a highly sort of extensible use case.
+
+564
+00:32:58,200 --> 00:33:07,880
+I would say like the number one, the number one use case is actually a lot of students taking their study materials and wanting to turn it into an audio guide.
+
+565
+00:33:08,780 --> 00:33:15,120
+So two recent use cases that are hilarious slash amazing, just will point to people in the show notes, just like they came to mind as you were talking.
+
+566
+00:33:15,120 --> 00:33:20,380
+One is Andrew Karpathy, who's a leading AI thinker and big fan of what you're building.
+
+567
+00:33:20,500 --> 00:33:22,180
+He keeps tweeting about how much he loves it all.
+
+568
+00:33:22,640 --> 00:33:26,580
+He created this whole podcast series on history of mysteries.
+
+569
+00:33:26,740 --> 00:33:27,760
+I think it's called history of mysteries.
+
+570
+00:33:27,760 --> 00:33:28,060
+I'm sorry.
+
+571
+00:33:28,440 --> 00:33:30,200
+It's histories of mysteries.
+
+572
+00:33:30,980 --> 00:33:38,780
+Where he basically took like the Wikipedia stories of all these mysteries of history and then turned it into like a 10 episode podcast you could listen to on Spotify.
+
+573
+00:33:39,920 --> 00:33:40,080
+Yeah.
+
+574
+00:33:41,140 --> 00:33:41,540
+Amazing.
+
+575
+00:33:42,160 --> 00:33:42,980
+That was amazing.
+
+576
+00:33:42,980 --> 00:33:47,220
+Actually, when I saw it, I was like, wow, this is this by itself is like a great product.
+
+577
+00:33:47,920 --> 00:33:57,880
+And I think like the original potato podcast that we had created was actually I think it was because of the Wikipedia article of the day was about potatoes.
+
+578
+00:33:58,300 --> 00:33:59,920
+So there is there is something there.
+
+579
+00:34:00,000 --> 00:34:03,940
+It's like, hey, if you want to learn something new today, maybe you can just listen to it on your drive to work or something.
+
+580
+00:34:04,340 --> 00:34:04,580
+Yeah.
+
+581
+00:34:05,060 --> 00:34:05,720
+So good.
+
+582
+00:34:05,720 --> 00:34:06,140
+Okay.
+
+583
+00:34:06,140 --> 00:34:10,440
+The other one is the most funny is someone just uploaded the words poop and fart.
+
+584
+00:34:10,660 --> 00:34:12,960
+I repeated right for a long time.
+
+585
+00:34:12,960 --> 00:34:19,740
+And the host just came up with a really kind of insightful analysis of it.
+
+586
+00:34:19,740 --> 00:34:24,760
+Yeah, I actually, when I saw that one, I was about to go to bed.
+
+587
+00:34:24,760 --> 00:34:35,380
+And I was like, all right, if I listen to this now, and this is a negative one, I'm going to have to get my laptop and work because I can't I can't sleep.
+
+588
+00:34:35,480 --> 00:34:35,640
+Right.
+
+589
+00:34:35,660 --> 00:34:39,320
+If I if I feel like there's something here that's like we need to address right now.
+
+590
+00:34:39,620 --> 00:34:41,100
+Then I was like, okay, I'm just gonna do it.
+
+591
+00:34:41,100 --> 00:34:42,200
+So I listened to it.
+
+592
+00:34:42,960 --> 00:34:50,420
+And I think I listened to a lot of these, and they always make me feel some kind of way I laugh a little bit.
+
+593
+00:34:50,420 --> 00:34:53,180
+There was, there's one where it's like, they make scary voices.
+
+594
+00:34:53,440 --> 00:34:54,220
+That one was cool, too.
+
+595
+00:34:54,580 --> 00:35:02,400
+But this one, this one was one of the ones where I genuinely was just really delighted at the output, because it was so delightful.
+
+596
+00:35:02,400 --> 00:35:12,640
+I don't know if you listen to the whole thing, but there's a segment where one of the speakers says, hey, it's kind of like, you know, you lean into the bazaar or something.
+
+597
+00:35:13,100 --> 00:35:19,400
+And he and they're describing walking past a shop that was full of rubber ducks wearing costumes.
+
+598
+00:35:20,080 --> 00:35:23,700
+And they're like, oh, yeah, it's, you know, it's silly, but you just want to lean into it.
+
+599
+00:35:23,740 --> 00:35:29,000
+So I walked into the store and I was like, oh, it's a great analogy, actually, for sort of a document that just says poop and fart.
+
+600
+00:35:29,140 --> 00:35:30,860
+Like, there's something interesting here.
+
+601
+00:35:30,860 --> 00:35:32,680
+It's so good.
+
+602
+00:35:32,780 --> 00:35:35,640
+And just they like their analysis of structure and patterns.
+
+603
+00:35:36,000 --> 00:35:40,940
+And like, I love that they have to come up with a 10 minute conversation around anything you give them.
+
+604
+00:35:41,060 --> 00:35:42,200
+Like, it feels a little mean.
+
+605
+00:35:42,820 --> 00:35:44,820
+Yeah, yeah, it's true.
+
+606
+00:35:44,960 --> 00:35:47,600
+I don't know if you've seen the chicken one, but it's pretty similar.
+
+607
+00:35:48,320 --> 00:35:50,320
+Somebody uploaded, I think it's on threads.
+
+608
+00:35:51,460 --> 00:35:56,520
+It's a PDF that looks a lot like a research paper, but it just says chicken.
+
+609
+00:35:57,100 --> 00:35:57,960
+World document says chicken.
+
+610
+00:35:58,120 --> 00:35:59,120
+I would give it a listen.
+
+611
+00:35:59,120 --> 00:36:01,980
+And there's a funny segment where they're like, get this.
+
+612
+00:36:02,440 --> 00:36:07,320
+It's a paper, a research paper that has more chicken in it than KFC.
+
+613
+00:36:08,280 --> 00:36:09,400
+Oh, it's good.
+
+614
+00:36:09,540 --> 00:36:10,000
+It's good.
+
+615
+00:36:10,200 --> 00:36:10,780
+It's so good.
+
+616
+00:36:11,100 --> 00:36:11,780
+Oh, my God.
+
+617
+00:36:12,480 --> 00:36:12,800
+Okay.
+
+618
+00:36:12,940 --> 00:36:14,280
+I could keep going about this all day.
+
+619
+00:36:14,340 --> 00:36:17,880
+But let's let me let me come back to the team that's working on this.
+
+620
+00:36:17,980 --> 00:36:19,940
+And let's talk about Stephen Johnson's role.
+
+621
+00:36:19,940 --> 00:36:22,040
+So he's basically your peer.
+
+622
+00:36:22,300 --> 00:36:24,780
+You two essentially lead this with the engineer, I imagine.
+
+623
+00:36:24,900 --> 00:36:25,980
+Just like, what's his role?
+
+624
+00:36:26,180 --> 00:36:27,280
+How does this work at this point?
+
+625
+00:36:27,380 --> 00:36:28,140
+What does the team look like?
+
+626
+00:36:28,140 --> 00:36:30,560
+It's so funny.
+
+627
+00:36:30,740 --> 00:36:32,640
+I'm so fond of Stephen.
+
+628
+00:36:32,640 --> 00:36:40,580
+And I tease him a lot that whenever people ping me and they want to have a meeting and I don't want to go to the meeting.
+
+629
+00:36:40,800 --> 00:36:41,620
+I say, oh, I'm not the PM.
+
+630
+00:36:41,700 --> 00:36:42,300
+It's Stephen Johnson.
+
+631
+00:36:43,300 --> 00:36:44,420
+You want to talk to that guy?
+
+632
+00:36:44,420 --> 00:36:48,000
+And he was like, so that's why all these people have been picking me.
+
+633
+00:36:48,620 --> 00:36:52,240
+But, you know, kidding aside, Stephen, Stephen joined.
+
+634
+00:36:52,840 --> 00:36:54,540
+I was like, well, this is super interesting.
+
+635
+00:36:54,640 --> 00:36:55,960
+This has never happened to me before.
+
+636
+00:36:56,460 --> 00:37:00,880
+There's this very accomplished, distinguished person that I really respect.
+
+637
+00:37:01,360 --> 00:37:02,060
+Love his books.
+
+638
+00:37:02,180 --> 00:37:02,800
+Love his writing.
+
+639
+00:37:03,560 --> 00:37:09,440
+And now he's going to come work with me in a capacity where I was like, I'm just not sure what he's going to do here.
+
+640
+00:37:09,440 --> 00:37:20,560
+But the thing about Stephen is he is the most curious, most respectful and really just full of ideas kind of person.
+
+641
+00:37:21,540 --> 00:37:27,720
+And so when Stephen joined, a lot of what was really interesting to me is I would watch how he worked.
+
+642
+00:37:28,080 --> 00:37:34,420
+The way that he thought about language, the way that he thought about information, the way that he thinks about knowledge and sharing that with others.
+
+643
+00:37:34,740 --> 00:37:36,500
+Because Stephen's books are like really incredible.
+
+644
+00:37:36,500 --> 00:37:40,100
+It's like part mystery, super science, right?
+
+645
+00:37:40,140 --> 00:37:41,340
+It's just very cool.
+
+646
+00:37:41,940 --> 00:37:45,560
+And I was watching the way that he works and, you know, he does all of this research.
+
+647
+00:37:45,900 --> 00:37:49,120
+And I thought maybe this is this is the nugget, right?
+
+648
+00:37:49,120 --> 00:37:56,960
+Maybe I watch Stephen and I look at the way that he does these things and I look at how much time it takes for him to do it.
+
+649
+00:37:57,280 --> 00:38:01,520
+And then I make it my own metric to crunch that down, right?
+
+650
+00:38:01,520 --> 00:38:06,140
+To bring that expertise to everyday people who are not Stephen Johnson.
+
+651
+00:38:07,320 --> 00:38:17,360
+And so I learned a lot just from watching Stephen of like his craft and thinking about, OK, how do I make people really, really good at de-densifying information?
+
+652
+00:38:17,600 --> 00:38:19,500
+Is that something we all do every day, right?
+
+653
+00:38:19,500 --> 00:38:22,000
+In our own little ways, maybe not in like a Stephen Johnson way.
+
+654
+00:38:22,720 --> 00:38:24,840
+But from the get go, I told him this.
+
+655
+00:38:24,860 --> 00:38:26,560
+I was like, Stephen, I think you're the product.
+
+656
+00:38:27,260 --> 00:38:28,200
+I think it's you.
+
+657
+00:38:28,620 --> 00:38:29,780
+And I'm going to follow you around.
+
+658
+00:38:29,840 --> 00:38:31,020
+I'm going to watch everything that you do.
+
+659
+00:38:31,020 --> 00:38:34,280
+And we're going to try to figure out how we use technology to build it.
+
+660
+00:38:35,200 --> 00:38:36,960
+And he always laughs about this.
+
+661
+00:38:37,320 --> 00:38:45,760
+And it's really funny because he does have some very interesting workflows that I'm like, I do not see any person ever doing anything like this.
+
+662
+00:38:45,980 --> 00:38:49,900
+Like he always talks about his read wise with like his 8000 quotes or something.
+
+663
+00:38:50,000 --> 00:38:51,000
+I'm like, that's extreme.
+
+664
+00:38:51,180 --> 00:38:51,880
+That's crazy.
+
+665
+00:38:51,880 --> 00:38:56,520
+And, you know, I have like Post-its that like sometimes they're crumpled in my pocket.
+
+666
+00:38:56,660 --> 00:38:58,720
+Like this is like the average normie flow.
+
+667
+00:38:59,560 --> 00:39:03,820
+And what I learned from Stephen is like, hey, there's something powerful about doing that, right?
+
+668
+00:39:03,840 --> 00:39:09,040
+Like thinking about this person who has like a super flow and trying to bring that bring that to people.
+
+669
+00:39:09,160 --> 00:39:13,520
+And so Stephen is also just like such a great partner with ideas.
+
+670
+00:39:13,820 --> 00:39:17,260
+Like I always tell him ideas and I'm like, hey, crazy idea of the day.
+
+671
+00:39:17,740 --> 00:39:20,460
+And he'll just banter with you and he'll be like, well, what about this?
+
+672
+00:39:20,520 --> 00:39:21,460
+How can people do this?
+
+673
+00:39:21,460 --> 00:39:24,820
+And so it feels it feels really incredible to have him on the team.
+
+674
+00:39:25,560 --> 00:39:33,840
+Is there any lessons here for how you think you'll want to build product in the future or how teams might find their own Stephen for building their own product?
+
+675
+00:39:33,900 --> 00:39:35,460
+Or is this kind of a unique case, you think?
+
+676
+00:39:36,480 --> 00:39:46,780
+I mean, I think it is just crazy to think that you could sort of invite, you know, someone like Stephen and become part of your team and have him sit with you every day and have him answer your questions about how he does things.
+
+677
+00:39:46,780 --> 00:39:47,040
+Right.
+
+678
+00:39:47,040 --> 00:40:02,680
+But I'll say that the broader lesson there for me, it's like something we've tried to live by every day is really the how do you get, you know, users or people and like really sit with them for meaningful periods of time?
+
+679
+00:40:02,680 --> 00:40:08,720
+Because I think that has been so crucial for me, not even just for Stephen, but even with students.
+
+680
+00:40:08,720 --> 00:40:14,680
+Just follow students around, watch them do homework, watch them study, talk to them about how they feel when they study.
+
+681
+00:40:15,240 --> 00:40:24,460
+I think just being able to do that at a really regular and sort of intentional capacity makes a huge difference in terms of like the product insights you'll come up with.
+
+682
+00:40:24,460 --> 00:40:30,140
+Can you just give like a brief bio of Stephen for folks that are like, who are you even talking about?
+
+683
+00:40:30,600 --> 00:40:35,780
+I probably should have done that before I asked this question, but just like what's like the TLDR of who Stephen Johnson is?
+
+684
+00:40:36,420 --> 00:40:36,800
+Yes.
+
+685
+00:40:36,980 --> 00:40:38,900
+Oh, I think Stephen is.
+
+686
+00:40:39,980 --> 00:40:44,600
+Aside from one of the smartest people you'll ever meet, he has written 14 books.
+
+687
+00:40:44,740 --> 00:40:47,160
+He's a New York Times bestselling author and speaker.
+
+688
+00:40:47,500 --> 00:40:49,420
+He has a show on PBS.
+
+689
+00:40:49,860 --> 00:40:53,200
+I can't remember what it's called, but it's on YouTube is like really incredible.
+
+690
+00:40:53,200 --> 00:40:55,600
+And he is a journalist.
+
+691
+00:40:56,000 --> 00:41:04,520
+Actually, funny story about Stephen is when I was about to join labs, I really wanted to join labs because I wanted to join Josh in whatever he was building.
+
+692
+00:41:05,160 --> 00:41:10,200
+Josh told me, hey, you know, to give you an idea of what we're doing here, he sent me a couple of things to read.
+
+693
+00:41:10,840 --> 00:41:18,820
+And one of them actually ended up being Stephen's article that he wrote, the one about how AI is mastering language.
+
+694
+00:41:18,940 --> 00:41:19,820
+Should we trust what it says?
+
+695
+00:41:19,900 --> 00:41:20,780
+The New York Times piece.
+
+696
+00:41:20,780 --> 00:41:25,100
+And I remember reading it and being like, yes, this is the thing.
+
+697
+00:41:25,500 --> 00:41:26,500
+I'm going to work on it.
+
+698
+00:41:26,860 --> 00:41:32,220
+And so before Stephen had even joined, this was actually the piece that I was like, I want to go do that.
+
+699
+00:41:32,260 --> 00:41:33,280
+I'm going to go do that in labs.
+
+700
+00:41:33,540 --> 00:41:36,140
+And then he ended up joining and it was just the craziest thing.
+
+701
+00:41:36,140 --> 00:41:37,520
+That's so interesting.
+
+702
+00:41:38,120 --> 00:41:43,560
+I imagine many PMs would be like, I don't need someone else on my team that isn't building or coding or product managing or designing.
+
+703
+00:41:43,920 --> 00:41:45,280
+Just this other chef in my kitchen.
+
+704
+00:41:45,440 --> 00:41:45,840
+Like, no.
+
+705
+00:41:46,400 --> 00:41:48,280
+And I love this actually worked out really well.
+
+706
+00:41:48,400 --> 00:41:52,680
+Like, it feels like he's a perfect combination of very smart, future thinking, insightful.
+
+707
+00:41:52,680 --> 00:41:56,880
+Plus, he's almost a model for what you want people to be able to work like.
+
+708
+00:41:56,880 --> 00:41:57,320
+Yes.
+
+709
+00:41:58,200 --> 00:42:03,820
+Although I will say, like, to be very fair, I mean, Stephen and I also disagree on a lot of different things.
+
+710
+00:42:04,260 --> 00:42:05,560
+We've clashed a bunch.
+
+711
+00:42:06,020 --> 00:42:14,940
+And I think this is where I feel really grateful to have had the opportunity to work with him and to really grow with him in that way.
+
+712
+00:42:14,940 --> 00:42:16,580
+And I used to make fun of him.
+
+713
+00:42:16,640 --> 00:42:18,940
+I was like, have you ever had a coworker before, Stephen?
+
+714
+00:42:19,180 --> 00:42:20,980
+Because I think you've been an author forever.
+
+715
+00:42:22,260 --> 00:42:31,300
+And it's really funny because he's so down to earth and he's so humble that even with our disagreements, we always reach.
+
+716
+00:42:31,640 --> 00:42:32,900
+At the end, we're always aligned.
+
+717
+00:42:33,440 --> 00:42:33,560
+Right.
+
+718
+00:42:33,640 --> 00:42:37,320
+Even if we don't agree about something, we're aligned on the next step.
+
+719
+00:42:37,320 --> 00:42:46,900
+And that's really powerful, I think, particularly for product professionals, right, for PMs, where it's like, I don't want to disagree at the end and then not have an outcome on top.
+
+720
+00:42:47,180 --> 00:42:47,920
+I love that.
+
+721
+00:42:48,680 --> 00:42:48,940
+Okay.
+
+722
+00:42:49,120 --> 00:42:50,320
+I have just a few more questions.
+
+723
+00:42:50,540 --> 00:42:52,320
+I know you have to get back to work to building this thing.
+
+724
+00:42:53,560 --> 00:43:05,400
+One is there is this hilarious moment where the hosts basically realize they're like, we are AI people and I'm scared what's happening.
+
+725
+00:43:05,400 --> 00:43:07,480
+I tried to call my wife and she didn't answer.
+
+726
+00:43:08,520 --> 00:43:09,760
+Talk about that.
+
+727
+00:43:10,020 --> 00:43:13,040
+And I want to extend to just like red teaming this thing.
+
+728
+00:43:13,120 --> 00:43:21,040
+How do you like red team this thing and make sure it's not doing things that are bad for the world, bad for Google, bad for the product?
+
+729
+00:43:21,840 --> 00:43:22,020
+Yeah.
+
+730
+00:43:22,260 --> 00:43:22,460
+Yeah.
+
+731
+00:43:22,560 --> 00:43:23,820
+It's such a good question.
+
+732
+00:43:23,940 --> 00:43:27,180
+I think I heard that it was over the weekend.
+
+733
+00:43:27,280 --> 00:43:28,860
+I think it was on a Saturday or Sunday.
+
+734
+00:43:29,760 --> 00:43:32,220
+And I remember hearing it and thinking, oh, my goodness.
+
+735
+00:43:32,220 --> 00:43:39,060
+You know, this is actually one of those moments where you feel like we're at a fork in the road.
+
+736
+00:43:40,240 --> 00:43:42,500
+And I hadn't read any of the comments.
+
+737
+00:43:42,580 --> 00:43:43,380
+I just heard the audio.
+
+738
+00:43:43,500 --> 00:43:46,580
+I think I saw it on Reddit first and then I saw it blowing up on Twitter.
+
+739
+00:43:47,300 --> 00:43:53,100
+And I remember thinking, what is the attitude of like the world now?
+
+740
+00:43:53,320 --> 00:43:54,960
+How do we feel about this type of audio?
+
+741
+00:43:55,040 --> 00:43:56,560
+It was really the first thing that I thought.
+
+742
+00:43:56,560 --> 00:44:01,560
+And so I actually spent most of that morning reading the comments, reading on Twitter.
+
+743
+00:44:02,100 --> 00:44:05,360
+I was thinking about, you know, what is what is the right thing to do?
+
+744
+00:44:05,480 --> 00:44:05,600
+Right.
+
+745
+00:44:05,620 --> 00:44:06,960
+Like, should we say something?
+
+746
+00:44:07,060 --> 00:44:08,060
+Should we not say something?
+
+747
+00:44:08,920 --> 00:44:09,360
+And.
+
+748
+00:44:10,640 --> 00:44:20,760
+I basically just went with what I thought was the right thing to do, which is I think people are getting to experience this technology for the first time ever.
+
+749
+00:44:20,760 --> 00:44:26,400
+And of course, they're going to try to do things that are maybe something that we didn't think about.
+
+750
+00:44:26,460 --> 00:44:28,540
+We didn't think they would do or we didn't think that they could do.
+
+751
+00:44:28,600 --> 00:44:28,720
+Right.
+
+752
+00:44:28,760 --> 00:44:30,100
+With like the jailbreaks and stuff.
+
+753
+00:44:30,600 --> 00:44:34,360
+But I think that's such a natural part of human curiosity.
+
+754
+00:44:35,080 --> 00:44:38,480
+And I think like there was a moment where it's like, oh, do we like pull this back?
+
+755
+00:44:39,000 --> 00:44:39,360
+Right.
+
+756
+00:44:39,460 --> 00:44:41,640
+Because this is like, oh, is this like a safe thing?
+
+757
+00:44:41,640 --> 00:44:48,200
+But because the response, I think, was that people were like, oh, it's saying that because of the sources like this is no like.
+
+758
+00:44:49,320 --> 00:44:56,120
+AI realized they were alive or something, it's actually that it was in the show notes, they were supposed to act this out.
+
+759
+00:44:56,700 --> 00:45:00,860
+And so I felt really much more confident that like, oh, people get it right.
+
+760
+00:45:01,000 --> 00:45:02,340
+That's exactly what this is.
+
+761
+00:45:02,380 --> 00:45:05,280
+Somebody uploaded some notes and said, hey, is the end of the show.
+
+762
+00:45:05,380 --> 00:45:08,180
+So, you know, make sure that you you act accordingly.
+
+763
+00:45:08,180 --> 00:45:17,960
+And that for me was enough for me to be able to say, like, OK, I'm going to address this publicly and say something on Twitter and make sure that people know that like, hey, I've seen it and I get it.
+
+764
+00:45:18,020 --> 00:45:19,360
+Like, this is like what people do with it.
+
+765
+00:45:19,720 --> 00:45:26,300
+In terms of red teaming at Google, though, what I will say is we have, you know, this is one of the things that we care about the most.
+
+766
+00:45:26,680 --> 00:45:29,000
+We have huge teams that work on red teaming it.
+
+767
+00:45:29,560 --> 00:45:36,280
+We test for about as many areas as you can think of that we imagine we need to do in order to make it safe.
+
+768
+00:45:36,280 --> 00:45:44,780
+And I think certainly I think we'll run into situations where, OK, we didn't think about that or like we haven't tested that to the fullest extent.
+
+769
+00:45:45,060 --> 00:45:46,540
+And we just add it to the test cases.
+
+770
+00:45:47,640 --> 00:45:53,640
+I think if there was ever like a scenario where we're like, oh, this feels pretty unsafe, we would pull it back.
+
+771
+00:45:54,200 --> 00:45:57,460
+But I think hopefully, you know, we've built it in such a way where we don't have to do it.
+
+772
+00:45:58,200 --> 00:45:58,500
+Awesome. Yeah.
+
+773
+00:45:58,500 --> 00:46:06,300
+I love like people are just looking for ways to make it do stuff that is feels wrong when it's just like, hey, we're just summarizing a thing for you in a really delightful way.
+
+774
+00:46:07,160 --> 00:46:07,900
+Where do things go from here?
+
+775
+00:46:07,960 --> 00:46:08,880
+We talked about it a bit.
+
+776
+00:46:08,980 --> 00:46:11,400
+You're going to maybe sounds like maybe there's a mobile app in the works.
+
+777
+00:46:11,560 --> 00:46:19,340
+There's maybe non knobby knobs that you're working on to give people more power for folks that are just excited about using this.
+
+778
+00:46:20,040 --> 00:46:21,120
+Where where's it going?
+
+779
+00:46:21,120 --> 00:46:23,260
+And who are you aiming to build for?
+
+780
+00:46:23,440 --> 00:46:25,260
+Just what should people know about the future of a book?
+
+781
+00:46:25,320 --> 00:46:32,100
+If there's like one thing I could say is that we are continuing to learn from users every day.
+
+782
+00:46:32,300 --> 00:46:33,620
+So please keep using it.
+
+783
+00:46:33,720 --> 00:46:37,000
+Please keep sharing your feedback, whether it's on X or on Discord.
+
+784
+00:46:37,400 --> 00:46:38,820
+Like I'm there every day.
+
+785
+00:46:39,380 --> 00:46:42,860
+Even if I don't respond, I've read everything.
+
+786
+00:46:42,860 --> 00:46:48,100
+And I say this in the most non creepy way possible.
+
+787
+00:46:48,540 --> 00:46:55,420
+But I say this because we are just very passionate about trying to build the right thing, you know, the best thing for everybody.
+
+788
+00:46:55,860 --> 00:46:58,660
+Kind of going back to sort of, hey, who are you building for?
+
+789
+00:46:59,180 --> 00:47:06,240
+I think that there's a lot of fun use cases, but there's a lot of actually very useful sort of game changing workflows in here.
+
+790
+00:47:06,240 --> 00:47:11,440
+And so we'll continue to build in that direction, I think, particularly for educators, for learners, for professionals, right?
+
+791
+00:47:11,500 --> 00:47:13,020
+Knowledge workers, as we call them.
+
+792
+00:47:13,440 --> 00:47:17,240
+I think there's a lot there that we'll be able to execute against in the very short term.
+
+793
+00:47:18,020 --> 00:47:18,060
+Amazing.
+
+794
+00:47:18,580 --> 00:47:19,480
+OK, two final questions.
+
+795
+00:47:19,540 --> 00:47:23,960
+If folks want to give you feedback, reach out, what's the best way to do that?
+
+796
+00:47:24,000 --> 00:47:24,640
+Is it DM you?
+
+797
+00:47:24,800 --> 00:47:25,580
+Is it is there an email?
+
+798
+00:47:25,780 --> 00:47:26,340
+Something else?
+
+799
+00:47:27,380 --> 00:47:28,640
+Yeah, I mean, Discord.
+
+800
+00:47:28,980 --> 00:47:29,520
+Join our Discord.
+
+801
+00:47:29,760 --> 00:47:30,640
+Time in.
+
+802
+00:47:30,720 --> 00:47:31,260
+Yeah, we're there.
+
+803
+00:47:31,340 --> 00:47:33,920
+You can ask me or yeah, X also.
+
+804
+00:47:34,220 --> 00:47:34,620
+It's pretty good.
+
+805
+00:47:34,620 --> 00:47:38,220
+I just I just came back to it and kind of feel like I don't really know how it works now.
+
+806
+00:47:38,300 --> 00:47:39,900
+So just a warning in case you DM me.
+
+807
+00:47:40,460 --> 00:47:41,840
+I might just not know how it works.
+
+808
+00:47:42,720 --> 00:47:44,060
+On Twitter, you mean specifically?
+
+809
+00:47:44,300 --> 00:47:44,840
+On Twitter, on Twitter.
+
+810
+00:47:45,100 --> 00:47:45,360
+Exactly.
+
+811
+00:47:46,120 --> 00:47:48,520
+And then final question, how can listeners be useful to you?
+
+812
+00:47:49,560 --> 00:47:50,720
+I mean, please keep trying it.
+
+813
+00:47:50,840 --> 00:47:51,280
+Try it.
+
+814
+00:47:51,380 --> 00:47:52,060
+Share your feedback.
+
+815
+00:47:52,360 --> 00:47:54,760
+Whether you find it useful, not useful, you think it's annoying.
+
+816
+00:47:55,060 --> 00:47:55,420
+Tell me.
+
+817
+00:47:55,820 --> 00:47:59,320
+These are the things that I've heard, you know, for the last year that's helped me to make it better.
+
+818
+00:47:59,940 --> 00:48:02,120
+And so if you're inclined, please go ahead.
+
+819
+00:48:02,120 --> 00:48:02,600
+Try it.
+
+820
+00:48:02,980 --> 00:48:04,540
+Notebooklm.google.com.
+
+821
+00:48:05,000 --> 00:48:08,080
+You're building an amazing product that is extremely delightful.
+
+822
+00:48:08,260 --> 00:48:12,020
+It's one of the most interesting things on the Internet today, which is a very high bar.
+
+823
+00:48:12,440 --> 00:48:13,260
+And you've done it.
+
+824
+00:48:13,500 --> 00:48:14,880
+And I'm really excited to see where it goes.
+
+825
+00:48:14,960 --> 00:48:15,900
+I'm going to keep playing with it.
+
+826
+00:48:15,960 --> 00:48:18,080
+I've been using it for my newsletter in a really fun way.
+
+827
+00:48:18,860 --> 00:48:21,440
+And so great work and keep it up.
+
+828
+00:48:21,560 --> 00:48:22,720
+And we'll see where things go.
+
+829
+00:48:22,800 --> 00:48:23,960
+Thanks for thanks for coming on.
+
+830
+00:48:24,020 --> 00:48:24,960
+I know you have a lot of work to do.
+
+831
+00:48:25,540 --> 00:48:26,140
+Oh, that's amazing.
+
+832
+00:48:26,240 --> 00:48:26,680
+Thank you, Lenny.
+
+833
+00:48:26,760 --> 00:48:27,620
+Thanks for having me.
+
+834
+00:48:27,820 --> 00:48:30,480
+And, you know, thanks so much for your curiosity about it.
+
+835
+00:48:30,480 --> 00:48:32,000
+Stay curious.
+
+836
+00:48:32,540 --> 00:48:33,100
+Bye, everyone.
+
+837
+00:48:34,620 --> 00:48:36,620
+Thank you so much for listening.
+
+838
+00:48:36,940 --> 00:48:42,720
+If you found this valuable, you can subscribe to the show on Apple Podcasts, Spotify, or your favorite podcast app.
+
+839
+00:48:43,280 --> 00:48:49,080
+Also, please consider giving us a rating or leaving a review, as that really helps other listeners find the podcast.
+
+840
+00:48:49,560 --> 00:48:54,020
+You can find all past episodes or learn more about the show at lennyspodcast.com.
+
+841
+00:48:54,020 --> 00:48:56,240
+See you in the next episode.
+
