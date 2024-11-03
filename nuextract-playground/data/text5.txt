@@ -1,0 +1,15 @@
+Work Experience:
+
+Full Stack Developer
+WebWizards Inc., Othertown, USA
+August 2016 - May 2019
+Developed and maintained responsive web applications using React.js and Node.js
+Collaborated with UX designers to implement user-friendly interfaces, increasing user engagement by 25%
+Optimized database queries, reducing load times by 40%
+
+Junior Software Developer
+StartUp Innovations, Smallville, USA
+July 2015 - July 2016
+Assisted in the development of a mobile app for local business directory using React Native
+Implemented RESTful APIs to integrate third-party services
+Participated in daily stand-ups and sprint planning meetings
