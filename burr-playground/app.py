@@ -73,40 +73,38 @@ application = (
   .build()
 )
 
-viz = application.visualize("./graph", format="png")
-print(viz)
-print(viz.subgraph())
+# viz = application.visualize("./graph", format="png")
+# print(viz)
+# print(viz.subgraph())
 
-# description = """
-# Llama 3.2-vision is a multimodal large language model by Meta, 
-# and it's finally available on Ollama! 
-# We're going to see how well it performs on a few different tasks: 
-# extracting code from an image, reading my terrible handwriting, 
-# and critiquing one of my YouTube thumbnails.
-# """
+description = """
+This video is an introduction to burr, a state machine for your LLM applications. 
+We're gonna use to help us come up with titles for my last YouTube videos. 
+We'll learn how state works, how to create transitions, and how to put a human in the loop.
+"""
 
-# inputs = {"description": description}
-# while True:
-#   action, result, state = application.run(
-#     halt_before=["select_favourites"],
-#     halt_after=["final_result"],
-#     inputs=inputs,
-#   )
+inputs = {"description": description}
+while True:
+  action, result, state = application.run(
+    halt_before=["select_favourites"],
+    halt_after=["final_result"],
+    inputs=inputs,
+  )
 
-#   if action.name == "select_favourites":
-#     c.print("Which ones do you like (if any)?", style="yellow")
-#     for index, title in enumerate(state["post"].titles):
-#       c.print(f"{index}: {title}")
+  if action.name == "select_favourites":
+    c.print("Which ones do you like (if any)?", style="yellow")
+    for index, title in enumerate(state["post"].titles):
+      c.print(f"{index}: {title}")
 
-#     favourites = c.input("""
-#     [yellow]Enter numbers of ones you like. Empty to stop.\n[/]
-#     """.strip())
-#     inputs = {
-#       "favourites": ([] if favourites == "" else re.split(",[ ]*", favourites))
-#     }
+    favourites = c.input("""
+    [yellow]Enter numbers of ones you like. Empty to stop.\n[/]
+    """.strip())
+    inputs = {
+      "favourites": ([] if favourites == "" else re.split(",[ ]*", favourites))
+    }
 
-#   if action.name == "final_result":
-#     c.print("Here are all the ones you liked:")
-#     for item in state["final_result"]:
-#       c.print(item, style="green")
-#     break
+  if action.name == "final_result":
+    c.print("Here are all the ones you liked:")
+    for item in state["final_result"]:
+      c.print(item, style="green")
+    break
