@@ -1,0 +1,33 @@
+MongoDB (MDB) late Monday posted earnings well above expectations for its fiscal third quarter, helped by a 22% jump in revenue. But MongoDB stock sold off Tuesday, as investors dug into the results against a strong recent rally and news the company's chief financial officer is departing.
+
+MongoDB said in a news release that it earned an adjusted $1.16 per share on sales of $529.4 million for the October-ended quarter. Analysts polled by FactSet projected the New York-based company would post adjusted earnings of 67 cents per share on sales of $498 million. MongoDB's year-over-year sales growth accelerated, compared to the previous quarter, for the first time since the company's July 2023 quarter.
+
+For the current quarter, MongoDB guided for sales of $517 million at the midpoint of its range. Analysts were projecting $509 million in sales for the January-ending quarter prior to MongoDB's results, according to FactSet.
+
+"We continue to see success winning new business due to the superiority of MongoDB's developer data platform in addressing a wide variety of mission-critical use cases," MongoDB Chief Executive Dev Ittycheria said in a news release.
+
+He added that the company is investing in "our legacy app modernization and AI offerings as our document model and distributed architecture are exceptionally well suited for customers looking to build highly-performant, modern applications."
+
+On the stock market today, MongoDB stock fell 17% to close at 290.90. Shares gained as much as 10% immediately following the report before reversing lower.
+
+Why MongoDB Stock Fell
+
+Analysts pinned the quick change in investor sentiment late Monday on a few different factors.
+
+"Despite the strong results, MongoDB shares are trading off slightly after-market, which we suspect is due to the large run-up in the stock over the past few weeks (following the Snowflake results), along with the departure of long-time CFO Michael Gordon," wrote William Blair analyst Jason Ader. Ader rates MongoDB stock outperform.
+
+While MongoDB stock was down 13% overall on the year coming into the report, shares had rallied more than 20% in the past 30 days following strong earnings reports from industry peers such as Snowflake (SNOW) and Elastic (ESTC). 
+
+Meanwhile, Gordon has been with MongoDB since 2015 and served as both chief financial officer and chief operating officer. The company said in its earnings release that he will step down on Jan. 31 and serve as an advisor during a transition process. Serge Tanjga, MongoDB's senior VP of Finance, will serve as interim CFO starting Feb. 1 if a successor is not found by that date, the company said.
+
+Further, Barclays analyst Raimo Lenschow noted that the company's revenue beat was powered by big deals for MongoDB's Enterprise Advanced offering, rather than the cloud subscription Atlas offering that is closely watched by investors. Atlas revenue beat estimates by a smaller margin.
+
+"The better Q3 (6% revenue beat) should help shares in the short term, but will not get the stock fully back on track, as the upside was achieved in EA and Other Revenue, which are more volatile areas," Lenschow wrote.
+
+MongoDB Stock: Technical Ratings
+Coming into the report, MongoDB stock had an IBD Composite Rating of 64 out of 99, according to IBD Stock Checkup. The score combines five separate proprietary ratings into one rating. The best growth stocks have a Composite Rating of 90 or better.
+
+Further, MongoDB's IBD Relative Strength Rating was 68 out of 99. The RS Rating means that MongoDB has outperformed roughly two-thirds of all stocks in IBD's database over the past year.
+
+MongoDB stock broke out above a 297.68 cup-with-handle buy point on Nov. 13 and was pushing above a profit zone with recent gains coming into the report, according to IBD MarketSurge.
+
