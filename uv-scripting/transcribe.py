@@ -1,3 +1,13 @@
+#!/usr/bin/env -S uv run --script
+
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#   "mlx_whisper",
+# ]
+# ///
+
+
 import sys
 import argparse
 from mlx_whisper.cli import main, build_parser
